@@ -1,0 +1,98 @@
+{
+  "prepared_sentiment": 0.92,
+  "qa_sentiment": 0.78,
+  "management_confidence": 0.95,
+  "qa_defensiveness": 0.12,
+  "wins": [
+    {
+      "text": "Q1 total revenue hit a record $19.3B, up 29% YoY, exceeding guidance driven by better-than-expected AI semiconductor growth",
+      "category": "revenue"
+    },
+    {
+      "text": "AI semiconductor revenue grew 106% YoY to $8.4B in Q1, well above outlook; Q2 guided to $10.7B, up ~140% YoY",
+      "category": "growth"
+    },
+    {
+      "text": "Q1 adjusted EBITDA reached a record $13.1B (68% of revenue), above guidance of 67%, with semiconductor operating margin up 260 bps YoY to 60%",
+      "category": "margins"
+    },
+    {
+      "text": "Returned $10.9B to shareholders in Q1 via $7.8B in buybacks (~23M shares) and $3.1B in dividends; Board authorized additional $10B repurchase program through end of CY2026",
+      "category": "buybacks"
+    },
+    {
+      "text": "Announced sixth XPU customer (OpenAI) deploying first-gen XPU in 2027 at over 1 gigawatt; line of sight to AI chip revenue in excess of $100B in 2027 with supply chain secured through 2028",
+      "category": "customer"
+    }
+  ],
+  "risks": [
+    {
+      "text": "Non-GAAP tax rate for Q2 FY2026 guided to ~16.5%, up from FY25 levels, due to global minimum tax and geographic income mix shift \u2014 a headwind to EPS",
+      "category": "margins"
+    },
+    {
+      "text": "Infrastructure Software revenue grew only 1% YoY in Q1, reflecting slower near-term growth as VMware transition matures; Q2 guided to 9% YoY, still well below semiconductor growth rates",
+      "category": "demand"
+    },
+    {
+      "text": "Inventory days on hand rose to 68 days in Q1 from 58 days in Q4 as Broadcom pre-builds to secure AI supply \u2014 execution risk if demand timing shifts",
+      "category": "supply_chain"
+    },
+    {
+      "text": "Concentration risk: AI revenue is heavily dependent on just 6 hyperscaler/LLM customers, each of whom is also investing in internal COT (customer-owned tooling) chip programs",
+      "category": "customer_concentration"
+    },
+    {
+      "text": "Constrained leading-edge wafer, HBM, and substrate capacity across the industry creates supply chain risk, though Broadcom claims to have secured capacity through 2028",
+      "category": "supply_chain"
+    }
+  ],
+  "guidance": "raised",
+  "guidance_items": [
+    {
+      "line_item": "revenue",
+      "direction": "raised",
+      "detail": "Q2 FY2026 consolidated revenue guided to ~$22B, up 47% YoY \u2014 a sharp acceleration from Q1's 29% YoY growth"
+    },
+    {
+      "line_item": "segment",
+      "direction": "raised",
+      "detail": "Q2 semiconductor revenue guided to ~$14.8B, up 76% YoY; AI semiconductor specifically guided to $10.7B, up ~140% YoY"
+    },
+    {
+      "line_item": "segment",
+      "direction": "raised",
+      "detail": "Q2 Infrastructure Software revenue guided to ~$7.2B, up 9% YoY vs. 1% YoY in Q1"
+    },
+    {
+      "line_item": "margins",
+      "direction": "reaffirmed",
+      "detail": "Q2 consolidated gross margin expected flat sequentially at 77%; adjusted EBITDA guided to ~68% of revenue"
+    },
+    {
+      "line_item": "other",
+      "direction": "raised",
+      "detail": "Management provided 2027 AI chip revenue visibility 'in excess of $100B', with ~10 gigawatts of XPU shipments anticipated across 6 customers"
+    }
+  ],
+  "themes": [
+    "ai",
+    "data_center",
+    "product_launch",
+    "customer_wins",
+    "supply_chain",
+    "buybacks",
+    "margin_expansion",
+    "enterprise_demand"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Gross margin dilution risk from rack-level system shipments (vs. chip-only sales)",
+    "Customer-owned tooling (COT) competitive threat from hyperscalers building in-house XPUs",
+    "Disaggregation of prefill/decode workloads and its impact on GPU vs. custom silicon demand mix"
+  ],
+  "_ticker": "AVGO",
+  "_quarter": "Q1-2026",
+  "_call_date": "2026-03-04",
+  "overall_sentiment": 0.864,
+  "sentiment_bucket": "very_bullish"
+}

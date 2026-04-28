@@ -1,0 +1,33 @@
+{
+  "line_items": [
+    {
+      "line_item": "revenue",
+      "result": "beat",
+      "reasoning": "AMD reported record Q3 revenue of $9.2B, exceeding the high end of the guided range of $8.7B \u00b1 $300M (i.e., up to $9.0B) by ~$200M and delivering 36% YoY growth vs. the guided ~28%."
+    },
+    {
+      "line_item": "margins",
+      "result": "inline",
+      "reasoning": "Non-GAAP gross margin came in at 54%, exactly matching the guided ~54% target for Q3."
+    },
+    {
+      "line_item": "segment - Data Center",
+      "result": "beat",
+      "reasoning": "Data Center revenue grew 34% sequentially to a record $4.3B, well above the 'strong double-digit sequential growth' guided, and Instinct GPU revenue grew YoY as expected."
+    },
+    {
+      "line_item": "segment - Client & Gaming / Embedded",
+      "result": "beat",
+      "reasoning": "Client & Gaming surged 73% YoY to a record $4.0B (vs. guided 'modest sequential growth'), with Gaming up 181% YoY \u2014 a massive outperformance; however, Embedded declined 8% YoY to $857M, missing the guided 'return to sequential growth.'"
+    },
+    {
+      "line_item": "other (opex, tax, share count)",
+      "result": "inline",
+      "reasoning": "No explicit contradictions were reported for non-GAAP opex (~$2.55B), tax rate (13%), or diluted share count (~1.63B), suggesting these came in roughly as guided."
+    }
+  ],
+  "overall_surprise": "beat",
+  "_ticker": "AMD",
+  "_quarter": "Q3-2025",
+  "_prior_quarter": "Q2-2025"
+}

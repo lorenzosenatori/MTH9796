@@ -1,0 +1,28 @@
+{
+  "line_items": [
+    {
+      "line_item": "5% organic base fee growth target (H2 2024)",
+      "result": "beat",
+      "reasoning": "Q3 delivered record net inflows of $221B representing 8% annualized organic asset growth, clearly exceeding the 5% organic base fee growth target management guided for in H2 2024."
+    },
+    {
+      "line_item": "ACV growth (low-to-mid-teens target)",
+      "result": "inline",
+      "reasoning": "Aladdin ACV grew exactly 15% YoY in Q3, explicitly described as consistent with the long-term low-to-mid-teens target, matching guidance precisely."
+    },
+    {
+      "line_item": "Head count broadly flat / core G&A low-to-mid-single-digit increase in 2024",
+      "result": "inline",
+      "reasoning": "No explicit deviation from the head count or core G&A guidance was flagged; GIP added ~400 employees but management had already carved out GIP/Preqin from the flat head count guidance, keeping results in line with the stated exclusion."
+    },
+    {
+      "line_item": "Share repurchases (at least $375M/quarter)",
+      "result": "inline",
+      "reasoning": "No specific Q3 repurchase figure was reported in the current results, but guidance was reaffirmed this quarter with no indication of a shortfall, suggesting at minimum the $375M floor was met."
+    }
+  ],
+  "overall_surprise": "beat",
+  "_ticker": "BLK",
+  "_quarter": "Q3-2024",
+  "_prior_quarter": "Q2-2024"
+}

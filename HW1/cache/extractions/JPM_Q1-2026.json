@@ -1,0 +1,93 @@
+{
+  "prepared_sentiment": 0.45,
+  "qa_sentiment": 0.2,
+  "management_confidence": 0.7,
+  "qa_defensiveness": 0.25,
+  "wins": [
+    {
+      "text": "Firm reported net income of $16.5B and EPS of $5.94 with ROTC of 23%; revenue up 10% YoY to $15.5B driven by higher markets revenue, IB fees, and NII",
+      "category": "revenue"
+    },
+    {
+      "text": "CIB reported net income of $9B on revenue of $23.4B, up 19% YoY; IB fees up 28% YoY on strong M&A and equity underwriting; Fixed income markets up 21% YoY; Equities up 17% YoY",
+      "category": "revenue"
+    },
+    {
+      "text": "AWM AUM of $4.8T up 16% YoY; client assets of $7.1T up 18% YoY; long-term net inflows of $54B with strength across fixed income, equity and multi-asset; pretax margin of 35%",
+      "category": "growth"
+    },
+    {
+      "text": "CCB home lending originations of $13.7B increased 46% YoY driven by refi performance; client investment assets up 18% YoY; average deposits up 2% YoY and QoQ",
+      "category": "revenue"
+    },
+    {
+      "text": "Consumer and small business spending remains resilient with spend growth above last year's pace; no signs of cracks in credit metrics \u2014 early roll rates, delinquency rates, cash buffers all consistent with prior healthy trends",
+      "category": "other"
+    }
+  ],
+  "risks": [
+    {
+      "text": "Basel III endgame and G-SIB reproposal would require JPM's CET1 capital to increase ~4% (vs. Fed estimate of ~5% reduction for large banks broadly); G-SIB surcharge rising to 5.2% in 2028 from 4.5%, adding ~$20B of incremental capital requirements based on current balance sheet",
+      "category": "regulatory"
+    },
+    {
+      "text": "Expenses of $26.9B were up 14% YoY, outpacing revenue growth of 10%; Q1 annualized run rate implies potential upward pressure on the $105B full-year expense guide if markets remain strong",
+      "category": "margins"
+    },
+    {
+      "text": "Total NII guidance revised down: markets NII now expected at ~$8B (reduced from prior estimate), predominantly due to lower rates; partially offset in NIR but represents a net headwind",
+      "category": "margins"
+    },
+    {
+      "text": "Geopolitical developments in the Middle East flagged as a risk to IB deal execution and timing; higher energy prices could eventually fracture consumer resilience if labor market weakens",
+      "category": "macro"
+    },
+    {
+      "text": "Net reserve build of $191M and net charge-offs of $2.3B; management debated adding downside scenario weighting given macro uncertainty but held off \u2014 leaving potential for larger reserve builds if conditions deteriorate",
+      "category": "demand"
+    }
+  ],
+  "guidance": "reaffirmed",
+  "guidance_items": [
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "NII ex-markets continues to be expected at ~$95B for full year 2026"
+    },
+    {
+      "line_item": "other",
+      "direction": "lowered",
+      "detail": "Total NII now expected at ~$103B; markets NII revised down to ~$8B from prior estimate, predominantly due to lower rates, expected to be primarily offset in NIR"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "Adjusted expense outlook continues to be ~$105B for full year 2026"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "Card net charge-off rate continues to be approximately 3.4%"
+    }
+  ],
+  "themes": [
+    "regulatory",
+    "macro_headwinds",
+    "ai",
+    "enterprise_demand",
+    "margin_pressure",
+    "geopolitical",
+    "consumer_weakness",
+    "product_launch"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "AI-enabled cash management tools and their potential impact on deposit competition and deposit betas",
+    "Stablecoin/digital assets regulatory landscape and implications for JPM's payments franchise",
+    "LLM-enabled cybersecurity risks and systemic preparedness of the banking system"
+  ],
+  "_ticker": "JPM",
+  "_quarter": "Q1-2026",
+  "_call_date": "2026-04-14",
+  "overall_sentiment": 0.35,
+  "sentiment_bucket": "bullish"
+}

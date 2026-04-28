@@ -1,0 +1,98 @@
+{
+  "prepared_sentiment": 0.15,
+  "qa_sentiment": 0.05,
+  "management_confidence": 0.55,
+  "qa_defensiveness": 0.35,
+  "wins": [
+    {
+      "text": "CIB revenue grew 26% year-over-year; markets revenue increased 33% YoY driven by structured products, equities, credit products and commodities; banking revenue up 15% YoY",
+      "category": "revenue"
+    },
+    {
+      "text": "Repurchased $12 billion of common stock in 2023; CET1 ratio at 11.4%, 2.5 percentage points above regulatory minimum; expects to repurchase more than $12B in 2024",
+      "category": "buybacks"
+    },
+    {
+      "text": "Credit card new account growth up 17% YoY; credit card spend up 15% for the year; card balances up 40% since end of 2021",
+      "category": "growth"
+    },
+    {
+      "text": "Full-year 2023 NII of $52.4 billion, reflecting strong growth vs. 2022; expenses declined YoY driven by lower operating losses and efficiency initiatives delivering ~$10B gross savings since 2020",
+      "category": "cost_savings"
+    },
+    {
+      "text": "Mobile active customers grew by 1.6 million in 2023; mobile logins up 11% YoY; 20 million consumer interactions with Fargo AI assistant",
+      "category": "product"
+    }
+  ],
+  "risks": [
+    {
+      "text": "Full-year 2024 NII guided to be approximately 7%-9% lower than 2023's $52.4B, with NII expected to trough toward year-end; driven by deposit mix shift, lower rates, and modest loan declines",
+      "category": "margins"
+    },
+    {
+      "text": "Commercial real estate office net charge-offs increased materially; CRE office nonaccrual loans rose $567M in Q4; management acknowledged 'we're still in the beginning of the movie' on CRE losses, which will be 'uneven and episodic'",
+      "category": "demand"
+    },
+    {
+      "text": "Net loan charge-offs rose 17 bps QoQ to 53 bps of average loans; consumer charge-offs at 79 bps driven by maturing credit card vintages; card charge-offs expected to trend higher in 2024",
+      "category": "margins"
+    },
+    {
+      "text": "Noninterest-bearing deposits declined to 27% of mix; average deposits down 3% YoY as consumers migrate to higher-yielding alternatives; further consumer deposit attrition expected in 2024",
+      "category": "macro"
+    },
+    {
+      "text": "Reported Q4 ROTCE of only 9% (impacted by $1.9B FDIC special assessment and $969M severance); path to 15% ROTCE described as medium-term with no specific timeline given; analysts openly questioned the slow pace of improvement",
+      "category": "execution"
+    }
+  ],
+  "guidance": "mixed",
+  "guidance_items": [
+    {
+      "line_item": "revenue",
+      "direction": "lowered",
+      "detail": "Full-year 2024 NII expected to be approximately 7%-9% lower than 2023's $52.4B; NII to trough toward end of 2024"
+    },
+    {
+      "line_item": "margins",
+      "direction": "lowered",
+      "detail": "NIM expected to compress as NII declines on a relatively stable balance sheet; deposit mix shift and rate cuts are headwinds"
+    },
+    {
+      "line_item": "other",
+      "direction": "lowered",
+      "detail": "2024 noninterest expense guided to approximately $52.6B, down from $53.6B adjusted 2023 base (excluding FDIC special assessment)"
+    },
+    {
+      "line_item": "other",
+      "direction": "raised",
+      "detail": "Share repurchases expected to exceed $12B done in 2023; CET1 buffer of 2.5 ppts above minimums supports increased buybacks"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "Ongoing business-related operating losses expected at ~$1.3B in 2024, consistent with 2023 levels"
+    }
+  ],
+  "themes": [
+    "macro_headwinds",
+    "margin_pressure",
+    "buybacks",
+    "cost_cutting",
+    "restructuring",
+    "layoffs",
+    "enterprise_demand",
+    "regulatory"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Pace and timeline for ROTCE improvement from 9% to 15% \u2014 analysts pressed management on why ROTCE has barely moved in 3 years",
+    "Specific quarterly NII trajectory and Q1 step-down magnitude \u2014 management declined to give quarterly guidance",
+    "Basel III Endgame and DFAST stress test implications for buyback acceleration timing"
+  ],
+  "_ticker": "WFC",
+  "_quarter": "Q4-2023",
+  "_call_date": "2024-01-17",
+  "overall_sentiment": 0.11,
+  "sentiment_bucket": "slightly_bullish"
+}

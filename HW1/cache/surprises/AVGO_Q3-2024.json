@@ -1,0 +1,33 @@
+{
+  "line_items": [
+    {
+      "line_item": "revenue",
+      "result": "beat",
+      "reasoning": "Q3 revenue of $13.1B (up 47% YoY) puts AVGO firmly on track to exceed the raised FY2024 consolidated revenue guidance of $51B, with Q4 guidance implying a full-year run-rate above that figure."
+    },
+    {
+      "line_item": "margins",
+      "result": "beat",
+      "reasoning": "Infrastructure software operating margin of 67% (69% ex-transition costs) and VMware OpEx reduction to $1.3B signal AVGO is tracking ahead of the 61% adjusted EBITDA margin target, with VMware on pace to exceed its own $8.5B EBITDA FY25 target early."
+    },
+    {
+      "line_item": "segment (AI revenue / networking)",
+      "result": "beat",
+      "reasoning": "Full-year AI revenue guidance was raised again to $12B (from the prior >$11B), and non-AI networking recovered 17% sequentially in Q3, both exceeding the prior raised targets of >$11B AI revenue and 40% YoY networking growth."
+    },
+    {
+      "line_item": "segment (broadband)",
+      "result": "miss",
+      "reasoning": "Broadband declined 49% YoY in Q3 and is expected to remain down >40% YoY in Q4, materially worse than the already-lowered guidance of down high-30s% YoY."
+    },
+    {
+      "line_item": "segment (industrial resale)",
+      "result": "miss",
+      "reasoning": "Industrial resales fell 31% YoY in Q3 and are still expected down ~20% YoY in Q4, worse than the already-lowered guidance of down double-digit % YoY."
+    }
+  ],
+  "overall_surprise": "mixed",
+  "_ticker": "AVGO",
+  "_quarter": "Q3-2024",
+  "_prior_quarter": "Q2-2024"
+}

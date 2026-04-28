@@ -1,0 +1,93 @@
+{
+  "prepared_sentiment": 0.25,
+  "qa_sentiment": 0.1,
+  "management_confidence": 0.62,
+  "qa_defensiveness": 0.35,
+  "wins": [
+    {
+      "text": "Services revenue up 8% YoY with fees up 10%; TTS cross-border volumes up 9%, commercial card spend up 5%; Securities Services AUC/A up 11%; segment ROTCE of 24.1%",
+      "category": "revenue"
+    },
+    {
+      "text": "Investment Banking revenue grew 35% and overall Banking revenue grew 49% YoY, driven by near-record investment-grade DCM issuance and ECM pickup in convertibles",
+      "category": "revenue"
+    },
+    {
+      "text": "Organizational simplification complete: ~7,000 positions eliminated generating $1.5B annualized run-rate expense saves, with $2.0B\u2013$2.5B cumulative saves targeted in medium term",
+      "category": "cost_savings"
+    },
+    {
+      "text": "CET1 ratio ticked up to preliminary 13.5%, approximately 120 bps (~$13B) above regulatory minimum of 12.3%; tangible book value per share grew to $86.67",
+      "category": "other"
+    },
+    {
+      "text": "U.S. Personal Banking revenue up 10% YoY; branded cards interest-earning balances up 10%; retail services revenues up 18%; USPB delivered sixth consecutive quarter of double-digit revenue growth in retail banking",
+      "category": "revenue"
+    }
+  ],
+  "risks": [
+    {
+      "text": "USPB cost of credit rose 34% YoY to ~$2.2B driven by NCLs of $1.9B; Retail Services NCL rate of 6.32% came in above the high end of full-year guidance range and expected to remain above range in Q2",
+      "category": "margins"
+    },
+    {
+      "text": "Wealth revenues declined 4% YoY with NII down 13% from lower deposit spreads and higher mortgage funding costs; ROTCE of only 4.6% well below medium-term target of 15%\u201320%",
+      "category": "demand"
+    },
+    {
+      "text": "Transformation execution risk: management acknowledged intensifying efforts in automating regulatory processes and data related to regulatory reporting, signaling areas of lagging progress on consent order",
+      "category": "regulatory"
+    },
+    {
+      "text": "Markets revenues down 7% YoY as lower volatility weighed on rates and currencies (down 21%); fixed income revenues declined 10%",
+      "category": "demand"
+    },
+    {
+      "text": "Card late fee regulatory rule being implemented earlier than assumed, with potential NII headwind embedded in $80B\u2013$81B guidance; persistent inflation and higher rates pressuring lower-FICO card customers",
+      "category": "regulatory"
+    }
+  ],
+  "guidance": "reaffirmed",
+  "guidance_items": [
+    {
+      "line_item": "revenue",
+      "direction": "reaffirmed",
+      "detail": "Full-year 2024 revenue guidance of $80B\u2013$81B unchanged, with NII ex-Markets expected down modestly and growth driven by noninterest revenue"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "Full-year expense guidance of $53.5B\u2013$53.8B (ex-FDIC special assessment) reaffirmed; quarterly expense trend expected to decline from Q1 levels through year-end"
+    },
+    {
+      "line_item": "segment",
+      "direction": "reaffirmed",
+      "detail": "Retail Services NCL rate now expected closer to high end of full-year guidance range; branded cards NCL rate in line with expectations and within guided range"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "Medium-term ROTCE target of 11%\u201312% reaffirmed; medium-term expense range of $51B\u2013$53B unchanged"
+    }
+  ],
+  "themes": [
+    "restructuring",
+    "layoffs",
+    "cost_cutting",
+    "margin_pressure",
+    "regulatory",
+    "buybacks",
+    "consumer_weakness",
+    "macro_headwinds"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Mexico Banamex IPO timeline and whether a private sale could be back on the table given upcoming election and potential new administration",
+    "DFAST/stress capital buffer (SCB) volatility given transformation-depressed earnings and repositioning charges",
+    "Specific dollar quantum of card late fee revenue and earlier-than-expected regulatory implementation impact on NII"
+  ],
+  "_ticker": "C",
+  "_quarter": "Q1-2024",
+  "_call_date": "2024-04-12",
+  "overall_sentiment": 0.19,
+  "sentiment_bucket": "slightly_bullish"
+}

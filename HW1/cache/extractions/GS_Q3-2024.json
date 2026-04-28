@@ -1,0 +1,98 @@
+{
+  "prepared_sentiment": 0.55,
+  "qa_sentiment": 0.45,
+  "management_confidence": 0.72,
+  "qa_defensiveness": 0.25,
+  "wins": [
+    {
+      "text": "Net revenues of $12.7B, up 7% YoY; EPS of $8.40, up 54% YoY; ROTE of 11.1%",
+      "category": "revenue"
+    },
+    {
+      "text": "Assets under supervision reached a record $3.1 trillion, marking 27th consecutive quarter of long-term net inflows; $29B of long-term net inflows in Q3",
+      "category": "growth"
+    },
+    {
+      "text": "AWM more durable revenues (management fees + private banking & lending) hit a record $3.4B, up 9% YoY; management and other fees reached record $2.6B quarterly and $7.6B YTD toward $10B annual target",
+      "category": "revenue"
+    },
+    {
+      "text": "Equities net revenues of $3.5B, up 18% YoY; intermediation up 29% YoY; FICC and Equities combined financing revenues a record $6.6B YTD, up 30% YoY",
+      "category": "revenue"
+    },
+    {
+      "text": "Alternatives fundraising exceeded $50B YTD with full-year 2024 target raised to over $60B; cumulative third-party fundraising surpassed $300B since 2020 Investor Day",
+      "category": "growth"
+    }
+  ],
+  "risks": [
+    {
+      "text": "FICC net revenues of $3.0B were down YoY amid a relatively quieter summer, with meaningful pickup only in September; intermediation revenues declined",
+      "category": "demand"
+    },
+    {
+      "text": "Provision for credit losses of $397M driven primarily by net charge-offs in credit card portfolio; ongoing consumer platform losses running ~negative $50-60M per quarter until GM card closes (~Q3 2025)",
+      "category": "margins"
+    },
+    {
+      "text": "M&A volumes still 13% below 10-year averages; equity volumes 27% below 10-year averages, limiting investment banking revenue recovery",
+      "category": "demand"
+    },
+    {
+      "text": "Significant regulatory uncertainty around Basel III endgame reproposal, FRTB, CCAR and GSIB buffer interactions; lack of transparency flagged by CEO as ongoing concern",
+      "category": "regulatory"
+    },
+    {
+      "text": "Incentive fees of only $85M in Q3 vs. medium-term $1B annual target; timing of $4B unrecognized incentive fees dependent on fund harvesting and capital markets reopening",
+      "category": "execution"
+    }
+  ],
+  "guidance": "mixed",
+  "guidance_items": [
+    {
+      "line_item": "revenue",
+      "direction": "raised",
+      "detail": "2024 alternatives fundraising target raised to exceed $60B from prior implied ~$50B; management and other fees on track for $10B annual target"
+    },
+    {
+      "line_item": "margins",
+      "direction": "reaffirmed",
+      "detail": "AWM pretax margin at mid-20s target; commitment to continue improving beyond mid-20s over time"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "Full-year effective tax rate expected at approximately 22%, unchanged"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "GM card platform transition expected to close Q3 2025; run-rate consumer losses of ~negative $50-60M per quarter until then"
+    },
+    {
+      "line_item": "eps",
+      "direction": "reaffirmed",
+      "detail": "Medium-term incentive fee target of $1B annually reiterated; supported by ~$4B of unrecognized incentive fees"
+    }
+  ],
+  "themes": [
+    "m_and_a",
+    "enterprise_demand",
+    "margin_expansion",
+    "buybacks",
+    "regulatory",
+    "product_launch",
+    "customer_wins",
+    "capex"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Competitive threat from non-bank/electronic trading venues in fixed income markets",
+    "Trading market share trajectory and whether peak 2022 share levels are sustainable vs. returning competitors",
+    "Alternative asset management fee rate compression from OCIO/multichannel strategy mix shift"
+  ],
+  "_ticker": "GS",
+  "_quarter": "Q3-2024",
+  "_call_date": "2024-10-15",
+  "overall_sentiment": 0.51,
+  "sentiment_bucket": "bullish"
+}

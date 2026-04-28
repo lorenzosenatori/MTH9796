@@ -1,0 +1,93 @@
+{
+  "prepared_sentiment": 0.78,
+  "qa_sentiment": 0.72,
+  "management_confidence": 0.88,
+  "qa_defensiveness": 0.1,
+  "wins": [
+    {
+      "text": "Record AUM of $12.5 trillion; revenue of $5.4B up 13% YoY; operating income up 12%; EPS of $12.05 up 16% YoY \u2014 fourth consecutive quarter of 5%+ organic base fee growth",
+      "category": "revenue"
+    },
+    {
+      "text": "GIP V closed above its $25B target at $25.2B, the largest private infrastructure fund raise in history; HPS closed July 1 adding $165B client AUM and expected ~$450M revenue in Q3 2025",
+      "category": "growth"
+    },
+    {
+      "text": "iShares ETF record first-half inflows; IBIT crossed $75B AUM at quarter-end (>$80B as of call date) with $12B net inflows in Q2; active ETFs added $11B; digital asset ETPs added $14B",
+      "category": "product"
+    },
+    {
+      "text": "Technology services and subscription revenue up 26% YoY; ACV grew 32% YoY (16% organically); Preqin added ~$60M to Q2 revenue",
+      "category": "revenue"
+    },
+    {
+      "text": "$433M net investment gains in Q2 including mark-to-market gains on Circle stake; now managing >$50B for Circle stablecoin cash reserves; tokenized liquidity fund reached $3B AUM",
+      "category": "other"
+    }
+  ],
+  "risks": [
+    {
+      "text": "Institutional index net outflows of $48B in Q2, driven by a single client redemption of $52B primarily from fixed income, masking underlying organic strength",
+      "category": "customer_concentration"
+    },
+    {
+      "text": "As-adjusted operating margin of 43.3% was down 80 bps YoY; low-teens percentage increase in 2025 core G&A expected due to GIP, Preqin and HPS onboarding, pressuring near-term margins",
+      "category": "margins"
+    },
+    {
+      "text": "Performance fees of $94M decreased from a year ago, reflecting lower performance revenue from private markets, liquid alternatives and long-only products",
+      "category": "demand"
+    },
+    {
+      "text": "HPS acquisition issued ~8.5M SubCo units plus ~1M RSUs with potential for up to ~13.8M additional shares of common stock, creating meaningful dilution risk if milestones are achieved",
+      "category": "other"
+    },
+    {
+      "text": "DC/retirement private markets opportunity dependent on litigation reform or regulatory action from DOL/SEC/Congress; proprietary LifePath with privates target date fund not expected until 2026",
+      "category": "regulatory"
+    }
+  ],
+  "guidance": "raised",
+  "guidance_items": [
+    {
+      "line_item": "revenue",
+      "direction": "raised",
+      "detail": "Q3 base fee run rate estimated ~5% higher than Q2 total base fees (ex-HPS); with HPS, entry rate is ~10% higher; HPS expected to add ~$450M revenue including ~$225M management fees in Q3 2025"
+    },
+    {
+      "line_item": "margins",
+      "direction": "reaffirmed",
+      "detail": "Targeting 45%+ adjusted operating margin over the cycle; near-term pressure from acquisition consolidation but path remains clear"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "Tax rate estimated at ~25% for remainder of 2025; share repurchases of at least $375M/quarter ($1.5B full year) reaffirmed; dividend payout ratio target of 40%-50% of GAAP net income maintained"
+    },
+    {
+      "line_item": "segment",
+      "direction": "raised",
+      "detail": "HPS expected to positively impact effective fee rate by ~0.6 bps; low-teens % increase in 2025 core G&A guided due to acquisition onboarding; $400B gross private markets fundraising target 2025-2030 reiterated"
+    }
+  ],
+  "themes": [
+    "ai",
+    "data_center",
+    "m_and_a",
+    "product_launch",
+    "customer_wins",
+    "margin_pressure",
+    "buybacks",
+    "enterprise_demand"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Specific HPS flow trends and fundraising pipeline for H2 2025 (management did not quantify HPS flows during announcement-to-close period in prepared remarks)",
+    "Stablecoin reserve management opportunity and pipeline of mandates beyond Circle (not addressed proactively)",
+    "Capital return framework and dividend payout ratio trajectory post-acquisitions (not discussed in prepared remarks)"
+  ],
+  "_ticker": "BLK",
+  "_quarter": "Q2-2025",
+  "_call_date": "2025-07-15",
+  "overall_sentiment": 0.756,
+  "sentiment_bucket": "very_bullish"
+}

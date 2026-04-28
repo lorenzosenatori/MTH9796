@@ -1,0 +1,33 @@
+{
+  "line_items": [
+    {
+      "line_item": "revenue",
+      "result": "miss",
+      "reasoning": "Intel Products revenue of $11.8B implies total Q2 revenue came in below the guided $12.5B\u2013$13.5B range (midpoint $13B), with weaker China demand, export controls, and elevated customer inventory all dragging results short of guidance."
+    },
+    {
+      "line_item": "eps",
+      "result": "miss",
+      "reasoning": "Reported Q2 non-GAAP EPS of $0.02 fell dramatically short of the guided $0.10, driven by severe margin compression and elevated foundry losses."
+    },
+    {
+      "line_item": "margins",
+      "result": "miss",
+      "reasoning": "Q2 non-GAAP gross margin of 38.7% significantly undershot the guided ~43.5%, with Lunar Lake external wafer costs, foundry losses, and external wafer inflation all contributing to the ~480 bps shortfall."
+    },
+    {
+      "line_item": "capex",
+      "result": "beat",
+      "reasoning": "Adjusted free cash flow came in at $8.2B (aided by the $11.5B Apollo SCIP investment), far exceeding the guided ~neutral adjusted free cash flow for 2024, though the underlying cash generation quality is partly driven by partner contributions rather than operations."
+    },
+    {
+      "line_item": "segment",
+      "result": "miss",
+      "reasoning": "Altera revenue was only up 6% sequentially with no indication it is on track for a $2B exit run rate; Mobileye's Q2 revenue of $440M (recovering from inventory digestion) raises doubts about its full-year guidance reiteration; and there is no evidence Gaudi/accelerator revenue is on track to exceed $500M in H2 2024."
+    }
+  ],
+  "overall_surprise": "miss",
+  "_ticker": "INTC",
+  "_quarter": "Q2-2024",
+  "_prior_quarter": "Q1-2024"
+}

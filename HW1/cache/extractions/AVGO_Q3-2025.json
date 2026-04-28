@@ -1,0 +1,98 @@
+{
+  "prepared_sentiment": 0.85,
+  "qa_sentiment": 0.75,
+  "management_confidence": 0.88,
+  "qa_defensiveness": 0.1,
+  "wins": [
+    {
+      "text": "Q3 total revenue hit a record $16B, up 22% YoY, with consolidated adjusted EBITDA of $10.7B (67% of revenue), up 30% YoY \u2014 both records",
+      "category": "revenue"
+    },
+    {
+      "text": "AI semiconductor revenue of $5.2B in Q3, up 63% YoY \u2014 10th consecutive quarter of robust growth \u2014 with Q4 AI semi revenue guided to $6.2B, up 66% YoY",
+      "category": "growth"
+    },
+    {
+      "text": "Secured a fourth XPU customer with over $10B of AI rack orders, expected to ship primarily in Q3 FY2026, materially improving FY2026 AI revenue outlook above prior 50-60% growth trajectory",
+      "category": "customer"
+    },
+    {
+      "text": "Infrastructure software operating margin expanded to ~77% from 67% a year ago, reflecting completion of VMware integration; gross margin improved to 93% from 90% YoY",
+      "category": "margins"
+    },
+    {
+      "text": "Consolidated backlog hit a record $110B, driven primarily by AI semiconductors, with non-AI semiconductor bookings also up 23% YoY",
+      "category": "other"
+    }
+  ],
+  "risks": [
+    {
+      "text": "Non-AI semiconductor revenue of $4B was flat sequentially in Q3, with enterprise networking and server storage down sequentially; recovery characterized as U-shaped, with meaningful recovery not expected until mid-to-late FY2026",
+      "category": "demand"
+    },
+    {
+      "text": "Q4 consolidated gross margin guided down ~70 bps sequentially due to higher mix of lower-margin XPUs and wireless revenue, with semiconductor gross margins under pressure from product mix",
+      "category": "margins"
+    },
+    {
+      "text": "Broadcom explicitly limits its addressable XPU/custom AI market to ~7 identified customers/prospects globally, capping the long-term customer expansion opportunity",
+      "category": "other"
+    },
+    {
+      "text": "Competition in XPU/ASIC space acknowledged, with management noting the need to continuously out-invest and out-innovate rivals to maintain position",
+      "category": "competition"
+    },
+    {
+      "text": "VMware VCF deployment (vs. mere licensing) remains a multi-year execution challenge; success with the broader 300K customer base beyond top 10K is uncertain",
+      "category": "execution"
+    }
+  ],
+  "guidance": "raised",
+  "guidance_items": [
+    {
+      "line_item": "revenue",
+      "direction": "raised",
+      "detail": "Q4 FY2025 consolidated revenue guided to ~$17.4B, up 24% YoY, above Q3 actual of $16B"
+    },
+    {
+      "line_item": "segment",
+      "direction": "raised",
+      "detail": "Q4 AI semiconductor revenue guided to ~$6.2B, up 66% YoY; total semiconductor revenue ~$10.7B, up 30% YoY"
+    },
+    {
+      "line_item": "segment",
+      "direction": "reaffirmed",
+      "detail": "Q4 infrastructure software revenue guided to ~$6.7B, up 15% YoY, roughly in line with Q3 run rate"
+    },
+    {
+      "line_item": "margins",
+      "direction": "lowered",
+      "detail": "Q4 consolidated gross margin expected down ~70 bps sequentially on higher XPU and wireless mix; adjusted EBITDA margin held at 67%"
+    },
+    {
+      "line_item": "other",
+      "direction": "raised",
+      "detail": "FY2026 AI revenue outlook described as accelerating materially above the prior 50-60% YoY growth rate, driven by fourth customer and continued share gains at existing three customers"
+    }
+  ],
+  "themes": [
+    "ai",
+    "data_center",
+    "product_launch",
+    "customer_wins",
+    "enterprise_demand",
+    "margin_expansion",
+    "cloud",
+    "supply_chain"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Competitive threats to XPU/ASIC business from U.S. and Asian vendors not proactively addressed",
+    "Scale-up Ethernet vs. UALink/PCIe competitive dynamics not discussed in prepared remarks",
+    "Gross margin bridge mechanics for Q4 (XPU/wireless mix impact on segment-level margins) not broken out proactively"
+  ],
+  "_ticker": "AVGO",
+  "_quarter": "Q3-2025",
+  "_call_date": "2025-09-04",
+  "overall_sentiment": 0.81,
+  "sentiment_bucket": "very_bullish"
+}

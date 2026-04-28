@@ -1,0 +1,28 @@
+{
+  "line_items": [
+    {
+      "line_item": "revenue",
+      "result": "beat",
+      "reasoning": "JPM guided full-year 2024 NII to ~$92.5B and NII ex Markets to ~$91.5B; Q4 results contributed to a full-year revenue of $173B with strong Markets (+21% YoY), IB fees (+49% YoY), and AWM performance, all pointing to NII and total revenue coming in at or above the raised guidance targets."
+    },
+    {
+      "line_item": "other (NII ex Markets run rate & 2025 outlook)",
+      "result": "beat",
+      "reasoning": "Q3 guidance implied Q4 NII ex Markets would fall ~6% sequentially and flagged $87B as 'a little toppy' for 2025 consensus; instead, JPM guided 2025 NII ex Markets to ~$90B \u2014 above the $87B level they called toppy \u2014 suggesting Q4 NII ex Markets held up better than the implied sequential decline signaled."
+    },
+    {
+      "line_item": "other (expenses)",
+      "result": "miss",
+      "reasoning": "Q3 guidance set 2024 adjusted expenses at ~$91.5B and flagged 2025 stepping up meaningfully above a ~$90B base; the actual 2025 expense guide came in at ~$95B, which is a more aggressive step-up than the language 'meaningfully above ~$90B' implied, representing a worse-than-guided cost trajectory."
+    },
+    {
+      "line_item": "margins (Card NCO rate)",
+      "result": "miss",
+      "reasoning": "JPM guided the 2024 Card net charge-off rate to remain ~3.4%, but Q4 Card NCOs rose to $2.1B with a 2025 NCO rate now guided at ~3.6%, indicating credit losses came in worse than the reaffirmed 3.4% target and the deterioration trend exceeded prior guidance."
+    }
+  ],
+  "overall_surprise": "mixed",
+  "_ticker": "JPM",
+  "_quarter": "Q4-2024",
+  "_prior_quarter": "Q3-2024"
+}

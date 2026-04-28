@@ -1,0 +1,33 @@
+{
+  "line_items": [
+    {
+      "line_item": "revenue",
+      "result": "beat",
+      "reasoning": "Guidance called for Q1 revenues down mid-single digits, but North America alone grew 4% and overall results were materially better than the mid-single-digit decline guided, with wholesale up 11% in North America and the Spring order book up YoY \u2014 though Digital traffic declining double digits was in line with the full-year warning."
+    },
+    {
+      "line_item": "margins",
+      "result": "beat",
+      "reasoning": "Q1 gross margins declined 320 bps to 42.2%, which came in better than the guided range of down 350\u2013425 bps, representing a modest beat on the margin line despite ongoing tariff and discount headwinds."
+    },
+    {
+      "line_item": "other",
+      "result": "inline",
+      "reasoning": "No explicit SG&A or tax rate figures were called out as deviating from guidance in the reported results, and the other income/expense line was not flagged as a surprise, suggesting results were roughly in line with the low-single-digit SG&A growth and $0\u2013$10M net interest income guidance."
+    },
+    {
+      "line_item": "segment",
+      "result": "beat",
+      "reasoning": "The Holiday order book was guided up YoY with growth in North America, EMEA, and APLA, and the Spring order book is now also confirmed up YoY led by sport, with North America wholesale up 11% \u2014 exceeding the 'building momentum' framing of prior guidance."
+    },
+    {
+      "line_item": "capex",
+      "result": "miss",
+      "reasoning": "While the balance sheet remains strong, the tariff cost estimate was raised sharply (from ~$1.0B to ~$1.5B annualized) and the net FY26 gross margin tariff headwind increased from ~75\u2013120 bps to ~120 bps, indicating the 'dynamic environment' is more adverse than the cautious-but-stable posture implied in prior guidance."
+    }
+  ],
+  "overall_surprise": "mixed",
+  "_ticker": "NKE",
+  "_quarter": "Q1-2026",
+  "_prior_quarter": "Q4-2025"
+}

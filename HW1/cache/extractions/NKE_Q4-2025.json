@@ -1,0 +1,98 @@
+{
+  "prepared_sentiment": 0.1,
+  "qa_sentiment": 0.05,
+  "management_confidence": 0.55,
+  "qa_defensiveness": 0.3,
+  "wins": [
+    {
+      "text": "NIKE Running grew high single digits overall in Q4, with Vomero 18 becoming a $100M+ franchise in just over 90 days with strong sell-through across all geographies",
+      "category": "product"
+    },
+    {
+      "text": "Holiday order book is up year-over-year with growth in North America, EMEA, and APLA, signaling improving wholesale partner confidence",
+      "category": "customer"
+    },
+    {
+      "text": "Women's basketball business expanded more than 50% for the full fiscal year; A'ja Wilson's A'One signature shoe sold out in 3 minutes on NIKE Digital in North America",
+      "category": "growth"
+    },
+    {
+      "text": "EMEA Sportswear grew overall in wholesale in Q4 and women's sportswear footwear returned to growth; NIKE Digital delivered double-digit increase in share of demand at full price",
+      "category": "revenue"
+    },
+    {
+      "text": "New Amazon partnership announced for fall, featuring a dedicated brand store across running, training, basketball and sportswear; also expanded distribution with Urban Outfitters, Aritzia (200+ women's-led doors), and running specialty accounts",
+      "category": "customer"
+    }
+  ],
+  "risks": [
+    {
+      "text": "Q4 revenues declined 12% reported / 11% currency-neutral; gross margins fell 440 bps to 40.3% driven by higher wholesale discounts, factory store discounts, supply chain cost deleverage and channel mix headwinds",
+      "category": "margins"
+    },
+    {
+      "text": "Classic footwear franchises (Air Force 1, Dunk, AJ1) declined more than 30% in Q4, representing nearly a $1 billion revenue headwind; declines expected to continue through first half of FY'26",
+      "category": "demand"
+    },
+    {
+      "text": "Tariffs represent an estimated gross incremental cost increase of approximately $1 billion; expected net impact of ~75 bps to gross margin in FY'26 with greater impact in H1; Q1 alone absorbs ~100 bps tariff headwind",
+      "category": "macro"
+    },
+    {
+      "text": "Greater China Q4 revenue declined 20%, EBIT declined 45%; traffic remains challenged, digital remains highly promotional, and full recovery expected to take significantly longer than other geographies",
+      "category": "demand"
+    },
+    {
+      "text": "NIKE Digital traffic expected to be down double digits throughout all of FY'26 as company repositions the channel to a full-price model; Digital declined 26% in Q4 globally",
+      "category": "execution"
+    }
+  ],
+  "guidance": "mixed",
+  "guidance_items": [
+    {
+      "line_item": "revenue",
+      "direction": "lowered",
+      "detail": "Q1 FY'26 revenues expected to be down mid-single digits; Digital traffic expected down double digits for full FY'26; second half faces modest revenue headwind lapping prior-year aggressive clearance activity"
+    },
+    {
+      "line_item": "margins",
+      "direction": "lowered",
+      "detail": "Q1 gross margins expected down approximately 350-425 bps including ~100 bps tariff impact; full-year tariff net impact ~75 bps to gross margin; margins remain under pressure in H1 before moderating in H2"
+    },
+    {
+      "line_item": "other",
+      "direction": "lowered",
+      "detail": "SG&A expected to grow low single digits in FY'26; other income/expense including net interest income guided to $0-$10M in Q1; full-year tax rate guided to 19%-20%"
+    },
+    {
+      "line_item": "segment",
+      "direction": "raised",
+      "detail": "Holiday order book up YoY with growth in North America, EMEA, and APLA; wholesale momentum building as channel cleans up and product portfolio transitions"
+    },
+    {
+      "line_item": "capex",
+      "direction": "reaffirmed",
+      "detail": "Share repurchases moderated in near term due to dynamic environment and Win Now financial impacts; strong balance sheet maintained as competitive advantage"
+    }
+  ],
+  "themes": [
+    "macro_headwinds",
+    "tariffs",
+    "china_exposure",
+    "inventory",
+    "margin_pressure",
+    "product_launch",
+    "customer_wins",
+    "restructuring"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Structural long-term operating margin potential once Win Now actions clear \u2014 whether double-digit margins are still achievable",
+    "Specific cadence and timeline for China recovery including competitive dynamics and monobrand marketplace challenges",
+    "Trade-off between gross margin recovery and unit volume/revenue as company laps aggressive clearance activity in H2 FY'26"
+  ],
+  "_ticker": "NKE",
+  "_quarter": "Q4-2025",
+  "_call_date": "2025-06-26",
+  "overall_sentiment": 0.08,
+  "sentiment_bucket": "slightly_bullish"
+}

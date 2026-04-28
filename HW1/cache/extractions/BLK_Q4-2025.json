@@ -1,0 +1,98 @@
+{
+  "prepared_sentiment": 0.82,
+  "qa_sentiment": 0.65,
+  "management_confidence": 0.88,
+  "qa_defensiveness": 0.15,
+  "wins": [
+    {
+      "text": "Record full-year net inflows of $698B including $342B in Q4; iShares set a new flows record with $527B in 2025, representing 12% organic asset and 13% organic base fee growth",
+      "category": "growth"
+    },
+    {
+      "text": "Full-year revenue of $24B up 19% YoY; operating income of $9.6B up 18%; EPS of $48.09 a new record, up 10% YoY",
+      "category": "revenue"
+    },
+    {
+      "text": "Q4 organic base fee growth of 12% and full-year of 9%, with 6%+ growth in every quarter of 2025; base fees entering 2026 at ~$21B run rate, ~35% higher than 2024",
+      "category": "growth"
+    },
+    {
+      "text": "Technology ACV grew 16% organically (31% including Preqin); technology services revenue up 24% YoY for both Q4 and full year",
+      "category": "revenue"
+    },
+    {
+      "text": "Record $5B returned to shareholders in 2025 via dividends and buybacks; Board approved 10% dividend increase for Q1 2026 and $1.8B in planned 2026 share repurchases",
+      "category": "buybacks"
+    }
+  ],
+  "risks": [
+    {
+      "text": "Q4 as-adjusted operating margin of 45% was down 50 bps YoY; full-year margin of 44.1% down 40 bps, pressured by performance fees and related compensation from acquisitions",
+      "category": "margins"
+    },
+    {
+      "text": "Institutional index net outflows of $119B in 2025, driven by redemptions from low-fee index equity strategies, creating a drag on overall net flows quality",
+      "category": "demand"
+    },
+    {
+      "text": "HLEND Q4 redemptions of 4.1% were higher than recent quarters, driven by seasonal factors, media attention on private credit stress, profit-taking, and lower base rate expectations",
+      "category": "demand"
+    },
+    {
+      "text": "Noncash mark-to-market loss of $106M in nonoperating results linked to minority investment in Circle; higher share count from HPS transaction diluted EPS growth to 10% despite strong revenue growth",
+      "category": "other"
+    },
+    {
+      "text": "Rising competition in insurance asset management, particularly in private high-grade; private credit default rates normalizing upward, with smaller borrowers ($0-$50M EBITDA) facing elevated stress at peak valuations",
+      "category": "competition"
+    }
+  ],
+  "guidance": "raised",
+  "guidance_items": [
+    {
+      "line_item": "revenue",
+      "direction": "raised",
+      "detail": "Base fees entering 2026 at ~$21B run rate, ~13% higher than full-year 2025 and ~35% higher than 2024, driven by AUM at record $14T"
+    },
+    {
+      "line_item": "margins",
+      "direction": "reaffirmed",
+      "detail": "Targeting 45% or greater adjusted operating margin; recurring FRE margin trending toward 50%+ over time, consistent with Investor Day targets"
+    },
+    {
+      "line_item": "capex",
+      "direction": "reaffirmed",
+      "detail": "G&A expected to grow mid-single-digit % in 2026 after annualizing HPS and Preqin; headcount expected broadly flat in 2026"
+    },
+    {
+      "line_item": "other",
+      "direction": "raised",
+      "detail": "Share repurchases increased to $1.8B planned for 2026 vs. $1.6B in 2025; dividend per share raised 10% for Q1 2026"
+    },
+    {
+      "line_item": "segment",
+      "direction": "raised",
+      "detail": "Private markets targeting $400B in gross fundraising through 2030; private markets to wealth series targeting at least $60B AUM by 2030; organic base fee growth expected to sustain 6-7%+ consistently"
+    }
+  ],
+  "themes": [
+    "ai",
+    "data_center",
+    "margin_expansion",
+    "buybacks",
+    "dividends",
+    "product_launch",
+    "customer_wins",
+    "enterprise_demand"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Private credit headline risk and rising default rates in direct lending, particularly for smaller borrowers \u2014 management addressed but did not proactively disclose HLEND redemption rate of 4.1% or specific credit stress stratification",
+    "Competitive dynamics in insurance asset management and private high-grade \u2014 management acknowledged rising competition only when directly asked",
+    "Challenges in getting GIP wealth-channel product off the ground \u2014 raised by analyst; management did not address this specific concern in prepared remarks"
+  ],
+  "_ticker": "BLK",
+  "_quarter": "Q4-2025",
+  "_call_date": "2026-01-15",
+  "overall_sentiment": 0.752,
+  "sentiment_bucket": "very_bullish"
+}

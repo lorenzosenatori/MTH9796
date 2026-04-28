@@ -1,0 +1,33 @@
+{
+  "line_items": [
+    {
+      "line_item": "eps",
+      "result": "beat",
+      "reasoning": "Q2 adjusted EPS of $4.82 was strong enough to prompt a raise in FY26 adjusted EPS guidance to $17.80\u2013$19.00 (midpoint ~$18.40) from the prior $17.20\u2013$19.00 (midpoint ~$18.10), clearly exceeding the trajectory implied by prior guidance."
+    },
+    {
+      "line_item": "revenue",
+      "result": "beat",
+      "reasoning": "Consolidated revenue grew 7% YoY in Q2, above the 4%\u20136% full-year growth range guided last quarter, with U.S. domestic package revenue alone up 12% YoY."
+    },
+    {
+      "line_item": "margins",
+      "result": "beat",
+      "reasoning": "FEC adjusted operating margin expanded 100 bps YoY (fifth consecutive quarter of expansion), directly contradicting the prior guidance of FEC margin being 'down slightly at midpoint'; however, FedEx Freight margin contracted ~300 bps YoY and the full-year Freight EBIT headwind was revised sharply from $100M to $300M, consistent with the guided Freight margin decline \u2014 netting to a beat on FEC but inline/miss on Freight."
+    },
+    {
+      "line_item": "capex",
+      "result": "inline",
+      "reasoning": "No update to the $4.5B FY26 CapEx target was reported, and current results contain no indication of a deviation from that figure."
+    },
+    {
+      "line_item": "other",
+      "result": "beat",
+      "reasoning": "Voluntary pension cash contributions were further reduced to $275M, better than the already-lowered guidance of 'up to $400M,' reflecting improved capital discipline ahead of expectations."
+    }
+  ],
+  "overall_surprise": "beat",
+  "_ticker": "FDX",
+  "_quarter": "Q2-2026",
+  "_prior_quarter": "Q1-2026"
+}

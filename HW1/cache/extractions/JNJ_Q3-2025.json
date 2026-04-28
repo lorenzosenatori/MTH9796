@@ -1,0 +1,98 @@
+{
+  "prepared_sentiment": 0.82,
+  "qa_sentiment": 0.65,
+  "management_confidence": 0.88,
+  "qa_defensiveness": 0.1,
+  "wins": [
+    {
+      "text": "Worldwide Q3 sales of $24B, up 5.4% operationally despite ~640 bps STELARA headwind; Innovative Medicine grew 5.3% to $15.6B for a second consecutive quarter above $15B",
+      "category": "revenue"
+    },
+    {
+      "text": "CARVYKTI sales of $524M, up 81.4% YoY and 18.5% sequentially, with 8,500+ patients treated globally; management reaffirmed $5B peak-year sales potential",
+      "category": "growth"
+    },
+    {
+      "text": "TREMFYA delivered 40.1% operational sales growth driven by IBD launch; capturing ~50% of new IL-23 UC patient starts in the U.S.; management targets >$10B peak-year sales",
+      "category": "product"
+    },
+    {
+      "text": "Adjusted diluted EPS of $2.80, up 15.7% YoY; full-year adjusted EPS guidance reaffirmed at $10.85 midpoint (8.7% growth), up from $10.60 at start of year",
+      "category": "margins"
+    },
+    {
+      "text": "FDA approval received for INLEXZO (bladder cancer drug-releasing system), described as first-of-its-kind with $5B+ peak-year sales potential; RYBREVANT+LAZCLUZE showed statistically significant reduction in risk of death vs. osimertinib in NEJM publication",
+      "category": "product"
+    }
+  ],
+  "risks": [
+    {
+      "text": "STELARA biosimilar erosion created ~1,070 bps headwind in Innovative Medicine in Q3; STELARA sales declined 42% YoY; further discounting expected in 2026",
+      "category": "demand"
+    },
+    {
+      "text": "MedTech adjusted income before tax margin declined from 24.1% to 21%, driven by macroeconomic factors and cost of products sold; China VBP negatively impacted surgery segment",
+      "category": "margins"
+    },
+    {
+      "text": "One Big Beautiful Bill Act triggered a $1B onetime remeasurement of deferred tax balances, raising full-year effective tax rate guidance to 17.5%-18%; ongoing tariff and pharmaceutical pricing policy uncertainty (MFN discussions) remain unresolved",
+      "category": "regulatory"
+    },
+    {
+      "text": "Orthopaedics separation (DePuy Synthes spin-off) introduces 18-24 month execution risk, potential stranded costs, and capital structure complexity for both entities",
+      "category": "execution"
+    },
+    {
+      "text": "Competitive pressures in MedTech energy segment and ongoing China VBP headwinds partially offset surgery segment growth; energy business cited as a drag on overall surgery growth of 3.3%",
+      "category": "competition"
+    }
+  ],
+  "guidance": "raised",
+  "guidance_items": [
+    {
+      "line_item": "revenue",
+      "direction": "raised",
+      "detail": "Full-year operational sales growth raised by ~$300M to 4.8%-5.3% range, midpoint $93.2B (5.1%); reported sales growth now expected 5.4%-5.9%, midpoint $93.7B"
+    },
+    {
+      "line_item": "eps",
+      "direction": "reaffirmed",
+      "detail": "Adjusted diluted EPS reaffirmed at $10.80-$10.90, midpoint $10.85 (8.7% growth); adjusted operational EPS $10.68 (7% growth)"
+    },
+    {
+      "line_item": "margins",
+      "direction": "reaffirmed",
+      "detail": "Operating margin improvement of ~300 bps for full year reaffirmed, assuming current tariff environment"
+    },
+    {
+      "line_item": "other",
+      "direction": "raised",
+      "detail": "Net interest expense guidance improved to $0-$50M from prior guidance, driven by higher cash balances"
+    },
+    {
+      "line_item": "other",
+      "direction": "lowered",
+      "detail": "Full-year effective tax rate raised to 17.5%-18% from prior guidance, due to One Big Beautiful Bill Act enactment"
+    }
+  ],
+  "themes": [
+    "product_launch",
+    "m_and_a",
+    "restructuring",
+    "margin_expansion",
+    "ai",
+    "regulatory",
+    "tariffs",
+    "customer_wins"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "MFN (Most Favored Nation) pricing agreements with the administration for new Medicaid launches \u2014 not proactively addressed in prepared remarks",
+    "Quantification of the one-time reserve adjustment and go-to-market energy change impact on MedTech underlying growth rate",
+    "Anti-tau antibody (Alzheimer's) Phase II data timeline and potential accelerated approval pathway \u2014 not mentioned in prepared remarks"
+  ],
+  "_ticker": "JNJ",
+  "_quarter": "Q3-2025",
+  "_call_date": "2025-10-14",
+  "overall_sentiment": 0.752,
+  "sentiment_bucket": "very_bullish"
+}

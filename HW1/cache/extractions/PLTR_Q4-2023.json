@@ -1,0 +1,98 @@
+{
+  "prepared_sentiment": 0.78,
+  "qa_sentiment": 0.72,
+  "management_confidence": 0.88,
+  "qa_defensiveness": 0.1,
+  "wins": [
+    {
+      "text": "Q4 U.S. commercial revenue grew 70% YoY and 12% sequentially to $131M; full year U.S. commercial revenue grew 36% YoY to $457M",
+      "category": "revenue"
+    },
+    {
+      "text": "Q4 commercial TCV booked was $699M \u2014 highest commercial TCV quarter in company history \u2014 up 156% YoY and 74% sequentially",
+      "category": "growth"
+    },
+    {
+      "text": "Adjusted operating margin expanded to 34% in Q4, fifth consecutive quarter of expansion; Rule of 40 score jumped 800 bps sequentially to 54",
+      "category": "margins"
+    },
+    {
+      "text": "Generated $305M in adjusted free cash flow in Q4 (50% margin) and $731M for full year; fifth consecutive quarter of GAAP profitability with $210M full-year GAAP net income",
+      "category": "other"
+    },
+    {
+      "text": "U.S. commercial customer count grew 55% YoY and 22% sequentially to 221 customers; closed 103 deals over $1M in Q4 alone, including multiple deals over $25M each",
+      "category": "customer"
+    }
+  ],
+  "risks": [
+    {
+      "text": "U.S. government revenue grew only 6% YoY and 3% sequentially to $237M in Q4, described as 'muted' due to continuing resolution and timing of large contract awards",
+      "category": "demand"
+    },
+    {
+      "text": "Revenue from strategic commercial contracts expected to decline from ~4% of 2023 revenue to ~2% of 2024 revenue, with Q1 2024 contribution dropping to $14-16M from $33M in Q1 2023",
+      "category": "other"
+    },
+    {
+      "text": "International commercial revenue grew only 11% YoY vs. 70% for U.S. commercial; management acknowledged Europe is 'not going to engage in this revolution'",
+      "category": "demand"
+    },
+    {
+      "text": "Management acknowledged need to rebuild internal go-to-market infrastructure and scale sales force to meet AIP demand \u2014 execution risk in rapid scaling",
+      "category": "execution"
+    },
+    {
+      "text": "DoD monetization of battlefield AI deployments (Israel, Ukraine, CENTCOM) expected to take time; Army spending only 0.015% of budget on C2 software in FY24",
+      "category": "macro"
+    }
+  ],
+  "guidance": "raised",
+  "guidance_items": [
+    {
+      "line_item": "revenue",
+      "direction": "raised",
+      "detail": "Q1 2024 revenue guided to $612M-$616M; full year 2024 revenue guided to $2.652B-$2.668B (vs. $2.23B in 2023, implying ~19% growth)"
+    },
+    {
+      "line_item": "segment",
+      "direction": "raised",
+      "detail": "U.S. commercial revenue guided to exceed $640M in 2024, representing at least 40% growth YoY"
+    },
+    {
+      "line_item": "margins",
+      "direction": "raised",
+      "detail": "Full year 2024 adjusted income from operations guided to $834M-$850M, implying ~31-32% margin vs. 28% in 2023"
+    },
+    {
+      "line_item": "capex",
+      "direction": "reaffirmed",
+      "detail": "Adjusted free cash flow guided to $800M-$1B for full year 2024"
+    },
+    {
+      "line_item": "eps",
+      "direction": "raised",
+      "detail": "GAAP operating income and net income expected in each quarter of 2024, extending streak of GAAP profitability"
+    }
+  ],
+  "themes": [
+    "ai",
+    "enterprise_demand",
+    "product_launch",
+    "customer_wins",
+    "margin_expansion",
+    "guidance_beat",
+    "geopolitical",
+    "data_center"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Whether AIP customer engagement is accelerating into early 2024 (not proactively quantified in prepared remarks)",
+    "DoD software procurement pace and Palantir's competitive advantage vs. defense primes pivoting to software",
+    "FedStart program traction and timeline for Apollo to become a significant revenue contributor"
+  ],
+  "_ticker": "PLTR",
+  "_quarter": "Q4-2023",
+  "_call_date": "2024-02-05",
+  "overall_sentiment": 0.756,
+  "sentiment_bucket": "very_bullish"
+}

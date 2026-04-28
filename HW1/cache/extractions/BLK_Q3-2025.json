@@ -1,0 +1,98 @@
+{
+  "prepared_sentiment": 0.82,
+  "qa_sentiment": 0.65,
+  "management_confidence": 0.88,
+  "qa_defensiveness": 0.1,
+  "wins": [
+    {
+      "text": "Record AUM of $13.5 trillion with $205 billion of net inflows in Q3, driving 10% annualized organic base fee growth \u2014 highest quarter since 2021",
+      "category": "growth"
+    },
+    {
+      "text": "iShares ETFs generated a record $153 billion of net inflows in Q3, crossing $5 trillion in AUM; active ETFs gathered $40+ billion year-to-date, roughly doubling prior year",
+      "category": "revenue"
+    },
+    {
+      "text": "Q3 revenue of $6.5 billion increased 25% year-over-year; operating income of $2.6 billion up 23% YoY; performance fees of $516 million up 33% YoY",
+      "category": "revenue"
+    },
+    {
+      "text": "HPS contributed ~$225 million in base fees and ~$270 million in performance fees in its first full quarter post-close; GIP V closed above its $25 billion target \u2014 largest-ever client capital raise in a private infrastructure fund",
+      "category": "customer"
+    },
+    {
+      "text": "Cash management platform crossed $1 trillion in AUM, growing 45% in 3 years; Circle reserve fund mandate surpassed $64 billion; BUIDL tokenized fund grew to nearly $3 billion",
+      "category": "growth"
+    }
+  ],
+  "risks": [
+    {
+      "text": "EPS of $11.55 increased only 1% YoY despite strong revenue growth, weighed down by $84 million noncash mark-to-market loss on Circle investment and significantly higher diluted share count from GIP (6.9M shares) and HPS (8.5M SubCo units) transactions",
+      "category": "margins"
+    },
+    {
+      "text": "As-adjusted operating margin of 44.6% declined 120 bps year-over-year, reflecting drag from higher performance fee-related compensation; ongoing low-teens core G&A expense growth expected in 2025 from M&A onboarding",
+      "category": "margins"
+    },
+    {
+      "text": "Analyst scrutiny on private credit quality amid reported bankruptcies and potential fraud cases in syndicated loan and consumer ABF markets, though management characterized these as idiosyncratic rather than systemic",
+      "category": "demand"
+    },
+    {
+      "text": "Regulatory and legislative pathway for private markets in 401(k)/DC plans remains uncertain with 'significant work ahead,' creating execution risk on a key growth initiative",
+      "category": "regulatory"
+    },
+    {
+      "text": "HPS performance fees expected to be 'slightly lower' in Q4 vs. Q3's $270 million, and infrastructure flows noted to have 'periodicity' with episodic large transactions, introducing near-term revenue variability",
+      "category": "other"
+    }
+  ],
+  "guidance": "reaffirmed",
+  "guidance_items": [
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "Continue to expect low-teens percentage increase in 2025 core G&A expense, consistent with prior guidance"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "Q4 share repurchases of at least $375 million anticipated, consistent with previous guidance"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "25% projected as-adjusted tax rate for Q4 2025, unchanged from prior guidance"
+    },
+    {
+      "line_item": "segment",
+      "direction": "reaffirmed",
+      "detail": "HPS management fees: Q3 is a good starting point for modeling; performance fees expected slightly lower in Q4"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "Long-term organic base fee growth target of 5%+ (set at June Investor Day) reiterated; management expressed confidence in sustaining 6-7%+ consistently"
+    }
+  ],
+  "themes": [
+    "ai",
+    "data_center",
+    "product_launch",
+    "customer_wins",
+    "m_and_a",
+    "margin_pressure",
+    "buybacks",
+    "enterprise_demand"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Private credit quality deterioration and specific bankruptcy/fraud cases in syndicated loan and consumer ABF markets",
+    "ETF share class structure for mutual funds and implications for the active ETF landscape",
+    "Integration approach for alpha-oriented private market businesses (GIP, HPS) within the One BlackRock model"
+  ],
+  "_ticker": "BLK",
+  "_quarter": "Q3-2025",
+  "_call_date": "2025-10-14",
+  "overall_sentiment": 0.752,
+  "sentiment_bucket": "very_bullish"
+}

@@ -1,0 +1,33 @@
+{
+  "line_items": [
+    {
+      "line_item": "Organic Base Fee Growth (5% long-term target)",
+      "result": "beat",
+      "reasoning": "Q3 guidance reaffirmed 5% annualized organic base fee growth as a long-term target; record Q4 net inflows of $281B and full-year $641B in flows, combined with 14% revenue growth, strongly suggest organic base fee growth met or exceeded the 5% target."
+    },
+    {
+      "line_item": "GIP Management Fee Contribution (~$250M in Q4 2024)",
+      "result": "beat",
+      "reasoning": "Full-year revenue grew 14% YoY to $20.4B and operating margins expanded significantly, with no indication GIP underdelivered; the record inflows and margin expansion suggest GIP's ~$250M fee contribution was at least met, and the broader outperformance implies it likely exceeded expectations."
+    },
+    {
+      "line_item": "Share Repurchases (at least $375M in Q4)",
+      "result": "inline",
+      "reasoning": "No explicit Q4 buyback figure was reported in the current results; however, the risk note flags 6.9 million shares issued at GIP closing as a partial EPS headwind, and there is no indication repurchases fell short of the $375M floor guidance."
+    },
+    {
+      "line_item": "Headcount & Core G&A Expense (flat headcount ex-GIP; G&A near high end of low-to-mid-single-digit range)",
+      "result": "beat",
+      "reasoning": "Full-year as-adjusted operating margin expanded 280 bps to 44.5% and Q4 margin hit 45.5% (+390 bps YoY), suggesting G&A was well-controlled and came in at or better than the guided high end of the low-to-mid-single-digit growth range."
+    },
+    {
+      "line_item": "Tax Rate (25% run rate) & Preqin Acquisition Close (~year-end 2024)",
+      "result": "inline",
+      "reasoning": "No explicit tax rate deviation was flagged in reported results, and the risk commentary references Preqin consolidation as a 2025 G&A driver, implying the acquisition did close around year-end 2024 as guided."
+    }
+  ],
+  "overall_surprise": "beat",
+  "_ticker": "BLK",
+  "_quarter": "Q4-2024",
+  "_prior_quarter": "Q3-2024"
+}

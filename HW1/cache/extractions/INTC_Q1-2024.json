@@ -1,0 +1,98 @@
+{
+  "prepared_sentiment": 0.45,
+  "qa_sentiment": 0.3,
+  "management_confidence": 0.65,
+  "qa_defensiveness": 0.3,
+  "wins": [
+    {
+      "text": "Q1 revenue of $12.7B, up 9% YoY, finishing in line with guidance; EPS of $0.18 beat guidance by $0.05 on operating spending discipline and strong sell-through of previously reserved inventory",
+      "category": "revenue"
+    },
+    {
+      "text": "Intel Products revenue of $11.9B, up 17% YoY; client business grew more than 30% YoY; operating margin of approximately 28%, with operating profit expanding by more than $2.1B YoY",
+      "category": "margins"
+    },
+    {
+      "text": "Gross margin of 45.1% came in 60 basis points above guidance despite peak 5-nodes-in-4-years start-up costs",
+      "category": "margins"
+    },
+    {
+      "text": "Announced Microsoft as fifth Intel 18A customer; signed a sixth customer (aerospace & defense leader) in Q1; pipeline of nearly 50 test chips; advanced packaging engagements with nearly every foundry customer including 5 design awards",
+      "category": "customer"
+    },
+    {
+      "text": "Gaudi 3 launched at Intel Vision 2024 with 20+ customers publicly endorsing Gaudi 2/3; management now expects over $500M in accelerated computing revenue in H2 2024 with increasing momentum into 2025",
+      "category": "product"
+    }
+  ],
+  "risks": [
+    {
+      "text": "Intel Foundry operating loss deepened; foundry revenue of $4.4B down 10% YoY; operating margins expected to trough in 2024 as start-up costs peak and ~$2B incremental depreciation hits the P&L",
+      "category": "margins"
+    },
+    {
+      "text": "Q2 gross margin guided to approximately 43.5%, a sequential decline despite higher revenue, driven by rising factory start-up costs and pull-forward of Q1 inventory sell-through benefits",
+      "category": "margins"
+    },
+    {
+      "text": "First-half demand signals described as 'modestly weaker than originally anticipated'; Q2 client revenue constrained by wafer-level assembly supply shortages limiting Core Ultra AI PC shipments",
+      "category": "supply_chain"
+    },
+    {
+      "text": "Mobileye revenue of $239M and operating loss of $68M both down meaningfully YoY due to iQ customer inventory drawdown; Altera revenue of $342M down significantly YoY with a $39M operating loss from industry-wide inventory digestion",
+      "category": "demand"
+    },
+    {
+      "text": "Server CPU market share under pressure; management acknowledged it 'takes time' for new products (Sierra Forest, Granite Rapids) to ramp and stabilize share, with meaningful gains not expected until end of 2024 and into 2025",
+      "category": "competition"
+    }
+  ],
+  "guidance": "mixed",
+  "guidance_items": [
+    {
+      "line_item": "revenue",
+      "direction": "reaffirmed",
+      "detail": "Q2 revenue guided to $12.5B\u2013$13.5B (midpoint $13B); full-year revenue growth reaffirmed with acceleration in H2"
+    },
+    {
+      "line_item": "eps",
+      "direction": "reaffirmed",
+      "detail": "Q2 non-GAAP EPS guided to $0.10; full-year EPS growth reaffirmed"
+    },
+    {
+      "line_item": "margins",
+      "direction": "lowered",
+      "detail": "Q2 non-GAAP gross margin guided to ~43.5%, down from Q1's 45.1%; full-year gross margin expected ~200 bps above FY23, implying ~45.5% for FY24"
+    },
+    {
+      "line_item": "capex",
+      "direction": "reaffirmed",
+      "detail": "Net capital intensity forecast of mid-30s as % of revenue across 2023\u20132024 in aggregate unchanged; ~neutral 2024 adjusted free cash flow still expected"
+    },
+    {
+      "line_item": "segment",
+      "direction": "reaffirmed",
+      "detail": "Altera expected to exit 2024 at $2B revenue run rate; Gaudi/accelerator revenue expected to exceed $500M in H2 2024; Mobileye reiterated full-year guidance"
+    }
+  ],
+  "themes": [
+    "ai",
+    "data_center",
+    "product_launch",
+    "customer_wins",
+    "margin_pressure",
+    "supply_chain",
+    "inventory",
+    "capex"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Whether the H2 revenue recovery is market-driven vs. Intel-specific share gains in server CPUs, given how long new product ramps take to impact share",
+    "The risk that gen AI server build-outs (dominated by GPU accelerators and ARM-based CPUs) could structurally shrink the x86 server CPU TAM over time",
+    "Flexibility and timeline for pulling back externally manufactured compute tiles to internal Intel Foundry nodes as a proof point for 18A yield and economics"
+  ],
+  "_ticker": "INTC",
+  "_quarter": "Q1-2024",
+  "_call_date": "2024-04-25",
+  "overall_sentiment": 0.39,
+  "sentiment_bucket": "bullish"
+}

@@ -1,0 +1,98 @@
+{
+  "prepared_sentiment": 0.55,
+  "qa_sentiment": 0.45,
+  "management_confidence": 0.72,
+  "qa_defensiveness": 0.25,
+  "wins": [
+    {
+      "text": "Global Banking & Markets revenues of $8.2B, up 14% YoY; FICC up 17% YoY to $3.2B; Equities up 7% YoY to $3.2B",
+      "category": "revenue"
+    },
+    {
+      "text": "Record combined financing revenues of $2.2B in Q2 and $4.4B for H1 2024, with FICC financing up 37% YoY to $850M (near-record)",
+      "category": "revenue"
+    },
+    {
+      "text": "Asset & Wealth Management revenues of $3.9B, up 27% YoY; record management and other fees plus private banking and lending revenues of $3.2B; record AUS of $2.9T",
+      "category": "growth"
+    },
+    {
+      "text": "Alternatives fundraising of $36B YTD with full-year target raised to exceed $50B; notable closings including $20B for private credit and ~$10B for real estate strategies",
+      "category": "other"
+    },
+    {
+      "text": "Returned $4.4B to shareholders in Q2 including $3.5B in buybacks; 9% dividend increase to $3/share; CET1 ratio of 14.8%, 90 bps above new regulatory minimum",
+      "category": "buybacks"
+    }
+  ],
+  "risks": [
+    {
+      "text": "ROE of 10.9% in Q2 and 12.8% for H1 remains well below the firm's 15% target, with drag from enterprise platforms and below-average IB activity still weighing on returns",
+      "category": "execution"
+    },
+    {
+      "text": "Stress Capital Buffer increased unexpectedly; management believes it does not reflect strategic derisking; firm plans to moderate buybacks going forward and must maintain higher capital levels",
+      "category": "regulatory"
+    },
+    {
+      "text": "Investment banking volumes still ~20% below 10-year averages; sponsor-led M&A activity remains depressed with uncertain timing of recovery",
+      "category": "demand"
+    },
+    {
+      "text": "AWM segment ROE still around 10%, below target; 60% of alts AUM not yet fee-earning; incentive fee realization has been below internal models since Investor Day",
+      "category": "margins"
+    },
+    {
+      "text": "Basel III Endgame uncertainty remains unresolved; timing potentially pushed to 2025 per Fed Chair Powell comments, creating ongoing capital planning uncertainty",
+      "category": "regulatory"
+    }
+  ],
+  "guidance": "mixed",
+  "guidance_items": [
+    {
+      "line_item": "other",
+      "direction": "raised",
+      "detail": "Full-year alternatives fundraising target raised to exceed $50B, up from prior implied ~$40-45B pace, driven by stronger-than-anticipated H1 and current pipeline"
+    },
+    {
+      "line_item": "other",
+      "direction": "lowered",
+      "detail": "Buyback activity to be moderated from Q2's $3.5B level given higher-than-expected SCB requirement; will manage to prudent buffer above new regulatory minimum"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "Full-year effective tax rate expected at approximately 22%, unchanged"
+    },
+    {
+      "line_item": "margins",
+      "direction": "reaffirmed",
+      "detail": "AWM pretax margin at 23% for H1, tracking toward medium-term mid-20s target; no change to target"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "On-balance sheet principal investment portfolio (CIE) selldown target of vast majority of $12.6B by end of 2025 reaffirmed; progress expected in Q3 and Q4 2024"
+    }
+  ],
+  "themes": [
+    "m_and_a",
+    "enterprise_demand",
+    "margin_expansion",
+    "buybacks",
+    "ai",
+    "regulatory",
+    "capex",
+    "product_launch"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Impact of presidential election uncertainty on corporate and institutional client activity levels",
+    "Competitive landscape pressures in Banking & Markets from large bank peers and regional banks expanding capital markets capabilities",
+    "Sponsor inability to monetize assets at current carrying valuations as a potential structural concern rather than cyclical delay"
+  ],
+  "_ticker": "GS",
+  "_quarter": "Q2-2024",
+  "_call_date": "2024-07-15",
+  "overall_sentiment": 0.51,
+  "sentiment_bucket": "bullish"
+}

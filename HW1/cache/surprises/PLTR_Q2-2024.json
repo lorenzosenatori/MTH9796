@@ -1,0 +1,28 @@
+{
+  "line_items": [
+    {
+      "line_item": "revenue",
+      "result": "beat",
+      "reasoning": "Q2 revenue of $678M exceeded the high end of prior guidance ($653M) by ~$25M or ~4%, with the company itself noting it beat the top of guidance by 5%."
+    },
+    {
+      "line_item": "segment",
+      "result": "beat",
+      "reasoning": "U.S. commercial revenue grew 55% YoY (70% ex-strategic contracts), well above the guided 'at least 45% growth' threshold, with TCV booked surging 152% YoY and customer count up 83% YoY."
+    },
+    {
+      "line_item": "margins",
+      "result": "beat",
+      "reasoning": "Q2 adjusted income from operations implied a 37% adjusted operating margin, and with record GAAP operating income of $105M and net income of $134M, results clearly exceeded the guided $209M\u2013$213M adjusted income from operations range (actual adjusted operating income was ~$251M at 37% margin on $678M revenue)."
+    },
+    {
+      "line_item": "other",
+      "result": "inline",
+      "reasoning": "GAAP operating income and net income were both achieved (seventh consecutive profitable quarter), consistent with guidance; adjusted free cash flow of $144M\u2013$149M in Q2 keeps the full-year $800M\u2013$1B target intact but implies significant back-half weighting, so no clear beat or miss yet."
+    }
+  ],
+  "overall_surprise": "beat",
+  "_ticker": "PLTR",
+  "_quarter": "Q2-2024",
+  "_prior_quarter": "Q1-2024"
+}

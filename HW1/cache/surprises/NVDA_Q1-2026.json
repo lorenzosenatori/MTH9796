@@ -1,0 +1,33 @@
+{
+  "line_items": [
+    {
+      "line_item": "revenue",
+      "result": "beat",
+      "reasoning": "NVDA guided Q1 revenue to $43B +/- 2% (implying a range of ~$42.1B\u2013$43.9B), and reported $44B, coming in above the top end of that range."
+    },
+    {
+      "line_item": "margins",
+      "result": "inline",
+      "reasoning": "Underlying non-GAAP gross margin of 71.3% was only slightly above the 71% +/- 50bps guide; reported GAAP/non-GAAP margins were severely compressed to ~60.5%/61% due to the one-time $4.5B H20 charge, but the core operational margin essentially matched guidance."
+    },
+    {
+      "line_item": "segment",
+      "result": "beat",
+      "reasoning": "Both Data Center (up 73% YoY, driven by Blackwell) and Gaming (record $3.8B, up 48% sequentially) grew strongly in Q1, exceeding the expectation of mere sequential growth in both segments."
+    },
+    {
+      "line_item": "other",
+      "result": "inline",
+      "reasoning": "No full-year Automotive or opex actuals were reported for Q1 in isolation; the Automotive ramp toward ~$5B FY2026 and mid-30s opex growth trajectory appear on track based on available commentary, with no explicit deviation noted."
+    },
+    {
+      "line_item": "capex",
+      "result": "inline",
+      "reasoning": "Q1 GAAP opex and non-GAAP opex were not explicitly called out as deviating from the guided ~$5.2B GAAP / ~$3.6B non-GAAP figures, and no surprise was flagged in the reported results."
+    }
+  ],
+  "overall_surprise": "beat",
+  "_ticker": "NVDA",
+  "_quarter": "Q1-2026",
+  "_prior_quarter": "Q4-2025"
+}

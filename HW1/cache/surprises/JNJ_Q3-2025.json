@@ -1,0 +1,33 @@
+{
+  "line_items": [
+    {
+      "line_item": "revenue",
+      "result": "beat",
+      "reasoning": "Q3 worldwide sales grew 5.4% operationally, tracking above the guided full-year operational growth midpoint of ~4.8%, and the second consecutive quarter above $15B in Innovative Medicine signals full-year revenue is on pace to exceed the raised guidance range."
+    },
+    {
+      "line_item": "eps",
+      "result": "inline",
+      "reasoning": "Adjusted diluted EPS of $2.80 in Q3 is strong, but management explicitly reaffirmed the full-year midpoint of $10.85 (unchanged from Q2 guidance), indicating results are tracking exactly in line with prior guidance rather than prompting a further raise."
+    },
+    {
+      "line_item": "other (operating margin ~300 bps improvement)",
+      "result": "miss",
+      "reasoning": "MedTech adjusted income before tax margin declined from 24.1% to 21% in Q3, and the segment continues to face macro headwinds and China VBP pressure, casting doubt on the full-year ~300 bps operating margin improvement that was expected to materialize in H2."
+    },
+    {
+      "line_item": "other (net interest expense $0\u2013$100M)",
+      "result": "inline",
+      "reasoning": "No update was provided in Q3 results to suggest net interest expense deviated materially from the guided $0\u2013$100M range, so this is treated as tracking in line."
+    },
+    {
+      "line_item": "other (tariff impact ~$200M in MedTech)",
+      "result": "inline",
+      "reasoning": "Tariff and pharmaceutical pricing policy uncertainty (including MFN discussions) remains unresolved, but no revision to the ~$200M tariff impact estimate was flagged, suggesting it is still tracking within the guided range."
+    }
+  ],
+  "overall_surprise": "mixed",
+  "_ticker": "JNJ",
+  "_quarter": "Q3-2025",
+  "_prior_quarter": "Q2-2025"
+}

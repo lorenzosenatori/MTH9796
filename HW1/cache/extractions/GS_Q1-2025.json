@@ -1,0 +1,98 @@
+{
+  "prepared_sentiment": 0.55,
+  "qa_sentiment": 0.35,
+  "management_confidence": 0.72,
+  "qa_defensiveness": 0.25,
+  "wins": [
+    {
+      "text": "Record equities net revenues of $4.2 billion in Q1, with equities intermediation up 28% YoY driven by strong derivatives performance",
+      "category": "revenue"
+    },
+    {
+      "text": "FICC and equities combined financing revenues reached a record $2.7 billion, up 22% YoY \u2014 fifth consecutive quarter of record financing revenues",
+      "category": "revenue"
+    },
+    {
+      "text": "Assets under supervision rose to a record $3.2 trillion, with 29th consecutive quarter of long-term fee-based net inflows of $29 billion",
+      "category": "growth"
+    },
+    {
+      "text": "Record common stock repurchases of $4.4 billion in Q1, with Board authorizing a new multiyear $40 billion share repurchase program",
+      "category": "buybacks"
+    },
+    {
+      "text": "Total wealth management revenue grew 11% YoY to $2.2 billion; client assets reached a record $1.6 trillion",
+      "category": "revenue"
+    }
+  ],
+  "risks": [
+    {
+      "text": "GS economists cut U.S. growth forecast from over 2% to 0.5%, with recession probability rising materially amid trade war escalation fears",
+      "category": "macro"
+    },
+    {
+      "text": "Advisory revenues of $792 million were down YoY; investment banking activity more muted than expected coming into the year due to policy uncertainty",
+      "category": "demand"
+    },
+    {
+      "text": "April 2 tariff shock created significant market dislocation; management acknowledged record prime brokerage balances could decline as clients deleverage, pressuring financing revenues",
+      "category": "macro"
+    },
+    {
+      "text": "Alternatives fee rate contracted meaningfully (to ~61 bps) driven by lower-fee OCIO mandates, with difficult monetization environment pressuring incentive fees",
+      "category": "margins"
+    },
+    {
+      "text": "~$150 million severance charge expected in Q2 related to annual performance management and pyramid restructuring actions",
+      "category": "execution"
+    }
+  ],
+  "guidance": "mixed",
+  "guidance_items": [
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "High single-digit annual growth expected in durable revenues (management fees + private banking & lending, totaling $3.4B in Q1)"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "Alternatives fundraising expected to be in line with recent years, though could be impacted by market conditions"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "HPI portfolio expected to be substantially sold down by end of 2026, from ~$8.8B currently"
+    },
+    {
+      "line_item": "other",
+      "direction": "lowered",
+      "detail": "~$150M severance charge guided for Q2 related to pyramid restructuring actions \u2014 new cost item not previously flagged"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "Full-year effective tax rate guided at approximately 21%"
+    }
+  ],
+  "themes": [
+    "macro_headwinds",
+    "buybacks",
+    "margin_expansion",
+    "ai",
+    "restructuring",
+    "m_and_a",
+    "regulatory",
+    "inventory"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Impact of April 2 tariff shock and early Q2 client deleveraging on financing and trading revenues",
+    "Competitive market share dynamics in trading vs. peers in Q1",
+    "Risk of international/cross-border revenue sourcing being impacted by U.S. policy volatility and geopolitical tensions"
+  ],
+  "_ticker": "GS",
+  "_quarter": "Q1-2025",
+  "_call_date": "2025-04-14",
+  "overall_sentiment": 0.47,
+  "sentiment_bucket": "bullish"
+}

@@ -1,0 +1,33 @@
+{
+  "line_items": [
+    {
+      "line_item": "revenue",
+      "result": "beat",
+      "reasoning": "Full-year 2024 revenue came in at approximately $81.1B (implied by YTD $61.6B + strong Q4 driven by record Markets, Services, and Wealth performance), meeting or slightly exceeding the $80B\u2013$81B guided range, with Markets posting its highest Q4 revenue in a decade (+36% YoY)."
+    },
+    {
+      "line_item": "NII ex-markets",
+      "result": "inline",
+      "reasoning": "Q4 NII ex-markets was guided to be roughly flat sequentially and full-year 'slightly down'; reported results did not explicitly call out a deviation from this, and no outperformance was flagged, suggesting results landed in line with the revised guidance."
+    },
+    {
+      "line_item": "margins (expenses)",
+      "result": "miss",
+      "reasoning": "Full-year expenses were guided to the higher end of $53.5B\u2013$53.8B, but 2025 expenses are now guided to only slightly below $53.8B with a $600M repositioning charge still embedded, and the path to a sub-60% efficiency ratio has been pushed beyond 2026, signaling expenses remained elevated and the cost trajectory disappointed."
+    },
+    {
+      "line_item": "segment (card NCLs)",
+      "result": "miss",
+      "reasoning": "Branded Cards NCL crept toward ~4% (high end of the 3.5%\u20134% range) and Retail Services NCL came in at ~6.28%, above the guided high end of the 5.75%\u20136.25% range, indicating credit losses exceeded the reaffirmed guidance band."
+    },
+    {
+      "line_item": "medium-term RoTCE & revenue CAGR targets",
+      "result": "miss",
+      "reasoning": "The medium-term RoTCE target was cut to 10%\u201311% from the reaffirmed 11%\u201312%, driven by elevated transformation and technology investment needs, representing a clear miss against prior guidance; the revenue CAGR target was not explicitly reaffirmed or raised this quarter."
+    }
+  ],
+  "overall_surprise": "mixed",
+  "_ticker": "C",
+  "_quarter": "Q4-2024",
+  "_prior_quarter": "Q3-2024"
+}

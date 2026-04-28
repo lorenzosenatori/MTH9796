@@ -1,0 +1,18 @@
+{
+  "line_items": [
+    {
+      "line_item": "revenue (NII)",
+      "result": "beat",
+      "reasoning": "Q4 NII grew $146M (1%) from Q3 2024 \u2014 the first linked-quarter NII increase since Q4 2022 \u2014 exceeding guidance that Q4 NII would be 'roughly in line' with Q3, and confirming management's view that NII had troughed."
+    },
+    {
+      "line_item": "other (noninterest expense)",
+      "result": "inline",
+      "reasoning": "Q4 included a $647M severance charge and $448M in net losses on debt securities sales, but full-year 2024 noninterest expense was not explicitly reported as above or below the ~$54B target; with these one-time charges, expense likely came in near or slightly above the guided $54B, suggesting roughly inline performance."
+    }
+  ],
+  "overall_surprise": "beat",
+  "_ticker": "WFC",
+  "_quarter": "Q4-2024",
+  "_prior_quarter": "Q3-2024"
+}

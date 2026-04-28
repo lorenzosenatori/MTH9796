@@ -1,0 +1,98 @@
+{
+  "prepared_sentiment": 0.9,
+  "qa_sentiment": 0.75,
+  "management_confidence": 0.88,
+  "qa_defensiveness": 0.2,
+  "wins": [
+    {
+      "text": "Q4 total revenue hit a record $18B, up 28% YoY, above guidance, driven by AI semiconductors and VMware",
+      "category": "revenue"
+    },
+    {
+      "text": "AI semiconductor revenue reached $6.5B in Q4, up 74% YoY, with custom accelerator business more than doubling YoY; full-year AI revenue grew 65% to $20B",
+      "category": "growth"
+    },
+    {
+      "text": "Q4 adjusted EBITDA of $12.2B (68% of revenue) exceeded guidance of 67%, up 34% YoY; operating income a record $11.9B, up 35% YoY",
+      "category": "margins"
+    },
+    {
+      "text": "Total AI order backlog exceeds $73B to be delivered over next 18 months, with Tomahawk 6 switch bookings at record rates and AI switch backlog alone exceeding $10B",
+      "category": "customer"
+    },
+    {
+      "text": "Quarterly dividend raised 10% to $0.65/share for Q1 FY26, marking 15th consecutive annual dividend increase; $7.5B share repurchase program extended through end of calendar 2026",
+      "category": "buybacks"
+    }
+  ],
+  "risks": [
+    {
+      "text": "Gross margins guided down ~100 bps sequentially in Q1 FY26 due to higher AI revenue mix; system/rack sales will further compress gross margins as more third-party components are passed through",
+      "category": "margins"
+    },
+    {
+      "text": "Non-AI semiconductor revenue expected flat YoY at ~$4.1B in Q1 FY26, with enterprise spending showing limited recovery and no clear catalyst for near-term reacceleration",
+      "category": "demand"
+    },
+    {
+      "text": "Infrastructure software revenue guided to only ~$6.8B in Q1 FY26, up just 2% YoY, with full-year growth expected at low double digits \u2014 a deceleration from Q4's 19% YoY growth",
+      "category": "demand"
+    },
+    {
+      "text": "Supply chain constraints in advanced packaging (CoWoS) and TSMC 2nm/3nm wafer capacity remain ongoing challenges as AI backlog accelerates; Singapore facility being built to partially in-source packaging",
+      "category": "supply_chain"
+    },
+    {
+      "text": "Non-GAAP tax rate increasing from 14% to ~16.5% in FY26 due to global minimum tax and geographic income mix shift, creating an earnings headwind",
+      "category": "other"
+    }
+  ],
+  "guidance": "raised",
+  "guidance_items": [
+    {
+      "line_item": "revenue",
+      "direction": "raised",
+      "detail": "Q1 FY26 consolidated revenue guided to $19.1B, up 28% YoY"
+    },
+    {
+      "line_item": "segment",
+      "direction": "raised",
+      "detail": "Q1 FY26 AI semiconductor revenue guided to $8.2B, up ~100% YoY; total semiconductor revenue ~$12.3B, up 50% YoY"
+    },
+    {
+      "line_item": "segment",
+      "direction": "reaffirmed",
+      "detail": "Infrastructure software revenue ~$6.8B in Q1 FY26; full-year FY26 infra software growth expected at low double-digit %"
+    },
+    {
+      "line_item": "margins",
+      "direction": "lowered",
+      "detail": "Q1 FY26 consolidated gross margin guided down ~100 bps sequentially on higher AI mix; adjusted EBITDA ~67% of revenue"
+    },
+    {
+      "line_item": "other",
+      "direction": "lowered",
+      "detail": "Non-GAAP tax rate rising from 14% to ~16.5% for Q1 and full-year FY26 due to global minimum tax"
+    }
+  ],
+  "themes": [
+    "ai",
+    "data_center",
+    "product_launch",
+    "customer_wins",
+    "supply_chain",
+    "margin_pressure",
+    "dividends",
+    "buybacks"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Customer-owned tooling risk \u2014 whether XPU customers may increasingly internalize chip design capabilities and reduce reliance on Broadcom",
+    "Identity of the fifth XPU customer (OpenAI) and binding nature of the 10-gigawatt agreement vs. the separate XPU development program",
+    "Silicon photonics as a potentially disruptive interconnect technology and competitive threat from a rival's photonic fabric acquisition"
+  ],
+  "_ticker": "AVGO",
+  "_quarter": "Q4-2025",
+  "_call_date": "2025-12-11",
+  "overall_sentiment": 0.84,
+  "sentiment_bucket": "very_bullish"
+}

@@ -1,0 +1,33 @@
+{
+  "line_items": [
+    {
+      "line_item": "revenue",
+      "result": "beat",
+      "reasoning": "Q4 consolidated revenue came in at $14.1B vs. guidance of ~$14B, and FY2024 revenue hit $51.6B vs. the raised outlook of $51.5B \u2014 both slightly ahead of guidance."
+    },
+    {
+      "line_item": "margins",
+      "result": "beat",
+      "reasoning": "Q4 adjusted EBITDA guidance was ~64% of revenue; VMware integration reached 70% operating margin exiting 2024 and infrastructure software hit 72-73% operating margin in Q4, indicating EBITDA margins exceeded the guided level, despite semiconductor gross margin compression from AI XPU mix."
+    },
+    {
+      "line_item": "segment (AI revenue)",
+      "result": "beat",
+      "reasoning": "Q4 AI revenue of $3.7B exceeded the guided >$3.5B, and FY2024 AI revenue of $12.2B surpassed the raised guidance of >$12B."
+    },
+    {
+      "line_item": "segment (semiconductor & infrastructure software)",
+      "result": "inline",
+      "reasoning": "Q4 semiconductor revenue was ~$8.2B (broadly in line with the guided ~$8B) and infrastructure software revenue was ~$5.8B (close to the guided ~$6B), making both segments roughly on target."
+    },
+    {
+      "line_item": "other (dividend & share count)",
+      "result": "beat",
+      "reasoning": "The quarterly dividend was raised to $0.59/share \u2014 an 11% increase \u2014 well above the guided $0.53/share, representing a meaningful upside surprise on capital return."
+    }
+  ],
+  "overall_surprise": "beat",
+  "_ticker": "AVGO",
+  "_quarter": "Q4-2024",
+  "_prior_quarter": "Q3-2024"
+}

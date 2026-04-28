@@ -1,0 +1,98 @@
+{
+  "prepared_sentiment": 0.45,
+  "qa_sentiment": 0.3,
+  "management_confidence": 0.62,
+  "qa_defensiveness": 0.35,
+  "wins": [
+    {
+      "text": "Q4 revenue of $13.7B came in at the high end of guidance, marking the fifth consecutive quarter of beating guidance",
+      "category": "revenue"
+    },
+    {
+      "text": "DCAI revenue of $4.7B grew 15% sequentially, the fastest sequential growth this decade, driven by strong traditional server demand",
+      "category": "revenue"
+    },
+    {
+      "text": "Custom ASIC business grew more than 50% in 2025, 26% sequentially, reaching an annualized revenue run rate greater than $1B in Q4",
+      "category": "growth"
+    },
+    {
+      "text": "Non-GAAP EPS of $0.15 vs. guidance of $0.08, driven by higher revenue, stronger gross margins, and spending discipline; full-year non-GAAP OpEx down 15% YoY to $16.5B",
+      "category": "cost_savings"
+    },
+    {
+      "text": "Delivered 3 Core Ultra Series 3 SKUs on Intel 18A ahead of commitment of one; Series 3 powering over 200 notebook designs at CES with up to 27 hours battery life and 70% gen-on-gen graphics improvement",
+      "category": "product"
+    }
+  ],
+  "risks": [
+    {
+      "text": "Q1 2026 revenue guided to $11.7B\u2013$12.7B (midpoint $12.2B), below seasonal norms, with gross margin guided down to ~34.5% and breakeven EPS, driven by acute internal supply constraints",
+      "category": "margins"
+    },
+    {
+      "text": "Supply constraints meaningfully limited Q4 revenue capture and are most acute in Q1 2026; finished goods inventory depleted to ~40% of peak levels, leaving the business hand-to-mouth on fab output",
+      "category": "supply_chain"
+    },
+    {
+      "text": "Intel 18A ramp is dilutive to corporate gross margins; Panther Lake cost structure still below corporate average and represents a larger mix in Q1, pressuring margins further",
+      "category": "margins"
+    },
+    {
+      "text": "Rising DRAM, NAND, and substrate pricing due to AI infrastructure demand could limit client revenue opportunity in 2026",
+      "category": "macro"
+    },
+    {
+      "text": "External foundry revenue remains nascent at $222M in Q4; meaningful 14A wafer revenue from external customers not expected until risk production in late 2027 and volume production in 2028",
+      "category": "execution"
+    }
+  ],
+  "guidance": "mixed",
+  "guidance_items": [
+    {
+      "line_item": "revenue",
+      "direction": "lowered",
+      "detail": "Q1 2026 guided to $11.7B\u2013$12.7B (midpoint $12.2B), at the low end of seasonal; supply constraints most acute in Q1 with improvement expected from Q2 onward"
+    },
+    {
+      "line_item": "margins",
+      "direction": "lowered",
+      "detail": "Q1 non-GAAP gross margin guided to ~34.5%, down from 37.9% in Q4, due to lower revenue, increased 18A volumes, and product mix"
+    },
+    {
+      "line_item": "eps",
+      "direction": "lowered",
+      "detail": "Q1 non-GAAP EPS guided to approximately breakeven vs. $0.15 in Q4"
+    },
+    {
+      "line_item": "capex",
+      "direction": "raised",
+      "detail": "2026 CapEx now planned flat to slightly down vs. prior guidance of down; more weighted to H1, with increased tool spending to address supply shortfall"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "2026 non-GAAP OpEx targeted at $16B; positive adjusted free cash flow expected for full year 2026; $2.5B in debt maturities to be retired"
+    }
+  ],
+  "themes": [
+    "ai",
+    "supply_chain",
+    "margin_pressure",
+    "product_launch",
+    "data_center",
+    "enterprise_demand",
+    "capex",
+    "customer_wins"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Why Intel is in a severe finished-goods inventory shortage despite owning its own fabs and having $11.6B of total inventory on the balance sheet",
+    "Competitive server CPU market share risk from x86 rival and ARM-based alternatives during Intel's supply-constrained period",
+    "Specific timing and revenue scale targets needed to declare the external foundry business a success"
+  ],
+  "_ticker": "INTC",
+  "_quarter": "Q4-2025",
+  "_call_date": "2026-01-22",
+  "overall_sentiment": 0.39,
+  "sentiment_bucket": "bullish"
+}

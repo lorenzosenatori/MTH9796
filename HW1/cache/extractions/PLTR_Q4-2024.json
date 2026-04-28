@@ -1,0 +1,98 @@
+{
+  "prepared_sentiment": 0.88,
+  "qa_sentiment": 0.72,
+  "management_confidence": 0.92,
+  "qa_defensiveness": 0.08,
+  "wins": [
+    {
+      "text": "Q4 revenue grew 36% YoY and 14% sequentially to $828M, exceeding the high end of prior guidance by over 900 basis points",
+      "category": "revenue"
+    },
+    {
+      "text": "U.S. commercial revenue grew 64% YoY and 20% sequentially to $214M in Q4; full-year U.S. commercial TCV booked hit a record $803M, up 134% YoY and 170% sequentially",
+      "category": "growth"
+    },
+    {
+      "text": "Adjusted operating margin expanded to 45% in Q4, the strongest in company history, driving a Rule of 40 score of 81 \u2014 a 13-point sequential increase",
+      "category": "margins"
+    },
+    {
+      "text": "Q4 adjusted free cash flow of $517M (63% margin); full-year adjusted FCF of $1.25B (44% margin)",
+      "category": "other"
+    },
+    {
+      "text": "Q4 TCV booked of $1.79B, up 56% YoY and 63% sequentially, including 32 deals worth $10M or more; U.S. commercial customer count grew 73% YoY to 382 customers",
+      "category": "customer"
+    }
+  ],
+  "risks": [
+    {
+      "text": "International commercial revenue grew only 3% YoY in Q4; Europe specifically cited as 'anemic' at ~4% growth on 13% of the business, with no near-term catalyst for acceleration",
+      "category": "demand"
+    },
+    {
+      "text": "Strategic commercial contract revenue declining sharply \u2014 expected to fall to $4M-$6M in Q1 2025 vs. $24M in Q1 2024, and to represent only ~0.5% of full-year 2025 revenue",
+      "category": "other"
+    },
+    {
+      "text": "Significant increase in 2025 operating expenses expected as company invests in technical hires, which could pressure near-term margins despite strong top-line growth",
+      "category": "margins"
+    },
+    {
+      "text": "DeepSeek-R1 and broader AI arms race with China highlighted as a national security risk; potential sanctions evasion via GPU sales in Singapore flagged as a concern",
+      "category": "geopolitical"
+    },
+    {
+      "text": "One-time $131M SAR-related expense accelerated in Q4, causing GAAP operating margin to compress to just 1% for the quarter, creating noise in reported earnings",
+      "category": "execution"
+    }
+  ],
+  "guidance": "raised",
+  "guidance_items": [
+    {
+      "line_item": "revenue",
+      "direction": "raised",
+      "detail": "Q1 2025 revenue guided to $858M-$862M; full-year 2025 revenue guided to $3.741B-$3.757B (midpoint $3.749B), representing ~31% YoY growth \u2014 above prior implied trajectory"
+    },
+    {
+      "line_item": "segment",
+      "direction": "raised",
+      "detail": "U.S. commercial revenue guided to exceed $1.079B in 2025, representing at least 54% YoY growth"
+    },
+    {
+      "line_item": "margins",
+      "direction": "raised",
+      "detail": "Full-year 2025 adjusted income from operations guided to $1.551B-$1.567B, implying ~41-42% adjusted operating margin vs. 39% in FY2024"
+    },
+    {
+      "line_item": "other",
+      "direction": "raised",
+      "detail": "Adjusted free cash flow guided to $1.5B-$1.7B for full-year 2025 vs. $1.25B in FY2024"
+    },
+    {
+      "line_item": "eps",
+      "direction": "reaffirmed",
+      "detail": "GAAP operating income and net income committed for each quarter of 2025"
+    }
+  ],
+  "themes": [
+    "ai",
+    "enterprise_demand",
+    "product_launch",
+    "customer_wins",
+    "margin_expansion",
+    "guidance_beat",
+    "geopolitical",
+    "data_center"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "DOGE and new administration impact on U.S. government spending and Palantir's positioning",
+    "Speed of AI sales cycles and whether the pace of customer conversion is surprising to management",
+    "How Palantir plans to invest (talent, sales, partnerships) to keep pace with accelerating demand"
+  ],
+  "_ticker": "PLTR",
+  "_quarter": "Q4-2024",
+  "_call_date": "2025-02-03",
+  "overall_sentiment": 0.816,
+  "sentiment_bucket": "very_bullish"
+}

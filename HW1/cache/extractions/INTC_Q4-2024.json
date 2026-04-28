@@ -1,0 +1,98 @@
+{
+  "prepared_sentiment": -0.1,
+  "qa_sentiment": -0.2,
+  "management_confidence": 0.5,
+  "qa_defensiveness": 0.3,
+  "wins": [
+    {
+      "text": "Q4 revenue of $14.3B came in at the high end of guidance, up 7% sequentially, driven by solid CCG growth and edge business recovery",
+      "category": "revenue"
+    },
+    {
+      "text": "Non-GAAP gross margin of 42.1% beat guidance by 260 basis points on higher revenue, better costs, and receipt of first CHIPS grant of $1.1B in Q4",
+      "category": "margins"
+    },
+    {
+      "text": "Q4 EPS of $0.13 exceeded guidance of $0.12; Intel Products operating profit was $3.6B at 28% of revenue",
+      "category": "revenue"
+    },
+    {
+      "text": "Signed definitive CHIPS Act agreement awarding up to $7.86B in grants; received $1.1B in Q4 and additional $1.1B in January Q1",
+      "category": "other"
+    },
+    {
+      "text": "NEX revenue up 7.5% sequentially and more than 20% from Q2 lows as customers return to normal buying patterns; Altera operating margin recovered to 21% from 2% in Q3",
+      "category": "growth"
+    }
+  ],
+  "risks": [
+    {
+      "text": "Q1 2025 revenue guided to $11.7B\u2013$12.7B, down 11%\u201318% sequentially, well below Q4 levels, citing macro uncertainty, tariff concerns, PC inventory digestion, and increasing competition",
+      "category": "demand"
+    },
+    {
+      "text": "Intel Products gross margins under pressure throughout 2025 due to Lunar Lake's higher cost structure (memory-in-package), with meaningful relief not expected until Panther Lake ramps in 2026",
+      "category": "margins"
+    },
+    {
+      "text": "Falcon Shores AI accelerator cancelled as a market product; Intel not yet participating meaningfully in cloud-based AI data center market, with Gaudi learnings still being absorbed",
+      "category": "competition"
+    },
+    {
+      "text": "Full year 2024 revenue declined 2.1% YoY to $53.1B; Intel Foundry posted greater than $13B operating loss in 2024 with negative gross margins",
+      "category": "margins"
+    },
+    {
+      "text": "Tariff-related pull-forward in Q4 (primarily from Asian customers) likely borrowed demand from Q1 2025, adding to sequential revenue headwinds; macro uncertainty flagged as broad risk across all segments",
+      "category": "macro"
+    }
+  ],
+  "guidance": "mixed",
+  "guidance_items": [
+    {
+      "line_item": "revenue",
+      "direction": "lowered",
+      "detail": "Q1 2025 guided to $11.7B\u2013$12.7B (midpoint $12.2B), down 11%\u201318% sequentially from Q4's $14.3B; all three Intel Products segments expected to decline at roughly similar rates"
+    },
+    {
+      "line_item": "margins",
+      "direction": "lowered",
+      "detail": "Q1 non-GAAP gross margin guided at ~36%, down from Q4's 42.1%; Q1 expected to be the low point for the year with improvement thereafter"
+    },
+    {
+      "line_item": "eps",
+      "direction": "lowered",
+      "detail": "Q1 non-GAAP EPS guided to breakeven ($0.00), down from Q4's $0.13"
+    },
+    {
+      "line_item": "capex",
+      "direction": "lowered",
+      "detail": "2025 gross CapEx guided to ~$20B, at the low end of prior $20B\u2013$23B range; net CapEx expected at $8B\u2013$11B after offsets"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "2025 OpEx target of $17.5B maintained; Intel Foundry breakeven operating income target by end of 2027 reaffirmed; Intel Products gross margin expected to decline in 2025 vs. 51% in 2024"
+    }
+  ],
+  "themes": [
+    "macro_headwinds",
+    "tariffs",
+    "margin_pressure",
+    "product_launch",
+    "ai",
+    "supply_chain",
+    "inventory",
+    "restructuring"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Competitive pricing pressure in both client and server CPU markets and its impact on gross margins throughout 2025",
+    "Path to free cash flow positivity in 2025 given Q1 weakness and macro uncertainty",
+    "Extent and persistence of tariff-driven Q4 pull-forward demand and its drag on Q1"
+  ],
+  "_ticker": "INTC",
+  "_quarter": "Q4-2024",
+  "_call_date": "2025-01-30",
+  "overall_sentiment": -0.14,
+  "sentiment_bucket": "slightly_bearish"
+}

@@ -1,0 +1,98 @@
+{
+  "prepared_sentiment": 0.72,
+  "qa_sentiment": 0.45,
+  "management_confidence": 0.78,
+  "qa_defensiveness": 0.3,
+  "wins": [
+    {
+      "text": "Q4 revenue hit a record $7.7B, up 24% YoY; full-year revenue grew 14% to a record $25.8B",
+      "category": "revenue"
+    },
+    {
+      "text": "Data Center segment revenue grew 69% YoY to a record $3.9B in Q4, with full-year Data Center revenue nearly doubling (94% growth); Data Center AI revenue exceeded $5B for full year 2024",
+      "category": "revenue"
+    },
+    {
+      "text": "Client segment revenue grew 58% YoY to a record $2.3B in Q4; Client operating income surged to $446M (19% margin) from $55M (4% margin) a year ago",
+      "category": "margins"
+    },
+    {
+      "text": "MI350 series silicon bring-up ahead of schedule \u2014 running large-scale LLMs within 24 hours of first silicon; production ramp pulled forward to mid-year from second half 2025",
+      "category": "product"
+    },
+    {
+      "text": "Record $14B of Embedded design wins closed in 2024, up more than 25% YoY; EPYC Turin launched with 540+ performance records across industry benchmarks",
+      "category": "customer"
+    }
+  ],
+  "risks": [
+    {
+      "text": "Gaming segment revenue declined 59% YoY to $563M in Q4 due to semi-custom inventory normalization at Microsoft and Sony; Q1 2025 guidance calls for a significant further sequential decline in Gaming",
+      "category": "demand"
+    },
+    {
+      "text": "Embedded segment revenue declined 13% YoY to $923M; demand environment remains mixed with softness in industrial and communications markets recovering slower than expected",
+      "category": "demand"
+    },
+    {
+      "text": "Data Center GPU revenue was below server CPU revenue growth in Q4 (GPU grew less than the 9% sequential Data Center segment average), and first-half 2025 GPU revenue is guided roughly flat vs. second-half 2024, implying a near-term air pocket ahead of MI350 ramp",
+      "category": "execution"
+    },
+    {
+      "text": "Q1 2025 revenue guided to ~$7.1B, down ~7% sequentially, with Data Center, Client, and Embedded all expected to decline sequentially due to seasonality",
+      "category": "macro"
+    },
+    {
+      "text": "Competitive intensity in server CPU market is increasing, with analysts flagging potential pricing aggression from Intel and growing custom silicon from hyperscalers threatening AMD's 50%+ share at major cloud customers",
+      "category": "competition"
+    }
+  ],
+  "guidance": "mixed",
+  "guidance_items": [
+    {
+      "line_item": "revenue",
+      "direction": "reaffirmed",
+      "detail": "Q1 2025 revenue guided to ~$7.1B +/- $300M, up ~30% YoY but down ~7% sequentially; full-year 2025 expected to deliver strong double-digit percentage revenue growth YoY"
+    },
+    {
+      "line_item": "margins",
+      "direction": "reaffirmed",
+      "detail": "Q1 2025 non-GAAP gross margin guided to ~54%, consistent with Q4 2024; expected to step up in second half 2025 as Data Center mix increases"
+    },
+    {
+      "line_item": "eps",
+      "direction": "raised",
+      "detail": "Full-year 2025 EPS expected to grow at a faster rate than revenue (strong double-digit percentage), building on 25% EPS growth in 2024"
+    },
+    {
+      "line_item": "segment",
+      "direction": "lowered",
+      "detail": "Gaming segment expected to decline significantly sequentially in Q1 2025; Embedded expected to decline modestly sequentially in Q1 2025"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "Q1 2025 non-GAAP opex ~$2.1B; non-GAAP other net income ~$24M; non-GAAP tax rate ~13%; diluted share count ~1.64B"
+    }
+  ],
+  "themes": [
+    "ai",
+    "data_center",
+    "product_launch",
+    "customer_wins",
+    "margin_expansion",
+    "supply_chain",
+    "enterprise_demand",
+    "macro_headwinds"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Specific Data Center GPU revenue breakdown for Q4 and Q1 (management declined to give explicit GPU-only figures, only segment-level)",
+    "Potential inventory buildup in Client segment given AMD's significant outperformance of the broader PC market in H2 2024",
+    "Competitive pricing aggression from Intel in server CPU market and threat from hyperscaler custom silicon to AMD's 50%+ cloud share"
+  ],
+  "_ticker": "AMD",
+  "_quarter": "Q4-2024",
+  "_call_date": "2025-02-04",
+  "overall_sentiment": 0.612,
+  "sentiment_bucket": "bullish"
+}

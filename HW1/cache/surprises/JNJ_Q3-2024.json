@@ -1,0 +1,33 @@
+{
+  "line_items": [
+    {
+      "line_item": "revenue",
+      "result": "beat",
+      "reasoning": "Q3 operational sales growth of 6.3% exceeded the full-year guided range of 6.1%-6.6% on a quarterly basis, with $22.5B in worldwide sales tracking ahead of the $88.2B reported sales midpoint, driven by Innovative Medicine strength and DARZALEX's record $3B quarter."
+    },
+    {
+      "line_item": "eps",
+      "result": "beat",
+      "reasoning": "Adjusted operational EPS guidance was raised for the third consecutive quarter with underlying EPS growth of 9.2% ex-M&A, exceeding the prior guided midpoint of ~8.2% YoY growth and the $10.00-$10.10/share full-year range."
+    },
+    {
+      "line_item": "margins",
+      "result": "miss",
+      "reasoning": "Adjusted pretax operating margin is now expected to decline ~200 bps in 2024 \u2014 significantly worse than the prior guidance of a 120 bps decline \u2014 driven by the $1.25B acquired IP R&D charge for NM26, with enterprise adjusted income before tax margin falling sharply from 37.6% to 32.4%."
+    },
+    {
+      "line_item": "other",
+      "result": "inline",
+      "reasoning": "Free cash flow year-to-date of ~$14B (vs. ~$12B prior year) was a positive, but the $1.75B talc litigation charge and ongoing acquisition financing costs are consistent with the prior guidance's flagged headwinds to net interest income and tax rate, leaving the overall picture roughly in line."
+    },
+    {
+      "line_item": "segment",
+      "result": "mixed",
+      "reasoning": "Innovative Medicine outperformed expectations with Q3 sales of $14.6B and broad-based double-digit brand growth despite the anticipated STELARA headwind, but MedTech guidance was further cut to ~5% from the prior ~6% due to persistent Asia Pacific/China macro and policy pressures."
+    }
+  ],
+  "overall_surprise": "mixed",
+  "_ticker": "JNJ",
+  "_quarter": "Q3-2024",
+  "_prior_quarter": "Q2-2024"
+}

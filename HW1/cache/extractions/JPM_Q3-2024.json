@@ -1,0 +1,93 @@
+{
+  "prepared_sentiment": 0.35,
+  "qa_sentiment": 0.1,
+  "management_confidence": 0.72,
+  "qa_defensiveness": 0.2,
+  "wins": [
+    {
+      "text": "Firm reported net income of $12.9B, EPS of $4.37 on revenue of $43.3B (up 6% YoY) with ROTCE of 19%",
+      "category": "revenue"
+    },
+    {
+      "text": "CIB IB fees up 31% YoY with #1 wallet share at 9.1% YTD; debt underwriting up 56% and equity underwriting up 26%",
+      "category": "revenue"
+    },
+    {
+      "text": "AWM record quarterly revenues of $5.4B (up 9% YoY) and record long-term net inflows of $72B; AUM of $3.9T and client assets of $5.7T both up 23% YoY",
+      "category": "growth"
+    },
+    {
+      "text": "Markets revenue up 8% YoY to $7.2B, with Equities up 27% driven by strong U.S. trading environment and increased Asia activity",
+      "category": "revenue"
+    },
+    {
+      "text": "Added $6B of net common share repurchases in Q3, partly deploying proceeds from Visa share sale; CET1 ratio of 15.3% with estimated $30B+ of excess capital",
+      "category": "buybacks"
+    }
+  ],
+  "risks": [
+    {
+      "text": "NII ex Markets expected to decline ~6% sequentially in Q4 2024; 2025 consensus of $87B for NII ex Markets still viewed as 'a little toppy' by management, implying further downward pressure",
+      "category": "margins"
+    },
+    {
+      "text": "CCB Banking & Wealth Management revenue down 11% YoY due to deposit margin compression and lower deposit balances (average deposits down 8% YoY)",
+      "category": "margins"
+    },
+    {
+      "text": "Card net charge-offs up $520M YoY to $1.9B; net reserve build of $876M predominantly from higher revolving balances in Card",
+      "category": "demand"
+    },
+    {
+      "text": "Middle market and large corporate loan demand remains soft; average Banking & Payments loans down 2% YoY with continued softness in new loan demand and revolver utilization",
+      "category": "demand"
+    },
+    {
+      "text": "M&A regulatory environment and geopolitical situation cited as continued sources of uncertainty for IB pipeline; management cautious on asset prices and macro outlook, flagging potential turbulence",
+      "category": "macro"
+    }
+  ],
+  "guidance": "mixed",
+  "guidance_items": [
+    {
+      "line_item": "revenue",
+      "direction": "raised",
+      "detail": "2024 total NII raised to ~$92.5B; NII ex Markets raised to ~$91.5B"
+    },
+    {
+      "line_item": "other",
+      "direction": "lowered",
+      "detail": "Implied Q4 NII ex Markets run rate down ~6% sequentially from Q3; 2025 NII ex Markets consensus of $87B described as 'a little toppy,' signaling further downside"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "2024 adjusted expense outlook now ~$91.5B (slight revision); 2025 expense base expected to step up meaningfully above ~$90B normalized base due to inflation, annualization of growth investments, and fee-related comp"
+    },
+    {
+      "line_item": "margins",
+      "direction": "reaffirmed",
+      "detail": "2024 Card net charge-off rate expected to remain ~3.4%"
+    }
+  ],
+  "themes": [
+    "macro_headwinds",
+    "margin_pressure",
+    "buybacks",
+    "regulatory",
+    "enterprise_demand",
+    "m_and_a",
+    "consumer_weakness",
+    "ai"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "2025 NII trajectory and whether consensus estimates are still too high",
+    "JPMorgan's strategy and competitive positioning in private credit / direct lending",
+    "Basel III endgame capital requirement revisions and implications for excess capital deployment"
+  ],
+  "_ticker": "JPM",
+  "_quarter": "Q3-2024",
+  "_call_date": "2024-10-11",
+  "overall_sentiment": 0.25,
+  "sentiment_bucket": "slightly_bullish"
+}

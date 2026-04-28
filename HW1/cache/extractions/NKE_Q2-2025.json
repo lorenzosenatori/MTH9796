@@ -1,0 +1,93 @@
+{
+  "prepared_sentiment": -0.35,
+  "qa_sentiment": -0.25,
+  "management_confidence": 0.55,
+  "qa_defensiveness": 0.2,
+  "wins": [
+    {
+      "text": "North America Black Friday week was the largest demand week ever on NIKE Digital, with sales up double digits",
+      "category": "revenue"
+    },
+    {
+      "text": "Kobe became North America's largest signature franchise with demand far exceeding available supply; Sabrina 2 ranked as the NBA's second most worn sneaker this season",
+      "category": "product"
+    },
+    {
+      "text": "Sport performance fields of play grew year-over-year, with men's training up high teens, women's training up high single digits, and women's basketball up strong double digits",
+      "category": "growth"
+    },
+    {
+      "text": "EMEA repositioned NIKE Digital as a premium platform with a strong double-digit decline in off-price sales and full price realization improving",
+      "category": "margins"
+    },
+    {
+      "text": "Greater China 11/11 performance exceeded plan; Pegasus 41 topped women's running sales charts",
+      "category": "customer"
+    }
+  ],
+  "risks": [
+    {
+      "text": "Q2 revenues declined 8% reported / 9% currency-neutral; NIKE Direct down 14%, NIKE Digital down 21%; gross margins contracted 100 bps to 43.6% due to higher markdowns and wholesale discounts",
+      "category": "margins"
+    },
+    {
+      "text": "Q3 revenues guided down low double digits with gross margins expected down 300\u2013350 bps, and Q4 headwinds expected to be even larger than Q3 across revenue, margins, and demand creation",
+      "category": "demand"
+    },
+    {
+      "text": "NIKE Digital operating at roughly 50% full-price / 50% promotional mix, eroding channel profitability and disrupting the broader marketplace",
+      "category": "margins"
+    },
+    {
+      "text": "Greater China revenue declined 11% with EBIT down 27% on a reported basis amid retail traffic declines, a difficult macro environment, and intensifying local and international competition requiring higher markdown activity",
+      "category": "macro"
+    },
+    {
+      "text": "Inventory elevated above desired levels, especially in North America and Greater China; summer '25 order books down versus prior year as company accelerates franchise supply reduction",
+      "category": "inventory"
+    }
+  ],
+  "guidance": "lowered",
+  "guidance_items": [
+    {
+      "line_item": "revenue",
+      "direction": "lowered",
+      "detail": "Q3 revenues expected down low double digits, worse than Q2's -9% currency-neutral; Q4 headwinds expected to be even larger than Q3"
+    },
+    {
+      "line_item": "margins",
+      "direction": "lowered",
+      "detail": "Q3 gross margins expected down ~300\u2013350 bps; Q4 gross margin headwind expected to exceed Q3's"
+    },
+    {
+      "line_item": "other",
+      "direction": "lowered",
+      "detail": "Q3 SG&A guided slightly down year-over-year (vs. prior year including restructuring charges); demand creation investment expected to increase and lead SG&A growth over coming quarters"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "Q3 other income/expense including net interest income expected at $30M\u2013$40M"
+    }
+  ],
+  "themes": [
+    "margin_pressure",
+    "inventory",
+    "restructuring",
+    "product_launch",
+    "customer_wins",
+    "macro_headwinds",
+    "china_exposure",
+    "cost_cutting"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Specific timeline for when newness/innovation will reach sufficient scale to offset franchise liquidation headwinds in FY2026",
+    "Whether FY2026 revenues will also be down given the margin-before-sales reset approach",
+    "Specific margin recapture potential from supply chain and distribution efficiency improvements beyond top-line growth"
+  ],
+  "_ticker": "NKE",
+  "_quarter": "Q2-2025",
+  "_call_date": "2024-12-19",
+  "overall_sentiment": -0.31,
+  "sentiment_bucket": "bearish"
+}

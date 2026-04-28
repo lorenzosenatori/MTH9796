@@ -1,0 +1,98 @@
+{
+  "prepared_sentiment": -0.15,
+  "qa_sentiment": -0.3,
+  "management_confidence": 0.55,
+  "qa_defensiveness": 0.4,
+  "wins": [
+    {
+      "text": "Achieved $390 million of DRIVE-related cost savings in Q1, broken down as ~$90M surface, $160M air/international, $140M G&A",
+      "category": "cost_savings"
+    },
+    {
+      "text": "International export package volumes increased 9% YoY in Q1, driven by International Economy, with continued strength in Asia export market",
+      "category": "growth"
+    },
+    {
+      "text": "Completed $1 billion in stock repurchases in Q1 and plans to repurchase an additional $1 billion in Q2",
+      "category": "buybacks"
+    },
+    {
+      "text": "Network 2.0 markets showing ~10% reduction in pickup and delivery costs with service levels meeting or exceeding network average",
+      "category": "cost_savings"
+    },
+    {
+      "text": "FedEx Freight revenue per shipment up 2% YoY, demonstrating continued focus on revenue quality in a challenging LTL environment",
+      "category": "revenue"
+    }
+  ],
+  "risks": [
+    {
+      "text": "Q1 adjusted operating profit declined $382 million YoY; EPS guidance range narrowed and top end cut from $22 to $21, reflecting weaker-than-expected demand",
+      "category": "demand"
+    },
+    {
+      "text": "U.S. Postal Service contract termination creates ~$500 million full-year headwind beginning in Q2, with daytime flight hours reduced ~60%",
+      "category": "execution"
+    },
+    {
+      "text": "International export yield pressure now expected to be a $500 million headwind for FY '25, up $100 million from prior expectations, due to mix shift to lower-yielding deferred services and reduced demand surcharges",
+      "category": "margins"
+    },
+    {
+      "text": "Weakness in industrial economy pressured B2B volumes; U.S. Manufacturing PMI fell to 47.9, lowest reading of the year, with no significant recovery assumed for remainder of calendar 2024",
+      "category": "macro"
+    },
+    {
+      "text": "Purchase transportation expense at Federal Express increased $124 million YoY, driven by International Economy volume growth and commercial air linehaul capacity investment for Tricolor",
+      "category": "margins"
+    }
+  ],
+  "guidance": "mixed",
+  "guidance_items": [
+    {
+      "line_item": "eps",
+      "direction": "lowered",
+      "detail": "FY '25 adjusted EPS narrowed to $20\u2013$21 from prior range of $20\u2013$22; top end cut by $1"
+    },
+    {
+      "line_item": "revenue",
+      "direction": "lowered",
+      "detail": "FY '25 revenue growth now expected at low single digits, down from prior low-to-mid single digits"
+    },
+    {
+      "line_item": "margins",
+      "direction": "reaffirmed",
+      "detail": "Federal Express adjusted operating margin still expected to expand YoY for FY '25"
+    },
+    {
+      "line_item": "margins",
+      "direction": "lowered",
+      "detail": "FedEx Freight now expected to see modest operating margin decline for FY '25, vs. prior expectations"
+    },
+    {
+      "line_item": "capex",
+      "direction": "reaffirmed",
+      "detail": "FY '25 CapEx on track at $5.2 billion, flat vs. FY '24"
+    }
+  ],
+  "themes": [
+    "cost_cutting",
+    "restructuring",
+    "supply_chain",
+    "macro_headwinds",
+    "margin_pressure",
+    "product_launch",
+    "buybacks",
+    "china_exposure"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Whether FedEx Freight's reported margins accurately reflect stand-alone economics (i.e., intercompany cost allocations vs. true stand-alone burden)",
+    "Potential impact of East Coast/Gulf port strike on air freight volumes",
+    "Concentration risk and strategic dependency on large Chinese e-commerce shippers (Temu/Shein) for Asia export volume"
+  ],
+  "_ticker": "FDX",
+  "_quarter": "Q1-2025",
+  "_call_date": "2024-09-19",
+  "overall_sentiment": -0.21,
+  "sentiment_bucket": "slightly_bearish"
+}

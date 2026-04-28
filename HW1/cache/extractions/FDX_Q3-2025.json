@@ -1,0 +1,98 @@
+{
+  "prepared_sentiment": 0.2,
+  "qa_sentiment": 0.05,
+  "management_confidence": 0.62,
+  "qa_defensiveness": 0.3,
+  "wins": [
+    {
+      "text": "Q3 adjusted operating income grew 12% YoY, with Federal Express segment up 17% despite USPS contract expiration headwind of $180M and ~$70M severe weather impact",
+      "category": "margins"
+    },
+    {
+      "text": "DRIVE savings reached $600M in Q3, up from $540M in Q2 and $390M in Q1, on track to hit $2.2B incremental FY25 target and $4B total vs FY23 baseline",
+      "category": "cost_savings"
+    },
+    {
+      "text": "Federal Express package volumes grew 5% YoY \u2014 highest year-over-year ADV growth since Q4 FY21 \u2014 with Ground volumes up 7% and international export packages up 8%",
+      "category": "growth"
+    },
+    {
+      "text": "Onboarding nearly $400M in new annualized healthcare revenue over next 90 days, exiting FY25 with ~$9B in healthcare revenue; 75% tied to bundled FedEx Surround customers",
+      "category": "customer"
+    },
+    {
+      "text": "Returned $2.5B in share repurchases YTD, on track for $3.8B total shareholder returns in FY25 including dividends; CapEx reduced to $4.9B from $5.2B last year",
+      "category": "buybacks"
+    }
+  ],
+  "risks": [
+    {
+      "text": "FY25 adjusted EPS guidance cut to $18.00\u2013$18.60 from prior $19.00\u2013$20.00 range, citing B2B weakness, inflationary cost pressures, and global trade policy uncertainty",
+      "category": "execution"
+    },
+    {
+      "text": "FedEx Freight operating profit declined $80M YoY in Q3; LTL average daily shipments down 5% and weight per shipment down 3% due to soft U.S. industrial economy, with headwinds expected to continue in Q4",
+      "category": "demand"
+    },
+    {
+      "text": "Revenue net-of-costs headwind now projected at $1.1B for FY25, $400M worse than prior forecast, driven by international export yield pressure and greater-than-expected demand shift to lower-yielding deferred services",
+      "category": "margins"
+    },
+    {
+      "text": "Inflationary pressures on cost base \u2014 including PT costs during peak and employee wages \u2014 higher than previously planned and described as persistent going forward",
+      "category": "macro"
+    },
+    {
+      "text": "Uncertainty around global trade policy, tariffs, and potential de minimis rule changes creating demand visibility challenges, with management noting no significant pull-forward but acknowledging APAC volatility in late February/early March",
+      "category": "macro"
+    }
+  ],
+  "guidance": "lowered",
+  "guidance_items": [
+    {
+      "line_item": "eps",
+      "direction": "lowered",
+      "detail": "FY25 adjusted EPS lowered to $18.00\u2013$18.60 from prior $19.00\u2013$20.00 range; midpoint implies ~3% adjusted EPS growth YoY"
+    },
+    {
+      "line_item": "revenue",
+      "direction": "lowered",
+      "detail": "FY25 revenue now expected flat to down slightly vs. prior year; Q4 Federal Express revenue expected essentially flat YoY, Freight revenue expected down YoY but moderating sequentially"
+    },
+    {
+      "line_item": "margins",
+      "direction": "lowered",
+      "detail": "Revenue net-of-costs headwind revised to $1.1B, $400M worse than prior forecast; $400M headwind from international export yield pressure and deferred mix shift"
+    },
+    {
+      "line_item": "capex",
+      "direction": "reaffirmed",
+      "detail": "FY25 CapEx now $4.9B, down $300M from FY24's $5.2B; FY26 aircraft CapEx commitment of ~$1B reaffirmed"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "DRIVE savings target of $2.2B incremental for FY25 reaffirmed; annualized run rate to exceed $2.2B exiting Q4"
+    }
+  ],
+  "themes": [
+    "macro_headwinds",
+    "cost_cutting",
+    "restructuring",
+    "supply_chain",
+    "tariffs",
+    "margin_pressure",
+    "customer_wins",
+    "product_launch"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "De minimis shipment exposure and revenue impact from potential rule changes \u2014 not proactively addressed in prepared remarks",
+    "Specific quantification of inflationary cost pressures and their stickiness going forward \u2014 mentioned only broadly in prepared remarks",
+    "FedEx Freight CEO search and external vs. internal leadership succession \u2014 not mentioned in prepared remarks"
+  ],
+  "_ticker": "FDX",
+  "_quarter": "Q3-2025",
+  "_call_date": "2025-03-20",
+  "overall_sentiment": 0.14,
+  "sentiment_bucket": "slightly_bullish"
+}

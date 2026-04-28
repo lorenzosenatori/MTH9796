@@ -1,0 +1,93 @@
+{
+  "prepared_sentiment": 0.78,
+  "qa_sentiment": 0.6,
+  "management_confidence": 0.82,
+  "qa_defensiveness": 0.2,
+  "wins": [
+    {
+      "text": "Q3 net revenues of $15.2B, EPS of $12.25, ROE of 14.2% and ROTE of 15.2%; YTD ROTE of 15.6%",
+      "category": "revenue"
+    },
+    {
+      "text": "Advisory revenues of $1.4B, up 60% YoY on record M&A completions; GS advised on over $1 trillion in announced M&A YTD, $220B ahead of nearest competitor",
+      "category": "revenue"
+    },
+    {
+      "text": "Record alternatives fundraising of $33B in Q3, bringing YTD to $70B; full-year guidance raised to ~$100B vs. prior expectations",
+      "category": "growth"
+    },
+    {
+      "text": "AWM management and other fees rose 12% YoY to a record $2.9B; combined durable revenues (mgmt fees + private banking/lending) hit record $4B in Q3 and $11B YTD",
+      "category": "revenue"
+    },
+    {
+      "text": "Returned $3.3B to shareholders in Q3 including $2B in buybacks and $1.3B in dividends; CET1 ratio of 14.4% vs. 10.9% requirement",
+      "category": "buybacks"
+    }
+  ],
+  "risks": [
+    {
+      "text": "Equities intermediation revenues fell 9% YoY driven by weaker cash equities performance against difficult prior-year comps (prior year period up ~30%)",
+      "category": "demand"
+    },
+    {
+      "text": "Non-comp expenses rose 14% YoY to $4.8B driven by higher transaction costs, charitable giving and litigation expenses, pressuring efficiency ratio",
+      "category": "margins"
+    },
+    {
+      "text": "Provision for credit losses of $339M primarily from net charge-offs in credit card portfolio; Apple Card exit timeline remains unresolved",
+      "category": "execution"
+    },
+    {
+      "text": "Management flagged potential for market cycle turn: 'investor exuberance' with equity markets at record highs and AI infrastructure investment creating risk of divergence where some ventures falter",
+      "category": "macro"
+    },
+    {
+      "text": "AWM incentive fees tracking well below $1B medium-term target; unrealized balance of $4.6B dependent on deal monetization environment to pull through P&L",
+      "category": "margins"
+    }
+  ],
+  "guidance": "raised",
+  "guidance_items": [
+    {
+      "line_item": "segment",
+      "direction": "raised",
+      "detail": "Full-year alternatives fundraising guidance raised to ~$100B, substantially exceeding prior full-year expectations; prior run-rate was ~$65B/year"
+    },
+    {
+      "line_item": "revenue",
+      "direction": "reaffirmed",
+      "detail": "AWM durable revenues (mgmt fees + private banking/lending) expected to grow high single digits annually over medium term, unchanged"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "Full-year effective tax rate expected at approximately 22%, unchanged"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "YTD comp ratio of 32.5% represents best estimate for full year, inclusive of higher severance costs"
+    }
+  ],
+  "themes": [
+    "m_and_a",
+    "enterprise_demand",
+    "ai",
+    "margin_expansion",
+    "buybacks",
+    "regulatory",
+    "product_launch",
+    "customer_wins"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Synthetic risk transfer (SRT) activity and what credit exposures are being moved off balance sheet",
+    "Specific risks from lending to non-bank financial institutions (NDFIs) and private credit counterparties including named troubled credits (First Brands, Tricolor)",
+    "Timeline and specific quantitative metrics for measuring One Goldman Sachs 3.0 success"
+  ],
+  "_ticker": "GS",
+  "_quarter": "Q3-2025",
+  "_call_date": "2025-10-15",
+  "overall_sentiment": 0.708,
+  "sentiment_bucket": "very_bullish"
+}

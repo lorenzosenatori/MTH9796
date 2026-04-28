@@ -1,0 +1,28 @@
+{
+  "line_items": [
+    {
+      "line_item": "revenue",
+      "result": "beat",
+      "reasoning": "Q1 actual revenue of $14.9B exceeded prior guidance of ~$14.6B by ~$300M (~2%), with YoY growth of 25% surpassing the guided 22%."
+    },
+    {
+      "line_item": "margins",
+      "result": "beat",
+      "reasoning": "Adjusted EBITDA came in at a record 68% of revenue, meaningfully above the guided ~66%, and infrastructure software gross/operating margins expanded well beyond expectations."
+    },
+    {
+      "line_item": "segment",
+      "result": "beat",
+      "reasoning": "AI revenue of $4.1B beat the guided ~$3.8B by ~8% (77% YoY vs. guided 65%), driven by stronger-than-expected hyperscaler networking shipments; infrastructure software ABV also exceeded the guided >$3B threshold."
+    },
+    {
+      "line_item": "other",
+      "result": "inline",
+      "reasoning": "No material deviations were reported on the non-GAAP tax rate, diluted share count, or dividend \u2014 all appear consistent with prior guidance, though free cash flow was pressured by debt and tax headwinds not explicitly guided against."
+    }
+  ],
+  "overall_surprise": "beat",
+  "_ticker": "AVGO",
+  "_quarter": "Q1-2025",
+  "_prior_quarter": "Q4-2024"
+}

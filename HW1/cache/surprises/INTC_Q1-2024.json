@@ -1,0 +1,33 @@
+{
+  "line_items": [
+    {
+      "line_item": "revenue",
+      "result": "inline",
+      "reasoning": "Q1 revenue of $12.7B landed exactly at the midpoint of the guided $12.2B\u2013$13.2B range, matching guidance precisely."
+    },
+    {
+      "line_item": "margins",
+      "result": "beat",
+      "reasoning": "Gross margin of 45.1% came in 60 basis points above the guided ~44.5%, despite peak 5-nodes-in-4-years start-up costs pressuring the foundry segment."
+    },
+    {
+      "line_item": "eps",
+      "result": "beat",
+      "reasoning": "Q1 EPS of $0.18 exceeded the guided $0.13 by $0.05, driven by operating spending discipline and strong sell-through of previously reserved inventory."
+    },
+    {
+      "line_item": "capex",
+      "result": "inline",
+      "reasoning": "No specific capex figures were reported to contradict the prior guidance of rising gross CapEx in 2024 and net CapEx in the mid-30s % of revenue aggregate; no deviation was flagged."
+    },
+    {
+      "line_item": "other",
+      "result": "inline",
+      "reasoning": "No update contradicted the roughly breakeven adjusted free cash flow target for full-year 2024, and long-term margin targets were not revised, keeping this guidance intact."
+    }
+  ],
+  "overall_surprise": "beat",
+  "_ticker": "INTC",
+  "_quarter": "Q1-2024",
+  "_prior_quarter": "Q4-2023"
+}

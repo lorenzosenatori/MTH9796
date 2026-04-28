@@ -1,0 +1,28 @@
+{
+  "line_items": [
+    {
+      "line_item": "revenue",
+      "result": "inline",
+      "reasoning": "NII came in at the upper half of the guided -7% to -9% range (now -8% to -9%), reflecting weaker loan balances and a surprise sweep deposit repricing headwind, but noninterest income surged 19% YoY, broadly offsetting the NII shortfall and sustaining the sixth consecutive quarter of YoY revenue growth \u2014 net result is roughly in line with the overall revenue outlook."
+    },
+    {
+      "line_item": "eps",
+      "result": "beat",
+      "reasoning": "Q2 EPS of $1.33 grew sequentially from Q1's $1.20 and year-over-year, clearly exceeding the prior quarter's reaffirmed earnings outlook which carried a $0.06 FDIC drag and implied no meaningful improvement."
+    },
+    {
+      "line_item": "other",
+      "result": "miss",
+      "reasoning": "Full-year 2024 noninterest expense guidance was raised to ~$54B from the previously reaffirmed ~$52.6B, a ~$1.4B increase driven by elevated operating losses/customer remediation accruals, an additional FDIC special assessment, and higher WIM revenue-related compensation \u2014 a clear miss versus prior guidance."
+    },
+    {
+      "line_item": "capex",
+      "result": "miss",
+      "reasoning": "Despite prior guidance that no step-up in the expense base was anticipated for CIB/trading investments, the overall expense base was raised materially to ~$54B, with higher WIM revenue-related comp and operating losses indicating the cost envelope expanded beyond what was guided."
+    }
+  ],
+  "overall_surprise": "mixed",
+  "_ticker": "WFC",
+  "_quarter": "Q2-2024",
+  "_prior_quarter": "Q1-2024"
+}

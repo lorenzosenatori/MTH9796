@@ -1,0 +1,28 @@
+{
+  "line_items": [
+    {
+      "line_item": "revenue",
+      "result": "beat",
+      "reasoning": "Q2 revenues declined 8% reported (9% currency-neutral), landing at the better end of the guided -8% to -10% YoY range, technically matching the top of guidance \u2014 a modest beat relative to the midpoint."
+    },
+    {
+      "line_item": "margins",
+      "result": "beat",
+      "reasoning": "Q2 gross margins contracted only ~100 bps to 43.6%, meaningfully better than the guided ~150 bps decline, indicating stronger-than-expected gross margin performance."
+    },
+    {
+      "line_item": "other",
+      "result": "inline",
+      "reasoning": "No explicit data contradicts the guided SG&A roughly flat YoY, net interest income of $30M\u2013$40M, or high-teens effective tax rate, suggesting these items came in broadly as expected."
+    },
+    {
+      "line_item": "segment",
+      "result": "inline",
+      "reasoning": "NIKE Digital declined 21% in Q2 (consistent with the guided full-year double-digit decline trajectory), Jordan and classics franchise headwinds appear to be tracking in line with the guided deterioration, with no evidence of material outperformance or underperformance versus segment-level guidance."
+    }
+  ],
+  "overall_surprise": "beat",
+  "_ticker": "NKE",
+  "_quarter": "Q2-2025",
+  "_prior_quarter": "Q1-2025"
+}

@@ -1,0 +1,33 @@
+{
+  "line_items": [
+    {
+      "line_item": "revenue",
+      "result": "beat",
+      "reasoning": "Q1-2024 NII ex-Markets was revised up slightly to ~$89B (from the prior $88B guide), and total revenue of $42.5B annualizes well above the ~$90B total NII guide, with IB fees surging 21% YoY and First Republic contributing above-plan revenue, all pointing to a clear beat vs. the conservative Q4-2023 revenue guidance."
+    },
+    {
+      "line_item": "margins",
+      "result": "beat",
+      "reasoning": "ROTCE came in at 21% in Q1-2024, materially above the guided normalization toward ~17% through-the-cycle, though card net charge-offs are rising and deposit margin compression continues as guided."
+    },
+    {
+      "line_item": "eps",
+      "result": "miss",
+      "reasoning": "Card net charge-offs rose $825M YoY with a reserve build expected in the back half of 2024, suggesting the card NCO rate is tracking above the guided <3.5% ceiling for full-year 2024."
+    },
+    {
+      "line_item": "other",
+      "result": "miss",
+      "reasoning": "Q1-2024 expenses came in at $22B (up 9% YoY), driven in part by a $725M incremental FDIC special assessment, putting the annualized run rate above the ~$90B full-year adjusted expense guide."
+    },
+    {
+      "line_item": "other",
+      "result": "inline",
+      "reasoning": "Buybacks remained at ~$2B/quarter as guided, with the pace unchanged pending Basel III end-game and SCB clarity, exactly in line with prior guidance."
+    }
+  ],
+  "overall_surprise": "mixed",
+  "_ticker": "JPM",
+  "_quarter": "Q1-2024",
+  "_prior_quarter": "Q4-2023"
+}

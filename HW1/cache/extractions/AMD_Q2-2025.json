@@ -1,0 +1,98 @@
+{
+  "prepared_sentiment": 0.72,
+  "qa_sentiment": 0.58,
+  "management_confidence": 0.78,
+  "qa_defensiveness": 0.2,
+  "wins": [
+    {
+      "text": "Record Q2 revenue of $7.7B, up 32% YoY, exceeding guidance midpoint despite $800M MI308 export control headwind",
+      "category": "revenue"
+    },
+    {
+      "text": "Client & Gaming segment revenue surged 69% YoY to $3.6B, with record Client CPU sales of $2.5B (up 67% YoY) and Gaming up 73% YoY to $1.1B",
+      "category": "revenue"
+    },
+    {
+      "text": "EPYC delivered 33rd consecutive quarter of YoY server CPU share gains; record cloud and enterprise CPU sales with Turin ramping significantly",
+      "category": "customer"
+    },
+    {
+      "text": "Record free cash flow of $1.2B in Q2; $1.2B in share repurchases in H1 2025 with $9.5B remaining under buyback authorization",
+      "category": "buybacks"
+    },
+    {
+      "text": "MI350 series entered volume production ahead of schedule in June; Oracle building 27,000+ node cluster with MI355X, Turin CPUs and Pollara 400 NICs; HUMAIN multibillion-dollar sovereign AI collaboration announced",
+      "category": "product"
+    }
+  ],
+  "risks": [
+    {
+      "text": "U.S. export controls eliminated MI308 sales to China, triggering an $800M inventory write-down and reducing Q2 GAAP gross margin by ~10 points to 43%; no MI308 revenue included in Q3 guidance",
+      "category": "regulatory"
+    },
+    {
+      "text": "Data Center segment swung to an operating loss of $155M in Q2 vs. $743M operating income a year ago, entirely due to the export control inventory charges",
+      "category": "margins"
+    },
+    {
+      "text": "MI308 China inventory is mostly WIP, requiring several quarters to ramp once licenses are approved, creating uncertainty around timing and magnitude of revenue recovery",
+      "category": "supply_chain"
+    },
+    {
+      "text": "Embedded segment revenue declined 4% YoY to $824M with mixed end-market demand and pockets of industrial customer inventory reduction actions",
+      "category": "demand"
+    },
+    {
+      "text": "Gaming segment (console semi-custom) expected to decline strongly double-digits in Q4 2025 as customers complete holiday season inventory builds, pressuring Client & Gaming segment sequentially",
+      "category": "demand"
+    }
+  ],
+  "guidance": "raised",
+  "guidance_items": [
+    {
+      "line_item": "revenue",
+      "direction": "raised",
+      "detail": "Q3 2025 revenue guided to ~$8.7B \u00b1$300M, representing ~28% YoY growth and ~13% sequential growth; well above Q2 record of $7.7B"
+    },
+    {
+      "line_item": "margins",
+      "direction": "reaffirmed",
+      "detail": "Q3 non-GAAP gross margin guided to ~54%, roughly flat with Q2 ex-charges, reflecting MI350 ramp offset by operational efficiency gains"
+    },
+    {
+      "line_item": "segment",
+      "direction": "raised",
+      "detail": "Data Center segment expected strong double-digit sequential growth in Q3 driven by MI350 series ramp; Instinct GPU revenue expected to grow YoY in Q3"
+    },
+    {
+      "line_item": "segment",
+      "direction": "raised",
+      "detail": "Client & Gaming segment expected modest sequential growth in Q3; Client up, Gaming flattish; Embedded returns to sequential growth"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "Q3 non-GAAP opex ~$2.55B; non-GAAP tax rate 13%; net interest/other ~$10M gain; diluted share count ~1.63B"
+    }
+  ],
+  "themes": [
+    "ai",
+    "data_center",
+    "regulatory",
+    "china_exposure",
+    "product_launch",
+    "customer_wins",
+    "buybacks",
+    "margin_expansion"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Specific sizing and timeline for MI308 China revenue recovery once licenses are approved, including inventory ramp mechanics",
+    "Gross margin trajectory for MI GPU products and the revenue scale required for them to become accretive to corporate margins",
+    "Specific quantitative milestones or time frame for reaching 'tens of billions' in AI GPU revenue (e.g., 2027 feasibility)"
+  ],
+  "_ticker": "AMD",
+  "_quarter": "Q2-2025",
+  "_call_date": "2025-08-05",
+  "overall_sentiment": 0.664,
+  "sentiment_bucket": "bullish"
+}

@@ -1,0 +1,33 @@
+{
+  "line_items": [
+    {
+      "line_item": "revenue",
+      "result": "miss",
+      "reasoning": "WFC revised NII guidance to the low end of the prior 1%-3% growth range, citing rate path uncertainty, weaker loan growth, and a 40-50 bps downward shift in the forward curve \u2014 falling short of the midpoint of their own prior guidance."
+    },
+    {
+      "line_item": "eps",
+      "result": "beat",
+      "reasoning": "Diluted EPS grew 16% YoY to $1.39, driven by NII, fee income, and an 8% YoY reduction in diluted share count from buybacks, tracking ahead of the implicit EPS improvement trajectory guided for 2025."
+    },
+    {
+      "line_item": "margins",
+      "result": "inline",
+      "reasoning": "ROTCE progress continues (net charge-off ratio improved, credit quality broadly stable), but the 15% sustainable ROTCE target remains a full-year aspiration with no explicit Q1 overshoot or undershoot reported against that path."
+    },
+    {
+      "line_item": "other",
+      "result": "beat",
+      "reasoning": "Noninterest expense declined 3% YoY in Q1, and the company absorbed the guided $650M-$700M seasonal personnel headwind while still delivering year-over-year expense reduction, tracking favorably vs. the ~$54.2B full-year expense target."
+    },
+    {
+      "line_item": "capex",
+      "result": "inline",
+      "reasoning": "No specific Q1 capex figures were reported to contradict the planned ~$900M incremental technology and ~$900M other investment targets; efficiency savings continue to fund investments as guided."
+    }
+  ],
+  "overall_surprise": "mixed",
+  "_ticker": "WFC",
+  "_quarter": "Q1-2025",
+  "_prior_quarter": "Q4-2024"
+}

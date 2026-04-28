@@ -1,0 +1,33 @@
+{
+  "line_items": [
+    {
+      "line_item": "revenue",
+      "result": "beat",
+      "reasoning": "Guidance called for Q2 revenues down low single digits; while NIKE Direct declined 9% globally, North America grew 9% and wholesale grew 8% globally, suggesting overall revenue performance was better than the low-single-digit decline guided \u2014 though NIKE Direct did not return to growth as expected (which was already guided as not expected)."
+    },
+    {
+      "line_item": "margins",
+      "result": "beat",
+      "reasoning": "Guidance called for Q2 gross margins down ~300-375 bps including 175 bps of tariff headwind; North America gross margins declined only 330 bps despite a 520 bps tariff headwind, and the net tariff impact was reduced to ~120 bps, suggesting underlying margin performance came in better than the guided range."
+    },
+    {
+      "line_item": "other (SG&A)",
+      "result": "inline",
+      "reasoning": "Guidance called for Q2 SG&A up high single digits driven by demand creation acceleration; no explicit SG&A figure was reported in the current results to confirm a clear beat or miss, so this is treated as inline."
+    },
+    {
+      "line_item": "segment",
+      "result": "beat",
+      "reasoning": "Guidance called for wholesale to return to modest growth and North America to lead recovery; wholesale grew 8% globally (North America wholesale up 24%) and Running grew 20%+ for a second consecutive quarter, clearly exceeding 'modest growth' expectations."
+    },
+    {
+      "line_item": "other (tax rate)",
+      "result": "inline",
+      "reasoning": "Guidance called for a low 20% tax rate for FY26; no specific Q2 tax rate was reported in the current results to indicate a deviation, so this is treated as inline."
+    }
+  ],
+  "overall_surprise": "mixed",
+  "_ticker": "NKE",
+  "_quarter": "Q2-2026",
+  "_prior_quarter": "Q1-2026"
+}

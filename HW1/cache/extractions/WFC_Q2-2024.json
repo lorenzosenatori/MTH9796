@@ -1,0 +1,93 @@
+{
+  "prepared_sentiment": 0.2,
+  "qa_sentiment": 0.05,
+  "management_confidence": 0.62,
+  "qa_defensiveness": 0.3,
+  "wins": [
+    {
+      "text": "Noninterest income increased 19% YoY with growth across most categories, more than offsetting the expected NII decline; sixth consecutive quarter of YoY revenue growth",
+      "category": "revenue"
+    },
+    {
+      "text": "EPS of $1.33 per diluted share grew from both Q1 and a year ago, with net income of $4.9 billion",
+      "category": "revenue"
+    },
+    {
+      "text": "Repurchased $6.1 billion of common stock in Q2 and over $12 billion in H1 2024; announced 14% dividend increase to $0.40/share in Q3",
+      "category": "buybacks"
+    },
+    {
+      "text": "Markets revenue grew 16% YoY driven by strong performance in equities, structured products and credit; trading assets up ~17% on average",
+      "category": "growth"
+    },
+    {
+      "text": "CET1 ratio of 11% remains well above current 8.9% regulatory minimum plus buffers and above the new 9.8% minimum effective Q4 2024",
+      "category": "other"
+    }
+  ],
+  "risks": [
+    {
+      "text": "Full-year 2024 NII now guided to down ~8%-9% vs. 2023, remaining in the upper half of original range but reflecting weaker-than-expected loan balances and a surprise ~$350M headwind from WIM sweep deposit repricing in June",
+      "category": "margins"
+    },
+    {
+      "text": "Full-year 2024 noninterest expense guidance raised to ~$54B from original ~$52.6B, driven by higher operating losses/customer remediation accruals (~$500M above run rate YTD), $336M FDIC special assessment, and higher WIM revenue-related comp",
+      "category": "execution"
+    },
+    {
+      "text": "Commercial real estate office losses remain elevated and lumpy; nonperforming assets rose 5% QoQ driven by higher CRE office nonaccruals; office commitment down 13% and loan balances down 9% YoY but uncertainty persists",
+      "category": "margins"
+    },
+    {
+      "text": "Average loans declined from both Q1 and a year ago across most categories; tepid commercial loan demand expected to persist with balances declining slightly from Q2 levels into H2 2024",
+      "category": "demand"
+    },
+    {
+      "text": "Asset cap continues to constrain trading and markets business growth; Basel III finalization uncertainty causing management to slow buyback pace and maintain conservative capital posture near 11% CET1",
+      "category": "regulatory"
+    }
+  ],
+  "guidance": "mixed",
+  "guidance_items": [
+    {
+      "line_item": "revenue",
+      "direction": "lowered",
+      "detail": "Full-year 2024 NII now expected to be down ~8%-9% vs. 2023 (upper half of original -7% to -9% range), reflecting weaker loan balances and ~$350M WIM sweep repricing headwind not in original guide"
+    },
+    {
+      "line_item": "other",
+      "direction": "lowered",
+      "detail": "Full-year 2024 noninterest expense raised to ~$54B from original ~$52.6B guidance, driven by higher operating losses/remediation (~$500M above run rate YTD), $336M FDIC special assessment, and higher WIM revenue-related comp"
+    },
+    {
+      "line_item": "other",
+      "direction": "raised",
+      "detail": "Q3 common stock dividend expected to increase 14% to $0.40/share, subject to Board approval"
+    },
+    {
+      "line_item": "segment",
+      "direction": "reaffirmed",
+      "detail": "WIM advisory asset-based fees expected to increase in Q3 based on higher market valuations as of July 1 vs. April 1; credit card charge-off rate expected to decline in Q3"
+    }
+  ],
+  "themes": [
+    "margin_pressure",
+    "buybacks",
+    "dividends",
+    "regulatory",
+    "enterprise_demand",
+    "macro_headwinds",
+    "ai",
+    "customer_wins"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Rationale and competitive context for the WIM sweep deposit repricing decision in June",
+    "Sustainability and market share trajectory of trading/markets revenue going forward",
+    "Granular breakdown of operating loss and remediation expense overages vs. original guidance"
+  ],
+  "_ticker": "WFC",
+  "_quarter": "Q2-2024",
+  "_call_date": "2024-07-12",
+  "overall_sentiment": 0.14,
+  "sentiment_bucket": "slightly_bullish"
+}

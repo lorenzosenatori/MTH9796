@@ -1,0 +1,98 @@
+{
+  "prepared_sentiment": 0.72,
+  "qa_sentiment": 0.52,
+  "management_confidence": 0.78,
+  "qa_defensiveness": 0.22,
+  "wins": [
+    {
+      "text": "FEC revenue grew 10% YoY with adjusted operating income up 18% ($252M), marking the sixth consecutive quarter of margin expansion (+50 bps)",
+      "category": "margins"
+    },
+    {
+      "text": "Consolidated Q3 revenue up 8% YoY; December delivered the best monthly revenue performance in company history",
+      "category": "revenue"
+    },
+    {
+      "text": "FY'26 adjusted EPS guidance raised to $19.30\u2013$20.10 from prior $17.80\u2013$19.00, a midpoint increase of ~$1.30",
+      "category": "other"
+    },
+    {
+      "text": "FY'26 CapEx reduced to no more than $4.1B, down at least $400M from the prior $4.5B forecast, supporting upside to $3.8B adjusted free cash flow target",
+      "category": "cost_savings"
+    },
+    {
+      "text": "Transformation savings expected to exceed $1B target for FY'26; $2B cumulative savings from Network 2.0 and One FedEx initiatives on track by end of 2027",
+      "category": "cost_savings"
+    }
+  ],
+  "risks": [
+    {
+      "text": "MD-11 fleet grounding created a $120M adjusted operating income headwind in Q3, with an additional up to $55M headwind expected in Q4 as aircraft begin returning to service late in the quarter",
+      "category": "execution"
+    },
+    {
+      "text": "FedEx Freight adjusted operating income declined $127M YoY; shipments down 6%, revenue down 5%, with ~$60M in separation-related costs not adjusted out; full-year freight AOI headwind now expected at $400M vs. prior $300M",
+      "category": "margins"
+    },
+    {
+      "text": "Iran/Middle East conflict creating network disruption and a modest profit headwind in Q4; ~20% of air cargo capacity temporarily removed from market at peak of conflict",
+      "category": "macro"
+    },
+    {
+      "text": "Global trade policy changes (transpacific capacity cut ~15\u201325%) and de minimis rule changes creating ongoing revenue and profit headwinds, partially offset by transformation savings",
+      "category": "regulatory"
+    },
+    {
+      "text": "Q4 faces ~$0.10 EPS headwind from higher share count (~242M shares) due to no incremental buybacks and higher interest costs from FedEx Freight's $3.7B debt issuance",
+      "category": "other"
+    }
+  ],
+  "guidance": "raised",
+  "guidance_items": [
+    {
+      "line_item": "eps",
+      "direction": "raised",
+      "detail": "FY'26 adjusted diluted EPS raised to $19.30\u2013$20.10 from prior $17.80\u2013$19.00; Q4 midpoint implies ~$5.80 adjusted EPS"
+    },
+    {
+      "line_item": "revenue",
+      "direction": "raised",
+      "detail": "FY'26 consolidated revenue growth now expected at 6%\u20136.5% vs. prior 5%\u20136%; Q4 consolidated revenue growth guided to 6%\u20137.5%"
+    },
+    {
+      "line_item": "segment",
+      "direction": "raised",
+      "detail": "FEC full-year revenue growth midpoint now implies ~8% YoY; Q4 FEC revenue growth guided at ~8% at midpoint"
+    },
+    {
+      "line_item": "segment",
+      "direction": "lowered",
+      "detail": "FedEx Freight FY'26 revenue now expected down low single digits YoY; Q4 revenue flat to down slightly"
+    },
+    {
+      "line_item": "capex",
+      "direction": "lowered",
+      "detail": "FY'26 CapEx now expected no more than $4.1B, down at least $400M from prior $4.5B forecast"
+    }
+  ],
+  "themes": [
+    "margin_expansion",
+    "cost_cutting",
+    "product_launch",
+    "customer_wins",
+    "supply_chain",
+    "restructuring",
+    "capex",
+    "geopolitical"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Sustainability of simultaneous volume and yield growth \u2014 analysts questioned whether this is repeatable and how it compares to the broader freight market",
+    "Amazon volume onboarding contribution to ground/home delivery growth \u2014 management had not proactively quantified or named Amazon in prepared remarks",
+    "FedEx Freight margin trajectory at a 5-year low and whether top-line weakness is company-specific vs. purely macro-driven"
+  ],
+  "_ticker": "FDX",
+  "_quarter": "Q3-2026",
+  "_call_date": "2026-03-19",
+  "overall_sentiment": 0.64,
+  "sentiment_bucket": "bullish"
+}

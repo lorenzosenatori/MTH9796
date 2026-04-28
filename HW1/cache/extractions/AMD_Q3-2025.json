@@ -1,0 +1,98 @@
+{
+  "prepared_sentiment": 0.85,
+  "qa_sentiment": 0.72,
+  "management_confidence": 0.88,
+  "qa_defensiveness": 0.25,
+  "wins": [
+    {
+      "text": "Record Q3 revenue of $9.2B, up 36% YoY, exceeding the high end of guidance; free cash flow more than tripled to a record $1.5B",
+      "category": "revenue"
+    },
+    {
+      "text": "Data center segment revenue hit a record $4.3B, up 22% YoY and 34% sequentially, driven by MI350 Series GPU ramp and 5th Gen EPYC Turin adoption",
+      "category": "revenue"
+    },
+    {
+      "text": "Client & gaming segment revenue surged 73% YoY to a record $4.0B; gaming revenue up 181% YoY to $1.3B on semi-custom and Radeon 9000 strength",
+      "category": "revenue"
+    },
+    {
+      "text": "Announced comprehensive multiyear agreement with OpenAI to deploy 6 gigawatts of Instinct GPUs, with first gigawatt of MI450 Series starting in H2 2026, with potential to generate well over $100B in revenue over the next few years",
+      "category": "customer"
+    },
+    {
+      "text": "Diluted EPS of $1.20, up 30% YoY; gross margin of 54%, up 40 bps YoY; client & gaming segment operating income expanded to 21% of revenue from 12% a year ago",
+      "category": "margins"
+    }
+  ],
+  "risks": [
+    {
+      "text": "MI308 GPU shipments to China excluded from both Q3 actuals and Q4 guidance due to export licensing uncertainty, representing a meaningful revenue swing factor",
+      "category": "regulatory"
+    },
+    {
+      "text": "Data center segment operating margin declined to 25% from 29% a year ago as aggressive R&D investment offsets revenue growth",
+      "category": "margins"
+    },
+    {
+      "text": "Embedded segment revenue declined 8% YoY to $857M with operating margin compressing to 33% from 40% a year ago on lower revenue and end market mix",
+      "category": "demand"
+    },
+    {
+      "text": "Power availability, supply chain tightness across memory, packaging and components flagged as potential gating factors for large-scale MI450/Helios deployments in 2026",
+      "category": "supply_chain"
+    },
+    {
+      "text": "Customer concentration risk flagged by analysts: OpenAI could represent a very large share of data center GPU revenue in 2027-2028, with AMD acknowledging the need to broaden its customer base",
+      "category": "customer_concentration"
+    }
+  ],
+  "guidance": "raised",
+  "guidance_items": [
+    {
+      "line_item": "revenue",
+      "direction": "raised",
+      "detail": "Q4 2025 revenue guided to ~$9.6B +/- $300M, representing ~25% YoY growth and ~4% sequential growth; above Q3 actuals of $9.2B which already beat the high end of prior guidance"
+    },
+    {
+      "line_item": "margins",
+      "direction": "raised",
+      "detail": "Q4 non-GAAP gross margin guided to ~54.5%, up from 54.0% in Q3"
+    },
+    {
+      "line_item": "segment",
+      "direction": "raised",
+      "detail": "Data center expected up double digits sequentially; embedded expected to return to growth (double-digit QoQ); client up sequentially"
+    },
+    {
+      "line_item": "segment",
+      "direction": "lowered",
+      "detail": "Gaming revenue expected down strong double digits sequentially in Q4 after holiday semi-custom pull-forward"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "Non-GAAP opex ~$2.8B; non-GAAP tax rate 13%; diluted share count ~1.65B; net interest/other expected to be a gain of ~$37M"
+    }
+  ],
+  "themes": [
+    "ai",
+    "data_center",
+    "product_launch",
+    "customer_wins",
+    "supply_chain",
+    "regulatory",
+    "margin_expansion",
+    "enterprise_demand"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "MI308 China export license status and potential revenue upside if restrictions ease",
+    "Customer concentration risk around OpenAI potentially representing a disproportionate share of GPU revenue in 2027-2028",
+    "GPU useful life extension by CSPs and whether hyperscalers are sweating older-generation hardware longer than depreciation schedules suggest"
+  ],
+  "_ticker": "AMD",
+  "_quarter": "Q3-2025",
+  "_call_date": "2025-11-04",
+  "overall_sentiment": 0.798,
+  "sentiment_bucket": "very_bullish"
+}

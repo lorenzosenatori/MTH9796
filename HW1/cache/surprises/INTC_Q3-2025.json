@@ -1,0 +1,33 @@
+{
+  "line_items": [
+    {
+      "line_item": "revenue",
+      "result": "beat",
+      "reasoning": "Q3 revenue of $13.7B came in above the high end of the guided range of $12.6B\u2013$13.6B, marking the fourth consecutive quarter of revenue above guidance."
+    },
+    {
+      "line_item": "margins",
+      "result": "beat",
+      "reasoning": "Non-GAAP gross margin of 40% was 4 percentage points above the guided ~36%, driven by higher revenue, favorable mix, and lower inventory reserves."
+    },
+    {
+      "line_item": "eps",
+      "result": "beat",
+      "reasoning": "Q3 non-GAAP EPS of $0.23 significantly exceeded the guided breakeven, driven by stronger revenue, margins, and cost discipline."
+    },
+    {
+      "line_item": "capex",
+      "result": "inline",
+      "reasoning": "No specific Q3 CapEx update was reported that contradicts the prior guidance of ~$18B gross / $8B\u2013$11B net for 2025; the secured ~$20B in cash supports the funding framework but does not indicate a CapEx deviation."
+    },
+    {
+      "line_item": "other",
+      "result": "inline",
+      "reasoning": "No explicit update contradicting the reaffirmed 2025 OpEx target of $17B or the 75,000 headcount goal was reported, suggesting execution remains on track with prior guidance."
+    }
+  ],
+  "overall_surprise": "beat",
+  "_ticker": "INTC",
+  "_quarter": "Q3-2025",
+  "_prior_quarter": "Q2-2025"
+}

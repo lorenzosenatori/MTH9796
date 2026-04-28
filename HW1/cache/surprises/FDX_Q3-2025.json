@@ -1,0 +1,33 @@
+{
+  "line_items": [
+    {
+      "line_item": "eps",
+      "result": "miss",
+      "reasoning": "FY'25 adjusted EPS guidance was cut again to $18.00\u2013$18.60 from the prior $19.00\u2013$20.00 range, falling well short of the midpoint FDX had guided to last quarter."
+    },
+    {
+      "line_item": "revenue",
+      "result": "miss",
+      "reasoning": "The revenue-net-of-costs headwind widened by $400M to $1.1B for FY'25, driven by yield pressure and demand mix shift, indicating revenue came in below even the low-end flat-to-slight-decline scenario guided last quarter."
+    },
+    {
+      "line_item": "margins",
+      "result": "mixed",
+      "reasoning": "Federal Express adjusted operating income grew 17% YoY (a beat on that segment), but FedEx Freight operating profit declined $80M YoY with continued headwinds, falling short of the guided margin contraction expectation in magnitude and trajectory."
+    },
+    {
+      "line_item": "capex",
+      "result": "beat",
+      "reasoning": "FY'25 CapEx was reduced to $4.9B versus the guided $5.2B, coming in better (lower) than the reaffirmed target."
+    },
+    {
+      "line_item": "other",
+      "result": "beat",
+      "reasoning": "DRIVE savings reached $600M in Q3 (up from $540M in Q2 and $390M in Q1), confirming the sequential build and keeping the $2.2B incremental FY'25 target firmly on track as guided."
+    }
+  ],
+  "overall_surprise": "miss",
+  "_ticker": "FDX",
+  "_quarter": "Q3-2025",
+  "_prior_quarter": "Q2-2025"
+}

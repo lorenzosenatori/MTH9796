@@ -1,0 +1,33 @@
+{
+  "line_items": [
+    {
+      "line_item": "Core G&A Expense (low-teens % increase in 2025)",
+      "result": "inline",
+      "reasoning": "No explicit commentary contradicts the low-teens G&A guidance; margin pressure was attributed to performance fees and acquisition-related compensation, not a G&A overshoot, suggesting G&A tracked in line with guidance."
+    },
+    {
+      "line_item": "Q4 Share Repurchases (at least $375M)",
+      "result": "beat",
+      "reasoning": "BLK returned a record $5B to shareholders in 2025 via dividends and buybacks, and the Board approved $1.8B in planned 2026 repurchases, strongly implying Q4 buybacks well exceeded the $375M floor."
+    },
+    {
+      "line_item": "Q4 As-Adjusted Tax Rate (25%)",
+      "result": "inline",
+      "reasoning": "No reported deviation from the 25% projected as-adjusted tax rate was flagged in the results, suggesting it came in as guided."
+    },
+    {
+      "line_item": "HPS Management & Performance Fees (Q3 as starting point; performance fees slightly lower in Q4)",
+      "result": "inline",
+      "reasoning": "Results note margin pressure from performance fees and acquisition-related compensation but do not explicitly indicate HPS fees came in above or below the Q3 baseline guidance, pointing to an in-line outcome."
+    },
+    {
+      "line_item": "Long-Term Organic Base Fee Growth (5%+ target; 6-7%+ confidence)",
+      "result": "beat",
+      "reasoning": "Q4 organic base fee growth came in at 12% and full-year at 9%, with 6%+ growth achieved in every single quarter of 2025, clearly exceeding both the 5%+ target and the 6-7%+ confidence range."
+    }
+  ],
+  "overall_surprise": "beat",
+  "_ticker": "BLK",
+  "_quarter": "Q4-2025",
+  "_prior_quarter": "Q3-2025"
+}

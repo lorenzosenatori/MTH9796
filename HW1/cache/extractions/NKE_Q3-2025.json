@@ -1,0 +1,93 @@
+{
+  "prepared_sentiment": -0.25,
+  "qa_sentiment": -0.1,
+  "management_confidence": 0.62,
+  "qa_defensiveness": 0.25,
+  "wins": [
+    {
+      "text": "Running grew mid-single digits in Q3, with Vomero 18 launching across 1,800+ doors and Peg Premium seed pairs nearly selling out in North America; plans to double Vomero 18 distribution by mid-April",
+      "category": "product"
+    },
+    {
+      "text": "Vomero 5 doubled its revenue in Q3; Nike Shox grew revenue by over 10x in the last 3 quarters, signaling early sportswear diversification traction",
+      "category": "growth"
+    },
+    {
+      "text": "24/7 apparel collection first-month sales exceeded expectations with capacity being ramped up to meet demand",
+      "category": "product"
+    },
+    {
+      "text": "NIKE Digital North America reduced promotional days from 30+ in Jan-Feb 2024 to zero in Jan-Feb 2025, resulting in several percentage point improvement in full-price demand",
+      "category": "margins"
+    },
+    {
+      "text": "Demand creation expenses grew high single digits (~8%) YoY, driving outsized brand impact at Super Bowl and NBA All-Star Weekend; NIKE San Francisco flagship had its best commercial day in 10 years",
+      "category": "customer"
+    }
+  ],
+  "risks": [
+    {
+      "text": "Total revenues declined 9% reported / 7% currency-neutral in Q3; double-digit declines in January and February following a strong December holiday period",
+      "category": "demand"
+    },
+    {
+      "text": "Gross margins declined 330 bps to 41.5% due to higher markdowns on NIKE Direct, higher wholesale discounts, inventory obsolescence, product costs, and channel mix headwinds",
+      "category": "margins"
+    },
+    {
+      "text": "Greater China revenue declined 15% with wholesale down 18% and EBIT down 42%; traffic declined double digits and retail sales underperformed plan amid aggressive competitive and promotional dynamics",
+      "category": "demand"
+    },
+    {
+      "text": "Q4 revenue guided down mid-teens range with gross margins expected down 400-500 bps; digital traffic expected down double digits in fiscal '26 as NIKE repositions its digital business",
+      "category": "execution"
+    },
+    {
+      "text": "Inventory remains elevated across all geographies; Air Jordan 1 and Dunk inventory still elevated with continued liquidation actions required through H1 fiscal '26; newly implemented tariffs on imports from China and Mexico creating additional margin headwinds",
+      "category": "supply_chain"
+    }
+  ],
+  "guidance": "mixed",
+  "guidance_items": [
+    {
+      "line_item": "revenue",
+      "direction": "lowered",
+      "detail": "Q4 revenues expected down mid-teens range (low end), including several points of unfavorable shipment timing in North America and ~2 points of FX headwind; digital traffic expected down double digits in FY26"
+    },
+    {
+      "line_item": "margins",
+      "direction": "lowered",
+      "detail": "Q4 gross margins expected down ~400-500 bps, including restructuring charges in prior year and estimated impact from new tariffs on imports from China and Mexico"
+    },
+    {
+      "line_item": "other",
+      "direction": "lowered",
+      "detail": "Q4 SG&A dollars expected up low to mid-single digits, including prior-year restructuring charges; other income/expense (net interest income) expected $45M-$55M for Q4"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "Full-year effective tax rate expected in mid-teens range; second half plan described as in line with prior quarter communication with shifts between Q3 and Q4"
+    }
+  ],
+  "themes": [
+    "inventory",
+    "product_launch",
+    "margin_pressure",
+    "china_exposure",
+    "tariffs",
+    "restructuring",
+    "macro_headwinds",
+    "currency_fx"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Timeline for classic shoe inventory cleanup in wholesale vs. direct channels specifically",
+    "Long-term structural wholesale margin levels given current discount investments",
+    "Geographic progress ranking \u2014 which regions are furthest along vs. lagging in Win Now execution"
+  ],
+  "_ticker": "NKE",
+  "_quarter": "Q3-2025",
+  "_call_date": "2025-03-20",
+  "overall_sentiment": -0.19,
+  "sentiment_bucket": "slightly_bearish"
+}

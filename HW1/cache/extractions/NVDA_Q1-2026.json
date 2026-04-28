@@ -1,0 +1,93 @@
+{
+  "prepared_sentiment": 0.72,
+  "qa_sentiment": 0.55,
+  "management_confidence": 0.85,
+  "qa_defensiveness": 0.25,
+  "wins": [
+    {
+      "text": "Total revenue of $44B, up 69% YoY, exceeding outlook; Data Center revenue of $39B grew 73% YoY driven by Blackwell ramp",
+      "category": "revenue"
+    },
+    {
+      "text": "Gaming revenue hit a record $3.8B, up 48% sequentially and 42% YoY, with Blackwell the fastest gaming GPU ramp ever",
+      "category": "revenue"
+    },
+    {
+      "text": "Networking revenue surged 64% QoQ to $5B; Spectrum-X now annualizing over $8B in revenue with Google Cloud and Meta added as new customers",
+      "category": "customer"
+    },
+    {
+      "text": "Blackwell contributed nearly 70% of Data Center compute revenue; major hyperscalers each deploying ~1,000 NVL72 racks (~72,000 Blackwell GPUs) per week",
+      "category": "growth"
+    },
+    {
+      "text": "Returned a record $14.3B to shareholders via share repurchases and dividends in Q1",
+      "category": "buybacks"
+    }
+  ],
+  "risks": [
+    {
+      "text": "H20 export ban resulted in a $4.5B inventory/purchase obligation write-down and inability to ship $2.5B in Q1 revenue; Q2 outlook reflects ~$8B loss in H20 revenue with no replacement product currently available",
+      "category": "regulatory"
+    },
+    {
+      "text": "China AI accelerator market (~$50B TAM) effectively closed to NVIDIA with no compliant product to offer; foreign competitors stand to benefit",
+      "category": "regulatory"
+    },
+    {
+      "text": "GAAP and non-GAAP gross margins compressed to 60.5% and 61% respectively in Q1 due to the $4.5B H20 charge; underlying margins of 71.3% only slightly above outlook",
+      "category": "margins"
+    },
+    {
+      "text": "Tariff-related uncertainty temporarily impacted Pro Visualization demand in Q1; revenue flat sequentially at $509M",
+      "category": "macro"
+    },
+    {
+      "text": "GB200 NVL rack systems described as 'complex to build,' with manufacturing yields and rack shipment ramp still in progress, creating execution risk on the Blackwell transition",
+      "category": "execution"
+    }
+  ],
+  "guidance": "raised",
+  "guidance_items": [
+    {
+      "line_item": "revenue",
+      "direction": "raised",
+      "detail": "Q2 total revenue guided to $45B +/- 2%, up from Q1's $44B; modest sequential growth expected across all platforms despite ~$8B H20 headwind"
+    },
+    {
+      "line_item": "margins",
+      "direction": "raised",
+      "detail": "Q2 GAAP/non-GAAP gross margins guided to 71.8%/72% +/- 50bps, recovering sharply from Q1's 60.5%/61% impacted by H20 charge; targeting mid-70s range by late FY26"
+    },
+    {
+      "line_item": "eps",
+      "direction": "reaffirmed",
+      "detail": "GAAP/non-GAAP tax rates expected at 16.5% +/- 1%; other income ~$450M"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "Full-year FY26 operating expense growth expected in mid-30% range; Q2 GAAP/non-GAAP opex ~$5.7B and ~$4B respectively"
+    }
+  ],
+  "themes": [
+    "ai",
+    "data_center",
+    "china_exposure",
+    "regulatory",
+    "product_launch",
+    "customer_wins",
+    "buybacks",
+    "sovereign_ai"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Whether a new China-compliant SKU replacement for H20 is in development and timeline for re-entering the China market",
+    "Magnitude of the H20 revenue headwind relative to Street expectations and how much the non-China business is outperforming to offset it",
+    "Specific lead times and order backlog visibility for Blackwell given the surge in large sovereign/hyperscaler cluster announcements"
+  ],
+  "_ticker": "NVDA",
+  "_quarter": "Q1-2026",
+  "_call_date": "2025-05-28",
+  "overall_sentiment": 0.652,
+  "sentiment_bucket": "bullish"
+}

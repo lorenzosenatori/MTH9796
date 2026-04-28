@@ -1,0 +1,98 @@
+{
+  "prepared_sentiment": 0.52,
+  "qa_sentiment": 0.38,
+  "management_confidence": 0.72,
+  "qa_defensiveness": 0.32,
+  "wins": [
+    {
+      "text": "Record total financing revenues across FICC & Equities grew at 15% CAGR since 2019 to nearly $8 billion in 2023; Q4 FICC financing hit a record $739M",
+      "category": "revenue"
+    },
+    {
+      "text": "Total AUS reached a record $2.8 trillion, representing 24th consecutive quarter of long-term fee-based net inflows; alternatives AUS at $295B",
+      "category": "growth"
+    },
+    {
+      "text": "Surpassed $225B alternatives fundraising target one year ahead of schedule, reaching over $250B since 2020 Investor Day; guided to $40-50B in new alternatives raises for 2024",
+      "category": "other"
+    },
+    {
+      "text": "Full-year management and other fees of $9.5B on track to hit $10B target in 2024; alternatives management fees of $2.1B already surpassed $2B 2024 target",
+      "category": "revenue"
+    },
+    {
+      "text": "Returned $1.9B to shareholders in Q4 including $1B in buybacks at avg $311/share; achieved $600M run-rate payroll efficiency goal",
+      "category": "buybacks"
+    }
+  ],
+  "risks": [
+    {
+      "text": "Full-year ROE of ~8% reported (10% adjusted for charges) well below mid-teens target; $2.8B reduction to net earnings from strategic exits and FDIC special assessment of $529M",
+      "category": "execution"
+    },
+    {
+      "text": "FICC intermediation revenues down 24% YoY in Q4 to $2B, with activity particularly quiet in late November and December; full-year GBM revenues down 8%",
+      "category": "demand"
+    },
+    {
+      "text": "Basel III Endgame regulatory uncertainty constraining capital return posture; CET1 at 14.5% but management cautious on buybacks pending rule resolution",
+      "category": "regulatory"
+    },
+    {
+      "text": "CRE wholesale loan provisions driven by impairments roughly half related to CRE; office exposures marked at roughly 50% on prior calls",
+      "category": "margins"
+    },
+    {
+      "text": "Platform Solutions consumer drag expected to persist into 2024, though materially reduced; Apple card partnership exit timeline and financial impact remain unquantified",
+      "category": "execution"
+    }
+  ],
+  "guidance": "mixed",
+  "guidance_items": [
+    {
+      "line_item": "revenue",
+      "direction": "raised",
+      "detail": "Management and other fees guided to hit $10B target in 2024, up from $9.5B in 2023; alternatives management fees already exceeded $2B 2024 target in 2023"
+    },
+    {
+      "line_item": "other",
+      "direction": "raised",
+      "detail": "Alternatives fundraising expected to be $40-50B in 2024; on-balance sheet HPI reduction to continue toward zero over medium term, though at slower pace than 2023's $13B"
+    },
+    {
+      "line_item": "margins",
+      "direction": "raised",
+      "detail": "Efficiency ratio jumping-off point for 2024 cited as ~65% (adjusted), targeting 60% over time; Platform Solutions drag to be 'materially reduced' in 2024"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "Mid-teens ROE through-the-cycle target reaffirmed for both GBM and AWM segments; 25% AWM margin target reiterated"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "2024 effective tax rate guided to 22%-23%, up from 20.7% in 2023"
+    }
+  ],
+  "themes": [
+    "m_and_a",
+    "enterprise_demand",
+    "margin_expansion",
+    "regulatory",
+    "buybacks",
+    "inventory",
+    "macro_headwinds",
+    "china_exposure"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Apple card partnership exit financial impact and timeline",
+    "Lead Independent Director board governance transition following Bayo's firm sale to BlackRock",
+    "Basel III Endgame impact on specific ROTCE targets and business mix adaptation"
+  ],
+  "_ticker": "GS",
+  "_quarter": "Q4-2023",
+  "_call_date": "2024-01-16",
+  "overall_sentiment": 0.464,
+  "sentiment_bucket": "bullish"
+}

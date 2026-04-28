@@ -1,0 +1,98 @@
+{
+  "prepared_sentiment": 0.35,
+  "qa_sentiment": 0.2,
+  "management_confidence": 0.65,
+  "qa_defensiveness": 0.3,
+  "wins": [
+    {
+      "text": "Delivered $2.2B in DRIVE structural cost reductions in FY'25, achieving the 2-year $4B DRIVE target vs. FY'23 baseline",
+      "category": "cost_savings"
+    },
+    {
+      "text": "Adjusted EPS of $18.19 for FY'25, achieving 2 consecutive years of earnings growth despite 2 fewer operating days, USPS contract expiration, and freight softness",
+      "category": "revenue"
+    },
+    {
+      "text": "Returned $4.3B in cash to stockholders in FY'25, exceeding prior $3.8B commitment; $3B in share repurchases alone; dividend increased 5% for FY'26 (5th consecutive annual increase)",
+      "category": "buybacks"
+    },
+    {
+      "text": "CapEx reduced ~$1.1B YoY to $4.1B in FY'25, lowest capital spending in over 10 years and lowest CapEx as % of revenue (4.6%) since FedEx Corp was established in FY'98; adjusted free cash flow conversion from net income ~90%",
+      "category": "cost_savings"
+    },
+    {
+      "text": "Federal Express adjusted operating income grew 9% on just 1% revenue growth in Q4; consolidated adjusted operating income up 8% with margin expansion of 60 bps despite $165M headwind from 1 fewer operating day and $120M USPS contract headwind",
+      "category": "margins"
+    }
+  ],
+  "risks": [
+    {
+      "text": "China-to-U.S. lane (~2.5% of consolidated revenue, most profitable intercontinental lane) experienced material headwind in Q4 due to escalating trade barriers; de minimis policy changes cited as the primary driver; expected to remain pressured in Q1 FY'26 with $170M operating income headwind from international export",
+      "category": "macro"
+    },
+    {
+      "text": "USPS contract expiration creates ~$120M operating income headwind in Q1 FY'26 and ~$570M of idiosyncratic revenue headwinds in Q1 combined with trade disruption; headwind limited to first 4 months of FY'26 but will skew typical seasonality",
+      "category": "demand"
+    },
+    {
+      "text": "B2B volumes remain persistently weak with no marked improvement in the industrial economy, pressuring FedEx Ground commercial, Express base, and FedEx Freight; FedEx Freight operating income fell $30M YoY in Q4 with margin down 40 bps",
+      "category": "demand"
+    },
+    {
+      "text": "Global trade policy volatility is highly unpredictable; management declined to provide full-year EPS guidance citing inability to forecast tariff outcomes over next 30-60 days; Q1 revenue guided only flat to +2%",
+      "category": "macro"
+    },
+    {
+      "text": "Network 2.0 financial returns not expected to be material until end of FY'27, creating a multi-year lag between investment and payoff; $700M of FY'26 CapEx allocated to Network 2.0 with costs to implement changes in each market before savings flow through",
+      "category": "execution"
+    }
+  ],
+  "guidance": "mixed",
+  "guidance_items": [
+    {
+      "line_item": "revenue",
+      "direction": "reaffirmed",
+      "detail": "Q1 FY'26 consolidated revenue guided flat to +2% YoY, including ~$570M of idiosyncratic headwinds from USPS contract expiration and trade disruption"
+    },
+    {
+      "line_item": "eps",
+      "direction": "reaffirmed",
+      "detail": "Q1 FY'26 adjusted EPS range of $3.40-$4.00; midpoint $3.70 implies ~$1.25B adjusted operating income; full-year EPS guidance withheld pending macro clarity"
+    },
+    {
+      "line_item": "margins",
+      "direction": "reaffirmed",
+      "detail": "At Q1 midpoint, Federal Express adjusted operating margin up modestly YoY; FedEx Freight operating margin down modestly YoY"
+    },
+    {
+      "line_item": "capex",
+      "direction": "raised",
+      "detail": "FY'26 CapEx planned at ~$4.5B (up from $4.1B in FY'25), including $700M for Network 2.0 and ~$1B for aircraft CapEx"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "~$1B in incremental transformation-related savings (DRIVE + Network 2.0) expected in FY'26, ramping through the year; $200M anticipated in Q1"
+    }
+  ],
+  "themes": [
+    "macro_headwinds",
+    "cost_cutting",
+    "supply_chain",
+    "tariffs",
+    "china_exposure",
+    "buybacks",
+    "restructuring",
+    "product_launch"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Breakdown of $170M international export headwind between de minimis impact vs. other trade disruptions and how long it persists",
+    "Degree of confidence in full-year earnings growth given no full-year EPS guide provided",
+    "Specific CapEx allocation to FedEx Freight segment and how it trends post-spinoff"
+  ],
+  "_ticker": "FDX",
+  "_quarter": "Q4-2025",
+  "_call_date": "2025-06-24",
+  "overall_sentiment": 0.29,
+  "sentiment_bucket": "slightly_bullish"
+}

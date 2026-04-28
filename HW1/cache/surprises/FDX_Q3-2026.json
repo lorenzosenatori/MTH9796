@@ -1,0 +1,33 @@
+{
+  "line_items": [
+    {
+      "line_item": "eps",
+      "result": "beat",
+      "reasoning": "FY26 adjusted EPS guidance was raised to $19.30\u2013$20.10 (midpoint ~$19.70), well above the prior midpoint of $18.40, indicating Q3 results came in materially ahead of the implied quarterly trajectory guided last quarter."
+    },
+    {
+      "line_item": "revenue",
+      "result": "beat",
+      "reasoning": "Consolidated Q3 revenue grew 8% YoY and FEC revenue grew 10% YoY, both exceeding the prior guidance of 5\u20136% consolidated FY26 growth and ~7% FEC YoY growth implied at midpoint."
+    },
+    {
+      "line_item": "margins",
+      "result": "beat",
+      "reasoning": "FEC delivered its sixth consecutive quarter of margin expansion (+50 bps) with adjusted operating income up 18%, exceeding the guidance of only 'up slightly' at midpoint; however, FedEx Freight AOI headwind worsened to $400M vs. the guided $300M, making this a partial beat overall but FEC clearly outperformed."
+    },
+    {
+      "line_item": "segment",
+      "result": "miss",
+      "reasoning": "FedEx Freight's full-year AOI headwind was revised to $400M from the prior guidance of $300M, with revenue down 5% YoY \u2014 worse than the 'approximately flat to slightly down' revenue expectation and a meaningful miss on the profit headwind estimate."
+    },
+    {
+      "line_item": "capex",
+      "result": "beat",
+      "reasoning": "FY26 CapEx was reduced to no more than $4.1B (potentially as low as $3.8B implied), beating the prior $4.5B target by at least $400M."
+    }
+  ],
+  "overall_surprise": "beat",
+  "_ticker": "FDX",
+  "_quarter": "Q3-2026",
+  "_prior_quarter": "Q2-2026"
+}

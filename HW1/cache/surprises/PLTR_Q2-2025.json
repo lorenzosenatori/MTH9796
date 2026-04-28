@@ -1,0 +1,33 @@
+{
+  "line_items": [
+    {
+      "line_item": "revenue",
+      "result": "beat",
+      "reasoning": "Q2 revenue of $1.004B crushed the guided range of $934M\u2013$938M by nearly 1,000 basis points (~7%), surpassing $1B for the first time and growing 48% YoY vs. the ~36% FY growth implied by guidance."
+    },
+    {
+      "line_item": "segment (U.S. commercial revenue)",
+      "result": "beat",
+      "reasoning": "U.S. commercial revenue reached $306M in Q2 alone (93% YoY growth), putting the full-year run-rate well ahead of the guided 'excess of $1.178B' at 68%+ YoY growth, with Q2 TCV booked hitting a record $843M (+222% YoY)."
+    },
+    {
+      "line_item": "margins",
+      "result": "beat",
+      "reasoning": "Adjusted operating margin of 46% in Q2 exceeded the high end of the guided $401M\u2013$405M range by ~300 bps, and the Rule of 40 score hit 94% vs. the 80 guided for the full year."
+    },
+    {
+      "line_item": "other (adjusted free cash flow & Rule of 40)",
+      "result": "beat",
+      "reasoning": "Q2 adjusted FCF of $569M (57% margin) drove a full-year FCF guidance raise to $1.8B\u2013$2.0B (above the prior $1.6B\u2013$1.8B range), and the Rule of 40 score of 94% obliterated the 80 full-year target mid-cycle."
+    },
+    {
+      "line_item": "other (GAAP profitability)",
+      "result": "beat",
+      "reasoning": "PLTR delivered GAAP operating income and net income in Q2, consistent with the reaffirmed commitment to GAAP profitability in each quarter of 2025, and the magnitude of outperformance on revenue and margins suggests results exceeded the minimum threshold guided."
+    }
+  ],
+  "overall_surprise": "beat",
+  "_ticker": "PLTR",
+  "_quarter": "Q2-2025",
+  "_prior_quarter": "Q1-2025"
+}

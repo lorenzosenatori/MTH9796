@@ -1,0 +1,98 @@
+{
+  "prepared_sentiment": 0.82,
+  "qa_sentiment": 0.65,
+  "management_confidence": 0.88,
+  "qa_defensiveness": 0.12,
+  "wins": [
+    {
+      "text": "Record quarterly net inflows of $221 billion, representing 8% annualized organic asset growth \u2014 highest net flows quarter ever",
+      "category": "growth"
+    },
+    {
+      "text": "Q3 revenue of $5.2 billion, up 15% YoY, and operating income of $2.1 billion, up 26% YoY \u2014 both record quarterly levels",
+      "category": "revenue"
+    },
+    {
+      "text": "Operating margin expanded 350 basis points YoY to 45.8%, driven by operating leverage and variabilization of expenses",
+      "category": "margins"
+    },
+    {
+      "text": "iShares ETF net inflows of $97 billion in Q3 and $248 billion YTD; fixed income ETF AUM crossed $1 trillion milestone",
+      "category": "growth"
+    },
+    {
+      "text": "Aladdin ACV grew 15% YoY, consistent with long-term low-to-mid-teens target, including a large U.S. asset manager selecting Aladdin as its unified investment management platform",
+      "category": "customer"
+    }
+  ],
+  "risks": [
+    {
+      "text": "EPS of $11.46 grew only 5% YoY, significantly lagging 26% operating income growth, due to a 26% effective tax rate in Q3 2024 vs. a $215M discrete tax benefit in Q3 2023",
+      "category": "other"
+    },
+    {
+      "text": "Annualized effective fee rate declined approximately 0.4 bps sequentially due to relative outperformance of lower-fee U.S. equity markets and lower securities lending revenue",
+      "category": "margins"
+    },
+    {
+      "text": "Integration execution risk from simultaneous GIP close (400 new employees, $116B AUM) and pending Preqin acquisition expected to close year-end 2024",
+      "category": "execution"
+    },
+    {
+      "text": "GIP transaction required issuance of ~6.9 million shares of BlackRock common stock, with ~5 million additional shares deferred, creating dilution risk",
+      "category": "other"
+    },
+    {
+      "text": "Technology services revenue down 1% YoY due to prior-year eFront on-premises license renewal timing, creating a difficult comparable",
+      "category": "demand"
+    }
+  ],
+  "guidance": "reaffirmed",
+  "guidance_items": [
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "Organic base fee growth target of 5% reaffirmed as long-term goal; Q3 achieved 5% annualized organic base fee growth"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "GIP expected to contribute ~$250M in management fees in Q4 2024, with ~$1B in fees and FRE margin north of 50% modeled for 2025"
+    },
+    {
+      "line_item": "capex",
+      "direction": "reaffirmed",
+      "detail": "Share repurchases of at least $375M anticipated in Q4, consistent with prior guidance"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "Headcount expected broadly flat in 2024 ex-GIP; full-year core G&A expense growth now expected closer to high end of low-to-mid-single-digit range inclusive of GIP"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "25% projected tax run rate for remainder of 2024; Preqin acquisition expected to close around year-end 2024"
+    }
+  ],
+  "themes": [
+    "ai",
+    "data_center",
+    "m_and_a",
+    "private_markets",
+    "product_launch",
+    "customer_wins",
+    "margin_expansion",
+    "buybacks"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Competitive RFP activity and market share opportunity stemming from regulatory issues at a large institutional bond manager (PIMCO implied)",
+    "Appetite and capacity for additional M&A given simultaneous GIP integration and pending Preqin close",
+    "Digital assets regulatory outlook and BlackRock's ambitions beyond ETFs under a potentially more crypto-friendly administration"
+  ],
+  "_ticker": "BLK",
+  "_quarter": "Q3-2024",
+  "_call_date": "2024-10-11",
+  "overall_sentiment": 0.752,
+  "sentiment_bucket": "very_bullish"
+}

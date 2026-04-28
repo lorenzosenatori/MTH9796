@@ -1,0 +1,98 @@
+{
+  "prepared_sentiment": 0.62,
+  "qa_sentiment": 0.45,
+  "management_confidence": 0.72,
+  "qa_defensiveness": 0.25,
+  "wins": [
+    {
+      "text": "Adjusted EPS of $4.82, up 19% year-over-year; consolidated revenue grew 7% YoY with 60 bps of adjusted margin expansion and 17% adjusted operating income growth",
+      "category": "revenue"
+    },
+    {
+      "text": "FEC adjusted operating income grew $306M, up 24% YoY, with adjusted operating margin expanding 100 bps \u2014 fifth consecutive quarter of YoY margin expansion at FEC",
+      "category": "margins"
+    },
+    {
+      "text": "U.S. domestic package revenue grew 12% YoY with average daily domestic volume up 6%, driven by B2B health care wins and new Amazon large/heavyweight shipment business",
+      "category": "growth"
+    },
+    {
+      "text": "FY26 adjusted EPS guidance raised to $17.80\u2013$19.00 from prior range of $17.20\u2013$19.00, with midpoint implying ~$18.40",
+      "category": "other"
+    },
+    {
+      "text": "Opportunistically repurchased ~$300M of stock in Q2; $1.3B remaining under 2024 buyback authorization; pension cash contribution reduced to $275M from up to $400M",
+      "category": "buybacks"
+    }
+  ],
+  "risks": [
+    {
+      "text": "MD-11 fleet grounding pressured Q2 adjusted operating income by ~$25M; expected to cause substantially higher costs in Q3 (peak season), with total MD-11 headwind estimated at ~$175M for the year; aircraft not expected to return to service until Q4",
+      "category": "execution"
+    },
+    {
+      "text": "FedEx Freight adjusted operating income declined $70M YoY with margin contracting 3 percentage points; full-year Freight EBIT headwind revised from $100M to $300M due to sustained LTL industry weakness and $100M in spin-related separation costs",
+      "category": "demand"
+    },
+    {
+      "text": "~$1B headwind to adjusted operating profit from global trade policy changes, including ~25% reduction in trans-Pacific Asia outbound capacity and ~35% reduction in third-party capacity; international export ADV expected to remain pressured in H2",
+      "category": "macro"
+    },
+    {
+      "text": "~$600M year-over-year headwind to adjusted operating income in H2 from three discrete items: variable incentive compensation accruals (~$265M), LTL softness (~$160M), and MD-11 grounding (~$175M)",
+      "category": "margins"
+    },
+    {
+      "text": "Expiration of USPS contract created a $30M headwind in Q2; higher wage and purchased transportation rates partially offset FEC operating income gains",
+      "category": "supply_chain"
+    }
+  ],
+  "guidance": "raised",
+  "guidance_items": [
+    {
+      "line_item": "eps",
+      "direction": "raised",
+      "detail": "FY26 adjusted EPS raised to $17.80\u2013$19.00 from prior $17.20\u2013$19.00; midpoint of $18.40 implies Q3 sequentially lower than Q2, Q4 to be strongest quarter of the year"
+    },
+    {
+      "line_item": "revenue",
+      "direction": "raised",
+      "detail": "Consolidated FY26 revenue growth now expected at 5%\u20136%; FEC midpoint implies ~7% YoY revenue growth; FedEx Freight now expected approximately flat to slightly down vs. prior expectation of modest growth"
+    },
+    {
+      "line_item": "margins",
+      "direction": "reaffirmed",
+      "detail": "FEC adjusted operating margin expected up slightly at midpoint for FY26; Freight margin expected down YoY"
+    },
+    {
+      "line_item": "segment",
+      "direction": "lowered",
+      "detail": "FedEx Freight FY26 revenue revised to approximately flat to slightly down YoY; adjusted operating income headwind revised from $100M to $300M"
+    },
+    {
+      "line_item": "capex",
+      "direction": "reaffirmed",
+      "detail": "FY26 CapEx target maintained at $4.5B; YTD CapEx of $1.4B"
+    }
+  ],
+  "themes": [
+    "restructuring",
+    "margin_expansion",
+    "cost_cutting",
+    "supply_chain",
+    "macro_headwinds",
+    "buybacks",
+    "product_launch",
+    "enterprise_demand"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Competitive risk from UPS potentially regaining USPS relationship and Teamsters contract advantages pressuring FedEx domestic volume share in FY27",
+    "Potential tariff policy reversal (Supreme Court ruling) as a tailwind to international trade volumes and the $1B headwind estimate",
+    "Network 2.0 margin flow-through timing \u2014 analysts questioned why 24% volume integration wasn't producing more visible financial margin impact yet"
+  ],
+  "_ticker": "FDX",
+  "_quarter": "Q2-2026",
+  "_call_date": "2025-12-18",
+  "overall_sentiment": 0.552,
+  "sentiment_bucket": "bullish"
+}

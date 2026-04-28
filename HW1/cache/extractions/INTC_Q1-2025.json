@@ -1,0 +1,98 @@
+{
+  "prepared_sentiment": -0.1,
+  "qa_sentiment": -0.15,
+  "management_confidence": 0.52,
+  "qa_defensiveness": 0.35,
+  "wins": [
+    {
+      "text": "Q1 revenue of $12.7B came in at the high end of guidance range, driven by better-than-expected Xeon sales",
+      "category": "revenue"
+    },
+    {
+      "text": "Non-GAAP gross margin of 39.2%, approximately 3 percentage points above guidance on stronger-than-expected Raptor Lake demand and improved Meteor Lake costs",
+      "category": "margins"
+    },
+    {
+      "text": "Q1 EPS of $0.13 vs. guidance of breakeven, driven by higher revenue, stronger gross margin, and lower OpEx",
+      "category": "other"
+    },
+    {
+      "text": "Operating expenses down $400M sequentially and $700M year-over-year; OpEx targets lowered to $17B in 2025 and $16B in 2026",
+      "category": "cost_savings"
+    },
+    {
+      "text": "Altera stake sale to Silver Lake at ~$9B valuation with Intel receiving net cash proceeds of $4.4B; IPU revenue expected to double from 2024 to 2025",
+      "category": "other"
+    }
+  ],
+  "risks": [
+    {
+      "text": "Q2 revenue guided to $11.2B\u2013$12.4B, down 2%\u201312% sequentially, with wider-than-normal range due to tariff and macro uncertainty; gross margin guided to ~36.5%, well below Q1's 39.2%",
+      "category": "margins"
+    },
+    {
+      "text": "Intel Foundry operating loss of $2.3B in Q1; Intel 7 capacity constrained 'for the foreseeable future' due to stronger-than-expected Raptor Lake demand crowding out newer nodes",
+      "category": "supply_chain"
+    },
+    {
+      "text": "Macro and tariff uncertainty increasing probability of recession; CFO flagged potential TAM contraction and noted June is likely to be softer than the strong start to Q2",
+      "category": "macro"
+    },
+    {
+      "text": "Lunar Lake margin headwind persists due to memory-in-package cost structure; 18A ramp start-up costs will pressure gross margins through 2025",
+      "category": "margins"
+    },
+    {
+      "text": "No Tier 1 external foundry customer announced; AI accelerator portfolio gap acknowledged with Falcon Shores cancelled and Jaguar Shores still in development with no firm timeline",
+      "category": "competition"
+    }
+  ],
+  "guidance": "mixed",
+  "guidance_items": [
+    {
+      "line_item": "revenue",
+      "direction": "lowered",
+      "detail": "Q2 guided to $11.2B\u2013$12.4B (midpoint $11.8B), down 2%\u201312% sequentially vs. historical flat seasonality; wider-than-normal range due to tariff/macro uncertainty"
+    },
+    {
+      "line_item": "margins",
+      "direction": "lowered",
+      "detail": "Q2 non-GAAP gross margin guided to ~36.5%, down from Q1's 39.2%, on lower revenue and mix shift to outsourced/lower-margin client products"
+    },
+    {
+      "line_item": "eps",
+      "direction": "lowered",
+      "detail": "Q2 non-GAAP EPS guided to breakeven, down from Q1's $0.13"
+    },
+    {
+      "line_item": "capex",
+      "direction": "lowered",
+      "detail": "2025 gross CapEx target lowered to ~$18B from prior ~$20B guide; net CapEx range maintained at ~$8B\u2013$11B"
+    },
+    {
+      "line_item": "other",
+      "direction": "lowered",
+      "detail": "2025 OpEx target lowered to $17B (from ~$17.5B prior); 2026 OpEx target set at $16B"
+    }
+  ],
+  "themes": [
+    "macro_headwinds",
+    "tariffs",
+    "cost_cutting",
+    "restructuring",
+    "product_launch",
+    "supply_chain",
+    "margin_pressure",
+    "m_and_a"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Viability of the IDM model given persistently negative Intel Foundry gross margins and whether the structure needs to be reconsidered",
+    "Status and timeline of external/Tier 1 foundry customer wins for Intel 18A",
+    "Rack-scale networking strategy and Intel's ability to compete in AI cloud infrastructure build-out"
+  ],
+  "_ticker": "INTC",
+  "_quarter": "Q1-2025",
+  "_call_date": "2025-04-24",
+  "overall_sentiment": -0.12,
+  "sentiment_bucket": "slightly_bearish"
+}

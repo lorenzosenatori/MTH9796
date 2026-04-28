@@ -1,0 +1,33 @@
+{
+  "line_items": [
+    {
+      "line_item": "revenue",
+      "result": "beat",
+      "reasoning": "Q4 actual revenue came in at a record $18B vs. guidance of ~$17.4B, exceeding the prior quarter's raised target by ~$600M (~3.4% upside)."
+    },
+    {
+      "line_item": "segment \u2013 AI semiconductor revenue",
+      "result": "beat",
+      "reasoning": "AI semiconductor revenue of $6.5B (up 74% YoY) exceeded the guided ~$6.2B (up 66% YoY), with the custom accelerator business more than doubling YoY."
+    },
+    {
+      "line_item": "segment \u2013 infrastructure software revenue",
+      "result": "beat",
+      "reasoning": "Infrastructure software revenue grew 19% YoY in Q4, outpacing the guided ~$6.7B / +15% YoY reaffirmation from the prior quarter."
+    },
+    {
+      "line_item": "margins",
+      "result": "beat",
+      "reasoning": "Adjusted EBITDA margin came in at 68%, above the guided 67%, and gross margins held better than the guided ~70 bps sequential decline, despite higher XPU and wireless mix."
+    },
+    {
+      "line_item": "other \u2013 FY2026 AI revenue outlook",
+      "result": "beat",
+      "reasoning": "The $73B+ AI order backlog and record Tomahawk 6 bookings reinforce an acceleration materially above the prior 50\u201360% YoY growth rate, consistent with and arguably exceeding the raised FY2026 AI outlook described last quarter."
+    }
+  ],
+  "overall_surprise": "beat",
+  "_ticker": "AVGO",
+  "_quarter": "Q4-2025",
+  "_prior_quarter": "Q3-2025"
+}

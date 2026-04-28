@@ -1,0 +1,93 @@
+{
+  "prepared_sentiment": 0.75,
+  "qa_sentiment": 0.6,
+  "management_confidence": 0.82,
+  "qa_defensiveness": 0.1,
+  "wins": [
+    {
+      "text": "Record AUM of nearly $10.5 trillion, up $1.4 trillion or 15% YoY; long-term net inflows of $76 billion in Q1, representing ~40% of full-year 2023 flows in just one quarter",
+      "category": "growth"
+    },
+    {
+      "text": "Q1 revenue of $4.7 billion increased 11% YoY; operating income up 17% YoY; EPS of $9.81 up 24% YoY",
+      "category": "revenue"
+    },
+    {
+      "text": "As-adjusted operating margin of 42.2%, up 180 bps YoY and 60 bps sequentially; AUM up $2.5 trillion over 18 months while headcount is flat or slightly lower",
+      "category": "margins"
+    },
+    {
+      "text": "Bitcoin ETF (IBIT) launched in January became the fastest-growing ETF in history, gathering $14 billion of net inflows in Q1 and reaching nearly $20 billion AUM; active ETFs drove $9 billion of net inflows",
+      "category": "product"
+    },
+    {
+      "text": "iShares Europe holds ~30% market share of inflows, 2x the #2 player, with $850 billion AUM \u2014 larger than the next 5 players combined; technology services revenue up 11% YoY with ACV up 9% YoY",
+      "category": "customer"
+    }
+  ],
+  "risks": [
+    {
+      "text": "Institutional index net outflows of $13 billion concentrated in low-fee index equities as large clients rebalanced amid equity market appreciation; these episodic flows weigh on headline long-term flow totals",
+      "category": "demand"
+    },
+    {
+      "text": "Cash management platform saw $19 billion of net outflows in Q1, including ~$14 billion in the last week of March ahead of Good Friday holiday, in line with seasonal institutional money market trends",
+      "category": "demand"
+    },
+    {
+      "text": "Annualized effective fee rate was 0.3 bps lower QoQ due to relative outperformance of lower-fee U.S. equity markets, client preferences for lower-fee U.S. exposures, and lower securities lending revenue \u2014 creating ongoing fee rate pressure",
+      "category": "margins"
+    },
+    {
+      "text": "GIP acquisition still pending regulatory approvals targeting Q3 2024 close; $3 billion of debt issued to fund cash consideration, adding balance sheet leverage ahead of close",
+      "category": "execution"
+    },
+    {
+      "text": "Fixed income retail flows below industry proportionate pickup; yield curve inversion and 5% short-term rates keeping investors in cash, delaying reallocation to intermediate and longer-duration fixed income",
+      "category": "macro"
+    }
+  ],
+  "guidance": "reaffirmed",
+  "guidance_items": [
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "Headcount expected to be broadly flat in 2024, excluding GIP transaction impact \u2014 consistent with January guidance"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "Core G&A expense expected to grow low to mid-single-digit percentage in 2024, excluding GIP and related transaction costs \u2014 consistent with January guidance"
+    },
+    {
+      "line_item": "eps",
+      "direction": "reaffirmed",
+      "detail": "Tax rate estimated at ~25% for remainder of 2024, consistent with prior guidance; actual rate may differ due to discrete items"
+    },
+    {
+      "line_item": "capex",
+      "direction": "reaffirmed",
+      "detail": "Share repurchases of at least $375 million per quarter for balance of 2024, consistent with January guidance"
+    }
+  ],
+  "themes": [
+    "ai",
+    "product_launch",
+    "m_and_a",
+    "margin_expansion",
+    "enterprise_demand",
+    "customer_wins",
+    "buybacks",
+    "data_center"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Competitive landscape and fee pressure in European ETFs and fixed income retail",
+    "Normalized level of performance fees and implications for compensation ratio going forward",
+    "Timeline and confidence in returning to 5% organic base fee growth given law-of-large-numbers headwinds at $10T+ AUM"
+  ],
+  "_ticker": "BLK",
+  "_quarter": "Q1-2024",
+  "_call_date": "2024-04-12",
+  "overall_sentiment": 0.69,
+  "sentiment_bucket": "bullish"
+}

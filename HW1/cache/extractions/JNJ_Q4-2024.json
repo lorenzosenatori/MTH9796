@@ -1,0 +1,88 @@
+{
+  "prepared_sentiment": 0.55,
+  "qa_sentiment": 0.45,
+  "management_confidence": 0.75,
+  "qa_defensiveness": 0.25,
+  "wins": [
+    {
+      "text": "DARZALEX became J&J's first brand to exceed $3 billion in quarterly sales, growing 23.5% YoY with 6-point share gains in the frontline setting",
+      "category": "revenue"
+    },
+    {
+      "text": "SPRAVATO surpassed $1 billion in annual sales for the first time, growing 45.3% in Q4 driven by increased physician and patient demand; also received approval as first-and-only monotherapy for treatment-resistant depression",
+      "category": "product"
+    },
+    {
+      "text": "Full year 2024 free cash flow of ~$20 billion, $1.6 billion more than 2023 despite higher litigation payments and TCJA toll tax headwinds",
+      "category": "other"
+    },
+    {
+      "text": "CARVYKTI achieved $963 million in full year sales with Q4 growth of over 100% YoY and 17.3% sequential growth; 5,000th patient infused milestone reached",
+      "category": "growth"
+    },
+    {
+      "text": "ERLEADA reached $3 billion in annual sales for the first time, growing 22.7% in Q4 driven by share gains and market growth",
+      "category": "revenue"
+    }
+  ],
+  "risks": [
+    {
+      "text": "STELARA declined 13.6% in Q4 due to biosimilar competition; U.S. biosimilars entered in January 2025 with ~$2 billion negative Part D redesign impact expected in 2025, creating a significant full-year headwind",
+      "category": "competition"
+    },
+    {
+      "text": "VARIPULSE PFA catheter U.S. commercial activity temporarily paused to investigate 4 reported neurovascular events, creating near-term MedTech EP headwind while collaborating with FDA",
+      "category": "execution"
+    },
+    {
+      "text": "Continued macroeconomic and VBP headwinds in China expected to persist through 2025 across MedTech segments including electrophysiology, orthopedics, and surgery",
+      "category": "macro"
+    },
+    {
+      "text": "Unfavorable foreign currency impact of ~$1.7 billion (2.0%) on 2025 reported sales based on euro/USD rate of $1.04 vs. prior $1.10, reducing reported EPS by ~$0.25",
+      "category": "macro"
+    },
+    {
+      "text": "Intra-Cellular Therapies acquisition expected to be dilutive to 2025 adjusted EPS by $0.30\u2013$0.35 due to debt financing costs, with no material near-term cost synergies planned",
+      "category": "margins"
+    }
+  ],
+  "guidance": "reaffirmed",
+  "guidance_items": [
+    {
+      "line_item": "revenue",
+      "direction": "reaffirmed",
+      "detail": "2025 operational sales growth of 2.5%\u20133.5%, midpoint $91.3B (3.0%), in line with late-2023 enterprise business review guidance; reported sales ~$89.6B at midpoint after ~$1.7B FX headwind"
+    },
+    {
+      "line_item": "eps",
+      "direction": "reaffirmed",
+      "detail": "2025 adjusted operational EPS of $10.75\u2013$10.95 (8.7% growth at midpoint); reported adjusted EPS ~$10.60 after ~$0.25 FX headwind; excludes Intra-Cellular Therapies impact (~$0.30\u2013$0.35 dilutive)"
+    },
+    {
+      "line_item": "margins",
+      "direction": "raised",
+      "detail": "2025 adjusted pretax operating margins expected to increase ~300 bps, ~50 bps better than communicated at Q3 2024 earnings call; driven ~half by operating spend management and ~half by reduced acquired IPR&D expense"
+    }
+  ],
+  "themes": [
+    "product_launch",
+    "m_and_a",
+    "margin_expansion",
+    "customer_wins",
+    "macro_headwinds",
+    "china_exposure",
+    "regulatory",
+    "currency_fx"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "VARIPULSE U.S. neurovascular safety events and temporary commercial pause details (prepared remarks only noted an ongoing investigation without specifics on the 4 events)",
+    "MedTech organic growth rate below 5%\u20137% target range when excluding Shockwave acquisition contribution",
+    "Potential deprioritization of internal CNS pipeline assets (seltorexant, aticaprant) following Intra-Cellular Therapies acquisition"
+  ],
+  "_ticker": "JNJ",
+  "_quarter": "Q4-2024",
+  "_call_date": "2025-01-22",
+  "overall_sentiment": 0.51,
+  "sentiment_bucket": "bullish"
+}

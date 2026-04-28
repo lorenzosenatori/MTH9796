@@ -1,0 +1,33 @@
+{
+  "line_items": [
+    {
+      "line_item": "revenue",
+      "result": "beat",
+      "reasoning": "Q4 revenue came in at $828M, exceeding the guided range of $767M\u2013$771M by over $57M (~900+ bps above the high end), and full-year revenue of ~$2.87B surpassed the raised guidance midpoint of $2.807B."
+    },
+    {
+      "line_item": "segment",
+      "result": "beat",
+      "reasoning": "U.S. commercial revenue grew 64% YoY with full-year TCV booked of $803M (up 134% YoY), far exceeding the guided threshold of >$687M and at least 50% growth for full-year 2024."
+    },
+    {
+      "line_item": "margins",
+      "result": "beat",
+      "reasoning": "Q4 adjusted operating margin reached 45% (implying ~$373M in adjusted operating income), well above the guided $298M\u2013$302M range (~39% margin), marking the strongest margin in company history."
+    },
+    {
+      "line_item": "other",
+      "result": "beat",
+      "reasoning": "Full-year adjusted free cash flow of $1.25B significantly exceeded the guidance floor of >$1B, with Q4 alone contributing $517M at a 63% margin."
+    },
+    {
+      "line_item": "eps",
+      "result": "inline",
+      "reasoning": "GAAP operating income was achieved for the full year as guided, though Q4 GAAP operating margin compressed to just 1% due to a one-time $131M SAR-related expense acceleration, creating noise but not a structural miss against the guidance commitment."
+    }
+  ],
+  "overall_surprise": "beat",
+  "_ticker": "PLTR",
+  "_quarter": "Q4-2024",
+  "_prior_quarter": "Q3-2024"
+}

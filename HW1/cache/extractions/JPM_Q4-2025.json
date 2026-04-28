@@ -1,0 +1,98 @@
+{
+  "prepared_sentiment": 0.45,
+  "qa_sentiment": 0.2,
+  "management_confidence": 0.72,
+  "qa_defensiveness": 0.35,
+  "wins": [
+    {
+      "text": "Full year net income of $57.5B, EPS of $20.18, revenue of $185B, and ROTCE of 20% (excluding significant items)",
+      "category": "revenue"
+    },
+    {
+      "text": "Equities Markets revenue up 40% YoY with robust performance across the franchise, particularly in Prime; Fixed Income up 7% YoY",
+      "category": "revenue"
+    },
+    {
+      "text": "AWM revenue of $6.5B up 13% YoY; record client asset net inflows of $553B for the year; long-term net inflows of $209B for the full year",
+      "category": "growth"
+    },
+    {
+      "text": "CCB added 1.7M net new checking accounts, 10.4M new card accounts, and record households in wealth management for the full year",
+      "category": "customer"
+    },
+    {
+      "text": "CET1 ratio of 14.5% with Jamie Dimon noting $30-40B+ of excess capital, supporting continued capital distributions",
+      "category": "other"
+    }
+  ],
+  "risks": [
+    {
+      "text": "Apple Card portfolio reserve build of $2.2B in CCB impacted Q4 net income; advanced RWA contribution of ~$110B at closing (expected to reduce to ~$30B near term), adding integration complexity over a 2-year timeline",
+      "category": "execution"
+    },
+    {
+      "text": "Potential credit card APR caps floated via social media post by the President; management acknowledged this would be 'very dramatic' for the industry, reduce credit access broadly, and present 'significant challenge' to JPM's card business",
+      "category": "regulatory"
+    },
+    {
+      "text": "IB fees down 5% YoY in Q4 reflecting strong prior-year compare and deal timing pushouts; management cautious on fee outlook given exceptionally strong 2025 base",
+      "category": "demand"
+    },
+    {
+      "text": "Consumer deposit growth expected to be lower than the 6% Investor Day scenario; balance-per-account inflection pushed out to H2 2026 due to persistent yield-seeking flows",
+      "category": "macro"
+    },
+    {
+      "text": "Stablecoin/GENIUS Act legislation poses potential systemic risk to bank deposits; ABA estimates up to $6.6T of deposits at risk if interest-bearing stablecoin loophole is not closed",
+      "category": "regulatory"
+    }
+  ],
+  "guidance": "reaffirmed",
+  "guidance_items": [
+    {
+      "line_item": "revenue",
+      "direction": "reaffirmed",
+      "detail": "NII ex Markets expected to be ~$95B for 2026; total NII expected to be ~$103B, with Markets NII increasing to ~$8B"
+    },
+    {
+      "line_item": "eps",
+      "direction": "reaffirmed",
+      "detail": "No explicit EPS guide provided; ROTCE framed as an output of business strategy rather than a hard target"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "2026 adjusted expense expected to be ~$105B, up ~$9B YoY, driven by volume/revenue-related costs, compensation, tech, and Apple Card integration"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "2026 card net charge-off rate expected to be ~3.4%, reflecting favorable delinquency trends and continued consumer resilience"
+    },
+    {
+      "line_item": "segment",
+      "direction": "reaffirmed",
+      "detail": "Card loan growth expected at ~6-7% for 2026, lower than recent years as revolve normalization tailwind fades; modest firm-wide deposit growth anticipated"
+    }
+  ],
+  "themes": [
+    "regulatory",
+    "macro_headwinds",
+    "ai",
+    "consumer_weakness",
+    "enterprise_demand",
+    "margin_pressure",
+    "buybacks",
+    "product_launch"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Stablecoin/GENIUS Act deposit risk and JPM's strategic positioning \u2014 management did not proactively address this in prepared remarks",
+    "Potential executive-imposed credit card APR caps \u2014 not mentioned in prepared remarks despite being a major investor concern over the weekend prior to the call",
+    "Specifics of tech and AI spending levels for 2026 \u2014 management discussed expense growth thematically but declined to break out AI/tech spend in prepared remarks"
+  ],
+  "_ticker": "JPM",
+  "_quarter": "Q4-2025",
+  "_call_date": "2026-01-13",
+  "overall_sentiment": 0.35,
+  "sentiment_bucket": "bullish"
+}

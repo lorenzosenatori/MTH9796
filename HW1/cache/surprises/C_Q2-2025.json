@@ -1,0 +1,28 @@
+{
+  "line_items": [
+    {
+      "line_item": "revenue",
+      "result": "beat",
+      "reasoning": "Q2 revenues came in at $21.7B (up 8% YoY), driven by record Markets and strong Banking/Wealth performance, putting full-year revenue tracking well ahead of the $83.1B\u2013$84.1B guided range, which management subsequently raised."
+    },
+    {
+      "line_item": "eps",
+      "result": "inline",
+      "reasoning": "EPS of $1.96 and ROTCE of 8.7% are solid but still below the 2026 ROTCE target of 10%\u201311%; no full-year EPS framework was broken, but the quarter's ROTCE remains below the long-term target, making this roughly in line with the intermediate trajectory guided."
+    },
+    {
+      "line_item": "other (expenses)",
+      "result": "inline",
+      "reasoning": "Transformation expenses are increasing meaningfully in 2025 (vs. $3B in 2024) and elevated severance (~$600M forecast for full year) add pressure, but management has not indicated a breach of the slightly-below-$53.4B full-year expense guide, keeping this roughly on track."
+    },
+    {
+      "line_item": "other (card NCL / NII ex-markets)",
+      "result": "inline",
+      "reasoning": "Card NCL trends appear consistent with the guided seasonal H1 pickup / H2 improvement pattern, and NII ex-markets is tracking within the guided 2%\u20133% growth range despite the ACL build driven by idiosyncratic/transfer-risk items rather than broad credit deterioration."
+    }
+  ],
+  "overall_surprise": "beat",
+  "_ticker": "C",
+  "_quarter": "Q2-2025",
+  "_prior_quarter": "Q1-2025"
+}

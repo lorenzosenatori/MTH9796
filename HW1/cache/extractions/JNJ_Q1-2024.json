@@ -1,0 +1,93 @@
+{
+  "prepared_sentiment": 0.62,
+  "qa_sentiment": 0.55,
+  "management_confidence": 0.78,
+  "qa_defensiveness": 0.2,
+  "wins": [
+    {
+      "text": "Worldwide Q1 sales of $21.4B, up 3.9% reported; ex-COVID vaccine operational growth of 7.6% worldwide; adjusted diluted EPS of $2.71, up 12.4% YoY",
+      "category": "revenue"
+    },
+    {
+      "text": "DARZALEX grew 21% driven by 6-point share gains across all lines and 10-point gains in frontline; ERLEADA grew 28.4%; TREMFYA grew 27.6%; SPRAVATO grew 72% YoY",
+      "category": "growth"
+    },
+    {
+      "text": "CARVYKTI achieved $157M in Q1 vs. $72M in Q1 2023 (>100% YoY growth); received FDA approval for 2nd-line setting, expanding addressable market significantly",
+      "category": "product"
+    },
+    {
+      "text": "Electrophysiology delivered 25.9% growth with double-digit gains in all regions; Abiomed grew 15%; EP business nearing $5B in revenue growing >20%",
+      "category": "revenue"
+    },
+    {
+      "text": "Board authorized 4.2% dividend increase, marking 62nd consecutive year of dividend increases; free cash flow of ~$3B in Q1, above prior year",
+      "category": "buybacks"
+    }
+  ],
+  "risks": [
+    {
+      "text": "STELARA biosimilar entry anticipated in Europe midyear 2024 expected to weigh on H2 Innovative Medicine growth; volume growth largely offset by price declines going forward",
+      "category": "competition"
+    },
+    {
+      "text": "IMBRUVICA sales declining due to competitive pressures; XARELTO facing unfavorable patient mix expected to continue throughout the year; REMICADE/SIMPONI European distribution rights returned in Q4",
+      "category": "demand"
+    },
+    {
+      "text": "Contact Lens segment declined 2.3% due to U.S. distributor inventory destocking; China VBP pressuring Surgery and Surgical Vision segments",
+      "category": "supply_chain"
+    },
+    {
+      "text": "IRA drug price negotiation provisions described as 'damaging to the healthcare innovative system'; ongoing negotiations on selected drugs create pricing uncertainty",
+      "category": "regulatory"
+    },
+    {
+      "text": "INVEGA SUSTENNA patent litigation remanded back to New Jersey District Court after Federal Circuit ruling; outcome uncertain despite management confidence in patent strength",
+      "category": "regulatory"
+    }
+  ],
+  "guidance": "raised",
+  "guidance_items": [
+    {
+      "line_item": "revenue",
+      "direction": "raised",
+      "detail": "Full-year operational sales growth tightened to 5.5%-6.0%, or $88.7B-$89.1B; midpoint raised by $300M vs. prior guidance; reported sales growth 4.7%-5.2% after ~$700M FX headwind"
+    },
+    {
+      "line_item": "eps",
+      "direction": "raised",
+      "detail": "Adjusted operational EPS range tightened to $10.60-$10.75, midpoint raised $0.03 to $10.68, reflecting 7.7% YoY growth; reported adjusted EPS unchanged at $10.65 due to $0.03 FX headwind"
+    },
+    {
+      "line_item": "other",
+      "direction": "raised",
+      "detail": "Interest income guidance raised to $550M-$650M from prior range"
+    },
+    {
+      "line_item": "other",
+      "direction": "lowered",
+      "detail": "Shockwave acquisition expected to dilute adjusted EPS by ~$0.10 in 2024 upon closing (guidance to be updated at close)"
+    }
+  ],
+  "themes": [
+    "m_and_a",
+    "product_launch",
+    "ai",
+    "margin_expansion",
+    "regulatory",
+    "dividends",
+    "customer_wins",
+    "macro_headwinds"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "INVEGA SUSTENNA/XEPLION patent litigation status and financial impact",
+    "IRA Medicare drug price negotiation progress and deal dynamics",
+    "Pulmonary hypertension competitive threat from Merck's WINREVAIR approval"
+  ],
+  "_ticker": "JNJ",
+  "_quarter": "Q1-2024",
+  "_call_date": "2024-04-16",
+  "overall_sentiment": 0.592,
+  "sentiment_bucket": "bullish"
+}

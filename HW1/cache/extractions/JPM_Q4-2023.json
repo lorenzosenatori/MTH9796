@@ -1,0 +1,98 @@
+{
+  "prepared_sentiment": 0.2,
+  "qa_sentiment": 0.05,
+  "management_confidence": 0.62,
+  "qa_defensiveness": 0.35,
+  "wins": [
+    {
+      "text": "Full-year net income of $50B, EPS of $16.23, revenue of $162B, and ROTCE of 21% \u2014 all record results for the firm",
+      "category": "revenue"
+    },
+    {
+      "text": "IB fees up 13% YoY in Q4; ranked #1 in IB wallet share at 8.8% for the full year",
+      "category": "revenue"
+    },
+    {
+      "text": "AWM record client asset net inflows of $489B for the year; AUM of $3.4T and client assets of $5T both up 24% YoY",
+      "category": "growth"
+    },
+    {
+      "text": "Auto originations of $9.9B, up 32% YoY with market share gains while retaining strong margins",
+      "category": "customer"
+    },
+    {
+      "text": "CET1 ratio improved to 15%, up 70 bps QoQ, providing significant capital buffer above regulatory requirements",
+      "category": "other"
+    }
+  ],
+  "risks": [
+    {
+      "text": "$2.9B FDIC special assessment and $743M net investment securities losses weighed on Q4 results, reducing reported EPS to $3.04",
+      "category": "other"
+    },
+    {
+      "text": "2024 NII ex-Markets guided to ~$88B, implying meaningful sequential quarterly declines from the $94B Q4 annualized run rate as rates normalize",
+      "category": "margins"
+    },
+    {
+      "text": "Card net charge-offs up $791M YoY in Q4 due to continued normalization; net reserve build of $538M driven by card loan growth",
+      "category": "demand"
+    },
+    {
+      "text": "CRE reserve build of $142M in Commercial Bank driven by deterioration in commercial real estate valuation outlook; C&I loan demand muted with lower revolver utilization",
+      "category": "demand"
+    },
+    {
+      "text": "2024 adjusted expenses guided to ~$90B, up ~$7B YoY, driven by compensation, branch expansion, technology, and marketing investments with uncertain near-term ROI visibility",
+      "category": "execution"
+    }
+  ],
+  "guidance": "mixed",
+  "guidance_items": [
+    {
+      "line_item": "revenue",
+      "direction": "lowered",
+      "detail": "2024 NII ex-Markets guided to ~$88B vs. Q4 annualized run rate of ~$94B, implying meaningful sequential quarterly declines; total NII ~$90B"
+    },
+    {
+      "line_item": "margins",
+      "direction": "lowered",
+      "detail": "ROTCE expected to normalize toward through-the-cycle target of ~17%, down from 21% in 2023, as NII tailwinds dissipate"
+    },
+    {
+      "line_item": "eps",
+      "direction": "reaffirmed",
+      "detail": "Card net charge-off rate expected to remain below 3.5% in 2024, consistent with prior Investor Day guidance"
+    },
+    {
+      "line_item": "other",
+      "direction": "lowered",
+      "detail": "2024 adjusted expenses guided to ~$90B, up ~$7B YoY, driven by business growth, technology, and compensation investments"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "Buyback pace to remain modest at ~$2B net per quarter pending Basel III end-game rule finalization and SCB clarity"
+    }
+  ],
+  "themes": [
+    "macro_headwinds",
+    "margin_pressure",
+    "buybacks",
+    "regulatory",
+    "ai",
+    "enterprise_demand",
+    "inventory",
+    "capital_markets_rebound"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Private credit competitive threat and JPM's strategic response to direct lending and asset-backed finance share shift",
+    "Sensitivity of NII outlook to varying number of Fed rate cuts (e.g., 2 vs. 4 vs. 6 cuts)",
+    "QT impact on system-wide deposit balances and whether it has been less disruptive than expected"
+  ],
+  "_ticker": "JPM",
+  "_quarter": "Q4-2023",
+  "_call_date": "2024-01-12",
+  "overall_sentiment": 0.14,
+  "sentiment_bucket": "slightly_bullish"
+}

@@ -1,0 +1,93 @@
+{
+  "prepared_sentiment": 0.82,
+  "qa_sentiment": 0.7,
+  "management_confidence": 0.92,
+  "qa_defensiveness": 0.1,
+  "wins": [
+    {
+      "text": "Q1 revenue of $634M, up 21% YoY, exceeding the high end of prior guidance; sixth consecutive quarter of GAAP profitability with record GAAP net income of $106M",
+      "category": "revenue"
+    },
+    {
+      "text": "U.S. commercial revenue grew 40% YoY and 14% QoQ to $150M; excluding strategic contracts, grew 68% YoY and 22% QoQ \u2014 surpassing international commercial revenue for the first time",
+      "category": "revenue"
+    },
+    {
+      "text": "Adjusted operating margin expanded to 36%, Rule of 40 Score hit 57 (up 3 points sequentially), marking the sixth consecutive quarter of expanding adjusted operating margins",
+      "category": "margins"
+    },
+    {
+      "text": "Commercial TCV booked was $505M, up 187% YoY; U.S. commercial TCV booked was $286M, up 131% YoY; U.S. commercial customer count grew 69% YoY and 19% QoQ to 262 customers",
+      "category": "growth"
+    },
+    {
+      "text": "Awarded $178M sole-prime contract by U.S. Army for next-generation TITAN targeting node \u2014 first time a software company has won a prime contract for a hardware system",
+      "category": "customer"
+    }
+  ],
+  "risks": [
+    {
+      "text": "International commercial revenue declined 3% sequentially to $149M due to continued headwinds in Europe; CEO acknowledged Europe is 'gliding towards 0% GDP growth' with no easy remedy",
+      "category": "macro"
+    },
+    {
+      "text": "Revenue from strategic commercial contracts expected to decline sharply to $7M\u2013$9M in Q2 2024 vs. $19M in Q2 2023, creating a near-term revenue headwind",
+      "category": "demand"
+    },
+    {
+      "text": "International government revenue declined 9% sequentially to $79M due to Q4 revenue catch-up and continued European headwinds",
+      "category": "demand"
+    },
+    {
+      "text": "Management acknowledged the U.S. commercial sales motion is still early and imperfect \u2014 'we have not cracked the sales motion' \u2014 suggesting execution risk as the company scales",
+      "category": "execution"
+    },
+    {
+      "text": "Scalability constraint: limited number of Palantir software engineers constrains ability to serve a rapidly growing customer base; company is relying on customers to self-serve via AIP platform",
+      "category": "supply_chain"
+    }
+  ],
+  "guidance": "raised",
+  "guidance_items": [
+    {
+      "line_item": "revenue",
+      "direction": "raised",
+      "detail": "Full year 2024 revenue raised to $2.677B\u2013$2.689B; Q2 2024 revenue guided to $649M\u2013$653M"
+    },
+    {
+      "line_item": "segment",
+      "direction": "raised",
+      "detail": "U.S. commercial revenue guidance raised to in excess of $661M, representing at least 45% growth"
+    },
+    {
+      "line_item": "margins",
+      "direction": "raised",
+      "detail": "Full year adjusted income from operations raised to $868M\u2013$880M; Q2 adjusted income from operations guided to $209M\u2013$213M"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "Adjusted free cash flow of $800M\u2013$1B unchanged; GAAP operating income and net income expected in each quarter of 2024"
+    }
+  ],
+  "themes": [
+    "ai",
+    "enterprise_demand",
+    "product_launch",
+    "customer_wins",
+    "margin_expansion",
+    "guidance_beat",
+    "macro_headwinds",
+    "geopolitical"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Boot camp conversion rates and deal cycle specifics \u2014 management did not proactively quantify conversion metrics in prepared remarks",
+    "Scaling/implementation capacity \u2014 how Palantir handles surging demand with a limited headcount of engineers was not addressed proactively",
+    "Geopolitical stance and its reception among customers \u2014 management's outspoken positions on Israel, Ukraine, and domestic politics were not addressed in prepared remarks"
+  ],
+  "_ticker": "PLTR",
+  "_quarter": "Q1-2024",
+  "_call_date": "2024-05-06",
+  "overall_sentiment": 0.772,
+  "sentiment_bucket": "very_bullish"
+}

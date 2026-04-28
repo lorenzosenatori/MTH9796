@@ -1,0 +1,28 @@
+{
+  "line_items": [
+    {
+      "line_item": "revenue",
+      "result": "beat",
+      "reasoning": "Q3 total revenue of $6.5B (+25% YoY) exceeded the guided ~10% higher entry run rate (with HPS); HPS delivered ~$225M in management fees (in line) plus an additional ~$270M in performance fees, and record ETF inflows drove 10% annualized organic base fee growth \u2014 the strongest quarter since 2021, clearly surpassing the guided trajectory."
+    },
+    {
+      "line_item": "margins",
+      "result": "miss",
+      "reasoning": "As-adjusted operating margin came in at 44.6%, falling short of the 45%+ target guided for over the cycle, with the 120 bps YoY decline driven by higher performance fee-related compensation and M&A onboarding costs \u2014 the near-term pressure materialized more acutely than the 'clear path' framing implied."
+    },
+    {
+      "line_item": "other",
+      "result": "inline",
+      "reasoning": "The ~25% tax rate, at-least-$375M/quarter share repurchase commitment, and 40%-50% dividend payout ratio targets were all reaffirmed this quarter with no indication of deviation from prior guidance."
+    },
+    {
+      "line_item": "segment",
+      "result": "beat",
+      "reasoning": "HPS's ~$225M in management fees matched guidance exactly, but the additional ~$270M in performance fees in its first full quarter was a significant upside surprise; GIP V closing above its $25B target and record $13.5T AUM with $205B net inflows also exceeded the guided positive HPS fee rate impact and private markets fundraising trajectory."
+    }
+  ],
+  "overall_surprise": "mixed",
+  "_ticker": "BLK",
+  "_quarter": "Q3-2025",
+  "_prior_quarter": "Q2-2025"
+}

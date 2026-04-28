@@ -1,0 +1,28 @@
+{
+  "line_items": [
+    {
+      "line_item": "other (pricing actions)",
+      "result": "miss",
+      "reasoning": "Pricing actions delivered only 140\u2013170 bps in Q2 vs. the guided 3%\u20134% (300\u2013400 bps) exit-rate target, reflecting material timing slippage due to tariff pauses and policy changes."
+    },
+    {
+      "line_item": "capex",
+      "result": "inline",
+      "reasoning": "No updated capex figures were reported that deviate from the full-year $265M\u2013$285M guidance; the range appears on track with no indication of over- or under-spend."
+    },
+    {
+      "line_item": "margins",
+      "result": "beat",
+      "reasoning": "Operating margin reached 21% (+80 bps YoY) with incremental margins exactly at 30%, demonstrating strong gross margin defense in Q2, though management flagged price/cost headwinds becoming more challenging in H2 2025."
+    },
+    {
+      "line_item": "revenue",
+      "result": "beat",
+      "reasoning": "Q2 revenue exceeded $2 billion for the first time in company history with 8.6% growth \u2014 the strongest daily sales rate since Q1 2023 \u2014 clearly outperforming the cautious, no-formal-guidance stance management communicated amid limited visibility and trade policy uncertainty."
+    }
+  ],
+  "overall_surprise": "mixed",
+  "_ticker": "FAST",
+  "_quarter": "Q2-2025",
+  "_prior_quarter": "Q1-2025"
+}

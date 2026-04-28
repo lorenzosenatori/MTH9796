@@ -1,0 +1,93 @@
+{
+  "prepared_sentiment": 0.25,
+  "qa_sentiment": 0.1,
+  "management_confidence": 0.62,
+  "qa_defensiveness": 0.2,
+  "wins": [
+    {
+      "text": "Daily sales rate grew 5% YoY in Q1 2025, the strongest DSR since Q2 2023, driven by self-help execution and contract signings",
+      "category": "growth"
+    },
+    {
+      "text": "National, regional and government contract count grew at a double-digit rate for 12 consecutive months; healthy pace and mix of signings continued in Q1 2025",
+      "category": "customer"
+    },
+    {
+      "text": "FMI device count reached ~130,000 across 25 countries, up 12.5% YoY; digital footprint expanded to 61% of total sales vs. 59% a year ago",
+      "category": "product"
+    },
+    {
+      "text": "On-site customer sites (>$50K/month) grew 7% YoY; safety sales grew nearly 10% in March driven by FMI execution",
+      "category": "revenue"
+    },
+    {
+      "text": "Dividend increased from $0.43 to $0.44/quarter, putting the company on track to pay over $1 billion in regular dividends for the first time in 2025",
+      "category": "other"
+    }
+  ],
+  "risks": [
+    {
+      "text": "Operating margin declined 50 bps YoY to 20.1% in Q1 2025; gross margin fell 40 bps to 45.1% due to product/customer mix, higher third-party freight costs, and elevated hub vehicle lease costs",
+      "category": "margins"
+    },
+    {
+      "text": "Significant tariff exposure: 145% total duty on non-steel China imports and 25% Section 232 on steel/derivative products (including fasteners globally); management acknowledged 'there is no silver bullet' and no way to cushion 145% tariffs",
+      "category": "macro"
+    },
+    {
+      "text": "End market demand remains sluggish; customer tone shifted from steady post-election improvement to plateauing as trade policy created caution; no meaningful pre-buying observed",
+      "category": "demand"
+    },
+    {
+      "text": "Inventory up 11.9% YoY as company accelerated purchases ahead of tariffs; operating cash conversion was only 88% of net income, below typical Q1 levels; inventory growth may remain elevated throughout 2025",
+      "category": "supply_chain"
+    },
+    {
+      "text": "Fastener supply chain heavily concentrated in Asia with no scale North American manufacturing alternative; company found no viable domestic/Mexico substitute to satisfy fastener sourcing needs at scale",
+      "category": "supply_chain"
+    }
+  ],
+  "guidance": "mixed",
+  "guidance_items": [
+    {
+      "line_item": "other",
+      "direction": "raised",
+      "detail": "Pricing actions taken in April expected to contribute 3%-4% price uplift in Q2 2025, with potential to double to 6%-8% in H2 2025 depending on pace and execution"
+    },
+    {
+      "line_item": "capex",
+      "direction": "reaffirmed",
+      "detail": "Full-year 2025 capex guided to $265M-$285M, up from $214M in 2024, driven by FMI device spending, IT/digital capabilities, and distribution center outlays (Utah, Atlanta hubs)"
+    },
+    {
+      "line_item": "margins",
+      "direction": "reaffirmed",
+      "detail": "Easier gross margin comparisons expected in H2 2025; effectiveness of price-cost management and macro improvement will influence outcome; goal remains to defend gross margin percentage"
+    },
+    {
+      "line_item": "revenue",
+      "direction": "reaffirmed",
+      "detail": "No formal revenue guidance issued; management expressed limited visibility and shared customers' uncertainty over trade policy impact on 2025 demand, but noted internal momentum and easier comps as tailwinds"
+    }
+  ],
+  "themes": [
+    "tariffs",
+    "supply_chain",
+    "pricing_power",
+    "margin_pressure",
+    "inventory",
+    "customer_wins",
+    "capex",
+    "macro_headwinds"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Feasibility and magnitude of 145% China tariff impact on customer contracts and sourcing optionality",
+    "Availability of North American/Mexico-based fastener manufacturing as a supply chain alternative",
+    "Gross margin outlook update given price-cost dynamics and tariff environment"
+  ],
+  "_ticker": "FAST",
+  "_quarter": "Q1-2025",
+  "_call_date": "2025-04-11",
+  "overall_sentiment": 0.19,
+  "sentiment_bucket": "slightly_bullish"
+}

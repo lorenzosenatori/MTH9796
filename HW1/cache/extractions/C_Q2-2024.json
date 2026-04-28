@@ -1,0 +1,98 @@
+{
+  "prepared_sentiment": 0.15,
+  "qa_sentiment": -0.1,
+  "management_confidence": 0.55,
+  "qa_defensiveness": 0.55,
+  "wins": [
+    {
+      "text": "Net income of $3.2B with EPS of $1.52 and RoTCE of 7.2%; total revenues up 4% YoY across all five core businesses",
+      "category": "revenue"
+    },
+    {
+      "text": "Investment banking fees up 63% YoY; Banking segment revenues up 38% driven by strong DCM, ECM and advisory activity with share gains across all three",
+      "category": "revenue"
+    },
+    {
+      "text": "Equities revenues up 37% YoY driven by strong derivatives performance including a gain on the Visa B exchange offer; prime balances up ~18%",
+      "category": "growth"
+    },
+    {
+      "text": "Expenses down 2% YoY and 6% sequentially to $13.4B, generating positive operating leverage firm-wide; organizational simplification and stranded cost actions expected to drive $2B\u2013$2.5B in annual run-rate saves over medium term",
+      "category": "cost_savings"
+    },
+    {
+      "text": "CET1 ratio at 13.6%, ~130 bps above current regulatory requirement; stress capital buffer reduced from 4.3% to 4.1%, lowering regulatory capital requirement to 12.1% as of October 1; dividend raised 6% to $0.56/share and $1B buyback planned for Q3",
+      "category": "buybacks"
+    }
+  ],
+  "risks": [
+    {
+      "text": "Federal Reserve and OCC issued civil money penalties ($136M total) and an amended consent order requiring a new resource review plan; Citi acknowledged falling behind on data quality management related to regulatory reporting, with scope of remediation work expanded beyond original plan",
+      "category": "regulatory"
+    },
+    {
+      "text": "USPB RoTCE of only 1.9% for Q2; cost of credit surged to $2.3B driven by $1.9B in NCLs and ~$400M ACL build; multiple card loan vintages maturing simultaneously compounding credit losses; Retail Services NCL rate guided to high end of 5.75%\u20136.25% range",
+      "category": "margins"
+    },
+    {
+      "text": "Lower-income and lower-FICO consumers showing sharper drops in payment rates and increased borrowing; only the highest income quartile has more savings than pre-2019, creating bifurcated credit performance",
+      "category": "demand"
+    },
+    {
+      "text": "NII ex-markets down ~3% sequentially, pressured by FX translation, seasonally lower revolving card balances, lower Argentina interest rates, and assumed higher deposit betas outside the U.S.; CFPB late fee rule impact still embedded in forecasts",
+      "category": "macro"
+    },
+    {
+      "text": "Buyback guidance limited to quarterly determinations due to Basel III endgame uncertainty; intercompany dividends from CBNA to parent require OCC nonobjection until resource review plan is approved, adding near-term capital flexibility uncertainty",
+      "category": "regulatory"
+    }
+  ],
+  "guidance": "reaffirmed",
+  "guidance_items": [
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "Full-year 2024 expense guidance of $53.5B\u2013$53.8B reaffirmed (excluding FDIC special assessment and $136M civil money penalty); management noted they will likely be at the higher end of the range"
+    },
+    {
+      "line_item": "revenue",
+      "direction": "reaffirmed",
+      "detail": "Full-year NII guided modestly down YoY; back half expected slightly higher than first half; medium-term targets unchanged"
+    },
+    {
+      "line_item": "segment",
+      "direction": "reaffirmed",
+      "detail": "Branded cards NCL rate expected in 3.5%\u20134.0% range for full year; Retail Services at high end of 5.75%\u20136.25% range"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "Medium-term RoTCE target of 11%\u201312% reaffirmed; medium-term expense target of $51B\u2013$53B for 2026 reaffirmed"
+    },
+    {
+      "line_item": "capex",
+      "direction": "reaffirmed",
+      "detail": "$1B common share buyback planned for Q3 2024; dividend raised to $0.56/share as previously announced; future buybacks to be assessed quarterly"
+    }
+  ],
+  "themes": [
+    "regulatory",
+    "restructuring",
+    "cost_cutting",
+    "margin_pressure",
+    "buybacks",
+    "consumer_weakness",
+    "macro_headwinds",
+    "enterprise_demand"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Scope and timeline impact of the amended OCC consent order / resource review plan on capital flexibility and buyback pace",
+    "DTA utilization constraints and catalysts for accelerating NOL utilization beyond organic earnings",
+    "Competitive dynamics in Retail Services (co-brand cards) with peers leading on price to win new mandates"
+  ],
+  "_ticker": "C",
+  "_quarter": "Q2-2024",
+  "_call_date": "2024-07-12",
+  "overall_sentiment": 0.05,
+  "sentiment_bucket": "slightly_bullish"
+}

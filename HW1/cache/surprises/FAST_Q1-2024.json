@@ -1,0 +1,23 @@
+{
+  "line_items": [
+    {
+      "line_item": "capex",
+      "result": "inline",
+      "reasoning": "No specific Q1 capex figures were reported to compare against the full-year $225M\u2013$245M guidance; operating cash flow was strong at $336M but capex tracking cannot be confirmed as ahead or behind from the available data."
+    },
+    {
+      "line_item": "segment",
+      "result": "beat",
+      "reasoning": "FMI device signings hit 105/day in Q1 (first-ever 100+/day quarter), putting the full-year 26,000\u201328,000 MEU target well within reach, and Onsite logged 102 signings in Q1 alone, tracking solidly toward the 375\u2013400 full-year target."
+    },
+    {
+      "line_item": "other",
+      "result": "miss",
+      "reasoning": "Management's warning of P&L headwinds proved accurate but worse than implied \u2014 total daily sales grew only 1.9% YoY vs. the ~4% expectation, operating margin contracted 60 bps YoY, and SG&A was pressured by substantially higher healthcare costs, confirming the 'subdued' environment was even more challenging than guided."
+    }
+  ],
+  "overall_surprise": "mixed",
+  "_ticker": "FAST",
+  "_quarter": "Q1-2024",
+  "_prior_quarter": "Q4-2023"
+}

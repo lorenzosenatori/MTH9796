@@ -1,0 +1,98 @@
+{
+  "prepared_sentiment": 0.62,
+  "qa_sentiment": 0.38,
+  "management_confidence": 0.75,
+  "qa_defensiveness": 0.45,
+  "wins": [
+    {
+      "text": "Full year adjusted EPS up 19% YoY, delivered towards the higher end of original guidance range despite revenue down ~3% (~$2.5B)",
+      "category": "revenue"
+    },
+    {
+      "text": "Ground delivered highest adjusted operating income in company history for both Q4 and full year; Q4 adjusted operating margin expanded 130 bps with operating income up $133M YoY",
+      "category": "margins"
+    },
+    {
+      "text": "Achieved $1.8B DRIVE structural cost savings target in FY24, one year ahead of the $4B FY25 cumulative target; CapEx-to-revenue target of <6.5% also hit one year early",
+      "category": "cost_savings"
+    },
+    {
+      "text": "Returned nearly $4B to stockholders in FY24, including $2.5B in share repurchases ($500M above plan) and a 10% dividend increase; adjusted free cash flow of $4.1B, up ~$500M YoY",
+      "category": "buybacks"
+    },
+    {
+      "text": "ROIC improved 120 bps to 9.9%; Freight Q4 operating income up $58M with margins up 220 bps despite soft demand environment",
+      "category": "margins"
+    }
+  ],
+  "risks": [
+    {
+      "text": "USPS contract expiration on September 29 creates a $500M operating profit headwind in FY25, concentrated in Q2 with mitigation efforts ramping in Q3+",
+      "category": "demand"
+    },
+    {
+      "text": "International export yield pressure of $400M expected in FY25 as pandemic-era demand surcharges diminish and mix shifts toward deferred services; increased global air cargo capacity adding further pressure",
+      "category": "margins"
+    },
+    {
+      "text": "Express adjusted operating income fell $92M and margins declined 90 bps in Q4, pressured by lower international yield, higher purchased transportation costs from Tricolor launch, and incentive comp headwinds",
+      "category": "margins"
+    },
+    {
+      "text": "Two fewer operating days in FY25 vs FY24 reduces profitability by ~$300M \u2014 a calendar dynamic not seen since FY2001",
+      "category": "other"
+    },
+    {
+      "text": "Network 2.0 and One FedEx integration carry execution risk; analysts explicitly raised historical precedent of failed network integrations (e.g., TNT) as a concern",
+      "category": "execution"
+    }
+  ],
+  "guidance": "raised",
+  "guidance_items": [
+    {
+      "line_item": "eps",
+      "direction": "raised",
+      "detail": "FY25 adjusted EPS guided to $20\u2013$22 (midpoint $21), implying ~12%\u201324% growth vs FY24 adjusted EPS; prior year delivered $19 range"
+    },
+    {
+      "line_item": "revenue",
+      "direction": "raised",
+      "detail": "FY25 revenue expected to grow low to mid-single digits YoY, driven by improving U.S. domestic parcel and international export demand; prior year revenue was down 3%"
+    },
+    {
+      "line_item": "margins",
+      "direction": "raised",
+      "detail": "Adjusted operating income expected to increase ~15% YoY at midpoint ($7.2B), driven by $2.2B incremental DRIVE savings more than offsetting $1.3B+ in headwinds"
+    },
+    {
+      "line_item": "capex",
+      "direction": "reaffirmed",
+      "detail": "FY25 CapEx guided to $5.2B, down YoY as % of revenue; aircraft CapEx targeted at ~$1B in FY26"
+    },
+    {
+      "line_item": "other",
+      "direction": "raised",
+      "detail": "FY25 share repurchases planned at $2.5B including $1B in Q1; dividend increased 10% on top of prior year's 10% increase"
+    }
+  ],
+  "themes": [
+    "cost_cutting",
+    "restructuring",
+    "margin_expansion",
+    "supply_chain",
+    "product_launch",
+    "buybacks",
+    "dividends",
+    "guidance_beat"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Potential spin-off or sale of FedEx Freight LTL business and downstream implications for Tricolor network strategy",
+    "Network integration execution risk citing historical failures (e.g., TNT acquisition)",
+    "Tariff/trade policy risk and concentration in China-based e-commerce customers as a percentage of revenue"
+  ],
+  "_ticker": "FDX",
+  "_quarter": "Q4-2024",
+  "_call_date": "2024-06-25",
+  "overall_sentiment": 0.524,
+  "sentiment_bucket": "bullish"
+}

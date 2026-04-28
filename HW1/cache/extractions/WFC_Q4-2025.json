@@ -1,0 +1,98 @@
+{
+  "prepared_sentiment": 0.72,
+  "qa_sentiment": 0.42,
+  "management_confidence": 0.75,
+  "qa_defensiveness": 0.35,
+  "wins": [
+    {
+      "text": "Full-year 2025 net income increased to $21.3 billion with diluted EPS growing 17% YoY; ROTCE reached 15%, up from 8% in Q4 2020",
+      "category": "revenue"
+    },
+    {
+      "text": "Returned $23 billion of capital to shareholders in 2025, including $18 billion in buybacks and a 13% dividend increase; repurchased $5 billion in Q4 alone",
+      "category": "buybacks"
+    },
+    {
+      "text": "Average loans grew $49.4 billion or 5% YoY; period-end loans grew 5% in Q4, strongest linked-quarter growth since Q1 2020; auto loan balances up 19% YoY, credit card balances up 6% YoY",
+      "category": "growth"
+    },
+    {
+      "text": "2026 NII guided to ~$50 billion vs. $47.5 billion in 2025, implying ~5% growth; NII ex-markets guided to ~$48 billion vs. $46.7 billion in 2025",
+      "category": "revenue"
+    },
+    {
+      "text": "Wealth and Investment Management revenue up 10% YoY; investment advisory fees and brokerage commissions up 8% YoY; full-year investment banking fees up 11% YoY; markets revenue up 7% YoY in Q4",
+      "category": "revenue"
+    }
+  ],
+  "risks": [
+    {
+      "text": "2026 noninterest expense guided to ~$55.7 billion, up from $54.8 billion in 2025, driven by ~$1.1 billion incremental technology spend, ~$800 million in other investments, and ~$800 million in merit/comp increases, partially offset by $2.4 billion in gross efficiency saves",
+      "category": "margins"
+    },
+    {
+      "text": "Commercial real estate office portfolio continues to generate losses; CRE office allowance coverage ratio declined to 10.1%; management flagged additional losses could be 'lumpy'",
+      "category": "demand"
+    },
+    {
+      "text": "NII headwind from 2-3 expected Fed rate cuts in 2026; lower short-term rates pressure variable-rate commercial loan yields; Q1 2026 NII ex-markets expected to decline due to 2 fewer calendar days",
+      "category": "macro"
+    },
+    {
+      "text": "Potential credit card rate cap regulation flagged by analysts; management acknowledged it is 'too early to know' the impact and outcome is uncertain depending on administration or Congressional action",
+      "category": "regulatory"
+    },
+    {
+      "text": "Share repurchases expected to be lower in 2026 as capital is redeployed into organic balance sheet growth; CET1 at 10.6%, above 10%-10.5% target range, with RWA growth consuming ~45 bps of capital in Q4",
+      "category": "other"
+    }
+  ],
+  "guidance": "raised",
+  "guidance_items": [
+    {
+      "line_item": "revenue",
+      "direction": "raised",
+      "detail": "2026 total NII guided to ~$50 billion vs. $47.5 billion reported in 2025; NII ex-markets guided to ~$48 billion vs. $46.7 billion in 2025"
+    },
+    {
+      "line_item": "segment",
+      "direction": "raised",
+      "detail": "Markets NII expected to grow to ~$2 billion in 2026, driven by lower short-term funding costs and balance sheet growth"
+    },
+    {
+      "line_item": "other",
+      "direction": "raised",
+      "detail": "Average loans and deposits each expected to grow mid-single digits from Q4 2025 to Q4 2026"
+    },
+    {
+      "line_item": "margins",
+      "direction": "lowered",
+      "detail": "2026 noninterest expense guided to ~$55.7 billion, up from $54.8 billion in 2025; Q1 personnel expenses seasonally ~$700 million higher"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "Medium-term ROTCE target of 17%-18% reaffirmed; CET1 target range of 10%-10.5% maintained; ~$2.4 billion gross expense saves expected in 2026"
+    }
+  ],
+  "themes": [
+    "margin_expansion",
+    "cost_cutting",
+    "buybacks",
+    "enterprise_demand",
+    "product_launch",
+    "customer_wins",
+    "regulatory",
+    "macro_headwinds"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Potential credit card interest rate cap legislation and its impact on WFC's card growth strategy",
+    "Specific timeline commitment for achieving the 17%-18% ROTCE target (peers provide explicit timelines)",
+    "Capital allocation trade-off between lower-ROA markets/financing balance sheet growth and ROTCE dilution risk"
+  ],
+  "_ticker": "WFC",
+  "_quarter": "Q4-2025",
+  "_call_date": "2026-01-15",
+  "overall_sentiment": 0.6,
+  "sentiment_bucket": "bullish"
+}

@@ -1,0 +1,33 @@
+{
+  "line_items": [
+    {
+      "line_item": "Full-year alternatives fundraising target (raised to >$50B)",
+      "result": "beat",
+      "reasoning": "GS not only met the raised >$50B full-year target but surpassed it by Q3 YTD, prompting a further raise of the full-year target to over $60B."
+    },
+    {
+      "line_item": "Buyback moderation from Q2's $3.5B level",
+      "result": "inline",
+      "reasoning": "No specific Q3 buyback figure was disclosed in the reported results, but management guided to moderation and there is no indication they deviated from that posture given ongoing SCB/regulatory uncertainty."
+    },
+    {
+      "line_item": "Full-year effective tax rate ~22%",
+      "result": "inline",
+      "reasoning": "No Q3 tax rate figure was explicitly called out in the reported wins or risks, and with no contradicting data point the guidance is treated as tracking on plan."
+    },
+    {
+      "line_item": "AWM pretax margin tracking toward mid-20s medium-term target",
+      "result": "inline",
+      "reasoning": "AWM durable revenues hit records and management fees are tracking well, but incentive fees were only $85M in Q3 vs. a $1B annual medium-term target, suggesting margin progress is steady but not materially ahead of the mid-20s trajectory guided."
+    },
+    {
+      "line_item": "CIE on-balance sheet principal investment portfolio selldown (vast majority of $12.6B by end-2025)",
+      "result": "inline",
+      "reasoning": "Management reaffirmed progress was expected in Q3 and Q4 2024, and no specific miss or acceleration on the selldown was flagged in the reported results, leaving it tracking in line with the stated plan."
+    }
+  ],
+  "overall_surprise": "mixed",
+  "_ticker": "GS",
+  "_quarter": "Q3-2024",
+  "_prior_quarter": "Q2-2024"
+}

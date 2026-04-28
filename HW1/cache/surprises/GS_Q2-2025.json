@@ -1,0 +1,33 @@
+{
+  "line_items": [
+    {
+      "line_item": "Durable revenues growth (management fees + private banking & lending)",
+      "result": "beat",
+      "reasoning": "Assets under supervision rose to a record $3.3T and wealth management client assets hit a record $1.7T with 30 consecutive quarters of long-term fee-based net inflows, strongly supporting high single-digit annual durable revenue growth \u2014 trajectory appears on track or ahead of guidance."
+    },
+    {
+      "line_item": "Alternatives fundraising",
+      "result": "inline",
+      "reasoning": "No specific alternatives fundraising figures were called out as a standout win or miss in Q2 results, and the prior guidance acknowledged potential market condition impacts, making this consistent with an inline outcome."
+    },
+    {
+      "line_item": "HPI portfolio sell-down (target ~$0 by end of 2026 from ~$8.8B)",
+      "result": "inline",
+      "reasoning": "The HPI portfolio stands at ~$8B remaining with a challenging harvesting environment and modest net losses in private real estate, suggesting progress is occurring but at a measured pace consistent with the multi-year guidance timeline."
+    },
+    {
+      "line_item": "~$150M severance charge (Q2 pyramid restructuring)",
+      "result": "inline",
+      "reasoning": "The guided ~$150M severance charge for Q2 was not flagged as a surprise deviation in either direction in the reported results, implying it came in roughly as expected."
+    },
+    {
+      "line_item": "Full-year effective tax rate (~21%)",
+      "result": "inline",
+      "reasoning": "No commentary in the Q2 results indicated a material deviation from the guided ~21% full-year effective tax rate, suggesting it remains on track."
+    }
+  ],
+  "overall_surprise": "beat",
+  "_ticker": "GS",
+  "_quarter": "Q2-2025",
+  "_prior_quarter": "Q1-2025"
+}

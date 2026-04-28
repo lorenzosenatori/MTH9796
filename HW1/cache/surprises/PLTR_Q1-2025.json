@@ -1,0 +1,33 @@
+{
+  "line_items": [
+    {
+      "line_item": "revenue",
+      "result": "beat",
+      "reasoning": "Q1 2025 revenue came in at $884M, exceeding the guided range of $858M\u2013$862M by ~$22M\u2013$26M (~350 bps above the high end), a clear beat."
+    },
+    {
+      "line_item": "segment",
+      "result": "beat",
+      "reasoning": "U.S. commercial revenue hit $255M in Q1 alone (a $1B+ annualized run rate), growing 71% YoY and already tracking well above the full-year 2025 guidance of >$1.079B at 54% YoY growth."
+    },
+    {
+      "line_item": "margins",
+      "result": "beat",
+      "reasoning": "Adjusted operating margin reached 44% in Q1, already above the full-year 2025 guided range of ~41\u201342%, representing 800 bps of YoY expansion despite flagged increases in operating expenses."
+    },
+    {
+      "line_item": "other",
+      "result": "beat",
+      "reasoning": "Q1 adjusted free cash flow of $370M at a 42% margin puts PLTR on pace to exceed the full-year 2025 guidance of $1.5B\u2013$1.7B, tracking toward ~$1.48B annualized at the low end but with typical back-half seasonality suggesting upside."
+    },
+    {
+      "line_item": "eps",
+      "result": "beat",
+      "reasoning": "GAAP net income was positive in Q1 2025 ($0.08 EPS), fulfilling the commitment to GAAP profitability each quarter of 2025, with adjusted EPS of $0.13 further demonstrating operational strength."
+    }
+  ],
+  "overall_surprise": "beat",
+  "_ticker": "PLTR",
+  "_quarter": "Q1-2025",
+  "_prior_quarter": "Q4-2024"
+}

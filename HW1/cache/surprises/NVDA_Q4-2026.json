@@ -1,0 +1,28 @@
+{
+  "line_items": [
+    {
+      "line_item": "revenue",
+      "result": "beat",
+      "reasoning": "Q4 revenue came in at $68B, exceeding the guided $65B +/- 2% (implying a range of ~$63.7B\u2013$66.3B) by roughly $1.7B\u2013$4.3B, with data center alone adding a record $11B sequentially."
+    },
+    {
+      "line_item": "margins",
+      "result": "beat",
+      "reasoning": "Non-GAAP gross margin of 75.2% came in above the guided 75% +/- 50bps midpoint and at the high end of the guided range, reflecting a favorable Blackwell ramp mix."
+    },
+    {
+      "line_item": "other",
+      "result": "inline",
+      "reasoning": "No explicit reported figures for other income or tax rate were provided in the current quarter results to indicate a deviation from the guided ~$500M other income and 17% +/- 1% tax rate."
+    },
+    {
+      "line_item": "capex",
+      "result": "beat",
+      "reasoning": "The record $11B sequential data center revenue gain and $97B full-year free cash flow suggest supply commitments translated into real demand fulfillment, validating and likely exceeding the aggressive forward supply investment signaled last quarter."
+    }
+  ],
+  "overall_surprise": "beat",
+  "_ticker": "NVDA",
+  "_quarter": "Q4-2026",
+  "_prior_quarter": "Q3-2026"
+}

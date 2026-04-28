@@ -1,0 +1,33 @@
+{
+  "line_items": [
+    {
+      "line_item": "revenue",
+      "result": "beat",
+      "reasoning": "Q1 revenue of $7.4B exceeded the high end of the guided range ($7.1B +/- $300M, i.e., up to $7.4B), coming in at or above the ceiling and up 36% YoY vs. the guided ~30% YoY."
+    },
+    {
+      "line_item": "margins",
+      "result": "beat",
+      "reasoning": "Q1 non-GAAP gross margin was not explicitly stated in the wins, but Data Center operating margins expanded meaningfully YoY and Client revenue surged with record ASPs, suggesting gross margin at or above the guided ~54%; no miss was flagged for Q1 margins specifically."
+    },
+    {
+      "line_item": "eps",
+      "result": "beat",
+      "reasoning": "Q1 non-GAAP EPS of $0.96 grew 55% YoY, well ahead of the 'strong double-digit percentage' full-year growth trajectory guided, and significantly above the ~25% EPS growth rate seen in 2024."
+    },
+    {
+      "line_item": "segment",
+      "result": "inline",
+      "reasoning": "Gaming (Radeon) saw a strong product launch but the segment directional decline was guided and consistent with expectations; Embedded declined 11% QoQ, roughly in line with the 'modest sequential decline' guided, though the ongoing industrial inventory overhang is a mild negative."
+    },
+    {
+      "line_item": "other",
+      "result": "inline",
+      "reasoning": "No explicit Q1 actuals were reported for opex, other net income, tax rate, or share count that deviated from guidance, suggesting these operational items came in roughly as guided at ~$2.1B opex, ~$24M other income, ~13% tax rate, and ~1.64B diluted shares."
+    }
+  ],
+  "overall_surprise": "beat",
+  "_ticker": "AMD",
+  "_quarter": "Q1-2025",
+  "_prior_quarter": "Q4-2024"
+}

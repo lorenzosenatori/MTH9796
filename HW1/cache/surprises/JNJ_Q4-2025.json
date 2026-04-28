@@ -1,0 +1,33 @@
+{
+  "line_items": [
+    {
+      "line_item": "revenue",
+      "result": "beat",
+      "reasoning": "Full-year 2025 worldwide sales of $94.2B exceeded the raised guidance midpoint of $93.7B (reported) and came in at the top end of the 5.4%-5.9% reported growth range, surpassing the operational midpoint as well."
+    },
+    {
+      "line_item": "eps",
+      "result": "inline",
+      "reasoning": "Full-year adjusted diluted EPS of $10.79 came in just $0.01 below the reaffirmed midpoint of $10.85 (range $10.80-$10.90), effectively matching guidance within rounding."
+    },
+    {
+      "line_item": "margins",
+      "result": "beat",
+      "reasoning": "Enterprise adjusted pretax operating margin expanded from 24.1% to 28.7% in Q4, and full-year free cash flow of $19.7B suggests the ~300 bps full-year operating margin improvement target was met or exceeded."
+    },
+    {
+      "line_item": "other (net interest expense)",
+      "result": "inline",
+      "reasoning": "No explicit update on net interest expense vs. the $0-$50M guidance was provided in the reported results, so there is insufficient information to determine a deviation from guidance."
+    },
+    {
+      "line_item": "other (effective tax rate)",
+      "result": "inline",
+      "reasoning": "No specific full-year effective tax rate figure was reported in the current quarter results to compare against the raised 17.5%-18% guidance range."
+    }
+  ],
+  "overall_surprise": "beat",
+  "_ticker": "JNJ",
+  "_quarter": "Q4-2025",
+  "_prior_quarter": "Q3-2025"
+}

@@ -1,0 +1,98 @@
+{
+  "prepared_sentiment": 0.85,
+  "qa_sentiment": 0.75,
+  "management_confidence": 0.9,
+  "qa_defensiveness": 0.1,
+  "wins": [
+    {
+      "text": "Total revenue grew 30% YoY to $726M in Q3, exceeding the high end of prior guidance by ~450 bps; U.S. business grew 44% YoY",
+      "category": "revenue"
+    },
+    {
+      "text": "U.S. commercial revenue grew 54% YoY and 13% sequentially to $179M; U.S. commercial customer count grew 77% YoY to 321 customers",
+      "category": "growth"
+    },
+    {
+      "text": "Adjusted operating margin expanded to 38%, marking the eighth consecutive quarter of margin expansion; Rule of 40 score reached 68",
+      "category": "margins"
+    },
+    {
+      "text": "Adjusted free cash flow of $435M in Q3 (60% margin); first time ever generating over $1B in trailing 12-month adjusted FCF",
+      "category": "other"
+    },
+    {
+      "text": "Q3 TCV booked of $1.1B, up 33% YoY and 16% sequentially; U.S. commercial TCV of $297M; net dollar retention improved 400 bps to 118%",
+      "category": "customer"
+    }
+  ],
+  "risks": [
+    {
+      "text": "International commercial revenue grew only 3% YoY and declined 7% sequentially to $138M due to continued headwinds in Europe and a step-down in revenue from a government-sponsored enterprise in the Middle East",
+      "category": "demand"
+    },
+    {
+      "text": "Strategic commercial contracts revenue expected to decline to $6M\u2013$7.5M in Q4 2024 vs. $20M in Q4 2023, representing a meaningful YoY headwind",
+      "category": "other"
+    },
+    {
+      "text": "International government revenue declined 5% sequentially to $89M due to less favorable deal timing and Q2 revenue catch-up effects",
+      "category": "demand"
+    },
+    {
+      "text": "Stock-based compensation acceleration risk flagged: company may be required to accelerate SBC expenses if market-based vesting criteria are achieved earlier than expected due to rising stock price",
+      "category": "margins"
+    },
+    {
+      "text": "Expenses expected to ramp through Q4 as company continues to invest in technical talent and product pipeline, creating near-term margin pressure risk",
+      "category": "margins"
+    }
+  ],
+  "guidance": "raised",
+  "guidance_items": [
+    {
+      "line_item": "revenue",
+      "direction": "raised",
+      "detail": "Full year 2024 revenue raised to $2.805B\u2013$2.809B (midpoint $2.807B), representing ~26% YoY growth; Q4 2024 revenue guided to $767M\u2013$771M"
+    },
+    {
+      "line_item": "segment",
+      "direction": "raised",
+      "detail": "U.S. commercial revenue guidance raised to in excess of $687M for full year 2024, representing at least 50% growth"
+    },
+    {
+      "line_item": "margins",
+      "direction": "raised",
+      "detail": "Adjusted income from operations raised to $1.054B\u2013$1.058B for full year 2024; Q4 adjusted operating income guided to $298M\u2013$302M (~39% margin)"
+    },
+    {
+      "line_item": "other",
+      "direction": "raised",
+      "detail": "Adjusted free cash flow guidance raised to in excess of $1B for full year 2024"
+    },
+    {
+      "line_item": "eps",
+      "direction": "reaffirmed",
+      "detail": "Company continues to expect GAAP operating income and net income in each quarter of 2024"
+    }
+  ],
+  "themes": [
+    "ai",
+    "enterprise_demand",
+    "product_launch",
+    "customer_wins",
+    "margin_expansion",
+    "guidance_beat",
+    "buybacks",
+    "data_center"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Defense tech partnership strategy and why primes/startups are now actively advertising Palantir logos and seeking partnerships (competitive dynamic shift)",
+    "Boot camp-to-deal conversion speed and whether the pace of customer conversion has surprised even management",
+    "Strategic commercial contracts wind-down and exposure to distressed equity-as-payment customers (e.g., Lilium)"
+  ],
+  "_ticker": "PLTR",
+  "_quarter": "Q3-2024",
+  "_call_date": "2024-11-04",
+  "overall_sentiment": 0.81,
+  "sentiment_bucket": "very_bullish"
+}

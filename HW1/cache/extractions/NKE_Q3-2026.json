@@ -1,0 +1,98 @@
+{
+  "prepared_sentiment": 0.15,
+  "qa_sentiment": 0.05,
+  "management_confidence": 0.62,
+  "qa_defensiveness": 0.3,
+  "wins": [
+    {
+      "text": "NIKE Running grew over 20% in Q3, serving as the proof-of-concept for the Sport Offense strategy across other categories",
+      "category": "growth"
+    },
+    {
+      "text": "North America Q3 revenue grew 3% with wholesale up 11%; first time in 2 years that all channels in North America showed positive growth simultaneously (February inflection)",
+      "category": "revenue"
+    },
+    {
+      "text": "Nike Mind 001 sold out in all geographies; production doubled for next 2 seasons to meet demand from 2M+ consumers who signed up for 'notify me' on nike.com",
+      "category": "product"
+    },
+    {
+      "text": "Greater China inventory down mid-teens YoY with units down more than 20%; partner inventory also declined double digits, indicating meaningful marketplace cleanup progress",
+      "category": "other"
+    },
+    {
+      "text": "$230M severance charge in supply chain and technology expected to begin delivering cost benefits in fiscal '27, building through fiscal '28, with this quarter representing the largest expected financial impact",
+      "category": "cost_savings"
+    }
+  ],
+  "risks": [
+    {
+      "text": "Gross margins declined 130 bps to 40.2%, including a 300 bps headwind from higher U.S. tariffs in North America; North America gross margins specifically declined 360 bps despite nearly 650 bps of gross tariff impact",
+      "category": "margins"
+    },
+    {
+      "text": "EMEA Q3 revenue down 7% with NIKE Direct down 13% and NIKE stores down 20%; elevated inventory expected to persist through Q4 due to weak Sportswear sell-through, higher promotions, and Middle East traffic disruption",
+      "category": "demand"
+    },
+    {
+      "text": "Greater China Q3 revenue declined 10% with wholesale down 13% and NIKE Digital down 21%; marketplace cleanup actions expected to remain a revenue headwind throughout fiscal '27",
+      "category": "demand"
+    },
+    {
+      "text": "Sportswear declined low double digits globally in Q3 and represents more than half of total portfolio; intentional classic franchise inventory removal created ~5-point headwind to reported results",
+      "category": "inventory"
+    },
+    {
+      "text": "Tariff environment remains uncertain; tariffs expected to be a material year-over-year gross margin headwind through Q1 fiscal '27, with macro volatility from Middle East disruption and rising oil prices adding further uncertainty",
+      "category": "macro"
+    }
+  ],
+  "guidance": "mixed",
+  "guidance_items": [
+    {
+      "line_item": "revenue",
+      "direction": "lowered",
+      "detail": "Q4 FY26 revenue expected down 2%-4% reported; calendar year through end of 2026 expected down low-single digits, with North America modest growth offset by Greater China declines"
+    },
+    {
+      "line_item": "segment",
+      "direction": "lowered",
+      "detail": "Greater China expected down approximately 20% in Q4 FY26 due to reduced sell-in and accelerated marketplace cleanup actions"
+    },
+    {
+      "line_item": "margins",
+      "direction": "reaffirmed",
+      "detail": "Q4 gross margin expected down approximately 25-75 bps, including 250 bps headwind from tariffs; gross margin expansion expected to begin in Q2 FY27"
+    },
+    {
+      "line_item": "eps",
+      "direction": "lowered",
+      "detail": "Earnings expected to be 'flattish' through end of calendar year 2026, with recovery setting up from Q2 FY27 onward; full-year and long-term guidance deferred to Investor Day in fall"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "Q4 SG&A expected flat to down slightly; other expense net of interest income expected to be $15M-$25M expense; full-year tax rate in low 20% range"
+    }
+  ],
+  "themes": [
+    "inventory",
+    "restructuring",
+    "layoffs",
+    "tariffs",
+    "margin_pressure",
+    "supply_chain",
+    "china_exposure",
+    "product_launch"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "D2C gross margin quality and profitability relative to wholesale channel growth",
+    "Whether turnaround delays are primarily internal execution failures vs. external macro/geographic headwinds",
+    "Specific sell-through rate assumptions embedded in the calendar-year revenue guidance"
+  ],
+  "_ticker": "NKE",
+  "_quarter": "Q3-2026",
+  "_call_date": "2026-03-31",
+  "overall_sentiment": 0.11,
+  "sentiment_bucket": "slightly_bullish"
+}

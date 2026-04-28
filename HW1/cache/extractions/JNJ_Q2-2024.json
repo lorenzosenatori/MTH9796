@@ -1,0 +1,98 @@
+{
+  "prepared_sentiment": 0.45,
+  "qa_sentiment": 0.35,
+  "management_confidence": 0.72,
+  "qa_defensiveness": 0.3,
+  "wins": [
+    {
+      "text": "Worldwide sales of $22.4B increased 6.6% operationally; Innovative Medicine hit first-ever $14.5B quarter with 10 assets delivering double-digit growth",
+      "category": "revenue"
+    },
+    {
+      "text": "DARZALEX grew 21.3% to ~$2.9B, driven by 4.6-point share gains across all lines and 9.4-point share gains in frontline; 4 additional positive Phase III studies delivered in the quarter",
+      "category": "product"
+    },
+    {
+      "text": "CARVYKTI sales of $186M grew 59.9% on capacity expansion and strong demand; FDA approval received for earlier lines of therapy with positive overall survival data from CARTITUDE-4",
+      "category": "growth"
+    },
+    {
+      "text": "SPRAVATO grew 60.8% driven by increased physician and patient confidence; Electrophysiology delivered 13.4% growth with Abiomed up 15.4% including DanGer Shock landmark survivability data",
+      "category": "revenue"
+    },
+    {
+      "text": "Free cash flow year-to-date of ~$7.5B vs. $5.5B in prior year period; adjusted operational EPS guidance raised by $0.05 per share before acquisition dilution, implying 8.2% YoY EPS growth at midpoint",
+      "category": "other"
+    }
+  ],
+  "risks": [
+    {
+      "text": "STELARA biosimilar entry in Europe anticipated late July 2024 and in the U.S. in 2025, expected to materially pressure Innovative Medicine H2 sales growth; REMICADE and SIMPONI European distribution rights returned in Q4 with limited Q3 sales expected",
+      "category": "competition"
+    },
+    {
+      "text": "MedTech growth fell below expectations; full-year 2024 MedTech growth now guided closer to 6% vs. prior expectation of upper end of 5%-7% range, driven by China weakness and vision distributor destocking",
+      "category": "demand"
+    },
+    {
+      "text": "Shockwave, Proteologix and NM26 acquisitions create $0.68/share EPS dilution in 2024; adjusted pretax operating margin now expected to decline 120 bps vs. prior +50 bps improvement guidance",
+      "category": "margins"
+    },
+    {
+      "text": "Effective tax rate increased to 17.5%-18.5% for full year vs. 14.7% in Q2 2023, driven by OECD Pillar Two and nondeductible NM26 acquisition; unfavorable international audit settlements also impacted Q2",
+      "category": "other"
+    },
+    {
+      "text": "China VBP pricing pressure and anticorruption campaign headwinds impacting MedTech procedural volumes and HCP engagement across surgery, spine, sports and vision segments",
+      "category": "macro"
+    }
+  ],
+  "guidance": "mixed",
+  "guidance_items": [
+    {
+      "line_item": "revenue",
+      "direction": "raised",
+      "detail": "Full-year operational sales guidance raised by $500M to reflect Shockwave; now expects 6.1%-6.6% operational growth with midpoint of $89.4B; reported sales midpoint $88.2B (5% growth) after ~$1.2B FX headwind"
+    },
+    {
+      "line_item": "eps",
+      "direction": "raised",
+      "detail": "Adjusted operational EPS raised $0.05 on underlying performance to $10.00-$10.10/share, but includes $0.68/share dilution from recent acquisitions; implies 8.2% YoY growth at midpoint"
+    },
+    {
+      "line_item": "margins",
+      "direction": "lowered",
+      "detail": "2024 adjusted pretax operating margin now expected to decline 120 bps due to acquisition dilution, reversing prior +50 bps improvement guidance"
+    },
+    {
+      "line_item": "other",
+      "direction": "lowered",
+      "detail": "Net interest income guided to $300M-$400M, lower than prior guidance due to acquisition financing costs; effective tax rate now 17.5%-18.5% vs. prior lower expectation"
+    },
+    {
+      "line_item": "segment",
+      "direction": "lowered",
+      "detail": "MedTech full-year growth now expected closer to 6%, down from prior expectation of upper end of 5%-7% range; Innovative Medicine H2 growth expected lower than H1 due to STELARA biosimilar entry"
+    }
+  ],
+  "themes": [
+    "product_launch",
+    "m_and_a",
+    "margin_pressure",
+    "china_exposure",
+    "supply_chain",
+    "inventory",
+    "customer_wins",
+    "regulatory"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Competitive impact of rival PFA (pulse field ablation) system on Biosense Webster EP catheter business in the U.S. ahead of VARIPULSE approval",
+    "Payer efforts to extract greater rebates in 2025 to offset Part D redesign losses, beyond what J&J disclosed",
+    "IRA negotiated pricing outcomes for STELARA and XARELTO and DARZALEX FASPRO treatment as a separate product"
+  ],
+  "_ticker": "JNJ",
+  "_quarter": "Q2-2024",
+  "_call_date": "2024-07-17",
+  "overall_sentiment": 0.41,
+  "sentiment_bucket": "bullish"
+}

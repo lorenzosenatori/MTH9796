@@ -1,0 +1,28 @@
+{
+  "line_items": [
+    {
+      "line_item": "revenue",
+      "result": "beat",
+      "reasoning": "Guidance called for revenues down in the 'low end of mid-teens' range; actual Q4 revenues declined 12% reported / 11% currency-neutral, which is better (less negative) than the low end of a mid-teens decline (~14-15%), suggesting a modest beat on the top line."
+    },
+    {
+      "line_item": "margins",
+      "result": "beat",
+      "reasoning": "Guidance called for gross margins down ~400-500 bps; actual gross margins fell 440 bps to 40.3%, landing squarely within the guided range and closer to the favorable end, representing an inline-to-slight beat outcome."
+    },
+    {
+      "line_item": "SG&A / other income",
+      "result": "inline",
+      "reasoning": "Guidance called for SG&A up low-to-mid single digits and net interest income of $45M-$55M; reported results did not explicitly contradict these figures, and no material deviation was flagged in the reported wins or risks."
+    },
+    {
+      "line_item": "full-year effective tax rate",
+      "result": "inline",
+      "reasoning": "Guidance reaffirmed a mid-teens effective tax rate for the full year; no reported result explicitly indicated a deviation from this target, so it is treated as inline."
+    }
+  ],
+  "overall_surprise": "mixed",
+  "_ticker": "NKE",
+  "_quarter": "Q4-2025",
+  "_prior_quarter": "Q3-2025"
+}

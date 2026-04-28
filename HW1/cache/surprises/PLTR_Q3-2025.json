@@ -1,0 +1,28 @@
+{
+  "line_items": [
+    {
+      "line_item": "revenue",
+      "result": "beat",
+      "reasoning": "Q3 revenue came in at $1.181B, exceeding the guided range of $1.083B\u2013$1.087B by ~$94M\u2013$98M, or approximately 1,300 basis points above the high end of guidance."
+    },
+    {
+      "line_item": "segment",
+      "result": "beat",
+      "reasoning": "U.S. commercial revenue reached $397M in Q3 alone (121% YoY, 29% QoQ), putting full-year U.S. commercial revenue on a trajectory well above the guided floor of $1.302B (85%+ growth), with $1.3B in TCV bookings in a single quarter further confirming a massive beat."
+    },
+    {
+      "line_item": "margins",
+      "result": "beat",
+      "reasoning": "Q3 adjusted operating income implied by a 51% margin on $1.181B revenue (~$602M) far exceeded the guided range of $493M\u2013$497M, beating the high end by ~500 basis points on margin and ~$105M in absolute dollars."
+    },
+    {
+      "line_item": "other",
+      "result": "beat",
+      "reasoning": "Q3 adjusted free cash flow of $540M and trailing 12-month adjusted FCF of $2.0B already hit the high end of the full-year $1.8B\u2013$2.0B guidance range with one quarter still remaining; the Rule of 40 score of 114% dramatically exceeded the guided 91% full-year target."
+    }
+  ],
+  "overall_surprise": "beat",
+  "_ticker": "PLTR",
+  "_quarter": "Q3-2025",
+  "_prior_quarter": "Q2-2025"
+}

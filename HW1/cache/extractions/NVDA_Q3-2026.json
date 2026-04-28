@@ -1,0 +1,97 @@
+{
+  "prepared_sentiment": 0.92,
+  "qa_sentiment": 0.78,
+  "management_confidence": 0.93,
+  "qa_defensiveness": 0.08,
+  "wins": [
+    {
+      "text": "Q3 revenue of $57B, up 62% YoY and record sequential growth of $10B (+22% QoQ)",
+      "category": "revenue"
+    },
+    {
+      "text": "Data center revenue hit a record $51.2B, up 66% YoY; networking revenue of $8.2B surged 162% YoY",
+      "category": "revenue"
+    },
+    {
+      "text": "Non-GAAP gross margins of 73.6% exceeded guidance, with Q4 guided to 75% \u2014 exiting the year in mid-70s as promised",
+      "category": "margins"
+    },
+    {
+      "text": "Visibility to $500B in Blackwell and Rubin revenue from start of 2025 through end of calendar 2026, with upside from new deals (Anthropic 1GW commitment, KSA/HUMAIN 400K-600K GPUs)",
+      "category": "growth"
+    },
+    {
+      "text": "Gaming revenue of $4.3B up 30% YoY; Professional Visualization revenue of $760M up 56% YoY (record); Automotive revenue of $592M up 32% YoY",
+      "category": "revenue"
+    }
+  ],
+  "risks": [
+    {
+      "text": "H20 China sales were approximately $50M \u2014 sizable purchase orders never materialized due to geopolitical issues and competitive market; no China data center compute revenue assumed in Q4 guidance",
+      "category": "regulatory"
+    },
+    {
+      "text": "Input costs rising into FY2027, creating gross margin pressure; management guiding to 'work to hold' margins in mid-70s rather than expand them",
+      "category": "margins"
+    },
+    {
+      "text": "Supply chain constraints across power, financing, memory, and foundry capacity cited as real bottlenecks given unprecedented growth rate",
+      "category": "supply_chain"
+    },
+    {
+      "text": "Inventory grew 32% QoQ and supply commitments increased 63% sequentially, reflecting significant forward bets on demand that must materialize",
+      "category": "execution"
+    },
+    {
+      "text": "Hyperscaler customer concentration risk \u2014 top CSPs represent the dominant share of data center revenue, with aggregate CapEx plans of ~$600B that could be revised",
+      "category": "customer_concentration"
+    }
+  ],
+  "guidance": "raised",
+  "guidance_items": [
+    {
+      "line_item": "revenue",
+      "direction": "raised",
+      "detail": "Q4 revenue guided to $65B +/- 2%, implying ~14% sequential growth; well above Q3's $57B"
+    },
+    {
+      "line_item": "margins",
+      "direction": "raised",
+      "detail": "Q4 non-GAAP gross margins guided to 75% +/- 50bps, up from 73.6% in Q3; FY2027 target to hold in mid-70s"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "Q4 GAAP/non-GAAP other income ~$500M; tax rate 17% +/- 1%"
+    },
+    {
+      "line_item": "capex",
+      "direction": "raised",
+      "detail": "Supply commitments increased 63% sequentially, signaling aggressive forward investment in supply chain for anticipated demand"
+    }
+  ],
+  "themes": [
+    "ai",
+    "data_center",
+    "cloud",
+    "china_exposure",
+    "geopolitical",
+    "margin_expansion",
+    "product_launch",
+    "customer_wins",
+    "supply_chain",
+    "capex",
+    "enterprise_demand",
+    "autonomous"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Whether supply can realistically catch up with demand over the next 12-18 months",
+    "Capital allocation priorities \u2014 buybacks vs. ecosystem investments vs. balance sheet given ~$500B in projected free cash flow",
+    "Competitive threat from AI ASICs/custom XPUs from hyperscalers and whether GPU architecture dominance is at risk"
+  ],
+  "_ticker": "NVDA",
+  "_quarter": "Q3-2026",
+  "_call_date": "2025-11-19",
+  "overall_sentiment": 0.864,
+  "sentiment_bucket": "very_bullish"
+}

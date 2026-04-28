@@ -1,0 +1,28 @@
+{
+  "line_items": [
+    {
+      "line_item": "margins (full-year gross profit % flat with 2024)",
+      "result": "miss",
+      "reasoning": "Q4 gross margin declined 50 bps YoY due to supplier rebate timing and inventory cost flows, and management acknowledged being 'wrong' on pricing forecasts, making it unlikely full-year gross profit % was truly flat with 2024 as guided."
+    },
+    {
+      "line_item": "margins (Q4 like-for-like pricing impact of 3.5%\u20135.5%)",
+      "result": "miss",
+      "reasoning": "Q4 net price/cost impact came in at only -10 bps, well below the revised guidance range of 3.5%\u20135.5%, with management explicitly admitting they were 'wrong' on prior pricing forecasts."
+    },
+    {
+      "line_item": "capex (full-year 2025 $235M\u2013$255M)",
+      "result": "inline",
+      "reasoning": "Full-year 2025 capex came in at approximately 2.8% of $8.2B net sales (~$230M), which is near the low end of the guided $235M\u2013$255M range; no explicit confirmation of a miss or beat was provided, suggesting broadly inline results."
+    },
+    {
+      "line_item": "other (Q4 gross margin sequential decline consistent with historical seasonality)",
+      "result": "inline",
+      "reasoning": "Q4 gross margin did decline sequentially as guided, and the flagged price/cost squeeze materialized (net price/cost impact of -10 bps), so the directional warning proved accurate even if the magnitude of pricing shortfall was worse than expected."
+    }
+  ],
+  "overall_surprise": "miss",
+  "_ticker": "FAST",
+  "_quarter": "Q4-2025",
+  "_prior_quarter": "Q3-2025"
+}

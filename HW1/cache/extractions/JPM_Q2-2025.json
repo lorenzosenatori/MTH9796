@@ -1,0 +1,88 @@
+{
+  "prepared_sentiment": 0.45,
+  "qa_sentiment": 0.35,
+  "management_confidence": 0.72,
+  "qa_defensiveness": 0.2,
+  "wins": [
+    {
+      "text": "Net income of $15B, EPS of $5.24, ROTCE of 21% on revenue of $45.7B for Q2-2025",
+      "category": "revenue"
+    },
+    {
+      "text": "Markets revenue up 15% YoY to ~$5.5B; Fixed Income up 14%, Equities up 15% with strong derivatives performance",
+      "category": "revenue"
+    },
+    {
+      "text": "CIB net income of $6.7B on revenue of $19.5B, up 9% YoY; IB fees up 7% YoY with #1 wallet share at 8.9%",
+      "category": "revenue"
+    },
+    {
+      "text": "AWM AUM reached $4.3T, up 18% YoY; long-term net inflows of $31B; pretax margin of 34%",
+      "category": "growth"
+    },
+    {
+      "text": "NII ex Markets guidance raised to ~$92B (total NII ~$95.5B), up from prior guidance, driven by forward curve changes and strong deposit growth",
+      "category": "other"
+    }
+  ],
+  "risks": [
+    {
+      "text": "Firm revenue of $45.7B was down $5.3B or 10% YoY, largely due to absence of prior-year Visa-related gains and net investment securities losses",
+      "category": "other"
+    },
+    {
+      "text": "CET1 ratio declined 40 bps QoQ to 15% as capital distributions and higher RWA more than offset net income; RWA expansion driven by wholesale lending and Card loan growth",
+      "category": "other"
+    },
+    {
+      "text": "Macro and tariff uncertainty remains elevated; management explicitly noted 'all the tail risks are still there quite prominently' and pipeline visibility is limited",
+      "category": "macro"
+    },
+    {
+      "text": "Adjusted expense guidance raised to ~$95.5B, primarily driven by weaker dollar impact, adding cost pressure",
+      "category": "margins"
+    },
+    {
+      "text": "Home Lending revenue down 5% YoY on lower NII; nonperforming asset uptick in consumer driven by LA wildfire forbearance, though loss expectation described as de minimis",
+      "category": "demand"
+    }
+  ],
+  "guidance": "mixed",
+  "guidance_items": [
+    {
+      "line_item": "revenue",
+      "direction": "raised",
+      "detail": "NII ex Markets raised to ~$92B; total NII guidance raised to ~$95.5B (implying $3.5B Markets NII), up from prior Investor Day guidance"
+    },
+    {
+      "line_item": "eps",
+      "direction": "reaffirmed",
+      "detail": "Card net charge-off rate guidance unchanged at approximately 3.6%"
+    },
+    {
+      "line_item": "other",
+      "direction": "lowered",
+      "detail": "Adjusted expense guidance raised to ~$95.5B, primarily driven by weaker dollar impact \u2014 directionally a cost increase vs. prior guidance"
+    }
+  ],
+  "themes": [
+    "macro_headwinds",
+    "regulatory",
+    "m_and_a",
+    "buybacks",
+    "enterprise_demand",
+    "margin_expansion",
+    "capital_markets_activity",
+    "ai"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Stablecoin/tokenized deposit strategy and interoperability with non-JPM customers \u2014 not mentioned in prepared remarks",
+    "Valuation constraint on buybacks (stock near 3x tangible book) and whether CET1 growth can be arrested \u2014 not proactively addressed",
+    "Sapphire card annual fee increase and competitive response \u2014 not mentioned in prepared remarks"
+  ],
+  "_ticker": "JPM",
+  "_quarter": "Q2-2025",
+  "_call_date": "2025-07-15",
+  "overall_sentiment": 0.41,
+  "sentiment_bucket": "bullish"
+}

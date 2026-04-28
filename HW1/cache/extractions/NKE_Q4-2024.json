@@ -1,0 +1,98 @@
+{
+  "prepared_sentiment": -0.45,
+  "qa_sentiment": -0.35,
+  "management_confidence": 0.52,
+  "qa_defensiveness": 0.45,
+  "wins": [
+    {
+      "text": "Q4 diluted EPS of $0.99, up 50% versus prior year; full-year EPS grew 15%",
+      "category": "revenue"
+    },
+    {
+      "text": "Gross margins expanded 110 basis points to 44.7% in Q4, driven by strategic pricing actions, lower ocean freight rates and improved supply chain efficiency",
+      "category": "margins"
+    },
+    {
+      "text": "Performance business grew double digits in Q4 across men's, women's, kids' and Jordan, across all channels and geographies, with basketball up double digits and fitness apparel up double digits",
+      "category": "growth"
+    },
+    {
+      "text": "Full-year cash flow from operations was $7.4 billion, up 27% versus prior year; inventory declined 11% with continued improvement in days in inventory",
+      "category": "other"
+    },
+    {
+      "text": "Save-to-invest initiative unlocked ~$1 billion reallocation into consumer-facing activities for fiscal '25, including running ground game, design, sports marketing and brand campaigns",
+      "category": "cost_savings"
+    }
+  ],
+  "risks": [
+    {
+      "text": "Fiscal '25 reported revenue now expected to be down mid-single digits, with Q1 expected down approximately 10% \u2014 a significant cut from prior guidance of down low single digits in H1",
+      "category": "demand"
+    },
+    {
+      "text": "NIKE Digital declined 10% in Q4 on softer traffic, higher promotions and lower sales of classic footwear franchises; digital headwinds expected to persist, especially in H1 FY25",
+      "category": "demand"
+    },
+    {
+      "text": "Lifestyle business declined across men's, women's and Jordan in Q4, more than offsetting strong performance growth; planned aggressive supply reductions of largest classic franchises will create several points of revenue headwind in FY25",
+      "category": "margins"
+    },
+    {
+      "text": "Greater China brick-and-mortar traffic declined as much as double digits versus prior year; macro outlook for China softened with promotional marketplace persisting",
+      "category": "macro"
+    },
+    {
+      "text": "Foreign exchange headwinds worsened, now expected to create a 1-point translational revenue headwind in FY25, up from prior expectations",
+      "category": "other"
+    }
+  ],
+  "guidance": "lowered",
+  "guidance_items": [
+    {
+      "line_item": "revenue",
+      "direction": "lowered",
+      "detail": "FY25 reported revenue now expected down mid-single digits vs. prior guidance of down low single digits in H1 with growth expected; Q1 specifically guided down ~10%"
+    },
+    {
+      "line_item": "margins",
+      "direction": "reaffirmed",
+      "detail": "FY25 gross margin expansion of approximately 10-30 bps on a reported basis; Q1 gross margins in line with full-year guidance"
+    },
+    {
+      "line_item": "eps",
+      "direction": "reaffirmed",
+      "detail": "Full-year effective tax rate expected in high teens range; no explicit EPS guidance provided but SG&A guided up slightly for full year"
+    },
+    {
+      "line_item": "segment",
+      "direction": "lowered",
+      "detail": "H1 FY25 revenue expected down high single digits, with meaningful sequential improvement expected in H2"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "Other income and expense including net interest income expected at $250M-$300M for the year; SG&A up slightly full year, up mid-single digits in Q1"
+    }
+  ],
+  "themes": [
+    "product_launch",
+    "consumer_weakness",
+    "macro_headwinds",
+    "margin_expansion",
+    "inventory",
+    "china_exposure",
+    "currency_fx",
+    "guidance_miss"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Quantitative framework for second-half recovery (specific numbers on franchise penetration normalization and order book magnitude)",
+    "Long-term revenue growth model beyond FY25 and whether high-single-digit growth targets remain valid given structural shifts in China and wholesale mix",
+    "Timeline and completeness of the $2 billion cost reallocation program and whether organizational reset is fully behind them"
+  ],
+  "_ticker": "NKE",
+  "_quarter": "Q4-2024",
+  "_call_date": "2024-06-27",
+  "overall_sentiment": -0.41,
+  "sentiment_bucket": "bearish"
+}

@@ -1,0 +1,98 @@
+{
+  "prepared_sentiment": 0.55,
+  "qa_sentiment": 0.3,
+  "management_confidence": 0.72,
+  "qa_defensiveness": 0.25,
+  "wins": [
+    {
+      "text": "Q4 revenue of $15.4B, up 10% YoY and $300M above guidance midpoint, beating expectations for the fourth consecutive quarter",
+      "category": "revenue"
+    },
+    {
+      "text": "CCG revenue of $8.8B, up 33% YoY with record notebook shipments; operating profit up ~$2.4B YoY",
+      "category": "revenue"
+    },
+    {
+      "text": "Q4 gross margin of 48.8%, 230 bps above guidance, driven by favorable product mix, ASPs and improved factory costs",
+      "category": "margins"
+    },
+    {
+      "text": "IFS lifetime deal value more than doubled to over $10B from prior $4B update, with 4 Intel 18A foundry customers secured vs. 1 committed entering 2023",
+      "category": "customer"
+    },
+    {
+      "text": "Delivered $3B cost savings commitment for FY2023 and achieved ~$2B net inventory reduction of 35 days from Q1 peak",
+      "category": "cost_savings"
+    }
+  ],
+  "risks": [
+    {
+      "text": "Q1 guidance of $12.2B\u2013$13.2B (midpoint $12.7B) implies a sharp ~18% sequential revenue decline, with gross margin falling to ~44.5% and EPS of only $0.13",
+      "category": "margins"
+    },
+    {
+      "text": "Material inventory corrections in Mobileye and PSG, plus IFS revenue drop from traditional packaging wind-down and cyclical wafer equipment weakness, creating ~$1B sequential headwind from non-core businesses",
+      "category": "demand"
+    },
+    {
+      "text": "Data Center (DCAI) revenue expected to decline double-digit percent sequentially in Q1, with wallet share shifting from CPU to GPU accelerators",
+      "category": "competition"
+    },
+    {
+      "text": "Depreciation expected to grow ~$2B in 2024 plus significant variable factory start-up costs, creating persistent headwinds on margin expansion pace",
+      "category": "margins"
+    },
+    {
+      "text": "Telco/NEX markets expected to remain weak through the full year, with growth skewed to second half",
+      "category": "demand"
+    }
+  ],
+  "guidance": "mixed",
+  "guidance_items": [
+    {
+      "line_item": "revenue",
+      "direction": "lowered",
+      "detail": "Q1 revenue guided to $12.2B\u2013$13.2B (midpoint $12.7B), well below Q4's $15.4B; full-year expects sequential and YoY growth each quarter after soft Q1"
+    },
+    {
+      "line_item": "margins",
+      "direction": "lowered",
+      "detail": "Q1 gross margin guided to ~44.5%, down from Q4's 48.8%; 60% fall-through rule of thumb for full year with quarterly volatility expected"
+    },
+    {
+      "line_item": "eps",
+      "direction": "lowered",
+      "detail": "Q1 EPS guided to $0.13, down sharply from Q4's $0.54; full-year expects earnings to grow faster than revenue"
+    },
+    {
+      "line_item": "capex",
+      "direction": "raised",
+      "detail": "Gross CapEx expected to increase in 2024 vs. 2023; net CapEx on track for mid-30s % of revenue aggregate 2023\u20132024"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "Roughly breakeven adjusted free cash flow maintained for full-year 2024; long-term 60% gross / 40% operating margin targets reaffirmed"
+    }
+  ],
+  "themes": [
+    "ai",
+    "data_center",
+    "product_launch",
+    "margin_pressure",
+    "capex",
+    "supply_chain",
+    "inventory",
+    "customer_wins"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "GPU competitors capturing nearly all incremental cloud CapEx, leaving limited room for CPU revenue growth beyond seasonal variations",
+    "Persistent capacity utilization headwinds and timeline for internal wafer loading ramp (Panther Lake not in high volume until ~2026)",
+    "Competitive positioning of Intel 18A vs. TSMC given TSMC's continued investment in leadership nodes and Intel's ongoing use of external foundry for heterogeneous products"
+  ],
+  "_ticker": "INTC",
+  "_quarter": "Q4-2023",
+  "_call_date": "2024-01-25",
+  "overall_sentiment": 0.45,
+  "sentiment_bucket": "bullish"
+}

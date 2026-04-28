@@ -1,0 +1,103 @@
+{
+  "prepared_sentiment": 0.72,
+  "qa_sentiment": 0.45,
+  "management_confidence": 0.78,
+  "qa_defensiveness": 0.25,
+  "wins": [
+    {
+      "text": "Q1 revenue of $7.4B exceeded the high end of guidance, up 36% YoY; EPS of $0.96 up 55% YoY",
+      "category": "revenue"
+    },
+    {
+      "text": "Data Center segment revenue grew 57% YoY to $3.7B, driven by EPYC server CPU share gains and Instinct GPU ramp; operating income expanded to $932M (25% margin) vs. $541M (23%) a year ago",
+      "category": "margins"
+    },
+    {
+      "text": "Client revenue grew 68% YoY to $2.3B with record client CPU ASPs; desktop channel sell-out up 50%+ YoY; Ryzen AI PC processor sales up 50%+ QoQ",
+      "category": "revenue"
+    },
+    {
+      "text": "Radeon 9070 Series launch set a first-week sell-out record, more than 10x higher than prior best Radeon launch, with strong ongoing demand",
+      "category": "product"
+    },
+    {
+      "text": "Returned $749M to shareholders via buybacks in Q1; $4B remaining in repurchase authorization",
+      "category": "buybacks"
+    }
+  ],
+  "risks": [
+    {
+      "text": "New U.S. export license requirement for MI308X shipments to China creates a $700M revenue headwind in Q2 and an estimated $1.5B full-year 2025 revenue impact",
+      "category": "regulatory"
+    },
+    {
+      "text": "Q2 non-GAAP gross margin guided to ~43%, inclusive of ~$800M in inventory and related reserve charges tied to MI308 export controls",
+      "category": "margins"
+    },
+    {
+      "text": "Data Center segment revenue expected to decline sequentially in Q2 due to MI308 China exclusion; GPU business will not grow YoY in Q2",
+      "category": "demand"
+    },
+    {
+      "text": "Embedded segment revenue down 3% YoY and 11% QoQ; industrial inventory overhang persists with recovery expected only in H2 2025",
+      "category": "inventory"
+    },
+    {
+      "text": "Ongoing macro and trade policy uncertainty, including AI diffusion rules with a May 15 implementation date, creates longer-term TAM risk for AI accelerators",
+      "category": "regulatory"
+    }
+  ],
+  "guidance": "mixed",
+  "guidance_items": [
+    {
+      "line_item": "revenue",
+      "direction": "reaffirmed",
+      "detail": "Q2 revenue guided at ~$7.4B +/- $300M, representing 27% YoY growth despite $700M MI308 China headwind; full-year strong double-digit revenue growth reaffirmed"
+    },
+    {
+      "line_item": "margins",
+      "direction": "lowered",
+      "detail": "Q2 non-GAAP gross margin ~43%, inclusive of ~$800M inventory/reserve charge; excluding charge, gross margin ~54%; H2 gross margin expected to improve slightly above 54%"
+    },
+    {
+      "line_item": "segment",
+      "direction": "raised",
+      "detail": "Client & Gaming segment revenue expected to increase double-digit percentage sequentially in Q2"
+    },
+    {
+      "line_item": "segment",
+      "direction": "lowered",
+      "detail": "Data Center segment revenue expected to decrease sequentially in Q2 due to MI308 China export control exclusion"
+    },
+    {
+      "line_item": "segment",
+      "direction": "reaffirmed",
+      "detail": "Embedded segment revenue expected to be roughly flat sequentially in Q2; return to YoY growth expected in H2 2025"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "Full-year 2025 Data Center GPU expected to grow strong double digits YoY despite $1.5B China headwind; MI350 Series accelerated production on track for midyear"
+    }
+  ],
+  "themes": [
+    "ai",
+    "data_center",
+    "regulatory",
+    "china_exposure",
+    "product_launch",
+    "margin_pressure",
+    "buybacks",
+    "customer_wins"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Magnitude of Data Center GPU revenue in Q1 (analysts pressing for specific dollar figures management declined to provide explicitly)",
+    "Competitive positioning vs. customer-owned custom ASIC silicon and how hyperscalers apportion AI capex between GPUs and ASICs",
+    "Potential tariff-driven pull-ins in the Client segment inflating near-term demand"
+  ],
+  "_ticker": "AMD",
+  "_quarter": "Q1-2025",
+  "_call_date": "2025-05-06",
+  "overall_sentiment": 0.612,
+  "sentiment_bucket": "bullish"
+}

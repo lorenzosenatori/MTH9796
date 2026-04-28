@@ -1,0 +1,93 @@
+{
+  "prepared_sentiment": 0.92,
+  "qa_sentiment": 0.75,
+  "management_confidence": 0.95,
+  "qa_defensiveness": 0.1,
+  "wins": [
+    {
+      "text": "Q3 revenue grew 63% YoY and 18% sequentially to $1.181B, exceeding the high end of prior guidance by 1,300 basis points",
+      "category": "revenue"
+    },
+    {
+      "text": "U.S. commercial revenue grew 121% YoY and 29% sequentially to $397M; closed $1.3B in U.S. commercial TCV bookings \u2014 first time surpassing $1B \u2014 representing 342% YoY growth",
+      "category": "growth"
+    },
+    {
+      "text": "Adjusted operating margin hit an all-time high of 51%, exceeding the high end of prior guidance by 500 basis points; Rule of 40 score reached an unprecedented 114%, up 20 points sequentially",
+      "category": "margins"
+    },
+    {
+      "text": "Closed highest-ever TCV quarter at $2.8B, up 151% YoY, including 204 deals worth $1M+, 91 deals worth $5M+, and 53 deals worth $10M+",
+      "category": "customer"
+    },
+    {
+      "text": "Generated $508M in operating cash flow and $540M in adjusted free cash flow in Q3; achieved $2B in trailing 12-month adjusted free cash flow for the first time in company history",
+      "category": "other"
+    }
+  ],
+  "risks": [
+    {
+      "text": "International commercial revenue grew only 10% YoY and 5% sequentially to $152M \u2014 management explicitly acknowledged Europe is 'stagnant' and is a drag on overall growth rates",
+      "category": "demand"
+    },
+    {
+      "text": "Q4 revenue from strategic commercial contracts expected to decline to $2M\u2013$4M vs. $9.6M in Q4 2024, with full-year 2025 contribution below 0.5% of revenue \u2014 a fading revenue stream",
+      "category": "other"
+    },
+    {
+      "text": "Adjusted expenses up 8% sequentially and 29% YoY, with management flagging continued expense increases in Q4 due to investment in product pipeline and technical hiring",
+      "category": "margins"
+    },
+    {
+      "text": "Net dollar retention of 134%, while strong, does not yet fully capture the acceleration in U.S. business since it excludes customers acquired in the past 12 months \u2014 metric may be misleading as a growth indicator",
+      "category": "other"
+    },
+    {
+      "text": "Palantir's controversial government work (ICE, Israel, border operations) and Alex Karp's political commentary on the call create ongoing reputational and talent-retention risk",
+      "category": "other"
+    }
+  ],
+  "guidance": "raised",
+  "guidance_items": [
+    {
+      "line_item": "revenue",
+      "direction": "raised",
+      "detail": "Q4 2025 revenue guided to $1.327B\u2013$1.331B (61% YoY, 13% QoQ \u2014 highest-ever sequential growth guide); full-year 2025 raised to $4.396B\u2013$4.400B, up $252M at midpoint vs. prior guide, representing ~53% YoY growth"
+    },
+    {
+      "line_item": "segment",
+      "direction": "raised",
+      "detail": "Full-year U.S. commercial revenue raised to in excess of $1.433B (at least 104% YoY growth), a 19-point increase over guidance given last quarter"
+    },
+    {
+      "line_item": "margins",
+      "direction": "raised",
+      "detail": "Full-year adjusted income from operations raised to $2.151B\u2013$2.155B; Q4 adjusted income from operations guided to $695M\u2013$699M"
+    },
+    {
+      "line_item": "other",
+      "direction": "raised",
+      "detail": "Full-year adjusted free cash flow guidance raised to $1.9B\u2013$2.1B; full-year Rule of 40 score now guided to 102%"
+    }
+  ],
+  "themes": [
+    "ai",
+    "enterprise_demand",
+    "product_launch",
+    "customer_wins",
+    "margin_expansion",
+    "guidance_beat",
+    "buybacks",
+    "data_center"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Acceleration in sales cycles from boot camps \u2014 what specifically changed behaviorally from first contact to deal close",
+    "Golden Dome and specific named government program opportunities (NGC2, Maven expansion) not proactively discussed",
+    "Internal productivity and headcount scaling \u2014 how Palantir is keeping up with demand without proportional headcount growth"
+  ],
+  "_ticker": "PLTR",
+  "_quarter": "Q3-2025",
+  "_call_date": "2025-11-03",
+  "overall_sentiment": 0.852,
+  "sentiment_bucket": "very_bullish"
+}

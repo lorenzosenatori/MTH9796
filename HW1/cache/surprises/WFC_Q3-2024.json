@@ -1,0 +1,28 @@
+{
+  "line_items": [
+    {
+      "line_item": "revenue (NII)",
+      "result": "inline",
+      "reasoning": "Q3 reported NII declined ~2% QoQ and full-year 2024 NII is now guided to be ~9% below 2023, which lands squarely within the prior guidance range of down ~8%-9%, matching the updated guidance precisely."
+    },
+    {
+      "line_item": "other (noninterest expense)",
+      "result": "inline",
+      "reasoning": "No explicit Q3 noninterest expense figure was called out as beating or missing the ~$54B full-year target, and the guidance direction was reaffirmed this quarter, suggesting expenses are tracking in line with the raised ~$54B guide."
+    },
+    {
+      "line_item": "other (common stock dividend)",
+      "result": "beat",
+      "reasoning": "The Q3 dividend was confirmed to have increased 14% as guided, and WFC also repurchased $3.5B in common stock during Q3 \u2014 a strong capital return outcome that met the dividend target and exceeded it on the buyback front."
+    },
+    {
+      "line_item": "segment (WIM advisory fees & credit card charge-offs)",
+      "result": "beat",
+      "reasoning": "WIM advisory asset-based fees rose (noninterest income grew 12% YoY with double-digit increases in investment advisory fees), and net loan charge-offs declined 8 bps QoQ including lower credit card losses, both meeting or exceeding the prior segment guidance."
+    }
+  ],
+  "overall_surprise": "inline",
+  "_ticker": "WFC",
+  "_quarter": "Q3-2024",
+  "_prior_quarter": "Q2-2024"
+}

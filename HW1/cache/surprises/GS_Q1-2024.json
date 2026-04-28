@@ -1,0 +1,33 @@
+{
+  "line_items": [
+    {
+      "line_item": "revenue",
+      "result": "beat",
+      "reasoning": "Management and other fees hit a record $2.5B in Q1-2024 alone (up 7% YoY), putting the firm well ahead of pace toward the $10B full-year target, and GBM produced $9.7B in quarterly revenues with an 18% ROE, exceeding the mid-teens through-the-cycle target already in Q1."
+    },
+    {
+      "line_item": "other (alternatives fundraising & HPI reduction)",
+      "result": "inline",
+      "reasoning": "No specific Q1 alternatives fundraising figure was disclosed to compare against the $40-50B 2024 target, and HPI reduction progress was not explicitly quantified in the reported results, making a definitive beat or miss determination impossible."
+    },
+    {
+      "line_item": "margins",
+      "result": "beat",
+      "reasoning": "The Q1-2024 efficiency ratio came in at 60.9%, already at or near the long-term 60% target and well below the ~65% jumping-off point guided for 2024, though Platform Solutions still posted a pretax loss of $117M, only partially fulfilling the 'materially reduced' drag promise."
+    },
+    {
+      "line_item": "other (ROE targets & AWM margin)",
+      "result": "beat",
+      "reasoning": "GS delivered a 14.8% ROE and 15.9% ROTE firm-wide in Q1, with GBM at 18% ROE on a fully allocated basis, both exceeding the mid-teens through-the-cycle target reaffirmed in Q4-2023; AUS hit a record $2.8T with 25 consecutive quarters of long-term fee-based net inflows, consistent with the 25% AWM margin target trajectory."
+    },
+    {
+      "line_item": "other (effective tax rate)",
+      "result": "inline",
+      "reasoning": "No specific Q1-2024 effective tax rate was disclosed in the reported results, so it cannot be confirmed whether the 22%-23% guided range was met, missed, or exceeded."
+    }
+  ],
+  "overall_surprise": "beat",
+  "_ticker": "GS",
+  "_quarter": "Q1-2024",
+  "_prior_quarter": "Q4-2023"
+}

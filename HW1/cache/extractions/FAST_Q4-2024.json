@@ -1,0 +1,93 @@
+{
+  "prepared_sentiment": 0.15,
+  "qa_sentiment": 0.2,
+  "management_confidence": 0.62,
+  "qa_defensiveness": 0.15,
+  "wins": [
+    {
+      "text": "FMI technology touched ~44% of revenue in Q4 2024, up from 42% and 39% in prior 2 years; broke 100 MAU signings per day for the first time",
+      "category": "product"
+    },
+    {
+      "text": "Contract base grew double digits, including up 12% in December; monthly daily sales rate exceeded historical sequential in 3 of last 5 months",
+      "category": "customer"
+    },
+    {
+      "text": "Industrial Services broke $100 million in revenue for the first time in 2024",
+      "category": "revenue"
+    },
+    {
+      "text": "Generated $1.2 billion in operating cash for full year 2024, or 102% of net income; raised quarterly dividend by ~10% to ~$1.72 annualized",
+      "category": "other"
+    },
+    {
+      "text": "E-procurement grew ~37.6% YoY; combined e-business and FMI technology touched ~62% of sales; Onsite signings of 358 in 2024 vs. 326 in 2023",
+      "category": "growth"
+    }
+  ],
+  "risks": [
+    {
+      "text": "Q4 2024 daily sales growth of only 2.1%; EPS of $0.46 down ~2% YoY; operating margin declined 120 bps to 18.9% due to slow growth deleverage and holiday shutdowns",
+      "category": "margins"
+    },
+    {
+      "text": "Gross margin down 70 bps to 44.8% from product/customer mix, higher container costs on fasteners, and expedited shipments; SG&A up to 25.9% of sales from 25.3%",
+      "category": "margins"
+    },
+    {
+      "text": "35% of vending-equipped facilities effectively shut down over the holiday period in 2024 vs. 30% in 2023 and 25% in 2022, signaling deepening industrial economy weakness",
+      "category": "demand"
+    },
+    {
+      "text": "PMI remained sub-50% throughout 2024; nonresidential construction down 4.1% and reseller down 11.3% in Q4; January start impacted by New Year's and winter storms forcing cancellation of 6% of truck routes through Jan 10",
+      "category": "macro"
+    },
+    {
+      "text": "Potential tariff headwinds on imported goods (particularly fasteners); accelerated ~$10M of inventory ahead of potential new tariffs, adding balance sheet risk",
+      "category": "supply_chain"
+    }
+  ],
+  "guidance": "mixed",
+  "guidance_items": [
+    {
+      "line_item": "capex",
+      "direction": "raised",
+      "detail": "Net CapEx guided to $265M\u2013$285M in 2025, up from $214M in 2024 and prior range of $235M\u2013$265M; expected to be 3%\u20133.5% of sales over next few years"
+    },
+    {
+      "line_item": "margins",
+      "direction": "reaffirmed",
+      "detail": "Gross margin expected to be roughly flat YoY in 2025; product margin pressures from Q4 (container costs, expedited shipments) expected not to recur in Q1 2025"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "Incremental operating margin expected at high end of 20%\u201325% range if mid-to-high single-digit revenue growth materializes; leverage expected above mid-single-digit growth"
+    },
+    {
+      "line_item": "other",
+      "direction": "raised",
+      "detail": "FMI MAU signings goal set at 28,000\u201330,000 for 2025 vs. 28,000 signed in 2024; digital footprint target raised to 66%\u201368% of sales from ~62% in 2024"
+    }
+  ],
+  "themes": [
+    "macro_headwinds",
+    "supply_chain",
+    "tariffs",
+    "product_launch",
+    "customer_wins",
+    "margin_pressure",
+    "capex",
+    "dividends"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "tariff pass-through mechanics and contract structure with customers",
+    "operating expense trajectory and labor cost leverage thresholds for 2025",
+    "customer sales concentration risk (80/20 dynamic) and strategic implications for smaller customer buckets"
+  ],
+  "_ticker": "FAST",
+  "_quarter": "Q4-2024",
+  "_call_date": "2025-01-17",
+  "overall_sentiment": 0.17,
+  "sentiment_bucket": "slightly_bullish"
+}

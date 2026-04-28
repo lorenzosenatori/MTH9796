@@ -1,0 +1,88 @@
+{
+  "prepared_sentiment": 0.1,
+  "qa_sentiment": 0.15,
+  "management_confidence": 0.58,
+  "qa_defensiveness": 0.2,
+  "wins": [
+    {
+      "text": "FMI Technology signings reached 105 devices per day in Q1 2024, the first quarter ever exceeding the 100/day milestone, up from ~98/day average in 2023",
+      "category": "growth"
+    },
+    {
+      "text": "Onsite active sites grew ~12% YoY with 102 signings in Q1, and customer expo attendance up 50% YoY with double the number of customers vs. last year, signaling strong pipeline momentum",
+      "category": "customer"
+    },
+    {
+      "text": "Operating cash flow of $336 million in Q1 2024, representing 113% of net income conversion, with debt reduced to just 5.5% of total capital vs. 10.9% a year ago",
+      "category": "other"
+    },
+    {
+      "text": "Safety product sales grew 8.3% in Q1 2024, supported by strong FMI signings and healthy warehousing/fulfillment center demand",
+      "category": "revenue"
+    },
+    {
+      "text": "Gross margin down only 20 bps YoY to 45.5%, better than feared, with slightly positive price/cost and improved leverage on internal/external trucking resources as inventory rightsizing completed",
+      "category": "margins"
+    }
+  ],
+  "risks": [
+    {
+      "text": "Total daily sales grew only 1.9% YoY in Q1 2024, well below management's ~4% expectation entering the quarter, driven by sluggish underlying industrial demand",
+      "category": "demand"
+    },
+    {
+      "text": "Fastener product line revenue declined 4.4% YoY, reflecting weak OEM/MRO demand and negative pricing, particularly tied to foreign steel index softness",
+      "category": "demand"
+    },
+    {
+      "text": "Operating margin contracted 60 bps YoY to 20.6%, with SG&A rising to 24.9% of sales due to 3.9% labor cost growth including substantially higher healthcare costs",
+      "category": "margins"
+    },
+    {
+      "text": "Q2 2024 operating margins expected to face an additional ~30 bps headwind from expanded customer expo costs and near-term investments to service new large customers at scale",
+      "category": "margins"
+    },
+    {
+      "text": "Western U.S. business unit posted negative growth in Q1 while Eastern U.S. was positive, with Onsite signings skewed toward Eastern U.S., highlighting uneven execution post-reorganization",
+      "category": "execution"
+    }
+  ],
+  "guidance": "mixed",
+  "guidance_items": [
+    {
+      "line_item": "capex",
+      "direction": "reaffirmed",
+      "detail": "Full-year net capital spending reaffirmed at $225M\u2013$245M, up from $161M in 2023, driven by hub automation, Utah DC upgrade, FMI spend, and IT"
+    },
+    {
+      "line_item": "margins",
+      "direction": "lowered",
+      "detail": "Q2 2024 operating margins expected to face ~30 bps incremental headwind from customer expo expansion and new customer service investments; not expected to carry into subsequent quarters"
+    },
+    {
+      "line_item": "margins",
+      "direction": "reaffirmed",
+      "detail": "Full-year gross margin cadence unchanged; gross margin expected to be down modestly in 2024 but less than historical drag periods, consistent with Q1's 20 bps decline"
+    }
+  ],
+  "themes": [
+    "macro_headwinds",
+    "supply_chain",
+    "product_launch",
+    "customer_wins",
+    "inventory",
+    "margin_pressure",
+    "capex",
+    "tariffs"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Impact of potential future tariffs on Fastenal's supply chain and pricing execution",
+    "Geographic performance divergence between Eastern and Western U.S. business units and internal organizational friction post-restructuring",
+    "Historical contribution of branch closures to Onsite growth and sustainability of Onsite signings without that tailwind"
+  ],
+  "_ticker": "FAST",
+  "_quarter": "Q1-2024",
+  "_call_date": "2024-04-11",
+  "overall_sentiment": 0.12,
+  "sentiment_bucket": "slightly_bullish"
+}

@@ -1,0 +1,98 @@
+{
+  "prepared_sentiment": 0.82,
+  "qa_sentiment": 0.65,
+  "management_confidence": 0.85,
+  "qa_defensiveness": 0.2,
+  "wins": [
+    {
+      "text": "Q4 revenue grew 34% YoY to a record $10.3B, with net income up 42% to a record $2.5B and free cash flow nearly doubling YoY to a record $2.1B",
+      "category": "revenue"
+    },
+    {
+      "text": "Data Center segment revenue hit a record $5.4B in Q4, up 39% YoY and 24% sequentially, driven by EPYC and MI350 ramp; operating margin expanded to 33% from 30% a year ago",
+      "category": "margins"
+    },
+    {
+      "text": "Client revenue reached a record $3.1B in Q4, up 34% YoY; desktop CPU sales set a record for the fourth consecutive quarter; commercial Ryzen sell-through grew 40%+ YoY",
+      "category": "revenue"
+    },
+    {
+      "text": "Full-year 2025 revenue grew 34% to $34.6B with record EPS of $4.17, up 26% YoY; $17B in embedded design wins in 2025, up ~20% YoY, and $50B+ cumulative since Xilinx acquisition",
+      "category": "growth"
+    },
+    {
+      "text": "Multi-generation partnership with OpenAI to deploy 6 gigawatts of Instinct GPUs; 8 of top 10 AI companies use Instinct in production; MI430X wins at GENCI (France) and HLRS (Germany) exascale supercomputers",
+      "category": "customer"
+    }
+  ],
+  "risks": [
+    {
+      "text": "China MI308 sales of ~$390M in Q4 were a one-time license approval; only ~$100M guided for Q1 with no additional China revenue forecasted due to 'very dynamic situation' and pending MI325 licenses",
+      "category": "regulatory"
+    },
+    {
+      "text": "Semi-custom gaming SoC revenue expected to decline by a 'significant double-digit percentage' in 2026 as the console cycle enters its seventh year",
+      "category": "demand"
+    },
+    {
+      "text": "PC TAM expected to be down in 2026 due to inflationary commodity/memory pricing pressures; second half modeled as 'subseasonal' to first half",
+      "category": "macro"
+    },
+    {
+      "text": "OpEx grew 42% YoY in Q4 to $3B and is guided to $3.05B in Q1 2026, with analysts flagging persistent upward creep; operating leverage not yet fully materializing",
+      "category": "margins"
+    },
+    {
+      "text": "MI450/Helios rack-scale ramp concentrated in Q4 2026, creating execution risk around system-level integration and yield ramp, with competitor having experienced similar issues previously",
+      "category": "execution"
+    }
+  ],
+  "guidance": "mixed",
+  "guidance_items": [
+    {
+      "line_item": "revenue",
+      "direction": "raised",
+      "detail": "Q1 2026 revenue guided to ~$9.8B +/- $300M, up 32% YoY; Data Center expected up sequentially despite typical seasonality; server CPU guided up sequentially vs. normal seasonal decline"
+    },
+    {
+      "line_item": "margins",
+      "direction": "reaffirmed",
+      "detail": "Q1 2026 non-GAAP gross margin guided at ~55%, up ~130 bps YoY; management expressed confidence in continued margin progression through 2026"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "Non-GAAP OpEx guided to ~$3.05B in Q1 2026; non-GAAP tax rate 13%; diluted share count ~1.65B"
+    },
+    {
+      "line_item": "segment",
+      "direction": "lowered",
+      "detail": "Semi-custom gaming SoC revenue expected to decline significant double-digit % in 2026; Client/Gaming and Embedded expected down sequentially in Q1 due to seasonality"
+    },
+    {
+      "line_item": "segment",
+      "direction": "raised",
+      "detail": "Data Center segment guided up sequentially in Q1; long-term target of >60% annual Data Center revenue growth reiterated as 'certainly possible in 2026'; AI revenue guided to 'tens of billions' in 2027"
+    }
+  ],
+  "themes": [
+    "ai",
+    "data_center",
+    "product_launch",
+    "customer_wins",
+    "china_exposure",
+    "regulatory",
+    "margin_expansion",
+    "enterprise_demand"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Competitive implications of SRAM-based spatial architecture investments by NVIDIA and OpenAI for inference workloads",
+    "Potential pull-ins and inflationary memory cost pressures in the PC/client market affecting order patterns",
+    "x86 vs. ARM competitive dynamics in server CPUs, specifically NVIDIA's upcoming ARM-based CPU offering"
+  ],
+  "_ticker": "AMD",
+  "_quarter": "Q4-2025",
+  "_call_date": "2026-02-03",
+  "overall_sentiment": 0.752,
+  "sentiment_bucket": "very_bullish"
+}

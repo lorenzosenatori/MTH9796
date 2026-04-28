@@ -1,0 +1,38 @@
+{
+  "line_items": [
+    {
+      "line_item": "revenue",
+      "result": "beat",
+      "reasoning": "Q2 revenue came in at approximately $5.835B (Data Center $2.8B + Client $1.5B + Gaming $648M + Embedded $861M), above the guided midpoint of $5.7B and near the top of the $5.4B\u2013$6.0B range; additionally, the full-year Data Center GPU outlook was raised to >$4.5B, surpassing the prior >$4.0B guide."
+    },
+    {
+      "line_item": "segment \u2013 Data Center",
+      "result": "beat",
+      "reasoning": "Data Center hit a record $2.8B with MI300 GPU quarterly revenue exceeding $1B for the first time, clearly exceeding the guided 'double-digit percentage sequential growth' and prompting a further raise to the full-year GPU revenue outlook."
+    },
+    {
+      "line_item": "segment \u2013 Client",
+      "result": "beat",
+      "reasoning": "Client revenue grew 49% YoY to $1.5B and swung to $89M operating income, well above the guidance of modest sequential growth and a return to profitability."
+    },
+    {
+      "line_item": "margins",
+      "result": "inline",
+      "reasoning": "Non-GAAP gross margin came in at exactly 53%, matching the guided ~53% target, though MI300 margins remain below corporate average, limiting further upside."
+    },
+    {
+      "line_item": "segment \u2013 Gaming",
+      "result": "inline",
+      "reasoning": "Gaming declined ~30% QoQ, which is consistent with the guided 'significant double-digit percentage' sequential decline, and H2 is still expected to be lower than H1, in line with prior guidance."
+    },
+    {
+      "line_item": "segment \u2013 Embedded",
+      "result": "miss",
+      "reasoning": "Embedded revenue fell 41% YoY to $861M and recovery was described as only 'gradual' with single-digit sequential growth in Q3, falling short of the guided flat sequential performance and a more meaningful H2 recovery."
+    }
+  ],
+  "overall_surprise": "beat",
+  "_ticker": "AMD",
+  "_quarter": "Q2-2024",
+  "_prior_quarter": "Q1-2024"
+}

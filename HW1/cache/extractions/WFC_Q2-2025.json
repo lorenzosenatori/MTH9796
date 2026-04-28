@@ -1,0 +1,93 @@
+{
+  "prepared_sentiment": 0.62,
+  "qa_sentiment": 0.38,
+  "management_confidence": 0.72,
+  "qa_defensiveness": 0.28,
+  "wins": [
+    {
+      "text": "Net income of $5.5B or $1.60 per diluted share, up from both Q1 and a year ago; ROTCE reached 15% (including Merchant Services gain)",
+      "category": "revenue"
+    },
+    {
+      "text": "Asset cap lifted \u2014 a pivotal milestone ending a multi-year regulatory constraint; 13 consent orders terminated since 2019, including 7 in 2025 alone",
+      "category": "other"
+    },
+    {
+      "text": "Net loan charge-off ratio declined 13 bps YoY and 1 bp QoQ; consumer net charge-offs down $48M from Q1; nonperforming assets declined 3% from Q1",
+      "category": "margins"
+    },
+    {
+      "text": "$40B additional common stock repurchase program authorized by Board; $6B+ repurchased in H1 2025; dividend raised 12.5% to $0.45/share in Q3",
+      "category": "buybacks"
+    },
+    {
+      "text": "Investment banking fees up 9% YoY; IB market share gains in leveraged finance and M&A for second consecutive year; WIM net asset flows of $16B+ in H1, up 60% YoY",
+      "category": "customer_wins"
+    }
+  ],
+  "risks": [
+    {
+      "text": "Full-year NII guidance revised to roughly in line with 2024's $47.7B, down from prior guidance of low-single-digit growth, driven by increased balance sheet allocation to low/non-earning markets assets",
+      "category": "margins"
+    },
+    {
+      "text": "Commercial loan growth remained modest as clients stayed cautious awaiting trade/tariff clarity; middle market spreads remain compressed due to intense bank competition",
+      "category": "demand"
+    },
+    {
+      "text": "Tariff and macro uncertainty flagged explicitly \u2014 commercial clients not growing inventories or hiring aggressively, preparing contingency plans for downside scenarios",
+      "category": "macro"
+    },
+    {
+      "text": "CRE office portfolio remains a concern \u2014 management expects additional losses, though valuations appear to be stabilizing; allowance coverage at 11.1%",
+      "category": "margins"
+    },
+    {
+      "text": "Capital framework uncertainty \u2014 SCB declined 120 bps but Fed CCAR process and broader capital rules still in flux, preventing management from committing to a definitive capital target or updated ROTCE target",
+      "category": "regulatory"
+    }
+  ],
+  "guidance": "mixed",
+  "guidance_items": [
+    {
+      "line_item": "revenue",
+      "direction": "lowered",
+      "detail": "Full-year NII now expected roughly in line with 2024's $47.7B, down from prior guidance of slightly above that level; largest driver is increased markets balance sheet allocation generating fees rather than NII"
+    },
+    {
+      "line_item": "revenue",
+      "direction": "reaffirmed",
+      "detail": "NII expected to grow sequentially in both Q3 and Q4 2025"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "2025 noninterest expense outlook unchanged at approximately $54.2B"
+    },
+    {
+      "line_item": "other",
+      "direction": "raised",
+      "detail": "Q3 common stock dividend raised 12.5% to $0.45/share, subject to Board approval; $40B buyback authorization added"
+    }
+  ],
+  "themes": [
+    "regulatory",
+    "margin_expansion",
+    "buybacks",
+    "dividends",
+    "enterprise_demand",
+    "macro_headwinds",
+    "tariffs",
+    "ai"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Timing and specifics of updated medium-term ROTCE target above 15% \u2014 management did not proactively address when or at what level a new target would be set",
+    "Competitive loan spread compression from other banks and nonbank lenders in middle market \u2014 not mentioned in prepared remarks",
+    "Tax rate volatility and impact of new legislation reducing clean energy tax credits on WFC's tax credit investment business"
+  ],
+  "_ticker": "WFC",
+  "_quarter": "Q2-2025",
+  "_call_date": "2025-07-15",
+  "overall_sentiment": 0.524,
+  "sentiment_bucket": "bullish"
+}

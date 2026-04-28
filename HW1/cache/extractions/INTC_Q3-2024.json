@@ -1,0 +1,98 @@
+{
+  "prepared_sentiment": 0.1,
+  "qa_sentiment": 0.05,
+  "management_confidence": 0.55,
+  "qa_defensiveness": 0.35,
+  "wins": [
+    {
+      "text": "Q3 revenue of $13.3B came in above the midpoint of guidance and in the upper half of the guided range, up 4% sequentially",
+      "category": "revenue"
+    },
+    {
+      "text": "Intel Products operating profit of $3.3B, 27% of revenue, up $400M quarter-over-quarter on higher revenue and reduced OpEx",
+      "category": "margins"
+    },
+    {
+      "text": "Altera revenue up 14% sequentially with operating profit turning positive; operating margins increased 900 bps sequentially",
+      "category": "growth"
+    },
+    {
+      "text": "Secured multiyear, multibillion-dollar AWS commitment for a custom Xeon 6 chip on Intel 3 and a new AI fabric chip on Intel 18A; added 2 additional 18A external wafer design wins in the quarter",
+      "category": "customer"
+    },
+    {
+      "text": "Awarded additional $3B in direct funding under the Secure Enclave program; advanced packaging business turned profitable as a standalone in Q3",
+      "category": "other"
+    }
+  ],
+  "risks": [
+    {
+      "text": "Non-GAAP gross margin collapsed to 18% in Q3 due to ~$3B in noncash impairment and accelerated depreciation charges for Intel 7 assets, reducing gross margin by ~2,300 bps and EPS by ~$0.61/share",
+      "category": "margins"
+    },
+    {
+      "text": "Gaudi 3 AI accelerator revenue will fall well short of the $500M 2024 target due to slower-than-expected adoption, product transition friction from Gaudi 2 to Gaudi 3, and software ease-of-use issues",
+      "category": "demand"
+    },
+    {
+      "text": "Lunar Lake's in-package memory architecture is having a 'significant' and 'meaningful' negative impact on gross margins and will weigh on 2025 gross margins as volume ramps; gross margin expansion expected to be 'muted' in 2025, particularly H2",
+      "category": "margins"
+    },
+    {
+      "text": "$15.6B in GAAP charges including ~$10B deferred tax asset impairment, $2.6B Mobileye goodwill impairment, and $2.2B in severance costs; adjusted free cash flow expected to remain negative for full-year 2024",
+      "category": "execution"
+    },
+    {
+      "text": "Altera inventory normalization expected to continue through H1 2025 as end customers work down inventory tied to prior supply constraints; billings remain below consumption",
+      "category": "inventory"
+    }
+  ],
+  "guidance": "mixed",
+  "guidance_items": [
+    {
+      "line_item": "revenue",
+      "direction": "raised",
+      "detail": "Q4 revenue guided to $13.3B\u2013$14.3B (midpoint $13.8B), described as modestly above current consensus"
+    },
+    {
+      "line_item": "margins",
+      "direction": "reaffirmed",
+      "detail": "Q4 non-GAAP gross margin guided at ~39.5%; 2025 gross margin expansion described as 'muted,' particularly in H2 2025, with meaningful improvement deferred to 2026"
+    },
+    {
+      "line_item": "eps",
+      "direction": "reaffirmed",
+      "detail": "Q4 non-GAAP EPS guided at $0.12; tax rate of 13%"
+    },
+    {
+      "line_item": "capex",
+      "direction": "lowered",
+      "detail": "2024 gross/net CapEx now ~$25B/$11B; 2025 gross/net CapEx targeted at $20B\u2013$23B / $12B\u2013$14B, down >20% vs. original plan"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "2025 OpEx target of $17.5B reaffirmed; positive adjusted free cash flow expected in 2025; workforce reduction of >15% on track before year-end"
+    }
+  ],
+  "themes": [
+    "restructuring",
+    "layoffs",
+    "cost_cutting",
+    "capex",
+    "margin_pressure",
+    "ai",
+    "product_launch",
+    "customer_wins"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "18A defect density metrics and what yield thresholds external customers require before committing to high-volume production",
+    "Panther Lake and Nova Lake tile outsourcing mix \u2014 degree to which wafers are truly coming back in-house vs. remaining with TSMC",
+    "Strategic optionality beyond the foundry subsidiary model \u2014 whether Intel has evaluated more transformative structural alternatives"
+  ],
+  "_ticker": "INTC",
+  "_quarter": "Q3-2024",
+  "_call_date": "2024-10-31",
+  "overall_sentiment": 0.08,
+  "sentiment_bucket": "slightly_bullish"
+}

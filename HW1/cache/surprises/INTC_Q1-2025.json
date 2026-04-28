@@ -1,0 +1,33 @@
+{
+  "line_items": [
+    {
+      "line_item": "revenue",
+      "result": "beat",
+      "reasoning": "Q1 revenue of $12.7B came in at the very top of the guided $11.7B\u2013$12.7B range, driven by better-than-expected Xeon sales, clearly beating the $12.2B midpoint."
+    },
+    {
+      "line_item": "margins",
+      "result": "beat",
+      "reasoning": "Non-GAAP gross margin of 39.2% was approximately 3 percentage points above the guided ~36%, driven by stronger Raptor Lake demand and improved Meteor Lake costs."
+    },
+    {
+      "line_item": "eps",
+      "result": "beat",
+      "reasoning": "Q1 non-GAAP EPS of $0.13 significantly exceeded the guided breakeven ($0.00), benefiting from higher revenue, stronger gross margin, and lower-than-expected OpEx."
+    },
+    {
+      "line_item": "capex",
+      "result": "inline",
+      "reasoning": "No specific Q1 CapEx deviation was reported; the 2025 gross CapEx trajectory of ~$20B was not contradicted by current results, so this is treated as on track."
+    },
+    {
+      "line_item": "other",
+      "result": "beat",
+      "reasoning": "2025 OpEx target was actually lowered further to $17B (vs. the guided $17.5B), and Intel Foundry's path to breakeven was not walked back, representing an outperformance on cost discipline."
+    }
+  ],
+  "overall_surprise": "beat",
+  "_ticker": "INTC",
+  "_quarter": "Q1-2025",
+  "_prior_quarter": "Q4-2024"
+}

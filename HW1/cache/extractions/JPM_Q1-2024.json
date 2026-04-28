@@ -1,0 +1,98 @@
+{
+  "prepared_sentiment": 0.3,
+  "qa_sentiment": 0.15,
+  "management_confidence": 0.65,
+  "qa_defensiveness": 0.25,
+  "wins": [
+    {
+      "text": "Net income of $13.4B, EPS of $4.44 on revenue of $42.5B with ROTCE of 21% for Q1-2024",
+      "category": "revenue"
+    },
+    {
+      "text": "Firm-wide IB fees up 21% YoY; debt underwriting up 58% and equity underwriting up 51% YoY; ranked #1 with YTD wallet share of 9.1%",
+      "category": "revenue"
+    },
+    {
+      "text": "AWM AUM of $3.6T up 19% YoY and client assets of $5.2T up 20% YoY, with long-term net inflows of $34B in the quarter",
+      "category": "growth"
+    },
+    {
+      "text": "First Republic contributed $1.7B revenue and $668M net income in Q1, annualizing above the $2B full-year figure cited in the CEO letter",
+      "category": "revenue"
+    },
+    {
+      "text": "CET1 ratio of 15% with $2B/quarter buyback ongoing; dividend raised mid-cycle reflecting excess capital generation",
+      "category": "buybacks"
+    }
+  ],
+  "risks": [
+    {
+      "text": "FDIC special assessment increased by $725M due to updated loss estimates from SVB and Signature Bank closures, driving expenses to $22B, up 9% YoY",
+      "category": "regulatory"
+    },
+    {
+      "text": "Card net charge-offs up $825M YoY on continued normalization; reserve build expected in back half of 2024 as card loan growth of ~12% full-year continues",
+      "category": "margins"
+    },
+    {
+      "text": "NII ex Markets guidance of ~$89B implies sequential NII compression as deposit margin normalization continues; deposit migration from checking/savings to CDs ongoing with no sign of slowing",
+      "category": "margins"
+    },
+    {
+      "text": "CIB cautioned that strong Q1 capital markets activity likely pulled forward from later in the year, particularly in DCM where a high percentage of full-year refinancing needs were completed in Q1",
+      "category": "demand"
+    },
+    {
+      "text": "Jamie Dimon flagged elevated macro, geopolitical, and regulatory uncertainty including stagflation risk, higher-for-longer rates, and potential CRE stress beyond office if rates rise further",
+      "category": "macro"
+    }
+  ],
+  "guidance": "mixed",
+  "guidance_items": [
+    {
+      "line_item": "revenue",
+      "direction": "reaffirmed",
+      "detail": "Total NII guidance maintained at ~$90B; NII ex Markets now ~$89B (slightly refined from prior)"
+    },
+    {
+      "line_item": "other",
+      "direction": "lowered",
+      "detail": "Markets NII guidance reduced from ~$2B to ~$1B due to balance sheet mix shift in financing businesses; described as revenue-neutral"
+    },
+    {
+      "line_item": "other",
+      "direction": "raised",
+      "detail": "Adjusted expense outlook raised to ~$91B from prior guidance, reflecting $725M FDIC special assessment increase"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "2024 Card net charge-off rate expected to remain below 3.5%"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "Effective tax rate expected to remain ~23% for 2024, absent discrete items; no meaningful impact on annual net income"
+    }
+  ],
+  "themes": [
+    "regulatory",
+    "macro_headwinds",
+    "margin_pressure",
+    "buybacks",
+    "enterprise_demand",
+    "m_and_a",
+    "inventory",
+    "geopolitical"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Basel III endgame capital deployment timeline and the 17% through-the-cycle CET1 target implications",
+    "Private credit competitive dynamics and JPM's strategic positioning relative to private credit providers",
+    "Potential future FDIC-assisted bank acquisition opportunities and competition from private equity/family offices"
+  ],
+  "_ticker": "JPM",
+  "_quarter": "Q1-2024",
+  "_call_date": "2024-04-12",
+  "overall_sentiment": 0.24,
+  "sentiment_bucket": "slightly_bullish"
+}

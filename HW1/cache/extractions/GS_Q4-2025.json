@@ -1,0 +1,98 @@
+{
+  "prepared_sentiment": 0.78,
+  "qa_sentiment": 0.62,
+  "management_confidence": 0.82,
+  "qa_defensiveness": 0.18,
+  "wins": [
+    {
+      "text": "Full-year EPS of $51.32, up 27% YoY; ROE of 15% and ROTE of 16%, improving 230 and 250 bps respectively vs. 2024",
+      "category": "revenue"
+    },
+    {
+      "text": "GBM produced record full-year revenues of $41.5 billion, up 18% YoY; total equities net revenues hit a record $16.5 billion, surpassing prior year's record by over $3 billion",
+      "category": "revenue"
+    },
+    {
+      "text": "Record alternatives fundraising of $115 billion for the year; alternatives management and other fees grew to a record $2.4 billion; record management and other fees of $3.1 billion in Q4, up 10% YoY",
+      "category": "growth"
+    },
+    {
+      "text": "FICC and equity financing revenues grew to a record $11.4 billion for the year at a 17% CAGR since 2021, comprising 37% of total FICC and equity revenues",
+      "category": "margins"
+    },
+    {
+      "text": "Returned ~$4.2 billion to shareholders in Q4 including $3 billion in buybacks; announced $0.50 increase in quarterly dividend to $4.50, a 50% increase from a year ago; $32 billion remaining buyback capacity",
+      "category": "buybacks"
+    }
+  ],
+  "risks": [
+    {
+      "text": "NIM compression expected in private banking and lending in 2026 as rate cycle continues; CFO flagged this as a headwind to the private banking and lending revenue line",
+      "category": "margins"
+    },
+    {
+      "text": "Apple Card portfolio transition creates a small pretax loss expected in Platform Solutions for 2026; $2.3 billion revenue reduction partially offset by $2.5 billion reserve release",
+      "category": "execution"
+    },
+    {
+      "text": "AWM pretax margin of 25% and segment ROE of 12.5% in 2025 remain below newly raised targets of 30% margin and high-teen returns, indicating execution risk on the path to new targets",
+      "category": "execution"
+    },
+    {
+      "text": "Geopolitical developments, policy uncertainty and macro volatility flagged by CFO as factors that could quickly shift the operating environment and dampen M&A/capital markets activity",
+      "category": "macro"
+    },
+    {
+      "text": "IPO market volumes remain decidedly below long-term averages; equity capital markets activity still meaningfully below 2021 peak levels with SPAC-driven volumes not expected to recur",
+      "category": "demand"
+    }
+  ],
+  "guidance": "raised",
+  "guidance_items": [
+    {
+      "line_item": "margins",
+      "direction": "raised",
+      "detail": "AWM pretax margin target raised to 30% (from prior target), expected to drive high-teen returns in AWM over the medium term"
+    },
+    {
+      "line_item": "other",
+      "direction": "raised",
+      "detail": "Alternatives fee-paying AUS target set at $750 billion by 2030; annual fundraising target raised to $75-$100 billion sustainably; $1 billion annual incentive fee target reaffirmed with progress expected in 2026"
+    },
+    {
+      "line_item": "other",
+      "direction": "raised",
+      "detail": "New wealth management long-term fee-based net inflow target introduced at 5% annually"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "Tax rate guided to approximately 20% for 2026, down slightly from 21.4% in 2025"
+    },
+    {
+      "line_item": "segment",
+      "direction": "lowered",
+      "detail": "Platform Solutions expected to generate a small pretax loss for 2026 due to Apple Card transition accounting impact"
+    }
+  ],
+  "themes": [
+    "m_and_a",
+    "ai",
+    "margin_expansion",
+    "buybacks",
+    "dividends",
+    "enterprise_demand",
+    "product_launch",
+    "regulatory"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Operating leverage and efficiency ratio trajectory \u2014 analysts pressed on why Q4 year-over-year efficiency ratio appeared to deteriorate even adjusting for Apple Card",
+    "Tokenization, stablecoins, and prediction markets as emerging market structure opportunities \u2014 not mentioned proactively by management",
+    "Quantification of regulatory cost burden relief and how much expense capacity could be redeployed to growth"
+  ],
+  "_ticker": "GS",
+  "_quarter": "Q4-2025",
+  "_call_date": "2026-01-15",
+  "overall_sentiment": 0.716,
+  "sentiment_bucket": "very_bullish"
+}

@@ -1,0 +1,93 @@
+{
+  "prepared_sentiment": 0.25,
+  "qa_sentiment": 0.35,
+  "management_confidence": 0.65,
+  "qa_defensiveness": 0.15,
+  "wins": [
+    {
+      "text": "FMI weighted device signings reached 7,281 in Q3, equivalent to 114 devices per day, up significantly from prior periods; FMI installed base growing better than 10% YoY",
+      "category": "product"
+    },
+    {
+      "text": "Onsite active sites up ~12% from end of Q3 2023; 93 Onsites signed in the quarter; national contract and regional contract signings growing better than 10% YoY",
+      "category": "customer"
+    },
+    {
+      "text": "Digital footprint reached 61.1% of sales in Q3 2024, up from 57% a year ago and 49% two years ago; e-procurement growing 30%+",
+      "category": "growth"
+    },
+    {
+      "text": "SG&A improved to 24.6% of sales from 25.0% a year ago, driven by supplier marketing credits, lower fuel costs, IT spending, bad debt and insurance leverage",
+      "category": "margins"
+    },
+    {
+      "text": "Generated $297 million in operating cash flow in Q3 2024, representing 100% of net income; debt reduced to 6.3% of total capital from 7.0% a year ago",
+      "category": "other"
+    }
+  ],
+  "risks": [
+    {
+      "text": "PMI has been sub-50 for 22 of the last 23 months; industrial production flattish with key Fastenal-exposed segments (machinery, fabricated metals) posting sustained monthly declines",
+      "category": "demand"
+    },
+    {
+      "text": "Gross margin declined 100 bps YoY to 44.9% in Q3 2024, pressured by product/customer mix, higher import duties (Mexico, Canada), a non-recurring shipper rebate in Q3 2023, and lower supplier rebates from reduced purchasing activity",
+      "category": "margins"
+    },
+    {
+      "text": "Reseller end market daily sales declined 11.3% in Q3 2024 vs. -6.4% in Q2 2024, suggesting channel destocking; ag, consumer durables, pulp/paper/lumber, and Boeing-related aerospace also called out as weak",
+      "category": "demand"
+    },
+    {
+      "text": "FTE growth of 2.8% exceeded daily sales rate growth of 1.9%, and year-to-date SG&A up 2.8% vs. DSR up 1.9%, contributing to 60 bps of margin compression YTD",
+      "category": "margins"
+    },
+    {
+      "text": "FASTStock average order value declined from $224 in January to $216 in September 2024, meaning customer spend-per-scan contraction is wiping out ~31% of volume growth from new customer additions",
+      "category": "demand"
+    }
+  ],
+  "guidance": "mixed",
+  "guidance_items": [
+    {
+      "line_item": "margins",
+      "direction": "reaffirmed",
+      "detail": "Q4 gross margin expected to decline less than typical ~30 bps seasonal pattern due to ~$2M favorable swing in rebates vs. Q3 headwind; some seasonality still expected"
+    },
+    {
+      "line_item": "capex",
+      "direction": "reaffirmed",
+      "detail": "Full-year net CapEx range of $235M-$255M maintained, trending toward the low end; CFO informally guided 2025 CapEx to $200M-$225M, below 2024 levels as Utah hub construction winds down"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "No meaningful change expected in underlying business activity in Q4 2024; management expects strong YTD signings to benefit sales trends in Q4 and into 2025"
+    },
+    {
+      "line_item": "inventory",
+      "direction": "raised",
+      "detail": "Plans to add another $5M-$10M in incremental fastener inventory in Q4 2024 on top of ~$25M added in Q3; gross margin tailwind from import sourcing not expected until Q2-Q3 2025"
+    }
+  ],
+  "themes": [
+    "supply_chain",
+    "inventory",
+    "product_launch",
+    "customer_wins",
+    "margin_pressure",
+    "macro_headwinds",
+    "enterprise_demand",
+    "capex"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Impact of Boeing strike on aerospace-related demand",
+    "Mexico and Canada import duty increases as a recurring gross margin headwind",
+    "Bifurcation between Onsite signings (flat) and FMI signings (up ~20%) and what it signals about customer acquisition mix"
+  ],
+  "_ticker": "FAST",
+  "_quarter": "Q3-2024",
+  "_call_date": "2024-10-11",
+  "overall_sentiment": 0.29,
+  "sentiment_bucket": "slightly_bullish"
+}

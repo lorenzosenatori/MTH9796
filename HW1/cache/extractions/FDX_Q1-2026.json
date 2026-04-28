@@ -1,0 +1,98 @@
+{
+  "prepared_sentiment": 0.35,
+  "qa_sentiment": 0.05,
+  "management_confidence": 0.62,
+  "qa_defensiveness": 0.45,
+  "wins": [
+    {
+      "text": "FEC adjusted operating income increased $168M, up 17% YoY with adjusted operating margin expanding 70 bps \u2014 fourth consecutive quarter of YoY adjusted margin expansion",
+      "category": "margins"
+    },
+    {
+      "text": "Consolidated adjusted EPS of $3.83, up 6% YoY, above the midpoint of Q1 outlook range despite $150M international export headwind and $130M USPS contract expiration headwind",
+      "category": "revenue"
+    },
+    {
+      "text": "U.S. domestic ADV grew 5% YoY with U.S. domestic package yield up 3%; Best Buy named FedEx as primary national parcel carrier; U.S. domestic small business revenue grew more than 10% YoY",
+      "category": "customer"
+    },
+    {
+      "text": "International priority and economy freight revenue grew 14% YoY with high flow-through, driven by Tricolor capacity pivot from Asia-U.S. to Asia-Europe lanes",
+      "category": "growth"
+    },
+    {
+      "text": "Repurchased $500M of stock in Q1; $1.6B remaining under 2024 authorization; quarterly dividend increased; euro-denominated bond offering significantly oversubscribed",
+      "category": "buybacks"
+    }
+  ],
+  "risks": [
+    {
+      "text": "$1 billion full-year headwind to adjusted operating income from global trade environment, including de minimis exemption removal, reduced China-to-U.S. demand, $300M in direct trade-related expenses (customs clearance, staffing), and $160M USPS contract expiration headwind",
+      "category": "macro"
+    },
+    {
+      "text": "FedEx Freight adjusted operating income declined ~$70M with adjusted operating margin contracting 250 bps; LTL market weakness from industrial economy softness and excess truckload capacity continues to pressure results",
+      "category": "demand"
+    },
+    {
+      "text": "Full-year adjusted EPS range of $17.20\u2013$19.00 is wide ($1.80 spread), reflecting significant uncertainty around global trade evolution, industrial economy health, and U.S. domestic demand trajectory in H2",
+      "category": "execution"
+    },
+    {
+      "text": "International export volumes declined materially on China-to-U.S. lane due to de minimis exemption changes; $150M OI headwind in Q1 alone expected to intensify to ~$1B for full year",
+      "category": "regulatory"
+    },
+    {
+      "text": "Higher-than-expected Q1 GAAP tax rate of 27.3% due to nonrecurring income tax expense from examination of prior year tax return filings; FY26 effective tax rate guided at ~25%",
+      "category": "other"
+    }
+  ],
+  "guidance": "mixed",
+  "guidance_items": [
+    {
+      "line_item": "eps",
+      "direction": "reaffirmed",
+      "detail": "FY26 adjusted EPS guided at $17.20\u2013$19.00; midpoint $18.10 assumes 5% consolidated revenue growth and $1B in transformation savings; no prior full-year EPS guidance had been issued publicly on this call, but range introduced here"
+    },
+    {
+      "line_item": "revenue",
+      "direction": "raised",
+      "detail": "FY26 consolidated revenue growth guided at 4%\u20136%; FEC revenue expected up ~6% at midpoint; FedEx Freight revenue expected flat to up modestly YoY"
+    },
+    {
+      "line_item": "margins",
+      "direction": "lowered",
+      "detail": "FEC adjusted operating margin expected down slightly at midpoint; FedEx Freight margin expected down YoY at midpoint"
+    },
+    {
+      "line_item": "capex",
+      "direction": "reaffirmed",
+      "detail": "FY26 CapEx target maintained at $4.5B; Q1 CapEx was $623M"
+    },
+    {
+      "line_item": "other",
+      "direction": "lowered",
+      "detail": "Voluntary pension cash contributions reduced to up to $400M from prior forecast of up to $600M for FY26"
+    }
+  ],
+  "themes": [
+    "macro_headwinds",
+    "tariffs",
+    "supply_chain",
+    "cost_cutting",
+    "margin_expansion",
+    "customer_wins",
+    "product_launch",
+    "buybacks"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Why operating leverage is not materializing despite 5% revenue growth and $1B cost savings \u2014 analysts pressed repeatedly on the flow-through gap",
+    "Specific composition and magnitude of the $1B global trade headwind broken down by revenue loss vs. direct cost increases (not proactively disaggregated in prepared remarks)",
+    "Competitive landscape dynamics and UPS market share contraction creating share gain opportunities for FedEx domestic parcel"
+  ],
+  "_ticker": "FDX",
+  "_quarter": "Q1-2026",
+  "_call_date": "2025-09-18",
+  "overall_sentiment": 0.23,
+  "sentiment_bucket": "slightly_bullish"
+}

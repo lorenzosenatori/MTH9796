@@ -1,0 +1,28 @@
+{
+  "line_items": [
+    {
+      "line_item": "revenue",
+      "result": "beat",
+      "reasoning": "Q2 actual revenue of $46.7B exceeded the guided $45B (+/-2%, implying a range of ~$44.1B\u2013$45.9B), beating the top end of guidance despite a ~$4B sequential decline in H20 revenue."
+    },
+    {
+      "line_item": "margins",
+      "result": "beat",
+      "reasoning": "While exact reported gross margin figures aren't explicitly stated in the results, the strong revenue beat well above the guided range \u2014 combined with no mention of margin shortfalls and record product mix \u2014 implies gross margins came in at or above the guided 71.8%/72% (+/-50bps); the company also raised Q3 margin guidance, consistent with a beat."
+    },
+    {
+      "line_item": "eps",
+      "result": "beat",
+      "reasoning": "Revenue significantly exceeded guidance, and with no adverse tax rate or other income surprises mentioned, the higher revenue base would have driven EPS above the implied guidance level anchored to $45B revenue."
+    },
+    {
+      "line_item": "other",
+      "result": "miss",
+      "reasoning": "Full-year FY26 operating expense growth guidance was raised to high-30s% YoY, up from the prior mid-30s% guidance, indicating opex came in or is tracking above what was previously guided."
+    }
+  ],
+  "overall_surprise": "beat",
+  "_ticker": "NVDA",
+  "_quarter": "Q2-2026",
+  "_prior_quarter": "Q1-2026"
+}

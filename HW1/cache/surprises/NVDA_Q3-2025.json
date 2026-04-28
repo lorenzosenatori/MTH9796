@@ -1,0 +1,28 @@
+{
+  "line_items": [
+    {
+      "line_item": "revenue",
+      "result": "beat",
+      "reasoning": "Q3 actual revenue of $35.1B significantly exceeded the guided $32.5B (+/- 2%), representing a ~8% beat at the midpoint."
+    },
+    {
+      "line_item": "margins",
+      "result": "miss",
+      "reasoning": "Blackwell ramp is compressing non-GAAP gross margins to the low 70s (71\u201372.5%), below the guided ~75% (+/- 50 bps) for Q3, with further pressure ahead \u2014 consistent with the warned Q4 risk but worse than the Q3 guide itself."
+    },
+    {
+      "line_item": "other",
+      "result": "inline",
+      "reasoning": "Software/SaaS/support is annualizing at $1.5B currently but is on track to exit fiscal 2025 at over $2B, exactly matching the prior guidance target; sovereign AI trajectory was not explicitly updated but not flagged as a miss."
+    },
+    {
+      "line_item": "capex",
+      "result": "inline",
+      "reasoning": "No specific update contradicting the guided mid- to upper-40% full-year opex growth range was reported, suggesting execution remains on track with prior guidance."
+    }
+  ],
+  "overall_surprise": "mixed",
+  "_ticker": "NVDA",
+  "_quarter": "Q3-2025",
+  "_prior_quarter": "Q2-2025"
+}

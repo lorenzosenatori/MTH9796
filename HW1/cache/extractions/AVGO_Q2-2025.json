@@ -1,0 +1,98 @@
+{
+  "prepared_sentiment": 0.82,
+  "qa_sentiment": 0.72,
+  "management_confidence": 0.85,
+  "qa_defensiveness": 0.2,
+  "wins": [
+    {
+      "text": "Q2 total revenue hit a record $15B, up 20% YoY, all organic growth with no acquisition benefit vs. prior year",
+      "category": "revenue"
+    },
+    {
+      "text": "AI semiconductor revenue reached $4.4B in Q2, up 46% YoY \u2014 9th consecutive quarter of strong growth; AI networking surged 170%+ YoY and held at ~40% of AI revenue",
+      "category": "growth"
+    },
+    {
+      "text": "Q2 adjusted EBITDA of $10B (67% margin), up 35% YoY and above 66% guidance; infrastructure software operating margin expanded to ~76% from 60% a year ago",
+      "category": "margins"
+    },
+    {
+      "text": "VMware/VCF adoption: 87%+ of top 10,000 customers now on VCF, driving 25% YoY infrastructure software revenue growth to $6.6B, above $6.5B outlook",
+      "category": "customer"
+    },
+    {
+      "text": "Repurchased $4.2B (~25M shares) of common stock in Q2 opportunistically; paid $2.8B in dividends",
+      "category": "buybacks"
+    }
+  ],
+  "risks": [
+    {
+      "text": "Non-AI semiconductor revenue of $4B was down 5% YoY; industrial segment down sequentially; recovery described as 'slow' and 'close to the bottom'",
+      "category": "demand"
+    },
+    {
+      "text": "Q3 gross margin guided down ~130 bps sequentially due to higher XPU mix, which carries lower margins than the rest of the portfolio",
+      "category": "margins"
+    },
+    {
+      "text": "Export control environment described as 'very dynamic' with Hock explicitly stating he cannot give comfort on future impact \u2014 'rules are changing quite dramatically'",
+      "category": "regulatory"
+    },
+    {
+      "text": "Gross principal debt remains elevated at $67.8B post-quarter-end repayment; free cash flow as % of revenue continues to be pressured by VMware acquisition-related interest expense and higher cash taxes",
+      "category": "other"
+    },
+    {
+      "text": "XPU revenue described as 'lumpy' by analysts; networking outperformance in Q2 raised questions about whether XPU was softer than expected, creating visibility uncertainty on mix",
+      "category": "execution"
+    }
+  ],
+  "guidance": "raised",
+  "guidance_items": [
+    {
+      "line_item": "revenue",
+      "direction": "raised",
+      "detail": "Q3 consolidated revenue guided to ~$15.8B, up 21% YoY; above Q2 record of $15B"
+    },
+    {
+      "line_item": "segment",
+      "direction": "raised",
+      "detail": "Q3 AI semiconductor revenue guided to $5.1B, up 60% YoY \u2014 10th consecutive quarter of growth; total semiconductor revenue ~$9.1B, up 25% YoY"
+    },
+    {
+      "line_item": "segment",
+      "direction": "raised",
+      "detail": "Q3 infrastructure software revenue guided to ~$6.7B, up 16% YoY, above Q2's $6.6B"
+    },
+    {
+      "line_item": "margins",
+      "direction": "lowered",
+      "detail": "Q3 consolidated gross margin expected down ~130 bps sequentially due to higher XPU mix; adjusted EBITDA guided at least 66%"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "Non-GAAP tax rate for Q3 and FY2025 remains at 14%"
+    }
+  ],
+  "themes": [
+    "ai",
+    "data_center",
+    "cloud",
+    "product_launch",
+    "customer_wins",
+    "margin_expansion",
+    "buybacks",
+    "enterprise_demand"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Export control / regulatory risk on AI semiconductors \u2014 Hock did not proactively address this in prepared remarks and admitted significant uncertainty when pressed",
+    "NVLink Fusion / UALink competitive ecosystem threat to Broadcom's scale-up Ethernet networking position",
+    "Whether the 4 XPU prospects contribute meaningfully to FY2026 growth \u2014 management declined to comment on prospects in prepared remarks"
+  ],
+  "_ticker": "AVGO",
+  "_quarter": "Q2-2025",
+  "_call_date": "2025-06-05",
+  "overall_sentiment": 0.78,
+  "sentiment_bucket": "very_bullish"
+}

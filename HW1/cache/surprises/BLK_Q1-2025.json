@@ -1,0 +1,38 @@
+{
+  "line_items": [
+    {
+      "line_item": "Share Repurchases ($1.5B target for 2025)",
+      "result": "beat",
+      "reasoning": "BLK repurchased $375M in Q1 alone and committed to at least $375M/quarter for the remainder of 2025, implying $1.5B+ for the full year, tracking at or above the $1.5B target with explicit quarterly commitment exceeding prior guidance specificity."
+    },
+    {
+      "line_item": "Revenue (Private Markets & Technology >20% of total; Private Markets ~$600B AUM / $3B+ revenues)",
+      "result": "beat",
+      "reasoning": "Q1 total revenue of $5.3B was up 12% YoY, Technology ACV grew 30% YoY (14% organically) with Preqin already contributing ~$20M in Q1, tracking ahead of the pro forma revenue mix targets, though HPS is still pending close."
+    },
+    {
+      "line_item": "Organic Base Fee Growth (5%+ through-the-cycle target)",
+      "result": "beat",
+      "reasoning": "Q1 2025 organic base fee growth came in at 6%, above the 5% through-the-cycle target and described as the best start of year since 2021."
+    },
+    {
+      "line_item": "Aladdin ACV Growth (low-to-mid teens long-term target)",
+      "result": "beat",
+      "reasoning": "Technology ACV grew 30% YoY overall and 14% organically in Q1, with the 14% organic figure at the high end of the low-to-mid teens guidance range and total ACV well above it."
+    },
+    {
+      "line_item": "Core G&A Expense (mid- to high single digit growth; ~2,300 headcount additions)",
+      "result": "inline",
+      "reasoning": "No specific G&A dollar figure was broken out in Q1 results to confirm or deny the mid-to-high single digit growth target, and operating margin expanded 100 bps YoY to 43.2%, suggesting expense discipline is broadly on track."
+    },
+    {
+      "line_item": "2025 Tax Rate (~25%)",
+      "result": "inline",
+      "reasoning": "No explicit Q1 effective tax rate was cited in the reported results, and with guidance reaffirmed this quarter there is no indication of a material deviation from the ~25% full-year estimate."
+    }
+  ],
+  "overall_surprise": "beat",
+  "_ticker": "BLK",
+  "_quarter": "Q1-2025",
+  "_prior_quarter": "Q4-2024"
+}

@@ -1,0 +1,33 @@
+{
+  "line_items": [
+    {
+      "line_item": "revenue (NII)",
+      "result": "inline",
+      "reasoning": "Q1-2024 NII declined ~8% YoY, and WFC reaffirmed its full-year 2024 NII guidance of 7%-9% lower than 2023, meaning the Q1 result is tracking squarely within the guided range."
+    },
+    {
+      "line_item": "margins (NIM/NII compression)",
+      "result": "inline",
+      "reasoning": "NIM continued to compress as guided, driven by the exact headwinds WFC flagged \u2014 deposit mix shift into higher-yielding alternatives and rising funding costs \u2014 with no material deviation from expectations."
+    },
+    {
+      "line_item": "noninterest expense",
+      "result": "inline",
+      "reasoning": "While operating losses were elevated in Q1 due to customer remediation accruals, WFC reaffirmed its full-year ~$52.6B noninterest expense guidance, suggesting Q1 results are still consistent with the annual target."
+    },
+    {
+      "line_item": "share repurchases",
+      "result": "beat",
+      "reasoning": "WFC repurchased $6.1B of common stock in Q1 alone and explicitly reaffirmed it will exceed 2023's $12B total, putting it well ahead of pace relative to the prior guidance threshold."
+    },
+    {
+      "line_item": "business-related operating losses",
+      "result": "miss",
+      "reasoning": "Operating losses were elevated in Q1 due to customer remediation accruals for historical matters, with outstanding litigation and regulatory risks flagged for the remainder of the year, suggesting Q1 ran above the guided ~$1.3B annualized run rate."
+    }
+  ],
+  "overall_surprise": "mixed",
+  "_ticker": "WFC",
+  "_quarter": "Q1-2024",
+  "_prior_quarter": "Q4-2023"
+}

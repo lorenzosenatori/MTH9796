@@ -1,0 +1,33 @@
+{
+  "line_items": [
+    {
+      "line_item": "revenue",
+      "result": "beat",
+      "reasoning": "Q1-2025 revenues came in at $21.6B, putting the company on a ~$86B+ annualized pace, above the $83.5B\u2013$84.5B full-year 2025 guidance range, driven by strong Markets (+12%), Wealth (+24%), and Banking (+12%) performance."
+    },
+    {
+      "line_item": "other",
+      "result": "inline",
+      "reasoning": "Q1-2025 ROTCE of 9.1% is tracking below the lowered 2026 target of 10%\u201311%, but this is a single quarter early in the year and management reaffirmed guidance, so no clear deviation from the multi-year target can be declared yet."
+    },
+    {
+      "line_item": "margins",
+      "result": "beat",
+      "reasoning": "Positive operating leverage was delivered firm-wide and across all 5 business lines in Q1, with M&A expenses declining 5% YoY, directly exceeding the guidance of positive operating leverage every year and tracking toward the sub-60% efficiency ratio target."
+    },
+    {
+      "line_item": "eps",
+      "result": "beat",
+      "reasoning": "NII ex-Markets appears to be tracking ahead of the guided 'up modestly (~2%\u20133%)' for 2025, supported by strong loan/deposit volume growth and portfolio repricing, though card credit losses and Retail Services revenue declines represent partial offsets as guided."
+    },
+    {
+      "line_item": "capex",
+      "result": "inline",
+      "reasoning": "Expenses are expected to tick up in Q2 per management commentary, and the Banamex transformation continues to require investment, but full-year expense guidance of slightly below $53.8B was reaffirmed with no indication of a material overshoot in Q1."
+    }
+  ],
+  "overall_surprise": "beat",
+  "_ticker": "C",
+  "_quarter": "Q1-2025",
+  "_prior_quarter": "Q4-2024"
+}

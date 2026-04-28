@@ -1,0 +1,33 @@
+{
+  "line_items": [
+    {
+      "line_item": "revenue",
+      "result": "inline",
+      "reasoning": "Q1 revenue declined exactly 10% reported, precisely matching the ~10% decline guided for Q1, though full-year guidance was subsequently withdrawn due to the CEO transition."
+    },
+    {
+      "line_item": "margins",
+      "result": "beat",
+      "reasoning": "Q1 gross margins expanded 120 bps to 45.4%, significantly exceeding the guided 10-30 bps of full-year expansion and the expectation that Q1 would be 'in line' with that modest full-year range."
+    },
+    {
+      "line_item": "eps",
+      "result": "inline",
+      "reasoning": "No explicit EPS guidance was provided for Q1, and there is insufficient detail in the reported results to determine a clear beat or miss against the vague full-year tax rate and SG&A directional guidance."
+    },
+    {
+      "line_item": "segment",
+      "result": "inline",
+      "reasoning": "H1 revenue was guided down high single digits; Q1 came in at -10% reported / -9% currency-neutral, which is consistent with the high-single-digit decline range guided for the first half, though NIKE Digital's -20% and Direct's -12% declines were noted as worse than anticipated internally."
+    },
+    {
+      "line_item": "other",
+      "result": "miss",
+      "reasoning": "While net interest income guidance was not explicitly updated for Q1, the broader 'other' category is a miss given that full-year guidance was entirely withdrawn, spring '25 order books came in slightly lighter than planned, and Q2 gross margins are now guided down ~150 bps with full-year margins expected to decline \u2014 a sharp reversal from the reaffirmed expansion outlook."
+    }
+  ],
+  "overall_surprise": "mixed",
+  "_ticker": "NKE",
+  "_quarter": "Q1-2025",
+  "_prior_quarter": "Q4-2024"
+}

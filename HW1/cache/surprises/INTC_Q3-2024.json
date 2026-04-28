@@ -1,0 +1,33 @@
+{
+  "line_items": [
+    {
+      "line_item": "revenue",
+      "result": "beat",
+      "reasoning": "Q3 revenue of $13.3B came in above the midpoint of $13.0B and in the upper half of the $12.5B\u2013$13.5B guided range, clearly exceeding the midpoint guidance."
+    },
+    {
+      "line_item": "margins",
+      "result": "miss",
+      "reasoning": "Non-GAAP gross margin collapsed to ~18% in Q3, catastrophically below the guided ~38%, driven by ~$3B in noncash impairment and accelerated depreciation charges that alone reduced gross margin by ~2,300 bps; even adjusting for those charges, Lunar Lake's in-package memory architecture is adding further structural margin pressure into 2025."
+    },
+    {
+      "line_item": "eps",
+      "result": "miss",
+      "reasoning": "The ~$3B in noncash impairment/depreciation charges reduced EPS by ~$0.61/share, implying reported non-GAAP EPS came in well below the guided -$0.03, representing a significant miss versus guidance."
+    },
+    {
+      "line_item": "capex",
+      "result": "inline",
+      "reasoning": "No specific Q3 CapEx figures were reported in the current quarter results that would indicate a clear deviation from the guided 2024 gross CapEx of $25B\u2013$27B or 2025 targets of $20B\u2013$23B, so this is treated as inline."
+    },
+    {
+      "line_item": "other",
+      "result": "miss",
+      "reasoning": "While OpEx reduction efforts appear on track, the $15.6B in GAAP charges (including ~$10B deferred tax asset impairment, $2.6B Mobileye goodwill impairment, and $2.2B severance), combined with adjusted free cash flow expected to remain negative for full-year 2024, represent significant negative outcomes beyond what was guided; additionally, Gaudi 3 revenue will fall well short of the $500M 2024 target."
+    }
+  ],
+  "overall_surprise": "mixed",
+  "_ticker": "INTC",
+  "_quarter": "Q3-2024",
+  "_prior_quarter": "Q2-2024"
+}

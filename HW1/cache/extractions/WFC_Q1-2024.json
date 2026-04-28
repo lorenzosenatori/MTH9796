@@ -1,0 +1,93 @@
+{
+  "prepared_sentiment": 0.25,
+  "qa_sentiment": 0.15,
+  "management_confidence": 0.62,
+  "qa_defensiveness": 0.3,
+  "wins": [
+    {
+      "text": "Noninterest income grew 17% YoY with strong growth across investment advisory fees, brokerage commissions, deposit and lending-related fees, trading, and Investment Banking fees, more than offsetting NII decline",
+      "category": "revenue"
+    },
+    {
+      "text": "Repurchased $6.1 billion of common stock in Q1 2024, with average common shares outstanding down 6% YoY; committed to repurchase more than 2023's total",
+      "category": "buybacks"
+    },
+    {
+      "text": "Credit card spend up ~$5 billion or 14% YoY; new account growth up 12% YoY; launched Autograph Journey travel card",
+      "category": "product"
+    },
+    {
+      "text": "CRE office nonperforming assets declined 2% from Q4, with no further deterioration in the office portfolio and CIB CRE office allowance coverage ratio stable at 11%",
+      "category": "other"
+    },
+    {
+      "text": "Mobile banking surpassed 30 million active customers (up 6% YoY) and 2 billion logins in a quarter for the first time (up 18% YoY)",
+      "category": "growth"
+    }
+  ],
+  "risks": [
+    {
+      "text": "Net interest income declined $1.1 billion or 8% YoY due to higher funding costs and lower loan balances; full-year 2024 NII guided 7%-9% lower than 2023",
+      "category": "margins"
+    },
+    {
+      "text": "Average commercial and consumer loans both declined QoQ and YoY; weak loan demand driven by higher rates, client caution, and credit tightening actions across auto, mortgage, and commercial portfolios",
+      "category": "demand"
+    },
+    {
+      "text": "Noninterest-bearing deposits declined to 26% of total deposits with ongoing mix shift into higher-yielding alternatives; deposit costs rose 16 bps QoQ to 174 bps",
+      "category": "margins"
+    },
+    {
+      "text": "Operating losses elevated in Q1 due to customer remediation accruals for historical matters; outstanding litigation and regulatory matters could impact operating losses for the remainder of the year",
+      "category": "regulatory"
+    },
+    {
+      "text": "Asset cap remains in place, constraining balance sheet growth, trading financing capacity, and corporate deposit gathering; described as a reputational overhang with no timeline given for removal",
+      "category": "regulatory"
+    }
+  ],
+  "guidance": "reaffirmed",
+  "guidance_items": [
+    {
+      "line_item": "revenue",
+      "direction": "reaffirmed",
+      "detail": "Full-year 2024 NII expected to be approximately 7%-9% lower than 2023, unchanged from prior guidance; NII trough expected towards end of 2024"
+    },
+    {
+      "line_item": "eps",
+      "direction": "reaffirmed",
+      "detail": "No change to overall earnings outlook; Q1 EPS of $1.20 included $0.06 drag from FDIC special assessment"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "Full-year 2024 noninterest expense guidance unchanged at approximately $52.6 billion (excluding FDIC special assessment); operating losses still expected at ~$1.3 billion for the year despite elevated Q1 level"
+    },
+    {
+      "line_item": "capex",
+      "direction": "reaffirmed",
+      "detail": "No step-up in expense base anticipated for CIB investment; investments in credit card, IB, and trading funded within existing budget"
+    }
+  ],
+  "themes": [
+    "buybacks",
+    "margin_pressure",
+    "regulatory",
+    "cost_cutting",
+    "product_launch",
+    "enterprise_demand",
+    "macro_headwinds",
+    "customer_wins"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Potential timeline and earnings uplift from asset cap removal \u2014 management discussed proactive balance sheet constraints but did not address this in prepared remarks",
+    "Long-term normalization level for noninterest-bearing deposits and when deposit betas will peak \u2014 not addressed proactively",
+    "Financial adviser headcount trajectory in Wealth & Investment Management \u2014 metric no longer disclosed and not mentioned in prepared remarks"
+  ],
+  "_ticker": "WFC",
+  "_quarter": "Q1-2024",
+  "_call_date": "2024-04-12",
+  "overall_sentiment": 0.21,
+  "sentiment_bucket": "slightly_bullish"
+}

@@ -1,0 +1,33 @@
+{
+  "line_items": [
+    {
+      "line_item": "revenue",
+      "result": "beat",
+      "reasoning": "Q2 consolidated revenue of $12.5B (+43% YoY) puts FY2024 on a strong pace, and full-year AI revenue guidance was raised to >$11B (vs. prior >$10B), indicating the company is tracking ahead of its $50B FY2024 consolidated revenue target."
+    },
+    {
+      "line_item": "margins",
+      "result": "inline",
+      "reasoning": "Infrastructure software operating margins came in at 64% ex-transition costs and VMware margins are on track to converge to classic Broadcom software levels, broadly consistent with the 60% adjusted EBITDA margin guidance, though semiconductor gross margin compression from AI accelerator mix is a modest headwind."
+    },
+    {
+      "line_item": "segment (AI & networking)",
+      "result": "beat",
+      "reasoning": "AI revenue surged 280% YoY to $3.1B in Q2 alone, prompting a raise of the full-year AI outlook to >$11B (vs. prior >$10B), and networking full-year growth guidance was raised to 40% YoY (vs. prior >35%), both exceeding the already-raised Q1 targets."
+    },
+    {
+      "line_item": "segment (software & wireless & semi overall)",
+      "result": "inline",
+      "reasoning": "VMware/software revenue is tracking toward a $4B/quarter run rate consistent with the $20B FY2024 software target, and no material deviation from the wireless flat or mid-to-high single digit semi overall guidance was flagged."
+    },
+    {
+      "line_item": "segment (broadband & server storage)",
+      "result": "miss",
+      "reasoning": "Broadband declined 39% YoY in Q2 and full-year guidance was revised to down high-30s% (worse than the already-lowered prior guidance of down ~30%), while server storage is now guided down ~20% YoY \u2014 though that is actually a slight improvement vs. the prior down mid-20s% guide, making broadband the clear miss here."
+    }
+  ],
+  "overall_surprise": "beat",
+  "_ticker": "AVGO",
+  "_quarter": "Q2-2024",
+  "_prior_quarter": "Q1-2024"
+}

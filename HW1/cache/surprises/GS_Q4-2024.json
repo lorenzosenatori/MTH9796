@@ -1,0 +1,33 @@
+{
+  "line_items": [
+    {
+      "line_item": "revenue",
+      "result": "beat",
+      "reasoning": "AWM management and other fees surpassed the $10B annual target (up 15% YoY to a record $2.8B in Q4), and full-year alternatives fundraising exceeded $60B, clearing the raised guidance threshold."
+    },
+    {
+      "line_item": "margins",
+      "result": "inline",
+      "reasoning": "AWM pretax margin performance was not explicitly broken out vs. the mid-20s target in reported results, and no commentary indicated a clear overshoot or undershoot, so it is treated as roughly on track."
+    },
+    {
+      "line_item": "other (effective tax rate ~22%)",
+      "result": "inline",
+      "reasoning": "No commentary in the reported results contradicts or flags a deviation from the guided ~22% full-year effective tax rate, suggesting it came in as expected."
+    },
+    {
+      "line_item": "other (GM card platform transition / consumer losses)",
+      "result": "miss",
+      "reasoning": "The Apple/GM card platform has not closed as guided for Q3 2025 and remains unprofitable, with ongoing credit card charge-offs driving a $351M provision in Q4 and the contract now cited as running to 2030 with an uncertain exit \u2014 worse than the guided ~$50\u201360M quarterly run-rate loss framing implied."
+    },
+    {
+      "line_item": "eps (incentive fee target of $1B)",
+      "result": "miss",
+      "reasoning": "Full-year incentive fees came in at only $393 million, well below the reiterated $1B annual medium-term target, constrained by subdued transaction volumes limiting deployment of raised alternatives capital."
+    }
+  ],
+  "overall_surprise": "mixed",
+  "_ticker": "GS",
+  "_quarter": "Q4-2024",
+  "_prior_quarter": "Q3-2024"
+}

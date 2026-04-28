@@ -1,0 +1,98 @@
+{
+  "prepared_sentiment": 0.78,
+  "qa_sentiment": 0.65,
+  "management_confidence": 0.82,
+  "qa_defensiveness": 0.12,
+  "wins": [
+    {
+      "text": "Innovative Medicine delivered first-ever $15B+ quarterly sales at $15.2B, growing 3.8% operationally despite a ~1,170 bps STELARA headwind; ex-STELARA growth was 15.5%",
+      "category": "revenue"
+    },
+    {
+      "text": "Oncology operational sales grew 22.3% in Q2, led by DARZALEX (+21.5%), CARVYKTI (+100%+, $439M), ERLEADA (+21%), and RYBREVANT+LAZCLUZE (+100%+, $179M)",
+      "category": "growth"
+    },
+    {
+      "text": "Full-year operational sales guidance raised by ~$900M to a midpoint of $92.9B (4.8% growth), and adjusted EPS guidance raised $0.25 to $10.85 midpoint",
+      "category": "other"
+    },
+    {
+      "text": "MedTech delivered 6.1% operational growth in Q2, a 4.4 percentage point sequential improvement vs. Q1, with Cardiovascular growing 22%+ driven by Abiomed (+16.9%), Shockwave (strong double-digit), and EP (+9.8%)",
+      "category": "revenue"
+    },
+    {
+      "text": "SPRAVATO grew 53% and TREMFYA grew 30.1% in Q2; TREMFYA expected to reach $10B+ peak annual sales driven by IBD expansion",
+      "category": "growth"
+    }
+  ],
+  "risks": [
+    {
+      "text": "STELARA declined 43.2% in Q2, creating an ~1,170 bps headwind to Innovative Medicine and ~710 bps headwind to total company growth; biosimilar erosion expected to accelerate through year-end, modeled similar to HUMIRA year 2",
+      "category": "demand"
+    },
+    {
+      "text": "Adjusted diluted EPS declined 1.8% YoY to $2.77, driven by interest expense from Intra-Cellular acquisition debt and STELARA gross profit erosion; Innovative Medicine margin fell from 44.6% to 42.7% and MedTech margin fell from 25.7% to 22.2%",
+      "category": "margins"
+    },
+    {
+      "text": "Tariff impact on MedTech business estimated at ~$200M for 2025 (down from prior $400M estimate); future-year tariff impact on pharma remains uncertain, with potential pharma-specific tariffs announced by the administration",
+      "category": "macro"
+    },
+    {
+      "text": "Orthopedics declined 1.6% due to competitive pressures, transformation program execution, and China VBP headwinds; Surgery also facing competitive pressures in energy and China VBP",
+      "category": "competition"
+    },
+    {
+      "text": "Net debt position of $32B ($51B debt vs. $19B cash) following $14.5B Intra-Cellular acquisition; effective tax rate guided higher to 17%-17.5% for 2025, with GILTI rate increase adding ~1% to global effective tax rate in 2026",
+      "category": "other"
+    }
+  ],
+  "guidance": "raised",
+  "guidance_items": [
+    {
+      "line_item": "revenue",
+      "direction": "raised",
+      "detail": "Full-year operational sales growth raised to 4.5%-5.0% (midpoint $92.9B, +4.8%); reported sales growth 5.1%-5.6% (midpoint $93.4B) including ~$1.1B favorable FX vs. prior guidance"
+    },
+    {
+      "line_item": "eps",
+      "direction": "raised",
+      "detail": "Adjusted diluted EPS raised $0.25 to $10.80-$10.90 range (midpoint $10.85, +8.7%), including $0.08 of operational improvement and favorable FX"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "Full-year operating margin improvement of ~300 bps reiterated despite year-to-date softness; expected to materialize in H2 via efficiency programs and absence of nonrecurring H2 2024 IP R&D charges"
+    },
+    {
+      "line_item": "other",
+      "direction": "raised",
+      "detail": "Net interest expense now projected at $0-$100M, improved from prior guidance, driven by higher interest earned on cash balances"
+    },
+    {
+      "line_item": "other",
+      "direction": "lowered",
+      "detail": "Tariff impact for 2025 revised down to ~$200M (from ~$400M prior), exclusively in MedTech; differential to be reinvested in pipeline and launches"
+    }
+  ],
+  "themes": [
+    "product_launch",
+    "m_and_a",
+    "ai",
+    "margin_pressure",
+    "tariffs",
+    "customer_wins",
+    "guidance_beat",
+    "enterprise_demand"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Pharma-specific tariff risk and J&J's U.S. manufacturing capacity/flexibility to absorb potential 2026 tariff impact",
+    "OTTAVA robotic surgery submission timeline clarification (analysts perceived a pushout to 2026 that management disputed)",
+    "TAR-200 launch readiness details \u2014 sales force training, supply chain, patient access programs, and penetration assumptions"
+  ],
+  "_ticker": "JNJ",
+  "_quarter": "Q2-2025",
+  "_call_date": "2025-07-16",
+  "overall_sentiment": 0.728,
+  "sentiment_bucket": "very_bullish"
+}

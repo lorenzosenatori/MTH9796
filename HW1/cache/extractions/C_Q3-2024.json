@@ -1,0 +1,98 @@
+{
+  "prepared_sentiment": 0.42,
+  "qa_sentiment": 0.1,
+  "management_confidence": 0.65,
+  "qa_defensiveness": 0.45,
+  "wins": [
+    {
+      "text": "Services delivered a record quarter with revenues up 8% YoY; Security Services up 24% on new mandates; TTS up 4%; Services RoTCE of 26.4% for the quarter",
+      "category": "revenue"
+    },
+    {
+      "text": "Investment banking fees up 44% YoY driven by debt capital markets, advisory, and ECM; Banking revenues up 16% overall with positive operating leverage for the third consecutive quarter",
+      "category": "revenue"
+    },
+    {
+      "text": "Equities revenues up 32% driven by prime balances up ~22%, derivatives, and cash volume; Markets delivered net income of ~$1.1B",
+      "category": "revenue"
+    },
+    {
+      "text": "Wealth revenues up 9% with client investment assets growing 24% and end-of-period client balances up 14%; Wealth RoTCE improved to 8.5% from near-zero earlier in the year",
+      "category": "growth"
+    },
+    {
+      "text": "Expenses down 2% YoY to $13.3B driven by organizational simplification and stranded cost reductions; positive operating leverage achieved across all 5 businesses",
+      "category": "cost_savings"
+    }
+  ],
+  "risks": [
+    {
+      "text": "Retail Services NCL rate expected to come in at the high end of the 5.75%-6.25% range for full year and likely higher in Q4; reserve-to-loan ratio elevated at ~11.7% for Retail Services portfolio",
+      "category": "margins"
+    },
+    {
+      "text": "Amended consent order remains in place; data quality and regulatory reporting deficiencies cited as areas of delayed progress; Senator Warren publicly asked OCC to impose growth restrictions on Citi",
+      "category": "regulatory"
+    },
+    {
+      "text": "NII ex-markets guided roughly flat sequentially in Q4 and slightly down for full year; headwinds from falling short-end rates on floating-rate assets and legacy franchise wind-downs",
+      "category": "macro"
+    },
+    {
+      "text": "Banamex IPO timeline uncertain; Mexican judicial reform and deteriorating macro backdrop have pressured Mexican asset prices, with the largest Mexican bank trading at ~7x earnings",
+      "category": "execution"
+    },
+    {
+      "text": "Full-year expenses expected at the higher end of $53.5B-$53.8B guidance range; year-to-date run rate implies ~$54B, creating a gap to the 2026 target of $51B-$53B",
+      "category": "execution"
+    }
+  ],
+  "guidance": "reaffirmed",
+  "guidance_items": [
+    {
+      "line_item": "revenue",
+      "direction": "reaffirmed",
+      "detail": "Full-year 2024 revenue guidance of $80B-$81B reaffirmed; YTD at $61.6B, Q4 needed to close the gap is described as achievable"
+    },
+    {
+      "line_item": "other",
+      "direction": "raised",
+      "detail": "NII ex-markets for full year now expected to be 'slightly down' vs prior guidance of 'modestly down'; Q4 NII ex-markets expected roughly flat sequentially \u2014 a modest improvement vs prior expectations"
+    },
+    {
+      "line_item": "margins",
+      "direction": "reaffirmed",
+      "detail": "Full-year expenses expected at the higher end of $53.5B-$53.8B range, excluding FDIC special assessment and civil money penalty; 2026 target of $51B-$53B reaffirmed"
+    },
+    {
+      "line_item": "segment",
+      "direction": "reaffirmed",
+      "detail": "Branded Cards NCL range of 3.5%-4% for full year reaffirmed; Retail Services NCL expected at high end of 5.75%-6.25% range"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "Medium-term RoTCE target of 11%-12% and revenue CAGR of 4%-5% reaffirmed; USPB targeted for high-teens RoTCE over medium term"
+    }
+  ],
+  "themes": [
+    "restructuring",
+    "regulatory",
+    "cost_cutting",
+    "margin_expansion",
+    "buybacks",
+    "m_and_a",
+    "enterprise_demand",
+    "macro_headwinds"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Potential asset cap or additional regulatory actions beyond the amended consent order (Senator Warren's OCC letter)",
+    "Banamex IPO timeline risk given Mexican judicial reform and deteriorating Mexican asset prices",
+    "DTA deductions as a headwind to capital accretion and path to utilization"
+  ],
+  "_ticker": "C",
+  "_quarter": "Q3-2024",
+  "_call_date": "2024-10-15",
+  "overall_sentiment": 0.292,
+  "sentiment_bucket": "slightly_bullish"
+}

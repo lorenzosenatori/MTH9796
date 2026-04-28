@@ -1,0 +1,103 @@
+{
+  "prepared_sentiment": 0.82,
+  "qa_sentiment": 0.65,
+  "management_confidence": 0.88,
+  "qa_defensiveness": 0.1,
+  "wins": [
+    {
+      "text": "Record full-year total net inflows of $641 billion, including $281 billion in Q4 alone \u2014 two consecutive record flow quarters in H2 2024",
+      "category": "growth"
+    },
+    {
+      "text": "Full-year revenue of $20.4 billion, up 14% YoY; operating income of $8.1 billion, up 23%; EPS of $43.61, up 15%",
+      "category": "revenue"
+    },
+    {
+      "text": "Full-year as-adjusted operating margin of 44.5%, up 280 bps YoY; Q4 margin of 45.5%, up 390 bps YoY",
+      "category": "margins"
+    },
+    {
+      "text": "Industry-leading ETF net inflows of $390 billion in 2024, including $41 billion into digital asset ETPs launched in 2024; Bitcoin ETP grew to over $50 billion AUM in under a year \u2014 largest ETF launch in history",
+      "category": "product"
+    },
+    {
+      "text": "Aladdin ACV grew 12% YoY (13% on constant currency basis); full-year technology services revenue of $1.6 billion, up 8%; signed some of the largest clients ever in 2024",
+      "category": "revenue"
+    }
+  ],
+  "risks": [
+    {
+      "text": "HPS acquisition expected to close mid-2025, pending regulatory approvals, creating integration execution risk and near-term earnings dilution from ~2,300 new employees and higher G&A",
+      "category": "execution"
+    },
+    {
+      "text": "Higher share count (6.9 million shares issued at GIP closing) and lower nonoperating income partially offset Q4 EPS growth; co-investment valuation losses of $7 million in nonoperating results",
+      "category": "margins"
+    },
+    {
+      "text": "Steepening yield curve and 'higher for longer' rate environment creates uncertainty around timing of $10 trillion money market fund rotation into longer-duration fixed income and other asset classes",
+      "category": "macro"
+    },
+    {
+      "text": "Regulatory and safe harbor reform required before private markets can meaningfully enter U.S. DC/401(k) retirement channel \u2014 management explicitly flagged this as a prerequisite",
+      "category": "regulatory"
+    },
+    {
+      "text": "Core G&A expense expected to grow mid- to high single digits in 2025 (excluding HPS), driven by GIP/Preqin consolidation and continued technology investment, pressuring near-term margins",
+      "category": "margins"
+    }
+  ],
+  "guidance": "raised",
+  "guidance_items": [
+    {
+      "line_item": "other",
+      "direction": "raised",
+      "detail": "Targeting $1.5 billion in share repurchases in 2025, up from $1.6 billion full-year 2024 but with explicit forward commitment; Board approval expected for Q1 2025 dividend increase"
+    },
+    {
+      "line_item": "revenue",
+      "direction": "raised",
+      "detail": "Pro forma for HPS and Preqin, private markets and technology expected to exceed 20% of total revenue; private markets platform expected to reach $600 billion AUM and $3+ billion in revenues (~15% of 2024 revenues)"
+    },
+    {
+      "line_item": "other",
+      "direction": "raised",
+      "detail": "Organic base fee growth target reaffirmed at 5% or better through-the-cycle; Q4 2024 exit rate of 7% annualized provides strong momentum into 2025; GIP, HPS, Preqin expected to lift above 5% target"
+    },
+    {
+      "line_item": "other",
+      "direction": "raised",
+      "detail": "Aladdin ACV growth target reaffirmed at low-to-mid teens over the long term; Q4 2024 ACV growth of 12% YoY"
+    },
+    {
+      "line_item": "other",
+      "direction": "lowered",
+      "detail": "2025 core G&A expense (excluding HPS) expected to grow mid- to high single digits, primarily from GIP/Preqin consolidation and technology investment; headcount to increase by ~2,300 with Preqin and HPS additions"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "2025 tax rate estimated at approximately 25% (vs. ~21% Q4 2024 which benefited from discrete items)"
+    }
+  ],
+  "themes": [
+    "ai",
+    "m_and_a",
+    "margin_expansion",
+    "product_launch",
+    "customer_wins",
+    "enterprise_demand",
+    "buybacks",
+    "guidance_beat"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Specific outlook for fixed income flows and investor positioning entering 2025 given yield curve steepening",
+    "Regulatory safe harbor reform requirements as a prerequisite for private markets entering 401(k)/DC retirement channel",
+    "Margin trajectory and expense puts-and-takes for 2025 including HPS integration costs"
+  ],
+  "_ticker": "BLK",
+  "_quarter": "Q4-2024",
+  "_call_date": "2025-01-15",
+  "overall_sentiment": 0.752,
+  "sentiment_bucket": "very_bullish"
+}

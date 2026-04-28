@@ -1,0 +1,103 @@
+{
+  "prepared_sentiment": 0.75,
+  "qa_sentiment": 0.65,
+  "management_confidence": 0.82,
+  "qa_defensiveness": 0.15,
+  "wins": [
+    {
+      "text": "Data Center segment revenue grew 38% YoY and 43% sequentially to a record $2.3B in Q4, with both server CPU and Data Center GPU setting quarterly and annual revenue records.",
+      "category": "revenue"
+    },
+    {
+      "text": "MI300X data center GPU revenue exceeded the $400M Q4 expectation, driven by faster-than-expected customer qualification and ramp; full-year 2024 GPU revenue guidance raised from >$2B to >$3.5B.",
+      "category": "growth"
+    },
+    {
+      "text": "Client segment revenue rose 62% YoY to $1.5B, swinging from an operating loss of $152M a year ago to operating income of $55M.",
+      "category": "margins"
+    },
+    {
+      "text": "Embedded segment design wins exceeded $10B in 2023, up more than 25% vs. 2022, underpinning long-term growth confidence despite near-term inventory headwinds.",
+      "category": "customer"
+    },
+    {
+      "text": "Q4 non-GAAP EPS of $0.77 increased 12% YoY; full-year share repurchases of $985M with $5.6B remaining authorization.",
+      "category": "buybacks"
+    }
+  ],
+  "risks": [
+    {
+      "text": "Gaming segment revenue declined 17% YoY and 9% sequentially to $1.4B; management now expects annual Gaming revenue to decline by a significant double-digit percentage YoY in 2024 as the console cycle enters year 5 and customer inventory remains elevated. Q1 sequential decline expected to exceed 30%.",
+      "category": "demand"
+    },
+    {
+      "text": "Embedded segment revenue fell 24% YoY and 15% sequentially to $1.1B; customers continue to work down inventory levels with demand expected to remain soft through H1 2024 and Q2 expected to be sequentially flattish vs. Q1.",
+      "category": "inventory"
+    },
+    {
+      "text": "Traditional (non-AI) server CPU market described as 'still mixed, especially into the first half of the year' with ongoing cloud optimization and cautious enterprise spending.",
+      "category": "macro"
+    },
+    {
+      "text": "MI300 supply chain described as tight in H1 2024, with more capacity coming online in H2; execution risk remains on yield, testing time, and gross margin improvement for the GPU ramp.",
+      "category": "supply_chain"
+    },
+    {
+      "text": "Data Center GPU gross margins are currently below corporate average and accretive improvement is still in progress; Embedded segment margin headwind (44% segment margin) persists through H1 as high-margin Embedded revenue declines.",
+      "category": "margins"
+    }
+  ],
+  "guidance": "mixed",
+  "guidance_items": [
+    {
+      "line_item": "revenue",
+      "direction": "raised",
+      "detail": "Q1 2024 revenue guided to ~$5.4B +/- $300M; Data Center GPU 2024 revenue outlook raised from >$2B to >$3.5B, with sequential growth expected in Q1."
+    },
+    {
+      "line_item": "margins",
+      "direction": "raised",
+      "detail": "Q1 non-GAAP gross margin guided to ~52%, up ~120 bps from Q4's 51%; full-year 2024 gross margin expected to expand vs. 2023."
+    },
+    {
+      "line_item": "segment",
+      "direction": "lowered",
+      "detail": "Gaming segment Q1 sequential decline expected to exceed 30%; full-year Gaming revenue expected to decline by significant double-digit percentage YoY."
+    },
+    {
+      "line_item": "segment",
+      "direction": "lowered",
+      "detail": "Embedded segment Q1 expected to decline low double-digit percentage sequentially; Q2 expected to be roughly flat vs. Q1; recovery expected in H2 2024."
+    },
+    {
+      "line_item": "eps",
+      "direction": "raised",
+      "detail": "Management committed to EPS growth faster than top-line revenue growth in 2024, implying operating leverage expansion."
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "Non-GAAP operating expenses guided to ~$1.73B in Q1; non-GAAP effective tax rate of 13%; diluted share count ~1.63B shares."
+    }
+  ],
+  "themes": [
+    "ai",
+    "data_center",
+    "product_launch",
+    "customer_wins",
+    "inventory",
+    "margin_expansion",
+    "supply_chain",
+    "guidance_beat"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Customer concentration risk within MI300/Instinct GPU revenue base as ramp accelerates",
+    "Competitive response from Intel's chiplet/tile adoption and potential process technology catch-up to TSMC",
+    "Methodology and composition of the $400B 2027 AI accelerator TAM estimate (silicon-only vs. systems)"
+  ],
+  "_ticker": "AMD",
+  "_quarter": "Q4-2023",
+  "_call_date": "2024-01-30",
+  "overall_sentiment": 0.71,
+  "sentiment_bucket": "very_bullish"
+}

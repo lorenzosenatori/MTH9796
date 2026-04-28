@@ -1,0 +1,33 @@
+{
+  "line_items": [
+    {
+      "line_item": "revenue",
+      "result": "beat",
+      "reasoning": "Q3 revenues of $22.1B were a record, and with three quarters completed, the full-year run-rate is tracking well above the ~$84B higher-end guidance, driven by record results across every business and a 15% surge in Markets."
+    },
+    {
+      "line_item": "NII ex-Markets (other)",
+      "result": "inline",
+      "reasoning": "No explicit NII ex-Markets figure was called out as exceeding or missing the ~4% full-year growth target; results are treated as on-track given the strong USPB and Wealth performance without a specific callout of deviation."
+    },
+    {
+      "line_item": "margins (expenses)",
+      "result": "miss",
+      "reasoning": "Full-year expenses are now guided higher than the previously reaffirmed ~$53.4B due to FX translation and revenue-linked compensation, meaning the expense base came in above prior guidance."
+    },
+    {
+      "line_item": "credit quality (Branded Cards & Retail Services NCL rates)",
+      "result": "inline",
+      "reasoning": "No explicit NCL rate figures were reported as outside the guided ranges (Branded Cards 3.5%-4%; Retail Services 5.75%-6.25%), though the ACL build and corporate nonaccrual loan increase introduce some risk to the outlook."
+    },
+    {
+      "line_item": "capex (share buybacks)",
+      "result": "beat",
+      "reasoning": "$5B in share repurchases were completed in Q3, exceeding the 'at least $4B' guidance by $1B, with $6B+ returned to shareholders in total including dividends."
+    }
+  ],
+  "overall_surprise": "mixed",
+  "_ticker": "C",
+  "_quarter": "Q3-2025",
+  "_prior_quarter": "Q2-2025"
+}

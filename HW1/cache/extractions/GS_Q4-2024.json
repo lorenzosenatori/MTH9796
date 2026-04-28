@@ -1,0 +1,98 @@
+{
+  "prepared_sentiment": 0.72,
+  "qa_sentiment": 0.55,
+  "management_confidence": 0.8,
+  "qa_defensiveness": 0.2,
+  "wins": [
+    {
+      "text": "Full-year revenues grew 16% to $53.5 billion; EPS grew 77% to $40.54; ROE improved over 500 bps to 12.7%, demonstrating strong operating leverage",
+      "category": "revenue"
+    },
+    {
+      "text": "Q4 Investment Banking fees of $2.1 billion rose 24% YoY; net underwriting revenues rose 51% to $595 million; IB backlog rose sequentially and remains robust",
+      "category": "revenue"
+    },
+    {
+      "text": "Record full-year Equities net revenues of $13.4 billion; combined FICC and Equities financing revenues rose 17% to a record $9.1 billion",
+      "category": "revenue"
+    },
+    {
+      "text": "AWM management and other fees surpassed $10 billion for the year (exceeding 2024 target), up 15% YoY in Q4 to a record $2.8 billion; AUS reached record $3.1 trillion with 28th consecutive quarter of long-term fee-based net inflows",
+      "category": "growth"
+    },
+    {
+      "text": "Returned approximately $3 billion to shareholders in Q4 alone, including $2 billion in buybacks and $965 million in dividends; 2024 was a record year for capital return by Goldman Sachs",
+      "category": "buybacks"
+    }
+  ],
+  "risks": [
+    {
+      "text": "Platform Solutions (Apple Card partnership) was a 75\u2013100 bps drag on firm-wide ROE in 2024; contract runs to 2030 with uncertain exit timeline, and the business has not yet reached profitability",
+      "category": "execution"
+    },
+    {
+      "text": "Incentive fees of $393 million for full year remain well below the $1 billion annual target; deployment of $72 billion in raised alts capital is constrained by subdued transaction volumes",
+      "category": "margins"
+    },
+    {
+      "text": "Ongoing regulatory uncertainty across CCAR, Basel III endgame and G-SIB surcharge calibration; GS joined industry lawsuit against the Federal Reserve over stress-test transparency",
+      "category": "regulatory"
+    },
+    {
+      "text": "Provision for credit losses of $351 million in Q4, primarily driven by net charge-offs in the credit card portfolio; total loan portfolio at $196 billion, up YoY",
+      "category": "demand"
+    },
+    {
+      "text": "Broad macro and geopolitical risks cited by CEO: immigration, trade, tax and energy policy uncertainty under new administration; rising rates (10-year yield trajectory) flagged as potential dealmaking headwind",
+      "category": "macro"
+    }
+  ],
+  "guidance": "mixed",
+  "guidance_items": [
+    {
+      "line_item": "other",
+      "direction": "raised",
+      "detail": "2025 effective tax rate guided to approximately 20%, down from 22.4% in 2024"
+    },
+    {
+      "line_item": "segment",
+      "direction": "reaffirmed",
+      "detail": "AWM management and other fees expected to grow high single digits annually over the next several years"
+    },
+    {
+      "line_item": "segment",
+      "direction": "reaffirmed",
+      "detail": "Alternatives fundraising in 2025 expected to be consistent with recent years (~$70\u201372 billion range)"
+    },
+    {
+      "line_item": "other",
+      "direction": "raised",
+      "detail": "Platform Solutions targeted to reach pretax breakeven in 2025, reducing its ~75\u2013100 bps ROE drag"
+    },
+    {
+      "line_item": "eps",
+      "direction": "reaffirmed",
+      "detail": "Incentive fees expected to continue progressing toward $1 billion annual target in 2025, up from $393 million in 2024"
+    }
+  ],
+  "themes": [
+    "m_and_a",
+    "enterprise_demand",
+    "margin_expansion",
+    "buybacks",
+    "regulatory",
+    "cost_cutting",
+    "ai",
+    "guidance_beat"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Specific timeline and mechanics of exiting the Apple Card / Platform Solutions drag (management was notably guarded on specifics)",
+    "Pace of deployment of raised alternatives capital and the resulting time-to-incentive-fee conversion",
+    "Potential for strategic M&A in alts or private wealth to accelerate growth (management had not proactively addressed inorganic options)"
+  ],
+  "_ticker": "GS",
+  "_quarter": "Q4-2024",
+  "_call_date": "2025-01-15",
+  "overall_sentiment": 0.652,
+  "sentiment_bucket": "bullish"
+}

@@ -1,0 +1,132 @@
+ticker,quarter,call_date,company,n_prepared,n_qa,file_size_kb
+AMD,Q4-2023,2024-01-30,"Advanced Micro Devices, Inc.",1,20,53.4
+AMD,Q1-2024,2024-04-30,"Advanced Micro Devices, Inc.",1,25,52.1
+AMD,Q2-2024,2024-07-30,"Advanced Micro Devices, Inc.",1,16,47.5
+AMD,Q3-2024,2024-10-29,"Advanced Micro Devices, Inc.",1,22,55.3
+AMD,Q4-2024,2025-02-04,"Advanced Micro Devices, Inc.",1,16,50.9
+AMD,Q1-2025,2025-05-06,"Advanced Micro Devices, Inc.",1,20,54.6
+AMD,Q2-2025,2025-08-05,"Advanced Micro Devices, Inc.",1,18,53.8
+AMD,Q3-2025,2025-11-04,"Advanced Micro Devices, Inc.",1,21,49.2
+AMD,Q4-2025,2026-02-03,"Advanced Micro Devices, Inc.",1,19,49.1
+AVGO,Q1-2024,2024-03-07,Broadcom Inc.,1,19,81.0
+AVGO,Q2-2024,2024-06-12,Broadcom Inc.,1,17,41.4
+AVGO,Q3-2024,2024-09-05,Broadcom Inc.,1,20,40.7
+AVGO,Q4-2024,2024-12-12,Broadcom Inc.,1,16,38.1
+AVGO,Q1-2025,2025-03-06,Broadcom Inc.,1,15,39.0
+AVGO,Q2-2025,2025-06-05,Broadcom Inc.,1,24,37.6
+AVGO,Q3-2025,2025-09-04,Broadcom Inc.,1,19,41.5
+AVGO,Q4-2025,2025-12-11,Broadcom Inc.,1,13,38.9
+AVGO,Q1-2026,2026-03-04,Broadcom Inc.,1,15,41.9
+BLK,Q4-2023,2024-01-12,"BlackRock, Inc.",1,9,71.1
+BLK,Q1-2024,2024-04-12,"BlackRock, Inc.",1,9,55.3
+BLK,Q2-2024,2024-07-15,"BlackRock, Inc.",1,7,57.1
+BLK,Q3-2024,2024-10-11,"BlackRock, Inc.",1,11,55.5
+BLK,Q4-2024,2025-01-15,"BlackRock, Inc.",1,10,58.6
+BLK,Q1-2025,2025-04-11,"BlackRock, Inc.",1,7,54.5
+BLK,Q2-2025,2025-07-15,"BlackRock, Inc.",1,9,56.1
+BLK,Q3-2025,2025-10-14,"BlackRock, Inc.",1,10,56.3
+BLK,Q4-2025,2026-01-15,"BlackRock, Inc.",1,9,54.6
+BLK,Q1-2026,2026-04-14,"BlackRock, Inc.",1,8,52.9
+C,Q4-2023,2024-01-17,Citigroup Inc.,1,26,163.8
+C,Q1-2024,2024-04-12,Citigroup Inc.,1,21,77.4
+C,Q2-2024,2024-07-12,Citigroup Inc.,1,23,77.2
+C,Q3-2024,2024-10-15,Citigroup Inc.,1,26,77.0
+C,Q4-2024,2025-01-15,Citigroup Inc.,1,20,68.8
+C,Q1-2025,2025-04-15,Citigroup Inc.,1,27,69.9
+C,Q2-2025,2025-07-15,Citigroup Inc.,1,29,75.7
+C,Q3-2025,2025-10-14,Citigroup Inc.,1,22,71.7
+C,Q4-2025,2026-01-13,Citigroup Inc.,1,32,145.1
+FAST,Q4-2023,2024-01-18,Fastenal Company,1,11,55.1
+FAST,Q1-2024,2024-04-11,Fastenal Company,1,14,50.6
+FAST,Q2-2024,2024-07-12,Fastenal Company,1,10,50.7
+FAST,Q3-2024,2024-10-11,Fastenal Company,1,12,54.4
+FAST,Q4-2024,2025-01-17,Fastenal Company,1,11,53.1
+FAST,Q1-2025,2025-04-11,Fastenal Company,1,10,52.6
+FAST,Q2-2025,2025-07-14,Fastenal Company,1,12,50.5
+FAST,Q3-2025,2025-10-13,Fastenal Company,1,12,52.2
+FAST,Q4-2025,2026-01-20,Fastenal Company,1,15,99.3
+FAST,Q1-2026,2026-04-13,Fastenal Company,1,18,50.9
+FDX,Q3-2024,2024-03-21,FedEx Corporation,1,17,56.8
+FDX,Q4-2024,2024-06-25,FedEx Corporation,1,16,53.4
+FDX,Q1-2025,2024-09-19,FedEx Corporation,1,14,55.3
+FDX,Q2-2025,2024-12-19,FedEx Corporation,1,15,61.8
+FDX,Q3-2025,2025-03-20,FedEx Corporation,1,17,61.5
+FDX,Q4-2025,2025-06-24,FedEx Corporation,1,14,54.6
+FDX,Q1-2026,2025-09-18,FedEx Corporation,1,16,54.2
+FDX,Q2-2026,2025-12-18,FedEx Corporation,1,18,56.4
+FDX,Q3-2026,2026-03-19,FedEx Corporation,1,16,53.9
+GS,Q4-2023,2024-01-16,"The Goldman Sachs Group, Inc.",1,23,58.6
+GS,Q1-2024,2024-04-15,"The Goldman Sachs Group, Inc.",1,20,53.2
+GS,Q2-2024,2024-07-15,"The Goldman Sachs Group, Inc.",1,24,49.7
+GS,Q3-2024,2024-10-15,"The Goldman Sachs Group, Inc.",1,22,54.1
+GS,Q4-2024,2025-01-15,"The Goldman Sachs Group, Inc.",1,16,110.0
+GS,Q1-2025,2025-04-14,"The Goldman Sachs Group, Inc.",1,26,56.8
+GS,Q2-2025,2025-07-16,"The Goldman Sachs Group, Inc.",1,20,54.0
+GS,Q3-2025,2025-10-15,"The Goldman Sachs Group, Inc.",1,20,147.8
+GS,Q4-2025,2026-01-15,"The Goldman Sachs Group, Inc.",1,25,73.3
+GS,Q1-2026,2026-04-13,"The Goldman Sachs Group, Inc.",1,29,71.2
+INTC,Q4-2023,2024-01-25,Intel Corporation,1,11,56.2
+INTC,Q1-2024,2024-04-25,Intel Corporation,1,17,61.3
+INTC,Q2-2024,2024-08-01,Intel Corporation,1,16,61.7
+INTC,Q3-2024,2024-10-31,Intel Corporation,1,16,57.7
+INTC,Q4-2024,2025-01-30,Intel Corporation,1,20,56.7
+INTC,Q1-2025,2025-04-24,Intel Corporation,1,21,54.8
+INTC,Q2-2025,2025-07-24,Intel Corporation,1,16,51.4
+INTC,Q3-2025,2025-10-23,Intel Corporation,1,18,50.9
+INTC,Q4-2025,2026-01-22,Intel Corporation,1,19,53.8
+JNJ,Q4-2023,2024-01-23,Johnson & Johnson,1,12,112.0
+JNJ,Q1-2024,2024-04-16,Johnson & Johnson,1,10,54.5
+JNJ,Q2-2024,2024-07-17,Johnson & Johnson,1,10,52.8
+JNJ,Q3-2024,2024-10-15,Johnson & Johnson,1,8,106.4
+JNJ,Q4-2024,2025-01-22,Johnson & Johnson,1,8,181.4
+JNJ,Q1-2025,2025-04-15,Johnson & Johnson,1,9,60.4
+JNJ,Q2-2025,2025-07-16,Johnson & Johnson,1,8,58.1
+JNJ,Q3-2025,2025-10-14,Johnson & Johnson,1,11,67.7
+JNJ,Q4-2025,2026-01-21,Johnson & Johnson,1,9,130.1
+JNJ,Q1-2026,2026-04-14,Johnson & Johnson,1,9,58.6
+JPM,Q4-2023,2024-01-12,JPMorgan Chase & Co.,1,21,43.8
+JPM,Q1-2024,2024-04-12,JPMorgan Chase & Co.,1,23,59.5
+JPM,Q2-2024,2024-07-12,JPMorgan Chase & Co.,1,19,51.8
+JPM,Q3-2024,2024-10-11,JPMorgan Chase & Co.,1,24,61.1
+JPM,Q4-2024,2025-01-15,JPMorgan Chase & Co.,1,19,47.0
+JPM,Q1-2025,2025-04-11,JPMorgan Chase & Co.,1,27,57.8
+JPM,Q2-2025,2025-07-15,JPMorgan Chase & Co.,1,40,63.3
+JPM,Q3-2025,2025-10-14,JPMorgan Chase & Co.,1,20,52.8
+JPM,Q4-2025,2026-01-13,JPMorgan Chase & Co.,1,24,63.2
+JPM,Q1-2026,2026-04-14,JPMorgan Chase & Co.,1,25,261.0
+NKE,Q3-2024,2024-03-21,"NIKE, Inc.",1,6,50.9
+NKE,Q4-2024,2024-06-27,"NIKE, Inc.",1,7,54.7
+NKE,Q1-2025,2024-10-01,"NIKE, Inc.",1,7,41.7
+NKE,Q2-2025,2024-12-19,"NIKE, Inc.",1,12,55.5
+NKE,Q3-2025,2025-03-20,"NIKE, Inc.",1,6,54.2
+NKE,Q4-2025,2025-06-26,"NIKE, Inc.",1,8,50.9
+NKE,Q1-2026,2025-09-30,"NIKE, Inc.",1,6,50.8
+NKE,Q2-2026,2025-12-18,"NIKE, Inc.",1,6,51.9
+NKE,Q3-2026,2026-03-31,"NIKE, Inc.",1,7,100.7
+NVDA,Q4-2024,2024-02-21,NVIDIA Corporation,1,11,94.6
+NVDA,Q1-2025,2024-05-22,NVIDIA Corporation,1,12,48.8
+NVDA,Q2-2025,2024-08-28,NVIDIA Corporation,1,10,51.3
+NVDA,Q3-2025,2024-11-20,NVIDIA Corporation,1,11,48.1
+NVDA,Q4-2025,2025-02-26,NVIDIA Corporation,1,10,46.0
+NVDA,Q1-2026,2025-05-28,NVIDIA Corporation,1,7,45.6
+NVDA,Q2-2026,2025-08-27,NVIDIA Corporation,1,8,44.2
+NVDA,Q3-2026,2025-11-19,NVIDIA Corporation,1,9,50.4
+NVDA,Q4-2026,2026-02-25,NVIDIA Corporation,1,13,52.6
+PLTR,Q4-2023,2024-02-05,Palantir Technologies Inc.,1,3,49.7
+PLTR,Q1-2024,2024-05-06,Palantir Technologies Inc.,1,2,38.8
+PLTR,Q2-2024,2024-08-05,Palantir Technologies Inc.,1,3,40.5
+PLTR,Q3-2024,2024-11-04,Palantir Technologies Inc.,1,3,41.0
+PLTR,Q4-2024,2025-02-03,Palantir Technologies Inc.,1,4,46.4
+PLTR,Q1-2025,2025-05-05,Palantir Technologies Inc.,1,3,37.1
+PLTR,Q2-2025,2025-08-04,Palantir Technologies Inc.,1,3,38.8
+PLTR,Q3-2025,2025-11-03,Palantir Technologies Inc.,1,3,42.9
+PLTR,Q4-2025,2026-02-02,Palantir Technologies Inc.,1,3,43.7
+WFC,Q4-2023,2024-01-17,Wells Fargo & Company,1,25,123.1
+WFC,Q1-2024,2024-04-12,Wells Fargo & Company,1,25,65.7
+WFC,Q2-2024,2024-07-12,Wells Fargo & Company,1,19,58.1
+WFC,Q3-2024,2024-10-11,Wells Fargo & Company,1,20,47.1
+WFC,Q4-2024,2025-01-15,Wells Fargo & Company,1,19,63.1
+WFC,Q1-2025,2025-04-11,Wells Fargo & Company,1,25,70.9
+WFC,Q2-2025,2025-07-15,Wells Fargo & Company,1,22,63.8
+WFC,Q3-2025,2025-10-14,Wells Fargo & Company,1,22,127.4
+WFC,Q4-2025,2026-01-15,Wells Fargo & Company,1,23,143.1

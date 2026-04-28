@@ -1,0 +1,93 @@
+{
+  "prepared_sentiment": -0.35,
+  "qa_sentiment": -0.3,
+  "management_confidence": 0.45,
+  "qa_defensiveness": 0.3,
+  "wins": [
+    {
+      "text": "Gross margins expanded 120 bps to 45.4%, driven by lower product costs, lower warehousing/logistics costs, and strategic pricing benefits",
+      "category": "margins"
+    },
+    {
+      "text": "New footwear products revenue up strong double digits YoY in Q1; Sabrina grew ~5x, Kobe nearly 4x, Alphafly nearly 3x, and 'look of running' lifestyle segment grew more than 4x over the past year",
+      "category": "product"
+    },
+    {
+      "text": "Running specialty partners in North America up double digits in Q1, with holiday and spring order books sustaining that momentum; men's and women's running footwear returned to positive growth in Q1",
+      "category": "growth"
+    },
+    {
+      "text": "Pegasus 41 launch delivered mid-teens growth above prior Pegasus model; spring '25 running footwear units in order books growing double digits",
+      "category": "product"
+    },
+    {
+      "text": "NIKE owned over 60% of total share of voice during Paris Olympics; Jordan's first Twitch livestream drove over 10 million views, the biggest ever activation for any brand on the platform",
+      "category": "other"
+    }
+  ],
+  "risks": [
+    {
+      "text": "Q1 revenue declined 10% reported / 9% currency-neutral; NIKE Digital down 20%, NIKE Direct down 12%, Wholesale down 7%; traffic declines across NIKE Direct more significant than anticipated",
+      "category": "demand"
+    },
+    {
+      "text": "Full-year guidance withdrawn due to CEO transition; Investor Day postponed; spring '25 order books came in roughly flat vs. prior year, slightly lighter than planned",
+      "category": "execution"
+    },
+    {
+      "text": "Q2 gross margins guided down ~150 bps due to higher promotions, channel mix headwinds, and supply chain deleverage; full-year gross margins now expected to decline vs. prior year",
+      "category": "margins"
+    },
+    {
+      "text": "Greater China Q1 revenue down 3% with NIKE Digital down 34% and NIKE Direct down 16%; elevated marketplace inventory in an already promotional environment; near-term outlook moderated",
+      "category": "macro"
+    },
+    {
+      "text": "East Coast port strike flagged as a potential unquantified risk to near-term supply chain and margins; not yet baked into guidance",
+      "category": "supply_chain"
+    }
+  ],
+  "guidance": "mixed",
+  "guidance_items": [
+    {
+      "line_item": "revenue",
+      "direction": "lowered",
+      "detail": "Q2 revenues expected down 8%-10% YoY; full-year guidance withdrawn; revenue expectations moderated since start of year due to traffic trends, retail sales, and lighter spring order books"
+    },
+    {
+      "line_item": "margins",
+      "direction": "lowered",
+      "detail": "Q2 gross margins guided down ~150 bps YoY; full-year gross margins now expected to decline vs. prior year, a deterioration from prior guidance"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "Q2 SG&A roughly flat YoY; other income/expense (net interest) $30M-$40M; effective tax rate in high teens range"
+    },
+    {
+      "line_item": "segment",
+      "direction": "lowered",
+      "detail": "Jordan brand expected down double digits for full fiscal '25; NIKE Digital expected to decline double digits for full fiscal '25; classics franchise headwind of mid-single digits on revenue expected to continue through the year"
+    }
+  ],
+  "themes": [
+    "margin_pressure",
+    "product_launch",
+    "china_exposure",
+    "consumer_weakness",
+    "inventory",
+    "supply_chain",
+    "customer_wins",
+    "macro_headwinds"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Regional inventory breakdown by geography, specifically North America classics dislocation",
+    "How far Running specialty market share has fallen from peak to trough and magnitude of share losses",
+    "Second quarter gross margin pressure dimensionalized by region"
+  ],
+  "_ticker": "NKE",
+  "_quarter": "Q1-2025",
+  "_call_date": "2024-10-01",
+  "overall_sentiment": -0.33,
+  "sentiment_bucket": "bearish"
+}

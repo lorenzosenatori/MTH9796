@@ -1,0 +1,23 @@
+{
+  "line_items": [
+    {
+      "line_item": "revenue",
+      "result": "beat",
+      "reasoning": "JNJ raised its full-year 2025 operational sales guidance midpoint to $92.0B (3.8% growth), up $700M from the prior $91.3B midpoint, and Q1 sales grew 4.2% operationally \u2014 ahead of the 2.5%\u20133.5% full-year operational growth range guided in Q4-2024."
+    },
+    {
+      "line_item": "eps",
+      "result": "inline",
+      "reasoning": "Full-year adjusted EPS guidance was maintained at a $10.50\u2013$10.70 midpoint, which is slightly below the prior $10.60 reported midpoint but effectively held steady given the absorption of ~$0.25 Intra-Cellular dilution and new tariff headwinds, suggesting performance is tracking in line with the underlying operational EPS target."
+    },
+    {
+      "line_item": "margins",
+      "result": "miss",
+      "reasoning": "Gross margins compressed ~320 bps YoY in Q1 due to STELARA mix headwinds, Part D redesign, and unfavorable transactional currency, and management acknowledged consensus was too optimistic on gross profit \u2014 falling short of the guided ~300 bps improvement in adjusted pretax operating margins."
+    }
+  ],
+  "overall_surprise": "mixed",
+  "_ticker": "JNJ",
+  "_quarter": "Q1-2025",
+  "_prior_quarter": "Q4-2024"
+}

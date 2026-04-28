@@ -1,0 +1,23 @@
+{
+  "line_items": [
+    {
+      "line_item": "revenue (NII)",
+      "result": "miss",
+      "reasoning": "WFC had already lowered full-year 2025 NII guidance to the low end of +1% to +3% vs. 2024, but Q2 results further revised it down to roughly flat with 2024's $47.7B \u2014 a clear step below even the lowered guidance."
+    },
+    {
+      "line_item": "other (noninterest expense)",
+      "result": "inline",
+      "reasoning": "No indication that the full-year noninterest expense outlook of ~$54.2B was revised or materially breached; management reaffirmed cost discipline with no explicit deviation flagged."
+    },
+    {
+      "line_item": "other (NII trajectory \u2014 H1 flat, H2 ramp)",
+      "result": "miss",
+      "reasoning": "The expected H2 NII ramp predicated on loan growth is now in doubt, as commercial loan growth remained modest amid trade/tariff uncertainty and the full-year NII outlook was cut to flat vs. 2024, undermining the H2 acceleration thesis."
+    }
+  ],
+  "overall_surprise": "mixed",
+  "_ticker": "WFC",
+  "_quarter": "Q2-2025",
+  "_prior_quarter": "Q1-2025"
+}

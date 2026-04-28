@@ -1,0 +1,28 @@
+{
+  "line_items": [
+    {
+      "line_item": "revenue",
+      "result": "beat",
+      "reasoning": "Full-year operational sales guidance was raised again by ~$900M to a midpoint of $92.9B (4.8% growth), well above the prior Q1 guidance midpoint of $92B (3.3%\u20134.3% range), driven by strong Innovative Medicine and MedTech outperformance in Q2."
+    },
+    {
+      "line_item": "eps",
+      "result": "beat",
+      "reasoning": "Full-year adjusted EPS guidance was raised by $0.25 to a midpoint of $10.85, exceeding the prior Q1 guidance range of $10.50\u2013$10.70, despite ongoing Intra-Cellular dilution and tariff headwinds."
+    },
+    {
+      "line_item": "margins",
+      "result": "miss",
+      "reasoning": "Innovative Medicine margin fell from 44.6% to 42.7% and MedTech margin fell from 25.7% to 22.2% YoY in Q2, suggesting the 300 bps operating margin improvement target guided in Q1 is under pressure from STELARA gross profit erosion and acquisition-related costs."
+    },
+    {
+      "line_item": "other",
+      "result": "miss",
+      "reasoning": "Net interest expense came in above the guided $100M\u2013$200M range, as the $32B net debt position from the $14.5B Intra-Cellular acquisition drove adjusted diluted EPS down 1.8% YoY to $2.77; additionally, the effective tax rate was guided higher to 17%\u201317.5%, adding further headwinds not anticipated in prior guidance."
+    }
+  ],
+  "overall_surprise": "mixed",
+  "_ticker": "JNJ",
+  "_quarter": "Q2-2025",
+  "_prior_quarter": "Q1-2025"
+}

@@ -1,0 +1,88 @@
+{
+  "prepared_sentiment": 0.2,
+  "qa_sentiment": 0.1,
+  "management_confidence": 0.62,
+  "qa_defensiveness": 0.2,
+  "wins": [
+    {
+      "text": "Q4 daily sales grew 3.7% YoY, with December up 5.3%, outperforming historical sequential patterns",
+      "category": "revenue"
+    },
+    {
+      "text": "Q4 EPS of $0.46, up 8.4% from $0.43 in Q4 2022, driven by solid expense discipline",
+      "category": "other"
+    },
+    {
+      "text": "Record full-year operating cash flow of $1.43 billion, up 52% from 2022, driven by working capital reduction",
+      "category": "other"
+    },
+    {
+      "text": "Operating margin of 20.1% in Q4, up 50 bps YoY with 33% incremental margin despite soft growth environment",
+      "category": "margins"
+    },
+    {
+      "text": "Warehousing end market grew ~45% in Q4 and ~60% in December, now representing 3%-4% of total sales vs. less than 1% pre-pandemic",
+      "category": "growth"
+    }
+  ],
+  "risks": [
+    {
+      "text": "Sub-50 PMI for 14 consecutive months since November 2022 continues to weigh on industrial end markets; manufacturing customers remain cautious and tight with spending",
+      "category": "macro"
+    },
+    {
+      "text": "Fastener product line experienced contraction in both MRO and, for the first time this cycle, OEM products in Q4",
+      "category": "demand"
+    },
+    {
+      "text": "Onsite signings of only 58 in Q4 and below-target pace for full year; Onsite sales growth only slightly ahead of company average, a notable deceleration",
+      "category": "execution"
+    },
+    {
+      "text": "Shipping costs rising due to Red Sea/Suez Canal disruptions and low Panama Canal water levels; meaningful uptick in container costs observed in recent weeks",
+      "category": "supply_chain"
+    },
+    {
+      "text": "2024 P&L faces headwinds from lapping lower 2023 bonus payouts and the end of branch-closure-related occupancy savings, requiring tighter expense discipline",
+      "category": "margins"
+    }
+  ],
+  "guidance": "mixed",
+  "guidance_items": [
+    {
+      "line_item": "capex",
+      "direction": "raised",
+      "detail": "Net capex guided to $225M-$245M in 2024, up from $161M in 2023, reflecting hub automation, Utah DC upgrade, increased FMI spend, and IT investment"
+    },
+    {
+      "line_item": "segment",
+      "direction": "reaffirmed",
+      "detail": "Onsite signings target of 375-400 for 2024 reiterated; FMI device signings target of 26,000-28,000 MEUs set for 2024, up from ~24,126 in 2023"
+    },
+    {
+      "line_item": "other",
+      "direction": "lowered",
+      "detail": "Management flagged 2024 P&L headwinds: no repeat of lower bonus payouts and no further branch-closure occupancy savings; business activity entering 2024 described as 'subdued'"
+    }
+  ],
+  "themes": [
+    "macro_headwinds",
+    "supply_chain",
+    "product_launch",
+    "customer_wins",
+    "margin_expansion",
+    "cost_cutting",
+    "capex",
+    "dividends"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Structural competitive threat to Onsites from e-commerce and competitor in-plant offerings (e.g., MSM)",
+    "Supplier consolidation of distributor partners \u2014 whether FAST's suppliers are reducing the number of distributors they deal with directly",
+    "Impact of severe January weather on early Q1 2024 daily sales rates"
+  ],
+  "_ticker": "FAST",
+  "_quarter": "Q4-2023",
+  "_call_date": "2024-01-18",
+  "overall_sentiment": 0.16,
+  "sentiment_bucket": "slightly_bullish"
+}

@@ -1,0 +1,93 @@
+{
+  "prepared_sentiment": 0.92,
+  "qa_sentiment": 0.78,
+  "management_confidence": 0.93,
+  "qa_defensiveness": 0.1,
+  "wins": [
+    {
+      "text": "Total revenue of $68B, up 73% YoY and accelerating from Q3; data center revenue of $62B up 75% YoY and 22% sequentially, adding $11B sequentially \u2014 a record sequential gain",
+      "category": "revenue"
+    },
+    {
+      "text": "Full-year data center revenue of $194B, up 68% YoY; networking revenue exceeded $31B for the full year, up more than 10x vs. fiscal 2021",
+      "category": "revenue"
+    },
+    {
+      "text": "Non-GAAP gross margin of 75.2%, increasing sequentially as Blackwell ramped; free cash flow of $35B in Q4 and $97B for fiscal 2026",
+      "category": "margins"
+    },
+    {
+      "text": "Professional Visualization crossed $1B for the first time at $1.3B, up 159% YoY and 74% sequentially; Gaming revenue of $3.7B up 47% YoY",
+      "category": "revenue"
+    },
+    {
+      "text": "Sovereign AI business more than tripled YoY to over $30B in fiscal 2026; networking revenue of $11B in Q4, up more than 3.5x YoY",
+      "category": "growth"
+    }
+  ],
+  "risks": [
+    {
+      "text": "Gaming expected to face supply constraints in Q1 and beyond due to memory tightness; management unable to confirm YoY growth for fiscal 2027",
+      "category": "supply_chain"
+    },
+    {
+      "text": "No China data center compute revenue assumed in Q1 outlook; H200 approvals granted but no revenue generated yet, and import allowance remains uncertain",
+      "category": "regulatory"
+    },
+    {
+      "text": "Chinese competitors bolstered by recent IPOs are making progress and 'have the potential to disrupt the structure of the global AI industry over the long term'",
+      "category": "competition"
+    },
+    {
+      "text": "GAAP and non-GAAP operating expenses expected to grow in the low 40s% YoY in fiscal 2027 as R&D and infrastructure costs scale; SBC now included in non-GAAP, adding ~$1.9B per quarter",
+      "category": "margins"
+    },
+    {
+      "text": "Vera Rubin transition timing uncertain for H2; Blackwell and Rubin may overlap in market, creating potential execution complexity and gross margin variability during ramp",
+      "category": "execution"
+    }
+  ],
+  "guidance": "raised",
+  "guidance_items": [
+    {
+      "line_item": "revenue",
+      "direction": "raised",
+      "detail": "Q1 FY2027 total revenue guided to $78B +/- 2%, up from Q4 actual of $68B; sequential growth expected throughout all of calendar 2026, exceeding prior $500B Blackwell/Rubin opportunity framework"
+    },
+    {
+      "line_item": "margins",
+      "direction": "reaffirmed",
+      "detail": "Q1 GAAP gross margin ~74.9%, non-GAAP ~75%, +/- 50 bps; full-year gross margins expected in the mid-70s"
+    },
+    {
+      "line_item": "other",
+      "direction": "raised",
+      "detail": "Full-year non-GAAP operating expenses expected to grow in the low 40s% YoY, reflecting continued investment in expanding opportunity set"
+    },
+    {
+      "line_item": "eps",
+      "direction": "reaffirmed",
+      "detail": "FY2027 GAAP and non-GAAP tax rates expected between 17%-19%, excluding discrete items; SBC now included in non-GAAP starting Q1"
+    }
+  ],
+  "themes": [
+    "ai",
+    "data_center",
+    "cloud",
+    "enterprise_demand",
+    "product_launch",
+    "customer_wins",
+    "china_exposure",
+    "margin_expansion"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Sustainability of hyperscaler CapEx growth into 2026 and beyond given cash flow compression",
+    "Capital allocation strategy \u2014 why not a larger share repurchase program given ~$100B annual FCF generation",
+    "Space-based data centers as a future compute frontier"
+  ],
+  "_ticker": "NVDA",
+  "_quarter": "Q4-2026",
+  "_call_date": "2026-02-25",
+  "overall_sentiment": 0.864,
+  "sentiment_bucket": "very_bullish"
+}

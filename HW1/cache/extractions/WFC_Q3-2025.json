@@ -1,0 +1,93 @@
+{
+  "prepared_sentiment": 0.72,
+  "qa_sentiment": 0.45,
+  "management_confidence": 0.78,
+  "qa_defensiveness": 0.2,
+  "wins": [
+    {
+      "text": "Net income of $5.6B in Q3, up 9% YoY; diluted EPS of $1.66; ROTCE improved to 15.2%",
+      "category": "revenue"
+    },
+    {
+      "text": "Investment banking fees increased 25% YoY, with Q3 representing the highest IB fee quarter in company history; gained 120+ bps of U.S. market share since 2022",
+      "category": "growth"
+    },
+    {
+      "text": "Repurchased $6.1B of common stock in Q3, doubling Q2 buybacks; shares outstanding down 6% YoY and 24% since 2019; Q4 buybacks expected to be roughly in line with Q3",
+      "category": "buybacks"
+    },
+    {
+      "text": "Strongest linked-quarter period-end loan growth in over 3 years; average loans up $18.4B YoY; consumer loans grew QoQ for first time after 10 consecutive quarters of decline",
+      "category": "growth"
+    },
+    {
+      "text": "Credit card new accounts up 49% YoY to 900,000+ in Q3; credit card revenue grew 13% YoY; net loan charge-off ratio declined 9 bps YoY and 4 bps QoQ",
+      "category": "product"
+    }
+  ],
+  "risks": [
+    {
+      "text": "Full-year 2025 noninterest expense guidance raised to ~$54.6B from $54.2B, driven by ~$200M more severance and ~$200M higher revenue-related comp; potential additional severance in Q4 not yet included",
+      "category": "margins"
+    },
+    {
+      "text": "Commercial Banking revenue down 9% YoY due to lower interest rates and lower deposit/loan balances; commercial bank loan utilization rates remain flat with no pickup yet",
+      "category": "demand"
+    },
+    {
+      "text": "Commercial real estate office portfolio still generating lumpy losses; CRE office allowance coverage at 10.8%; office portfolio down ~1/3 from a couple of years ago but losses expected to continue",
+      "category": "margins"
+    },
+    {
+      "text": "NIM declined 7 bps QoQ driven by growth in lower-yielding trading assets; consumer businesses generating returns below industry average",
+      "category": "margins"
+    },
+    {
+      "text": "Middle market companies remain cautious \u2014 not replacing headcount, not building inventories \u2014 citing tariff uncertainty and broader macro concerns",
+      "category": "macro"
+    }
+  ],
+  "guidance": "mixed",
+  "guidance_items": [
+    {
+      "line_item": "revenue",
+      "direction": "reaffirmed",
+      "detail": "Full-year 2025 NII expected to be roughly in line with full-year 2024 NII of $47.7B; Q4 NII guided to $12.4B\u2013$12.5B, up from Q3"
+    },
+    {
+      "line_item": "other",
+      "direction": "raised",
+      "detail": "Full-year 2025 noninterest expense raised to ~$54.6B from prior guidance of ~$54.2B; Q4 expense guided to ~$13.5B; additional Q4 severance possible but not included"
+    },
+    {
+      "line_item": "other",
+      "direction": "raised",
+      "detail": "New medium-term ROTCE target of 17%\u201318%, up from prior 15% goal; CET1 managed to 10%\u201310.5% range vs. prior higher levels"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "Q4 share repurchases expected to be roughly in line with Q3's $6.1B"
+    }
+  ],
+  "themes": [
+    "margin_expansion",
+    "buybacks",
+    "cost_cutting",
+    "enterprise_demand",
+    "m_and_a",
+    "product_launch",
+    "customer_wins",
+    "regulatory"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Non-bank financial institution (NDFI) lending exposure and associated credit/capital risks (SSFA framework)",
+    "Synthetic risk transfers (SRTs) as a capital management tool",
+    "Specific efficiency ratio target embedded in the 17%\u201318% ROTCE framework"
+  ],
+  "_ticker": "WFC",
+  "_quarter": "Q3-2025",
+  "_call_date": "2025-10-14",
+  "overall_sentiment": 0.612,
+  "sentiment_bucket": "bullish"
+}

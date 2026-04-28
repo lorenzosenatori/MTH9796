@@ -1,0 +1,28 @@
+{
+  "line_items": [
+    {
+      "line_item": "Headcount (broadly flat in 2024, ex-GIP)",
+      "result": "inline",
+      "reasoning": "No specific headcount data was reported in Q2 results to suggest a deviation; guidance was reaffirmed this quarter, implying continued tracking to plan."
+    },
+    {
+      "line_item": "Core G&A Expense (low-to-mid-single-digit % growth in 2024, ex-GIP)",
+      "result": "inline",
+      "reasoning": "No explicit Core G&A figure was called out as exceeding or missing the low-to-mid-single-digit growth target, and guidance was reaffirmed, suggesting results are tracking in line."
+    },
+    {
+      "line_item": "EPS / Tax Rate (~25% for remainder of 2024)",
+      "result": "beat",
+      "reasoning": "EPS of $10.36 grew 12% YoY, and while the tax rate outcome isn't explicitly broken out, the strong EPS beat relative to prior-year levels suggests the effective rate was at or better than the ~25% guided level."
+    },
+    {
+      "line_item": "Capex / Share Repurchases (at least $375M/quarter)",
+      "result": "inline",
+      "reasoning": "No specific repurchase figure was cited in the reported results to indicate a clear beat or miss versus the $375M/quarter floor; guidance was reaffirmed, implying continued compliance with the commitment."
+    }
+  ],
+  "overall_surprise": "inline",
+  "_ticker": "BLK",
+  "_quarter": "Q2-2024",
+  "_prior_quarter": "Q1-2024"
+}

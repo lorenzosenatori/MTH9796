@@ -1,0 +1,88 @@
+{
+  "prepared_sentiment": 0.2,
+  "qa_sentiment": -0.1,
+  "management_confidence": 0.65,
+  "qa_defensiveness": 0.2,
+  "wins": [
+    {
+      "text": "Firm reported net income of $14.6B, EPS of $5.07 on revenue of $46B with ROTCE of 21%, up 8% YoY",
+      "category": "revenue"
+    },
+    {
+      "text": "Markets revenue up 21% YoY to record performance; Equities up 48% YoY on elevated volatility and strong derivatives monetization",
+      "category": "revenue"
+    },
+    {
+      "text": "IB fees up 12% YoY with #1 wallet share at 9%; Advisory up 16%, Debt underwriting up 16%",
+      "category": "revenue"
+    },
+    {
+      "text": "AWM AUM reached $4.1T and client assets $6T, both up 15% YoY; long-term net inflows of $54B in the quarter",
+      "category": "growth"
+    },
+    {
+      "text": "Firm distributed $11B of capital to shareholders including $7.1B of net common share repurchases; CET1 ratio of 15.4% with $30B-$60B of estimated excess capital",
+      "category": "buybacks"
+    }
+  ],
+  "risks": [
+    {
+      "text": "Reserve build of $973M driven by increased probability weightings on downside scenarios; weighted average unemployment embedded in allowance raised to 5.8% from 5.5%, reflecting significantly elevated macro uncertainty",
+      "category": "macro"
+    },
+    {
+      "text": "JPMorgan economist puts recession probability at ~50/50; Jamie Dimon expects S&P earnings estimates to move from +5% to 0% or negative, with many companies likely to pull guidance",
+      "category": "macro"
+    },
+    {
+      "text": "IB pipeline conversion at risk as corporate clients shift to wait-and-see mode on tariff uncertainty; equity underwriting fees already down 9% YoY on challenging market conditions",
+      "category": "demand"
+    },
+    {
+      "text": "NII ex Markets faces headwind from rate curve now pricing ~3 cuts vs. 1 cut previously; lower front-end rates mechanically pressure asset-sensitive balance sheet",
+      "category": "margins"
+    },
+    {
+      "text": "Geopolitical and trade war risk could put JPMorgan in the crosshairs internationally; Jamie Dimon acknowledged some clients or countries may feel differently about American banks",
+      "category": "geopolitical"
+    }
+  ],
+  "guidance": "reaffirmed",
+  "guidance_items": [
+    {
+      "line_item": "revenue",
+      "direction": "reaffirmed",
+      "detail": "NII ex Markets maintained at ~$90B; firm-wide NII outlook increased slightly to ~$94.5B reflecting higher Markets NII, largely offset in NIR"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "Adjusted expense outlook maintained at ~$95B"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "Card net charge-off rate guidance maintained at ~3.6%, though Jamie Dimon cautioned this is highly uncertain given wide range of macro outcomes"
+    }
+  ],
+  "themes": [
+    "macro_headwinds",
+    "tariffs",
+    "geopolitical",
+    "regulatory",
+    "buybacks",
+    "margin_pressure",
+    "enterprise_demand",
+    "ai"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Potential for private credit / non-bank lenders to re-intermediate back to traditional banks amid volatility \u2014 not proactively addressed",
+    "Treasury market functioning and potential Fed intervention (QT pause, treasury purchases) amid 10-year yield spike \u2014 not mentioned in prepared remarks",
+    "Cost optimization / expense war room efforts and internal efficiency initiatives \u2014 not disclosed proactively by management"
+  ],
+  "_ticker": "JPM",
+  "_quarter": "Q1-2025",
+  "_call_date": "2025-04-11",
+  "overall_sentiment": 0.08,
+  "sentiment_bucket": "slightly_bullish"
+}

@@ -1,0 +1,98 @@
+{
+  "prepared_sentiment": 0.72,
+  "qa_sentiment": 0.6,
+  "management_confidence": 0.82,
+  "qa_defensiveness": 0.2,
+  "wins": [
+    {
+      "text": "Data Center segment revenue hit a record $2.3B, up 80% YoY and 2% sequentially, driven by MI300X GPU ramp and double-digit server CPU growth",
+      "category": "revenue"
+    },
+    {
+      "text": "MI300 became the fastest-ramping product in AMD history, surpassing $1B in cumulative sales in less than 2 quarters; full-year Data Center GPU revenue outlook raised from $3.5B to $4B+",
+      "category": "growth"
+    },
+    {
+      "text": "Client segment revenue of $1.4B, up 85% YoY, driven by Ryzen 8000 series; Client swung from a $172M operating loss a year ago to $86M operating income",
+      "category": "revenue"
+    },
+    {
+      "text": "Non-GAAP gross margin expanded 230 bps YoY to 52%, with Q2 guided at ~53%, reflecting continued Data Center mix shift",
+      "category": "margins"
+    },
+    {
+      "text": "Data Center segment operating income surged 266% YoY to $541M (23% margin) vs. $148M (11%) a year ago, demonstrating strong operating leverage",
+      "category": "margins"
+    }
+  ],
+  "risks": [
+    {
+      "text": "Gaming segment revenue collapsed 48% YoY and 33% sequentially to $922M; CFO guided Gaming to decline by 'significant double-digit percentage' in Q2, with H2 expected to be lower than H1",
+      "category": "demand"
+    },
+    {
+      "text": "Embedded segment revenue fell 46% YoY and 20% sequentially to $846M as customers continue inventory normalization; recovery now expected to be only gradual in H2",
+      "category": "inventory"
+    },
+    {
+      "text": "MI300 GPU gross margins currently below Data Center CPU (server) average and below corporate average; profitability improvement will 'take a while'",
+      "category": "margins"
+    },
+    {
+      "text": "Near-term supply constraints on MI300 (CoWoS, HBM) mean Q2 demand exceeds available supply; $4B full-year guide is not supply-capped but supply remains tight",
+      "category": "supply_chain"
+    },
+    {
+      "text": "Operating expenses rose 10% YoY to $1.7B as AMD aggressively invests in AI R&D and marketing, pressuring near-term operating margins even as revenue grows",
+      "category": "margins"
+    }
+  ],
+  "guidance": "raised",
+  "guidance_items": [
+    {
+      "line_item": "revenue",
+      "direction": "raised",
+      "detail": "Q2 revenue guided at ~$5.7B +/- $300M, up from Q1's $5.5B; full-year Data Center GPU revenue raised to >$4B from prior $3.5B guide"
+    },
+    {
+      "line_item": "segment",
+      "direction": "raised",
+      "detail": "Data Center segment expected to grow double-digit percentage sequentially in Q2, driven by GPU ramp; Client also guided up sequentially"
+    },
+    {
+      "line_item": "margins",
+      "direction": "raised",
+      "detail": "Q2 non-GAAP gross margin guided at ~53%, up from 52% in Q1"
+    },
+    {
+      "line_item": "segment",
+      "direction": "lowered",
+      "detail": "Gaming segment guided down by 'significant double-digit percentage' sequentially in Q2; H2 Gaming expected to be lower than H1"
+    },
+    {
+      "line_item": "segment",
+      "direction": "reaffirmed",
+      "detail": "Embedded segment guided flat sequentially in Q2, with gradual recovery expected in H2"
+    }
+  ],
+  "themes": [
+    "ai",
+    "data_center",
+    "product_launch",
+    "supply_chain",
+    "margin_expansion",
+    "inventory",
+    "customer_wins",
+    "enterprise_demand"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Competitive threat from customers' internal ASIC programs (custom silicon) for training and inference workloads",
+    "MI300 GPU profitability trajectory relative to server CPU margins and corporate average",
+    "Rack-scale system architecture and whether large-scale data center build-outs (100K+ node clusters) will be winner-take-all or multi-vendor"
+  ],
+  "_ticker": "AMD",
+  "_quarter": "Q1-2024",
+  "_call_date": "2024-04-30",
+  "overall_sentiment": 0.672,
+  "sentiment_bucket": "bullish"
+}

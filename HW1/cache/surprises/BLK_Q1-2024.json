@@ -1,0 +1,53 @@
+{
+  "line_items": [
+    {
+      "line_item": "Base Fee Run Rate (~6% higher entering Q1)",
+      "result": "beat",
+      "reasoning": "Record AUM of $10.5T (+15% YoY) and $76B in long-term net inflows (~40% of full-year 2023 in one quarter) strongly suggest the base fee run rate exceeded the ~6% guided entry rate, driven by accelerating organic growth and continued market appreciation."
+    },
+    {
+      "line_item": "Organic Base Fee Growth (5%+ through-the-cycle target)",
+      "result": "beat",
+      "reasoning": "Long-term net inflows of $76B in a single quarter, representing ~40% of full-year 2023 flows, points to organic base fee growth well on track to exceed the 5%+ through-the-cycle target."
+    },
+    {
+      "line_item": "ACV Growth (low-to-mid teens target)",
+      "result": "miss",
+      "reasoning": "Technology services ACV grew 9% YoY in Q1, falling short of the low-to-mid teens growth target reaffirmed in Q4-2023 guidance."
+    },
+    {
+      "line_item": "Margins (premium operating margin & operating leverage)",
+      "result": "beat",
+      "reasoning": "As-adjusted operating margin of 42.2% expanded 180 bps YoY and 60 bps sequentially, clearly demonstrating the operating leverage committed to, with AUM up $2.5T over 18 months while headcount remained flat or slightly lower."
+    },
+    {
+      "line_item": "EPS (GIP modestly accretive; excluding transaction costs)",
+      "result": "beat",
+      "reasoning": "EPS of $9.81 was up 24% YoY, reflecting strong underlying earnings momentum; however, GIP has not yet closed (targeting Q3 2024), so the accretion guidance is not yet testable \u2014 the standalone EPS result is a clear beat on trajectory."
+    },
+    {
+      "line_item": "Headcount (broadly flat ex-GIP in 2024)",
+      "result": "beat",
+      "reasoning": "Management explicitly noted AUM grew $2.5T over 18 months while headcount is flat or slightly lower, exceeding the 'broadly flat' headcount guidance."
+    },
+    {
+      "line_item": "Core G&A (low-to-mid single digit growth ex-GIP)",
+      "result": "inline",
+      "reasoning": "No specific G&A figures were called out in the reported results to contradict guidance, and overall expense discipline appears consistent with the low-to-mid single digit growth target."
+    },
+    {
+      "line_item": "Tax Rate (~25% for 2024)",
+      "result": "inline",
+      "reasoning": "No specific tax rate deviation was flagged in the reported results or risks, suggesting the ~25% tax rate estimate remains on track."
+    },
+    {
+      "line_item": "Share Repurchase ($1.5B target for 2024)",
+      "result": "inline",
+      "reasoning": "No update on share repurchase activity was explicitly reported, and no deviation from the $1.5B target was flagged; the issuance of $3B in debt for GIP cash consideration is a watch item but does not directly contradict the buyback target."
+    }
+  ],
+  "overall_surprise": "mixed",
+  "_ticker": "BLK",
+  "_quarter": "Q1-2024",
+  "_prior_quarter": "Q4-2023"
+}

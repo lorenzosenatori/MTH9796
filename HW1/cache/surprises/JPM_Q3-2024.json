@@ -1,0 +1,23 @@
+{
+  "line_items": [
+    {
+      "line_item": "revenue (NII ex Markets ~$91B full-year)",
+      "result": "beat",
+      "reasoning": "Through Q3-2024, JPM's strong revenue performance ($43.3B in Q3 alone, up 6% YoY) and elevated NII ex Markets trajectory suggest the full-year $91B NII ex Markets target is on track or slightly ahead, even as Q4 is expected to decline ~6% sequentially \u2014 the YTD run-rate still supports meeting or modestly exceeding the $91B guide."
+    },
+    {
+      "line_item": "other (Adjusted expenses ~$92B full-year)",
+      "result": "inline",
+      "reasoning": "No explicit update was provided in the current quarter results indicating expenses are running materially above or below the ~$92B full-year adjusted expense guidance, suggesting the target remains on track."
+    },
+    {
+      "line_item": "other (Card net charge-off rate ~3.4% full-year)",
+      "result": "miss",
+      "reasoning": "Card net charge-offs rose $520M YoY to $1.9B in Q3 with a $876M reserve build driven by higher revolving balances, signaling the full-year charge-off rate is likely to come in above the guided ~3.4% level."
+    }
+  ],
+  "overall_surprise": "mixed",
+  "_ticker": "JPM",
+  "_quarter": "Q3-2024",
+  "_prior_quarter": "Q2-2024"
+}

@@ -1,0 +1,93 @@
+{
+  "prepared_sentiment": 0.65,
+  "qa_sentiment": 0.55,
+  "management_confidence": 0.78,
+  "qa_defensiveness": 0.2,
+  "wins": [
+    {
+      "text": "Full year 2023 worldwide sales of $85.2B, up 7.4% with adjusted operational EPS of $9.92, up 10.8% operationally \u2014 notable top and bottom line beats vs. prior guidance",
+      "category": "revenue"
+    },
+    {
+      "text": "MedTech delivered record $30B+ in annual sales with Q4 adjusted operational growth of 9.1%; Electrophysiology posted 25.2% growth in Q4 globally (22% U.S., 29% OUS)",
+      "category": "growth"
+    },
+    {
+      "text": "DARZALEX and ERLEADA grew 22.2% and 19% respectively in Q4; TREMFYA up 20.5% and STELARA up 14.5% in immunology",
+      "category": "revenue"
+    },
+    {
+      "text": "Generated over $18B in free cash flow in 2023; returned over $14B to shareholders via dividends and buybacks; 61st consecutive year of dividend increase",
+      "category": "buybacks"
+    },
+    {
+      "text": "Innovative Medicine delivered 9.5% operational sales growth ex-COVID vaccine in Q4 with 9 assets posting double-digit growth; 19 U.S. and EU filings in 2023",
+      "category": "product"
+    }
+  ],
+  "risks": [
+    {
+      "text": "STELARA biosimilar entry expected in Europe in H2 2024, creating a meaningful headwind to Innovative Medicine sales growth in the second half of the year",
+      "category": "competition"
+    },
+    {
+      "text": "MedTech adjusted IBT margins declined from 24.5% to 15.5% in Q4, driven by Laminar acquisition IPR&D (~5 pts), commodity/inventory inflation (~3-4 pts), and unfavorable product mix",
+      "category": "margins"
+    },
+    {
+      "text": "China volume-based procurement (VBP) pricing headwinds expected to begin in 2024 for surgical IOLs and orthopedic sports, with ongoing VBP impacts in EP, endocutters, energy, spine and trauma",
+      "category": "macro"
+    },
+    {
+      "text": "IMBRUVICA sales declining due to competitive pressures; ZYTIGA, REMICADE and Prezista facing loss of exclusivity headwinds",
+      "category": "competition"
+    },
+    {
+      "text": "Pillar 2 global minimum tax legislation expected to increase effective tax rate by ~150 basis points in 2024, with management flagging it as harmful to U.S. innovation incentives",
+      "category": "regulatory"
+    }
+  ],
+  "guidance": "reaffirmed",
+  "guidance_items": [
+    {
+      "line_item": "revenue",
+      "direction": "reaffirmed",
+      "detail": "2024 operational sales growth of 5%-6%, or $88.2B-$89.0B, excluding COVID-19 vaccine sales; slight FX headwind of ~$400M (-0.5%) based on EUR/USD of 1.09"
+    },
+    {
+      "line_item": "eps",
+      "direction": "reaffirmed",
+      "detail": "Adjusted operational EPS of $10.55-$10.75, representing ~7.4% growth at midpoint; no estimated currency impact on EPS"
+    },
+    {
+      "line_item": "margins",
+      "direction": "raised",
+      "detail": "2024 adjusted pretax operating margin expected to improve ~50 bps, driven by efficiency programs, partially offset by STELARA biosimilar headwinds and lingering MedTech inventory inflation"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "Effective tax rate guided to 16%-17% for 2024, up ~150 bps due to Pillar 2 legislation; net interest income of $450M-$550M; other income of $1.2B-$1.4B"
+    }
+  ],
+  "themes": [
+    "product_launch",
+    "m_and_a",
+    "margin_pressure",
+    "supply_chain",
+    "customer_wins",
+    "regulatory",
+    "china_exposure",
+    "inventory"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Potential impact of GLP-1/Novo osteoarthritis data on orthopedic procedure volumes",
+    "CARVYKTI FDA ODAC panel review and manufacturing supply ramp details for 2024",
+    "Relative underweighting of pharma M&A vs. MedTech M&A in recent years"
+  ],
+  "_ticker": "JNJ",
+  "_quarter": "Q4-2023",
+  "_call_date": "2024-01-23",
+  "overall_sentiment": 0.61,
+  "sentiment_bucket": "bullish"
+}

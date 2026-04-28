@@ -1,0 +1,28 @@
+{
+  "line_items": [
+    {
+      "line_item": "margins",
+      "result": "miss",
+      "reasoning": "Gross margin declined 70 bps to 44.8%, significantly worse than the guided 'less than ~30 bps' seasonal decline, driven by product/customer mix, higher container costs, and expedited shipments."
+    },
+    {
+      "line_item": "capex",
+      "result": "inline",
+      "reasoning": "No specific Q4 CapEx figure was reported in the current results to contradict the full-year $235M\u2013$255M guidance trending toward the low end, so this is treated as inline by default."
+    },
+    {
+      "line_item": "other",
+      "result": "miss",
+      "reasoning": "Rather than 'no meaningful change,' underlying business activity weakened noticeably \u2014 daily sales growth was only 2.1%, PMI stayed sub-50%, and holiday shutdowns hit 35% of vending-equipped facilities vs. 30% the prior year, signaling deeper industrial softness than guided."
+    },
+    {
+      "line_item": "inventory",
+      "result": "beat",
+      "reasoning": "FAST accelerated ~$10M of incremental fastener inventory ahead of potential tariffs, meeting or slightly exceeding the guided $5M\u2013$10M incremental Q4 build on top of Q3's ~$25M addition."
+    }
+  ],
+  "overall_surprise": "miss",
+  "_ticker": "FAST",
+  "_quarter": "Q4-2024",
+  "_prior_quarter": "Q3-2024"
+}

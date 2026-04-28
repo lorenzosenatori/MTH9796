@@ -1,0 +1,28 @@
+{
+  "line_items": [
+    {
+      "line_item": "revenue",
+      "result": "beat",
+      "reasoning": "Guidance called for Q3 revenues down low double digits (~10%+), but actual results came in at -9% reported / -7% currency-neutral, which is meaningfully better than the guided low double-digit decline."
+    },
+    {
+      "line_item": "margins",
+      "result": "inline",
+      "reasoning": "Gross margins declined 330 bps to 41.5%, landing squarely within the guided range of ~300\u2013350 bps contraction."
+    },
+    {
+      "line_item": "SG&A / demand creation",
+      "result": "miss",
+      "reasoning": "Guidance called for SG&A slightly down YoY, but demand creation expenses grew high single digits (~8%) YoY, driving total SG&A higher than guided \u2014 though this was partly an intentional strategic investment."
+    },
+    {
+      "line_item": "other income/expense (net interest income)",
+      "result": "inline",
+      "reasoning": "No explicit reported figure contradicts the $30M\u2013$40M guidance range, so results are treated as roughly in line with prior guidance."
+    }
+  ],
+  "overall_surprise": "mixed",
+  "_ticker": "NKE",
+  "_quarter": "Q3-2025",
+  "_prior_quarter": "Q2-2025"
+}

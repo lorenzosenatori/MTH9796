@@ -1,0 +1,23 @@
+{
+  "line_items": [
+    {
+      "line_item": "NII ex Markets / Firm-wide NII",
+      "result": "beat",
+      "reasoning": "JPM raised NII ex Markets guidance to ~$92B (from ~$90B) and total firm-wide NII to ~$95.5B (from ~$94.5B), explicitly driven by forward curve changes and strong deposit growth \u2014 a clear beat vs. prior guidance."
+    },
+    {
+      "line_item": "Adjusted Expense",
+      "result": "miss",
+      "reasoning": "Adjusted expense guidance was raised to ~$95.5B from the prior ~$95B target, primarily due to weaker dollar impacts, meaning costs came in above what was previously guided."
+    },
+    {
+      "line_item": "Card Net Charge-Off Rate",
+      "result": "inline",
+      "reasoning": "No explicit update to the ~3.6% card NCO rate guidance was reported in current results, and there is insufficient data to confirm a material deviation from the prior guidance level."
+    }
+  ],
+  "overall_surprise": "mixed",
+  "_ticker": "JPM",
+  "_quarter": "Q2-2025",
+  "_prior_quarter": "Q1-2025"
+}

@@ -1,0 +1,98 @@
+{
+  "prepared_sentiment": 0.55,
+  "qa_sentiment": 0.3,
+  "management_confidence": 0.72,
+  "qa_defensiveness": 0.2,
+  "wins": [
+    {
+      "text": "Firm reported net income of $14.4B and EPS of $5.07 with ROTCE of 20%; revenue of $47.1B was up 9% YoY",
+      "category": "revenue"
+    },
+    {
+      "text": "CIB revenue of $19.9B up 17% YoY; Equities up 33% YoY and Fixed Income up 21% YoY on robust client activity; IB fees up 16% YoY with particular strength in equity underwriting",
+      "category": "revenue"
+    },
+    {
+      "text": "AWM reported record revenue of $6.1B up 12% YoY; AUM of $4.6T up 18% YoY; client assets of $6.8T up 20% YoY; long-term net inflows of $72B in the quarter",
+      "category": "growth"
+    },
+    {
+      "text": "CCB retained #1 position in retail deposit share for fifth consecutive year; best year ever for new Sapphire account acquisitions; over 400,000 net new checking accounts in Q3",
+      "category": "customer"
+    },
+    {
+      "text": "2025 card net charge-off rate guidance improved to approximately 3.3% from prior expectations on favorable delinquency trends driven by continued consumer resilience",
+      "category": "other"
+    }
+  ],
+  "risks": [
+    {
+      "text": "Wholesale charge-offs elevated due to apparent fraud in secured lending facilities, including $170M Tricolor charge-off; Jamie Dimon warned 'when you see one cockroach, there are probably more'",
+      "category": "execution"
+    },
+    {
+      "text": "CET1 ratio declined 30 bps to 14.8% driven by higher RWA from wholesale lending growth across Banking and Markets",
+      "category": "other"
+    },
+    {
+      "text": "2026 NII ex-Markets preliminary view of ~$95B faces headwinds from rate cuts (75 bps in 2025 plus two 25 bps cuts expected in H1 2026) given asset-sensitive balance sheet",
+      "category": "macro"
+    },
+    {
+      "text": "Deposit balance growth inflection point pushed out due to lower personal savings rate, robust consumer spending outpacing income, strong equity market flows, and higher-than-expected rates driving yield-seeking behavior",
+      "category": "demand"
+    },
+    {
+      "text": "Management flagged potential for labor market deterioration and broader credit cycle, noting 'low-hiring, low-firing' dynamic reflects high employer uncertainty; Jamie Dimon warned NBFI/private credit losses could be 'a little bit worse than other people expect' in a downturn",
+      "category": "macro"
+    }
+  ],
+  "guidance": "mixed",
+  "guidance_items": [
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "Q4 NII ex-Markets expected ~$23.5B; Q4 total NII expected ~$25B"
+    },
+    {
+      "line_item": "other",
+      "direction": "raised",
+      "detail": "Q4 adjusted expense ~$24.5B, implying FY $95.9B, up from prior guidance driven by stronger revenue environment"
+    },
+    {
+      "line_item": "other",
+      "direction": "lowered",
+      "detail": "2025 card net charge-off rate now expected ~3.3%, improved from prior guidance on favorable delinquency trends"
+    },
+    {
+      "line_item": "revenue",
+      "direction": "reaffirmed",
+      "detail": "Preliminary 2026 NII ex-Markets central case ~$95B, subject to budget cycle completion and usual caveats"
+    },
+    {
+      "line_item": "eps",
+      "direction": "raised",
+      "detail": "2026 consensus expense of ~$100B flagged as 'a little bit low', implying expenses will come in above Street estimates"
+    }
+  ],
+  "themes": [
+    "ai",
+    "margin_expansion",
+    "enterprise_demand",
+    "customer_wins",
+    "macro_headwinds",
+    "regulatory",
+    "buybacks",
+    "product_launch"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "NBFI/non-bank financial institution lending exposure and credit risk, including Tricolor fraud and broader private credit underwriting standards",
+    "AI-driven productivity gains and their impact on the multi-year expense trajectory",
+    "Basel III Endgame timing and scope under the new regulatory administration"
+  ],
+  "_ticker": "JPM",
+  "_quarter": "Q3-2025",
+  "_call_date": "2025-10-14",
+  "overall_sentiment": 0.45,
+  "sentiment_bucket": "bullish"
+}

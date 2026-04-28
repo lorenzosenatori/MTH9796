@@ -1,0 +1,98 @@
+{
+  "prepared_sentiment": 0.52,
+  "qa_sentiment": 0.45,
+  "management_confidence": 0.72,
+  "qa_defensiveness": 0.2,
+  "wins": [
+    {
+      "text": "Adjusted operating income increased 16% YoY and adjusted operating margin expanded 90 bps at the enterprise level, despite a 2% revenue decline \u2014 third consecutive quarter of operating income growth and margin expansion.",
+      "category": "margins"
+    },
+    {
+      "text": "Ground adjusted operating income increased $120M with adjusted operating margin expanding 140 bps; ground cost per package was flat YoY despite inflationary environment.",
+      "category": "margins"
+    },
+    {
+      "text": "DRIVE delivered $550M in benefits in Q3, with $290M in surface network, $110M in air/international, and $150M in G&A; on track for $1.8B full-year savings.",
+      "category": "cost_savings"
+    },
+    {
+      "text": "Completed $1B accelerated share repurchase in Q3, bringing 9-month total to $2B; Board authorized a new $5B share repurchase program on top of $600M remaining under prior authorization.",
+      "category": "buybacks"
+    },
+    {
+      "text": "CapEx guidance reduced to $5.4B for full year, down over $700M from last year and $300M below prior forecast of $5.7B, reflecting reduced capital intensity.",
+      "category": "other"
+    }
+  ],
+  "risks": [
+    {
+      "text": "Express revenue declined 2% YoY driven by volume softness, lower fuel/demand surcharges, and a mix shift toward lower-yielding deferred and e-commerce products; international export yield pressure of $800M embedded in full-year bridge.",
+      "category": "margins"
+    },
+    {
+      "text": "Weakness in global trade continues to constrain international demand, which has 'remained challenged for longer than expected,' requiring ongoing proactive air network realignment.",
+      "category": "demand"
+    },
+    {
+      "text": "Express experienced over $200M of inflationary cost pressure on a YoY basis in Q3, partially offset by DRIVE savings and headcount management.",
+      "category": "margins"
+    },
+    {
+      "text": "USPS contract (expiring September 29) represents a volume and revenue headwind; service obligations remain fixed despite reduced volumes, creating a structural drag until a new contract is finalized.",
+      "category": "customer_concentration"
+    },
+    {
+      "text": "European B2B environment remains challenged; FedEx is taking a 'fresh look' at additional opportunities to improve the European business, signaling ongoing underperformance in the region.",
+      "category": "macro"
+    }
+  ],
+  "guidance": "mixed",
+  "guidance_items": [
+    {
+      "line_item": "eps",
+      "direction": "reaffirmed",
+      "detail": "Reaffirmed midpoint of adjusted EPS range; narrowed range from $17.00\u2013$18.50 to $17.25\u2013$18.25; now expects to deliver above the midpoint of the original June range despite deteriorating revenue."
+    },
+    {
+      "line_item": "revenue",
+      "direction": "lowered",
+      "detail": "Full-year revenue expectations have 'deteriorated significantly over the past 9 months'; continues to assume low single-digit percentage decline for the full year."
+    },
+    {
+      "line_item": "capex",
+      "direction": "lowered",
+      "detail": "Full-year CapEx now expected at $5.4B, down from prior forecast of $5.7B and down over $700M from last year."
+    },
+    {
+      "line_item": "segment",
+      "direction": "reaffirmed",
+      "detail": "Maintaining full-year expectations: modest YoY adjusted margin contraction at Express, adjusted margin improvement at Ground, and strong but lower YoY margin at Freight."
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "Expect to repurchase additional $500M of common stock in Q4, bringing total FY24 repurchases to $2.5B."
+    }
+  ],
+  "themes": [
+    "cost_cutting",
+    "restructuring",
+    "margin_expansion",
+    "buybacks",
+    "supply_chain",
+    "product_launch",
+    "macro_headwinds",
+    "capex"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "USPS contract volume already lost and net financial impact of a new deal",
+    "Potential shift to calendar fiscal year following One FedEx legal consolidation",
+    "Investor skepticism about the business transformation plan and why the market is not giving FedEx credit for its progress"
+  ],
+  "_ticker": "FDX",
+  "_quarter": "Q3-2024",
+  "_call_date": "2024-03-21",
+  "overall_sentiment": 0.492,
+  "sentiment_bucket": "bullish"
+}

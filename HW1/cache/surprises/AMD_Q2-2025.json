@@ -1,0 +1,38 @@
+{
+  "line_items": [
+    {
+      "line_item": "revenue",
+      "result": "beat",
+      "reasoning": "AMD reported record Q2 revenue of $7.7B, exceeding the guided midpoint of ~$7.4B by ~$300M and landing above even the top end of the +/-$300M guidance range, despite an $800M MI308 export control headwind."
+    },
+    {
+      "line_item": "margins",
+      "result": "inline",
+      "reasoning": "Q2 non-GAAP gross margin came in at ~43% inclusive of the ~$800M inventory/reserve charge, exactly matching the guided figure; the underlying margin ex-charge also aligned with the ~54% framework guided."
+    },
+    {
+      "line_item": "segment - Client & Gaming",
+      "result": "beat",
+      "reasoning": "Client & Gaming revenue surged 69% YoY to $3.6B, far exceeding the guided 'double-digit percentage sequential increase,' with record Client CPU sales and Gaming up 73% YoY."
+    },
+    {
+      "line_item": "segment - Data Center",
+      "result": "inline",
+      "reasoning": "Data Center revenue did decrease sequentially in Q2 as guided, driven by the MI308 China export control exclusion, so the directional guidance was met even though the operating loss was severe."
+    },
+    {
+      "line_item": "segment - Embedded",
+      "result": "miss",
+      "reasoning": "Embedded segment revenue declined 4% YoY to $824M with mixed demand and inventory headwinds, falling short of the guided 'roughly flat sequentially' expectation."
+    },
+    {
+      "line_item": "other - MI350 production timeline",
+      "result": "beat",
+      "reasoning": "MI350 series entered volume production ahead of schedule in June, beating the guided 'midyear' target and with a major 27,000+ node Oracle cluster win announced."
+    }
+  ],
+  "overall_surprise": "beat",
+  "_ticker": "AMD",
+  "_quarter": "Q2-2025",
+  "_prior_quarter": "Q1-2025"
+}

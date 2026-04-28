@@ -1,0 +1,38 @@
+{
+  "line_items": [
+    {
+      "line_item": "revenue",
+      "result": "beat",
+      "reasoning": "Q1 total revenue came in at ~$5.47B (Data Center $2.3B + Client $1.4B + Gaming $922M + Embedded $846M), landing at the high end of and slightly above the guided ~$5.4B +/- $300M range, while Data Center GPU momentum prompted a raise of the full-year GPU outlook from $3.5B to $4B+."
+    },
+    {
+      "line_item": "margins",
+      "result": "inline",
+      "reasoning": "Non-GAAP gross margin came in at exactly 52%, matching the guided ~52% target, though MI300 GPU margins remain a drag below corporate average, keeping the result squarely in line rather than a beat."
+    },
+    {
+      "line_item": "segment (Gaming)",
+      "result": "inline",
+      "reasoning": "Gaming declined 33% sequentially, which is right at the guided 'exceed 30%' threshold \u2014 essentially matching the low end of what was telegraphed, with no meaningful upside surprise."
+    },
+    {
+      "line_item": "segment (Embedded)",
+      "result": "miss",
+      "reasoning": "Embedded fell 20% sequentially, worse than the guided low double-digit percentage decline (~10\u201312%), and the recovery outlook was pushed out with H2 now expected to be only gradual rather than a clear rebound."
+    },
+    {
+      "line_item": "eps",
+      "result": "beat",
+      "reasoning": "Data Center operating income surged 266% YoY and Client swung to profitability, demonstrating strong operating leverage well ahead of top-line revenue growth, consistent with management's commitment to faster EPS growth than revenue."
+    },
+    {
+      "line_item": "other (opex, tax, share count)",
+      "result": "beat",
+      "reasoning": "Non-GAAP operating expenses came in at ~$1.7B, slightly below the guided ~$1.73B, indicating modest favorability on the cost line despite aggressive AI R&D investment."
+    }
+  ],
+  "overall_surprise": "beat",
+  "_ticker": "AMD",
+  "_quarter": "Q1-2024",
+  "_prior_quarter": "Q4-2023"
+}

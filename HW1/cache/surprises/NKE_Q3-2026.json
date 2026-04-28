@@ -1,0 +1,28 @@
+{
+  "line_items": [
+    {
+      "line_item": "revenue",
+      "result": "beat",
+      "reasoning": "Guidance called for revenue down low single digits; North America grew 3% (better than 'modest growth') and while Greater China declined 10% and Converse remained weak, the overall mix \u2014 including a February inflection with all North America channels positive \u2014 suggests results came in at or slightly better than the low-single-digit decline guided, with North America outperforming expectations."
+    },
+    {
+      "line_item": "margins",
+      "result": "beat",
+      "reasoning": "Guidance called for gross margins down 175\u2013225 bps; actual gross margins declined only 130 bps, meaningfully better than the guided range despite a 300 bps tariff headwind that was close to the guided 315 bps impact."
+    },
+    {
+      "line_item": "SG&A dollars",
+      "result": "inline",
+      "reasoning": "Guidance called for SG&A dollars up low single digits due to demand creation and sport offense investments; no explicit SG&A figure was reported in the results to indicate a clear deviation, and the $230M severance charge is a separate restructuring item, so SG&A trajectory is treated as roughly in line."
+    },
+    {
+      "line_item": "other expense / interest income",
+      "result": "inline",
+      "reasoning": "Guidance called for other expense net of interest income to be income of $0\u2013$10M; no explicit figure was reported in the current results to indicate a clear beat or miss, so this is treated as inline."
+    }
+  ],
+  "overall_surprise": "mixed",
+  "_ticker": "NKE",
+  "_quarter": "Q3-2026",
+  "_prior_quarter": "Q2-2026"
+}

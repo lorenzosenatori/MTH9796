@@ -1,0 +1,98 @@
+{
+  "prepared_sentiment": 0.55,
+  "qa_sentiment": 0.4,
+  "management_confidence": 0.75,
+  "qa_defensiveness": 0.25,
+  "wins": [
+    {
+      "text": "Worldwide Q3 sales of $22.5B, up 6.3% operationally; Innovative Medicine sales of $14.6B (second consecutive quarter above $14B) with 11 brands delivering double-digit growth",
+      "category": "revenue"
+    },
+    {
+      "text": "DARZALEX became first J&J product to reach $3B in sales in a single quarter, growing 22.9% YoY driven by 4-point share gains across all lines of therapy",
+      "category": "growth"
+    },
+    {
+      "text": "CARVYKTI achieved $286M in sales with 87.6% YoY growth and 53.2% sequential growth, driven by capacity expansion, share gains and CARTITUDE-4 approval in 2L+ setting",
+      "category": "product"
+    },
+    {
+      "text": "Free cash flow year-to-date of ~$14B vs. ~$12B in prior year; adjusted operational EPS guidance raised for the third consecutive quarter with underlying EPS growth of 9.2% ex-M&A",
+      "category": "other"
+    },
+    {
+      "text": "5 major U.S. and EC approvals in Q3 including RYBREVANT+LAZCLUZE for first-line EGFR-mutated lung cancer and TREMFYA for active ulcerative colitis; OTTAVA robotic surgery IDE application submitted to FDA",
+      "category": "product"
+    }
+  ],
+  "risks": [
+    {
+      "text": "MedTech full-year 2024 adjusted operational sales growth guidance lowered to ~5% from ~6% due to persistent Asia Pacific/China headwinds from VBP, anticorruption campaign, Korea HCP strike, and Japan macro pressures",
+      "category": "demand"
+    },
+    {
+      "text": "STELARA biosimilar entry anticipated in U.S. in January 2025 with significant LOE impact; HUMIRA erosion curve cited as proxy, and Part D redesign expected to create additional negative impact",
+      "category": "margins"
+    },
+    {
+      "text": "Adjusted pretax operating margin declining ~200 bps in 2024 due to M&A-related acquired IP R&D expense ($1.25B for NM26); enterprise adjusted income before tax margin fell from 37.6% to 32.4%",
+      "category": "margins"
+    },
+    {
+      "text": "$1.75B charge related to talc litigation settlement proposal impacted Q3 net earnings; confirmation hearing timeline uncertain though targeted for early 2025",
+      "category": "regulatory"
+    },
+    {
+      "text": "IV saline shortage following Hurricane Helene flagged as a potential risk to elective surgical procedure volumes across MedTech portfolio in Q4",
+      "category": "supply_chain"
+    }
+  ],
+  "guidance": "mixed",
+  "guidance_items": [
+    {
+      "line_item": "revenue",
+      "direction": "raised",
+      "detail": "Operational sales growth raised by $200M to 6.3%-6.8% range, midpoint $89.6B (6.6%); reported sales growth 5.1%-5.6%, midpoint $88.6B"
+    },
+    {
+      "line_item": "eps",
+      "direction": "raised",
+      "detail": "Adjusted operational EPS raised $0.10 on underlying performance (total +$0.18 for year ex-M&A); reported adjusted EPS midpoint $9.93, essentially flat YoY after absorbing ~$0.92 of M&A dilution"
+    },
+    {
+      "line_item": "segment",
+      "direction": "lowered",
+      "detail": "MedTech full-year adjusted operational sales growth now expected ~5% vs. ~6% referenced last quarter due to China/Asia Pacific headwinds"
+    },
+    {
+      "line_item": "margins",
+      "direction": "lowered",
+      "detail": "2024 adjusted pretax operating margin now expected to decline ~200 bps; ex-M&A would have been +50 bps as originally guided"
+    },
+    {
+      "line_item": "other",
+      "direction": "raised",
+      "detail": "Net interest income projected $450M-$550M, up $150M vs. prior guidance; other income raised to $1.9B-$2.1B driven by one-time royalty rights monetization"
+    }
+  ],
+  "themes": [
+    "product_launch",
+    "m_and_a",
+    "regulatory",
+    "china_exposure",
+    "margin_pressure",
+    "supply_chain",
+    "customer_wins",
+    "macro_headwinds"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Hurricane-related IV saline shortage impact on elective surgical procedure volumes",
+    "Competitive PFA ablation catheter dynamics and J&J's EP market share trajectory ahead of VARIPULSE U.S. approval",
+    "Unfavorable patient mix / gross-to-net true-up dynamics specifically impacting U.S. TREMFYA and STELARA sales in Q3"
+  ],
+  "_ticker": "JNJ",
+  "_quarter": "Q3-2024",
+  "_call_date": "2024-10-15",
+  "overall_sentiment": 0.49,
+  "sentiment_bucket": "bullish"
+}

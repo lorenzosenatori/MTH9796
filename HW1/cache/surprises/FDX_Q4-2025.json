@@ -1,0 +1,33 @@
+{
+  "line_items": [
+    {
+      "line_item": "eps",
+      "result": "inline",
+      "reasoning": "FY25 adjusted EPS of $18.19 landed within the guided range of $18.00\u2013$18.60, essentially at the midpoint, matching guidance."
+    },
+    {
+      "line_item": "revenue",
+      "result": "inline",
+      "reasoning": "FY25 revenue came in flat to slightly down vs. prior year, consistent with the lowered guidance of 'flat to down slightly'; Q4 Federal Express revenue was essentially flat YoY as guided, though Freight remained pressured."
+    },
+    {
+      "line_item": "margins",
+      "result": "beat",
+      "reasoning": "Federal Express adjusted operating income grew 9% on just 1% revenue growth in Q4, with consolidated adjusted operating margin expanding 60 bps despite a $165M operating-day headwind and $120M USPS headwind, suggesting better-than-guided margin performance relative to the $1.1B revenue net-of-costs headwind forecast."
+    },
+    {
+      "line_item": "capex",
+      "result": "beat",
+      "reasoning": "FY25 CapEx came in at $4.1B, approximately $800M below the guided $4.9B, marking the lowest capital spending in over 10 years and well ahead of the guided reduction."
+    },
+    {
+      "line_item": "other",
+      "result": "beat",
+      "reasoning": "DRIVE delivered exactly $2.2B in incremental FY25 savings, achieving the full 2-year $4B target vs. the FY23 baseline, meeting the savings target; additionally, cash returned to stockholders of $4.3B exceeded the prior $3.8B commitment."
+    }
+  ],
+  "overall_surprise": "mixed",
+  "_ticker": "FDX",
+  "_quarter": "Q4-2025",
+  "_prior_quarter": "Q3-2025"
+}

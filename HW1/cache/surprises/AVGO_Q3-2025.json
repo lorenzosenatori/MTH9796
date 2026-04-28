@@ -1,0 +1,33 @@
+{
+  "line_items": [
+    {
+      "line_item": "revenue",
+      "result": "beat",
+      "reasoning": "Q3 actual revenue came in at a record $16.0B vs. guidance of ~$15.8B, exceeding the prior quarter's target by ~$200M and growing 22% YoY vs. the guided 21%."
+    },
+    {
+      "line_item": "segment \u2013 AI semiconductor revenue",
+      "result": "beat",
+      "reasoning": "AI semiconductor revenue of $5.2B beat the guided $5.1B, with YoY growth of 63% surpassing the guided 60%, marking the 10th consecutive quarter of growth as expected."
+    },
+    {
+      "line_item": "segment \u2013 infrastructure software revenue",
+      "result": "inline",
+      "reasoning": "Infrastructure software revenue was not explicitly broken out in the reported wins, but the ~77% operating margin and 93% gross margin suggest healthy performance; no evidence of a material miss or beat vs. the ~$6.7B guide."
+    },
+    {
+      "line_item": "margins",
+      "result": "beat",
+      "reasoning": "Consolidated adjusted EBITDA came in at 67% of revenue, above the guided 'at least 66%' floor, and the sequential gross margin decline appears to have been less severe than the guided ~130 bps compression."
+    },
+    {
+      "line_item": "other \u2013 non-GAAP tax rate",
+      "result": "inline",
+      "reasoning": "No indication that the non-GAAP tax rate deviated from the guided 14% for Q3 or FY2025."
+    }
+  ],
+  "overall_surprise": "beat",
+  "_ticker": "AVGO",
+  "_quarter": "Q3-2025",
+  "_prior_quarter": "Q2-2025"
+}

@@ -1,0 +1,33 @@
+{
+  "line_items": [
+    {
+      "line_item": "eps",
+      "result": "miss",
+      "reasoning": "FDX cut the top end of FY25 adjusted EPS guidance from $22 to $21 (new range implied lower midpoint), directly signaling results and outlook fell short of the $20\u2013$22 range guided last quarter."
+    },
+    {
+      "line_item": "revenue",
+      "result": "miss",
+      "reasoning": "Weaker-than-expected demand (soft B2B/industrial volumes, USPS contract loss creating a ~$500M headwind starting Q2, and yield pressure) undermines the low-to-mid single digit growth trajectory guided for FY25."
+    },
+    {
+      "line_item": "margins",
+      "result": "miss",
+      "reasoning": "Q1 adjusted operating profit declined $382M YoY, and incremental headwinds (USPS loss ~$500M, international yield pressure now $500M vs. prior $400M, higher purchase transportation costs) more than offset DRIVE savings, putting the ~15% YoY operating income growth target at risk."
+    },
+    {
+      "line_item": "capex",
+      "result": "inline",
+      "reasoning": "No information was provided in Q1 results indicating CapEx deviated from the guided $5.2B for FY25, so this is treated as on-track."
+    },
+    {
+      "line_item": "other",
+      "result": "beat",
+      "reasoning": "FDX completed the guided $1B in Q1 share repurchases on schedule and announced an additional $1B buyback for Q2, exceeding the pace implied by the $2.5B full-year plan."
+    }
+  ],
+  "overall_surprise": "mixed",
+  "_ticker": "FDX",
+  "_quarter": "Q1-2025",
+  "_prior_quarter": "Q4-2024"
+}

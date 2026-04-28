@@ -1,0 +1,33 @@
+{
+  "line_items": [
+    {
+      "line_item": "revenue",
+      "result": "beat",
+      "reasoning": "Full-year adjusted revenues grew 7% (strongest in over a decade) with record Banking and Markets revenues, clearly exceeding the raised $84B+ full-year floor guidance and the ~5.5% NII ex-markets growth target."
+    },
+    {
+      "line_item": "margins",
+      "result": "inline",
+      "reasoning": "The full-year efficiency ratio came in slightly below 64% as guided (consistent with reaffirmed guidance), though the 2026 target was softened from 'below 60%' to 'around 60%', which does not affect the Q4 reported result vs. prior guidance."
+    },
+    {
+      "line_item": "eps",
+      "result": "miss",
+      "reasoning": "Reported EPS of $1.19 was materially depressed by the Russia held-for-sale accounting charge; even on an adjusted basis ($1.81), elevated Q4 expenses (Markets expenses up 14%) reinforced the guided pressure on near-term EPS, landing at the weaker end of expectations."
+    },
+    {
+      "line_item": "segment",
+      "result": "beat",
+      "reasoning": "Markets Q4 revenues were only down 1% YoY (essentially flat sequentially relative to a record Q3), far better than the guided sequential decline exceeding the historical 15%-20% range."
+    },
+    {
+      "line_item": "other",
+      "result": "beat",
+      "reasoning": "Credit costs (NCL rates at or below the low end of guided ranges), share repurchases ($4.5B in Q4, $13B+ for the year under the $20B program), and CET1 (13.2% vs. ~12.8% target) all came in at or better than reaffirmed guidance."
+    }
+  ],
+  "overall_surprise": "mixed",
+  "_ticker": "C",
+  "_quarter": "Q4-2025",
+  "_prior_quarter": "Q3-2025"
+}

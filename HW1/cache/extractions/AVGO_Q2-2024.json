@@ -1,0 +1,98 @@
+{
+  "prepared_sentiment": 0.82,
+  "qa_sentiment": 0.7,
+  "management_confidence": 0.88,
+  "qa_defensiveness": 0.1,
+  "wins": [
+    {
+      "text": "AI revenue surged 280% year-on-year to $3.1B in Q2, and full-year AI revenue guidance raised to over $11B",
+      "category": "revenue"
+    },
+    {
+      "text": "Consolidated Q2 revenue of $12.5B, up 43% YoY; organic (ex-VMware) revenue up 12% YoY",
+      "category": "revenue"
+    },
+    {
+      "text": "VMware ABV accelerated from $1.2B in Q1 to $1.9B in Q2; VMware spending run rate reduced to $1.6B/quarter from $2.3B pre-acquisition, targeting $1.2B post-integration \u2014 better than prior $1.4B plan",
+      "category": "cost_savings"
+    },
+    {
+      "text": "Networking revenue of $3.8B grew 44% YoY; full-year networking revenue growth guidance raised to 40% YoY from prior >35%",
+      "category": "revenue"
+    },
+    {
+      "text": "Infrastructure software operating margin at 64% ex-transition costs; VMware revenue on track toward $4B/quarter run rate with margins expected to converge to classic Broadcom software levels by FY2025",
+      "category": "margins"
+    }
+  ],
+  "risks": [
+    {
+      "text": "Broadband revenue declined 39% YoY to $730M; full-year broadband guidance revised to down high-30s% YoY, worse than prior guidance of down just over 30%",
+      "category": "demand"
+    },
+    {
+      "text": "Server storage connectivity revenue down 27% YoY to $824M; full-year decline now guided ~20% YoY",
+      "category": "demand"
+    },
+    {
+      "text": "Industrial resale down 10% YoY; full-year now expected down double-digit % vs. prior high single-digit decline guidance",
+      "category": "demand"
+    },
+    {
+      "text": "Gross margins for semiconductor segment compressed ~370 bps YoY to ~67%, driven by higher mix of custom AI accelerators with attached HBM memory diluting blended margins",
+      "category": "margins"
+    },
+    {
+      "text": "Free cash flow as % of revenue declined YoY due to higher cash interest expense from $74B gross debt (VMware acquisition) and higher cash taxes from Section 174 delay; $74B gross debt remains a significant balance sheet overhang",
+      "category": "other"
+    }
+  ],
+  "guidance": "raised",
+  "guidance_items": [
+    {
+      "line_item": "revenue",
+      "direction": "raised",
+      "detail": "FY2024 consolidated revenue guidance raised to $51B (from prior guidance implied lower); driven by AI strength and VMware ramp"
+    },
+    {
+      "line_item": "margins",
+      "direction": "raised",
+      "detail": "FY2024 adjusted EBITDA margin guidance raised to 61%"
+    },
+    {
+      "line_item": "segment",
+      "direction": "raised",
+      "detail": "Full-year AI revenue guidance raised to over $11B; networking revenue growth guidance raised to 40% YoY from prior >35%"
+    },
+    {
+      "line_item": "segment",
+      "direction": "lowered",
+      "detail": "Broadband revenue now guided down high-30s% YoY vs. prior guidance of down just over 30% YoY"
+    },
+    {
+      "line_item": "segment",
+      "direction": "lowered",
+      "detail": "Industrial resale now guided down double-digit % YoY vs. prior high single-digit decline"
+    }
+  ],
+  "themes": [
+    "ai",
+    "data_center",
+    "cloud",
+    "product_launch",
+    "customer_wins",
+    "margin_expansion",
+    "supply_chain",
+    "enterprise_demand"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Competitive threat from NVIDIA in both custom AI accelerators and Ethernet switching (Spectrum-X)",
+    "Sustainability of gross margins in the custom AI accelerator business given HBM memory dilution and potential new ASIC competitors",
+    "Non-AI enterprise/hyperscaler networking inventory correction and timing of recovery"
+  ],
+  "_ticker": "AVGO",
+  "_quarter": "Q2-2024",
+  "_call_date": "2024-06-12",
+  "overall_sentiment": 0.772,
+  "sentiment_bucket": "very_bullish"
+}

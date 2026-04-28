@@ -1,0 +1,33 @@
+{
+  "line_items": [
+    {
+      "line_item": "eps",
+      "result": "miss",
+      "reasoning": "FY'25 adjusted EPS guidance was cut again to $19\u2013$20, falling below the prior quarter's already-lowered range of $20\u2013$21, driven by weaker industrial demand and a widened revenue-net-of-cost headwind."
+    },
+    {
+      "line_item": "revenue",
+      "result": "miss",
+      "reasoning": "Revenue came in weaker than the guided low single-digit growth, with the revenue net-of-cost headwind widening dramatically to $700M from the prior $100M estimate, and H2 Freight revenue now expected to decline slightly."
+    },
+    {
+      "line_item": "margins (Federal Express)",
+      "result": "beat",
+      "reasoning": "Federal Express adjusted operating profit grew 13% YoY on essentially flat revenue, with $146M in YoY operating income improvement, clearly demonstrating YoY margin expansion ahead of the reaffirmed guidance."
+    },
+    {
+      "line_item": "margins (FedEx Freight)",
+      "result": "miss",
+      "reasoning": "FedEx Freight operating profit fell $179M YoY in Q2 with average daily shipments down 8%, and H2 revenue is now expected to decline slightly \u2014 worse than the prior guidance of only a 'modest' margin decline."
+    },
+    {
+      "line_item": "capex",
+      "result": "inline",
+      "reasoning": "No new information contradicts the $5.2B CapEx target; the company did not revise this figure, suggesting it remains on track as previously guided."
+    }
+  ],
+  "overall_surprise": "miss",
+  "_ticker": "FDX",
+  "_quarter": "Q2-2025",
+  "_prior_quarter": "Q1-2025"
+}

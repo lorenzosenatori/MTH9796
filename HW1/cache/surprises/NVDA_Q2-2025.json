@@ -1,0 +1,33 @@
+{
+  "line_items": [
+    {
+      "line_item": "revenue",
+      "result": "beat",
+      "reasoning": "Q2 revenue came in at $30B, meaningfully exceeding the guided $28B (+/-2%), representing a ~7% beat at the midpoint."
+    },
+    {
+      "line_item": "margins",
+      "result": "beat",
+      "reasoning": "Non-GAAP gross margin of 75.7% came in above the guided 75.5% (+/-50 bps) midpoint, and GAAP margin of ~74.8% was also at or slightly above guidance, representing a modest but clear beat."
+    },
+    {
+      "line_item": "other (OpEx)",
+      "result": "miss",
+      "reasoning": "Full-year OpEx growth is now expected in the mid- to upper 40% range, above the prior guidance of low 40% growth, indicating higher-than-guided spending."
+    },
+    {
+      "line_item": "segment (Sovereign AI)",
+      "result": "inline",
+      "reasoning": "No specific update contradicts the high single-digit billions Sovereign AI target for the full year; the strong Data Center results are consistent with that trajectory, so this is treated as on track."
+    },
+    {
+      "line_item": "other (Blackwell ramp)",
+      "result": "miss",
+      "reasoning": "A mask change to improve yields delayed Blackwell production revenue to Q4 with only 'several billion dollars' expected, falling short of the guided Q2 start and significant full-year Blackwell revenue ramp."
+    }
+  ],
+  "overall_surprise": "mixed",
+  "_ticker": "NVDA",
+  "_quarter": "Q2-2025",
+  "_prior_quarter": "Q1-2025"
+}

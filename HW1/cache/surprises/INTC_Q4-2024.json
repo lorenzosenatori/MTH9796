@@ -1,0 +1,33 @@
+{
+  "line_items": [
+    {
+      "line_item": "revenue",
+      "result": "beat",
+      "reasoning": "Q4 revenue of $14.3B came in at the high end of the guided range of $13.3B\u2013$14.3B, exceeding the midpoint of $13.8B by ~$500M."
+    },
+    {
+      "line_item": "margins",
+      "result": "beat",
+      "reasoning": "Non-GAAP gross margin of 42.1% beat the guided ~39.5% by 260 basis points, aided by higher revenue, better costs, and the $1.1B CHIPS Act grant received in Q4."
+    },
+    {
+      "line_item": "eps",
+      "result": "beat",
+      "reasoning": "Q4 non-GAAP EPS of $0.13 exceeded the guided $0.12, consistent with the revenue and margin outperformance."
+    },
+    {
+      "line_item": "capex",
+      "result": "inline",
+      "reasoning": "No specific Q4 CapEx actuals were reported against the guided 2024 gross/net CapEx of ~$25B/$11B; the CHIPS Act grant receipt is a positive development but does not directly contradict the CapEx guidance."
+    },
+    {
+      "line_item": "other",
+      "result": "inline",
+      "reasoning": "The 2025 OpEx target of $17.5B and workforce reduction of >15% were reaffirmed with no reported deviation, and the CHIPS Act grant signing is a positive milestone, though 2025 free cash flow outlook remains uncertain given the sharp Q1 revenue guide-down."
+    }
+  ],
+  "overall_surprise": "beat",
+  "_ticker": "INTC",
+  "_quarter": "Q4-2024",
+  "_prior_quarter": "Q3-2024"
+}

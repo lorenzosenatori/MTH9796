@@ -1,0 +1,28 @@
+{
+  "line_items": [
+    {
+      "line_item": "revenue",
+      "result": "beat",
+      "reasoning": "Q2 worldwide sales grew 6.6% operationally, with Innovative Medicine posting a record $14.5B quarter, clearly exceeding the full-year operational sales growth guidance range of 5.5%-6.0% on a quarterly basis and prompting a further raise to full-year guidance."
+    },
+    {
+      "line_item": "eps",
+      "result": "beat",
+      "reasoning": "Adjusted operational EPS guidance was raised by an additional $0.05/share (implying 8.2% YoY growth at midpoint) before acquisition dilution, surpassing the prior midpoint of $10.68 and indicating Q2 results came in ahead of the guided trajectory."
+    },
+    {
+      "line_item": "other (interest income)",
+      "result": "inline",
+      "reasoning": "No specific update was provided on interest income relative to the prior $550M-$650M guidance range, suggesting results were roughly in line with expectations."
+    },
+    {
+      "line_item": "other (Shockwave EPS dilution)",
+      "result": "miss",
+      "reasoning": "The combined Shockwave, Proteologix, and NM26 acquisitions created $0.68/share of EPS dilution in 2024, far exceeding the originally guided ~$0.10 dilution from Shockwave alone, and adjusted pretax operating margin guidance flipped from +50 bps improvement to a -120 bps decline."
+    }
+  ],
+  "overall_surprise": "mixed",
+  "_ticker": "JNJ",
+  "_quarter": "Q2-2024",
+  "_prior_quarter": "Q1-2024"
+}

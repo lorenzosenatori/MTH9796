@@ -1,0 +1,33 @@
+{
+  "line_items": [
+    {
+      "line_item": "revenue",
+      "result": "inline",
+      "reasoning": "Citigroup reaffirmed its full-year 2024 revenue guidance of $80B\u2013$81B; Q1 showed strong Services (+8%), IB (+35%), and USPB (+10%) wins, but Markets revenues fell 7% YoY and card fee headwinds from the late-fee rule were acknowledged as embedded in the existing guidance range, leaving the full-year target intact but not clearly exceeded."
+    },
+    {
+      "line_item": "margins",
+      "result": "miss",
+      "reasoning": "NII ex-markets was guided to be down only modestly, but Wealth NII dropped 13% YoY from lower deposit spreads, USPB credit costs surged 34% YoY with the Retail Services NCL rate exceeding the high end of full-year guidance and expected to remain above range in Q2, pointing to worse-than-guided margin pressure."
+    },
+    {
+      "line_item": "eps",
+      "result": "inline",
+      "reasoning": "The medium-term RoTCE target of 11%\u201312% by 2026 was reaffirmed and CET1 improved to 13.5%, but near-term RoTCE remains pressured (Wealth at only 4.6%), and no explicit EPS beat vs. guidance was reported, keeping this inline with the reaffirmed medium-term trajectory."
+    },
+    {
+      "line_item": "other",
+      "result": "beat",
+      "reasoning": "The organizational simplification was completed ahead of schedule with ~7,000 positions eliminated and $1.5B in annualized run-rate saves already locked in, tracking well ahead of the $700M\u2013$1B of elevated severance/simplification costs embedded in the $53.5B\u2013$53.8B expense guidance, suggesting expenses are trending favorably."
+    },
+    {
+      "line_item": "segment",
+      "result": "beat",
+      "reasoning": "The medium-term $2.0B\u2013$2.5B net run-rate savings target was reaffirmed and the organizational simplification was declared complete in Q1-2024, with $1.5B in annualized saves already achieved\u2014ahead of the pace implied by the prior guidance for a multi-year headcount reduction program."
+    }
+  ],
+  "overall_surprise": "mixed",
+  "_ticker": "C",
+  "_quarter": "Q1-2024",
+  "_prior_quarter": "Q4-2023"
+}

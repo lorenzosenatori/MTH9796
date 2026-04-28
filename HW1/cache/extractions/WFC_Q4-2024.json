@@ -1,0 +1,98 @@
+{
+  "prepared_sentiment": 0.55,
+  "qa_sentiment": 0.4,
+  "management_confidence": 0.72,
+  "qa_defensiveness": 0.25,
+  "wins": [
+    {
+      "text": "Diluted EPS up 11% YoY; net income of $5.1B in Q4; ROTCE improved to 13.4% in 2024 from 8% in 2020",
+      "category": "revenue"
+    },
+    {
+      "text": "Fee-based revenue grew 15% YoY in 2024, largely offsetting the expected decline in NII; noninterest income up 11% from a year ago in Q4",
+      "category": "revenue"
+    },
+    {
+      "text": "Returned $25B of capital to shareholders in 2024, including ~$20B in buybacks (up 64% YoY) and a 15% increase in common stock dividend per share; common shares outstanding reduced 9% YoY",
+      "category": "buybacks"
+    },
+    {
+      "text": "Net interest income grew $146M (1%) from Q3 \u2014 first linked-quarter NII increase since Q4 2022; investment portfolio repositioning of ~$80B into higher-yielding securities with ~2.5-year payback",
+      "category": "margins"
+    },
+    {
+      "text": "Over 2.4M new credit card accounts opened in 2024; credit card spend up over $17B YoY; mobile active customers grew 1.5M (up 5% YoY); Zelle transactions exceeded 1B, up 22% YoY",
+      "category": "growth"
+    }
+  ],
+  "risks": [
+    {
+      "text": "Commercial real estate office fundamentals remain weak; CRE office net charge-offs drove commercial NCOs up $80M QoQ to 30 bps; losses expected to remain lumpy",
+      "category": "demand"
+    },
+    {
+      "text": "Average loans declined throughout 2024 and remain down YoY; weak loan demand and credit tightening actions weighed on most asset classes; commercial clients remain cautious with no meaningful change in loan demand in Q4",
+      "category": "demand"
+    },
+    {
+      "text": "Asset cap from Federal Reserve consent order remains in place, constraining balance sheet growth and limiting organic loan growth opportunities throughout 2025",
+      "category": "regulatory"
+    },
+    {
+      "text": "NII headwind from modestly asset-sensitive balance sheet given forward curve implying only 1-2 Fed rate cuts; Q4 annualized NII of ~$47B is ~$700M below full-year 2024 NII",
+      "category": "margins"
+    },
+    {
+      "text": "Q4 included $647M severance charge and $448M net losses on debt securities sales; trading revenue down 5% YoY in CIB with $85M FVA implementation loss; markets revenue underperformed peers",
+      "category": "other"
+    }
+  ],
+  "guidance": "raised",
+  "guidance_items": [
+    {
+      "line_item": "revenue",
+      "direction": "raised",
+      "detail": "Full-year 2025 NII expected to be ~1%-3% higher than full-year 2024 ($47.7B), or ~3%-5% higher than annualized Q4 2024 NII; NII relatively stable in H1, more growth in H2"
+    },
+    {
+      "line_item": "eps",
+      "direction": "raised",
+      "detail": "Implicit EPS improvement expected via NII growth, fee income growth, and lower operating losses (~$700M reduction) and severance (~$500M reduction) vs. 2024"
+    },
+    {
+      "line_item": "margins",
+      "direction": "raised",
+      "detail": "ROTCE path toward sustainable 15% reiterated; currently at 13.4% in 2024, up from 8% in 2020; card and home lending profitability improvement cited as key near-term drivers"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "2025 noninterest expense expected at ~$54.2B, roughly flat vs. 2024 reported $54.6B; ~$2.4B gross efficiency saves planned; Q1 seasonal personnel expense headwind of $650M-$700M"
+    },
+    {
+      "line_item": "capex",
+      "direction": "raised",
+      "detail": "~$900M incremental technology investment and ~$900M incremental other investments planned for 2025, funded by efficiency savings"
+    }
+  ],
+  "themes": [
+    "margin_expansion",
+    "buybacks",
+    "product_launch",
+    "customer_wins",
+    "enterprise_demand",
+    "regulatory",
+    "cost_cutting",
+    "macro_headwinds"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Specific rate sensitivity / NII ex-markets disaggregation not proactively disclosed",
+    "Leadership transition in credit card business (Ray Fischer retirement / Ed Olebe hire) not mentioned in prepared remarks",
+    "Potential M&A strategy post-asset cap removal and deposit market share implications"
+  ],
+  "_ticker": "WFC",
+  "_quarter": "Q4-2024",
+  "_call_date": "2025-01-15",
+  "overall_sentiment": 0.49,
+  "sentiment_bucket": "bullish"
+}

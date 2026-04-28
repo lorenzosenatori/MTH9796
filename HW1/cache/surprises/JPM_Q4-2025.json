@@ -1,0 +1,33 @@
+{
+  "line_items": [
+    {
+      "line_item": "Q4 NII ex-Markets (~$23.5B) & Q4 Total NII (~$25B)",
+      "result": "inline",
+      "reasoning": "No explicit Q4 NII figures were reported in the current results to contradict guidance, and management reaffirmed the outlook this quarter, suggesting results came in roughly as expected."
+    },
+    {
+      "line_item": "Q4 Adjusted Expense (~$24.5B, implying FY ~$95.9B)",
+      "result": "inline",
+      "reasoning": "No specific Q4 expense figure was called out as a beat or miss in the reported results, and the guidance was reaffirmed this quarter, indicating expenses landed near the guided level."
+    },
+    {
+      "line_item": "2025 Card Net Charge-Off Rate (~3.3%)",
+      "result": "inline",
+      "reasoning": "While the Apple Card portfolio required a $2.2B reserve build in Q4, the prior guidance of ~3.3% NCO rate was set with favorable delinquency trends already baked in; no explicit deviation from the 3.3% target was reported, though the reserve build introduces modest downside risk."
+    },
+    {
+      "line_item": "Preliminary 2026 NII ex-Markets Central Case (~$95B)",
+      "result": "inline",
+      "reasoning": "Management reaffirmed guidance this quarter and no updated 2026 NII figure was provided that would indicate a clear beat or miss versus the ~$95B central case."
+    },
+    {
+      "line_item": "2026 Consensus Expense (~$100B flagged as 'a little bit low')",
+      "result": "inline",
+      "reasoning": "No revised 2026 expense figure was disclosed in Q4 results; the directional signal that expenses would exceed Street estimates was reaffirmed without contradiction."
+    }
+  ],
+  "overall_surprise": "inline",
+  "_ticker": "JPM",
+  "_quarter": "Q4-2025",
+  "_prior_quarter": "Q3-2025"
+}

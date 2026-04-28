@@ -1,0 +1,93 @@
+{
+  "prepared_sentiment": -0.15,
+  "qa_sentiment": -0.1,
+  "management_confidence": 0.62,
+  "qa_defensiveness": 0.35,
+  "wins": [
+    {
+      "text": "Gross margins expanded 150 bps to 44.8%, driven by strategic pricing, lower ocean freight rates and supply chain efficiency; ex-restructuring EPS of $0.98, up 24% YoY",
+      "category": "margins"
+    },
+    {
+      "text": "North America Q3 revenue grew 3%, with EBIT up 18% on a reported basis, exceeding internal expectations with lighter markdowns than competitors",
+      "category": "revenue"
+    },
+    {
+      "text": "Performance footwear grew high single digits with double-digit growth in $100+ franchises including Kobe, Ja, Metcon, Motiva, Structure and Vomero; basketball returned to strong double-digit growth",
+      "category": "growth"
+    },
+    {
+      "text": "Won German Football Federation kit contract starting 2027, beating out competitors in a competitive pitch",
+      "category": "customer"
+    },
+    {
+      "text": "New and updated footwear models now represent a majority of top 20 growing footwear franchises; new products on track to generate a multibillion-dollar annual run rate",
+      "category": "product"
+    }
+  ],
+  "risks": [
+    {
+      "text": "Q4 revenue guided to 'up slightly' with H1 FY25 revenue expected to be down low single digits due to franchise lifecycle management headwinds outpacing new product scaling",
+      "category": "demand"
+    },
+    {
+      "text": "EMEA Q3 revenue declined 4%, falling short of internal expectations amid increased macro volatility and softening consumer demand; NIKE Digital EMEA down 10%",
+      "category": "macro"
+    },
+    {
+      "text": "NIKE Digital down 4% globally in Q3 with further near-term headwinds expected as franchise lifecycle management disproportionately impacts the digital channel",
+      "category": "margins"
+    },
+    {
+      "text": "Approximately $403M in restructuring charges incurred in Q3 ($450M total expected in H2), impacting reported EPS and SG&A; reported diluted EPS of $0.77 vs. $0.98 ex-charges",
+      "category": "execution"
+    },
+    {
+      "text": "Higher markdowns, worsening FX headwinds (1 point negative impact on Q4 reported revenue), and reduced channel mix benefits from franchise lifecycle management partially offsetting gross margin expansion",
+      "category": "margins"
+    }
+  ],
+  "guidance": "mixed",
+  "guidance_items": [
+    {
+      "line_item": "revenue",
+      "direction": "reaffirmed",
+      "detail": "Full year FY24 revenue still expected to grow approximately 1%; Q4 revenue now guided to 'up slightly' vs. prior expectation, reflecting shipment timing benefits pulled into Q3 and lower digital growth"
+    },
+    {
+      "line_item": "margins",
+      "direction": "raised",
+      "detail": "Q4 gross margins expected to expand ~160-180 bps; full year gross margin expansion now ~120 bps including ~60 bps FX headwind"
+    },
+    {
+      "line_item": "eps",
+      "direction": "reaffirmed",
+      "detail": "Full year earnings outlook reaffirmed excluding restructuring charges; full year SG&A now expected to grow low single digits including charges, improving vs. prior guidance"
+    },
+    {
+      "line_item": "segment",
+      "direction": "lowered",
+      "detail": "H1 FY25 revenue expected to be down low single digits due to franchise lifecycle management headwinds; full FY25 revenue and earnings expected to grow vs. FY24 with operating margin expansion ex-restructuring"
+    }
+  ],
+  "themes": [
+    "product_launch",
+    "restructuring",
+    "layoffs",
+    "macro_headwinds",
+    "margin_expansion",
+    "inventory",
+    "consumer_weakness",
+    "currency_fx"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Difficulty or friction in rebuilding wholesale distribution muscle and partner relationships after years of DTC-first strategy",
+    "Specific channel and geography breakdown for H1 FY25 revenue guidance (down low single digits)",
+    "Progress and investment in run specialty (RSG) channel as a brand authentication vehicle"
+  ],
+  "_ticker": "NKE",
+  "_quarter": "Q3-2024",
+  "_call_date": "2024-03-21",
+  "overall_sentiment": -0.13,
+  "sentiment_bucket": "slightly_bearish"
+}

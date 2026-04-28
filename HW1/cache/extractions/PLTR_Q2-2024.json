@@ -1,0 +1,93 @@
+{
+  "prepared_sentiment": 0.82,
+  "qa_sentiment": 0.7,
+  "management_confidence": 0.88,
+  "qa_defensiveness": 0.1,
+  "wins": [
+    {
+      "text": "Q2 revenue of $678M grew 27% YoY and 7% sequentially, exceeding the high end of prior guidance by 5%; excluding strategic commercial contracts, growth accelerated to 30% YoY and 10% sequentially",
+      "category": "revenue"
+    },
+    {
+      "text": "U.S. commercial revenue grew 55% YoY (70% ex-strategic contracts) to $159M; U.S. commercial TCV booked surged 152% YoY to $262M; U.S. commercial customer count grew 83% YoY to 295 customers",
+      "category": "growth"
+    },
+    {
+      "text": "Record GAAP net income of $134M (20% margin) and record GAAP operating income of $105M (16% margin); seventh consecutive quarter of GAAP profitability; adjusted operating margin expanded to 37%, Rule of 40 score reached 64",
+      "category": "margins"
+    },
+    {
+      "text": "U.S. government revenue grew 24% YoY and 8% sequentially to $278M; strongest U.S. government bookings quarter since 2022; awarded CDAO Maven contract with initial $153M order and up to $480M over 5 years",
+      "category": "customer"
+    },
+    {
+      "text": "Total TCV booked of $946M, up 47% YoY; 27 deals worth $10M or more closed in Q2; net dollar retention increased 300 bps sequentially to 114%; total remaining deal value of $4.3B, up 26% YoY",
+      "category": "revenue"
+    }
+  ],
+  "risks": [
+    {
+      "text": "International commercial revenue grew only 15% YoY and declined 1% sequentially to $148M due to continued headwinds in Europe, underperforming the U.S. commercial segment significantly",
+      "category": "demand"
+    },
+    {
+      "text": "Revenue from strategic commercial contracts declining sharply \u2014 fell to $9M in Q2 and guided to $6M\u2013$8M in Q3 vs. $15M in Q3 2023, representing a meaningful revenue headwind",
+      "category": "customer_concentration"
+    },
+    {
+      "text": "Adjusted expenses expected to ramp through the back half of the year as the company invests in product pipeline and technical infrastructure, creating potential margin pressure relative to H1",
+      "category": "margins"
+    },
+    {
+      "text": "Adjusted free cash flow of $144M\u2013$149M in Q2 with full-year guidance of $800M\u2013$1B implies significant back-half weighting dependent on government and commercial year-end collections timing",
+      "category": "execution"
+    },
+    {
+      "text": "Geopolitical risks flagged by CEO including potential severe violent interactions in the Middle East, which could affect government contract timing and global operations",
+      "category": "geopolitical"
+    }
+  ],
+  "guidance": "raised",
+  "guidance_items": [
+    {
+      "line_item": "revenue",
+      "direction": "raised",
+      "detail": "Full year 2024 revenue raised to $2.742B\u2013$2.750B (midpoint $2.746B), representing ~23% YoY growth; Q3 2024 revenue guided to $697M\u2013$701M"
+    },
+    {
+      "line_item": "segment",
+      "direction": "raised",
+      "detail": "U.S. commercial revenue guidance raised to in excess of $672M for full year 2024, representing at least 47% growth"
+    },
+    {
+      "line_item": "margins",
+      "direction": "raised",
+      "detail": "Full year adjusted income from operations raised to $966M\u2013$974M; Q3 adjusted income from operations guided to $233M\u2013$237M"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "Adjusted free cash flow guidance maintained at $800M\u2013$1B; GAAP operating income and net income expected in each quarter of 2024"
+    }
+  ],
+  "themes": [
+    "ai",
+    "enterprise_demand",
+    "product_launch",
+    "customer_wins",
+    "guidance_beat",
+    "margin_expansion",
+    "data_center",
+    "geopolitical"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Specifics of Warp Speed product architecture and how it integrates with or replaces legacy ERP/MES systems",
+    "Barriers to adoption among legacy defense prime contractors for reindustrialization software",
+    "Pace and conversion rate of boot camp participants into paying production customers"
+  ],
+  "_ticker": "PLTR",
+  "_quarter": "Q2-2024",
+  "_call_date": "2024-08-05",
+  "overall_sentiment": 0.772,
+  "sentiment_bucket": "very_bullish"
+}

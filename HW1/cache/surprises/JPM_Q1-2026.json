@@ -1,0 +1,33 @@
+{
+  "line_items": [
+    {
+      "line_item": "revenue (NII)",
+      "result": "miss",
+      "reasoning": "JPM revised Markets NII downward from prior estimates predominantly due to lower rates, representing a net headwind to the ~$103B total NII guide, signaling the full-year NII target is now under pressure."
+    },
+    {
+      "line_item": "eps",
+      "result": "beat",
+      "reasoning": "No explicit EPS guide was provided, but Q1 EPS of $5.94 and ROTCE of 23% are exceptionally strong outputs, with net income of $16.5B driven by broad-based revenue beats across CIB, AWM, and CCB \u2014 well above any implicit baseline."
+    },
+    {
+      "line_item": "other (adjusted expenses)",
+      "result": "miss",
+      "reasoning": "Q1 expenses of $26.9B were up 14% YoY and outpaced revenue growth of 10%; annualizing Q1 implies ~$107.6B, which would exceed the ~$105B full-year expense guide if the elevated run rate persists."
+    },
+    {
+      "line_item": "other (card net charge-off rate)",
+      "result": "inline",
+      "reasoning": "Consumer credit metrics remain healthy with no signs of cracks \u2014 early roll rates, delinquency rates, and cash buffers are all consistent with prior trends, supporting the ~3.4% card NCO rate guide."
+    },
+    {
+      "line_item": "segment (card loan & deposit growth)",
+      "result": "inline",
+      "reasoning": "Average CCB deposits were up 2% YoY and QoQ, consistent with the 'modest firm-wide deposit growth' guidance; card loan growth trajectory was not explicitly flagged as deviating from the guided 6\u20137% range."
+    }
+  ],
+  "overall_surprise": "mixed",
+  "_ticker": "JPM",
+  "_quarter": "Q1-2026",
+  "_prior_quarter": "Q4-2025"
+}

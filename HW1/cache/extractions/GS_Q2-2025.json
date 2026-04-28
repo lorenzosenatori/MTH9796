@@ -1,0 +1,98 @@
+{
+  "prepared_sentiment": 0.72,
+  "qa_sentiment": 0.58,
+  "management_confidence": 0.82,
+  "qa_defensiveness": 0.2,
+  "wins": [
+    {
+      "text": "Net revenues of $14.6B in Q2, EPS of $10.91, ROE of 12.8% (14.8% for H1 2025)",
+      "category": "revenue"
+    },
+    {
+      "text": "Equities net revenues hit a record $4.3B, up significantly YoY; equities intermediation revenues of $2.6B rose 45% YoY",
+      "category": "revenue"
+    },
+    {
+      "text": "Advisory revenues of $1.2B rose 71% YoY; GS holds #1 M&A league table position with ~$85B lead in announced volume over nearest peer",
+      "category": "revenue"
+    },
+    {
+      "text": "Total financing revenues reached a record $2.8B, up 23% YoY \u2014 sixth consecutive quarterly record \u2014 now comprising over 1/3 of FICC and equities revenues",
+      "category": "revenue"
+    },
+    {
+      "text": "Assets under supervision rose to a record $3.3T; wealth management client assets hit a record $1.7T; 30th consecutive quarter of long-term fee-based net inflows; Board approved 33% dividend increase to $4/share",
+      "category": "other"
+    }
+  ],
+  "risks": [
+    {
+      "text": "Challenging harvesting environment for historical principal investments (~$8B remaining); modest net losses in private portfolio driven by real estate markdowns; H2 2025 equity/debt investment results expected to be more muted vs. medium-term run rate",
+      "category": "margins"
+    },
+    {
+      "text": "Uncertainty persists in industries highly sensitive to trade policy; number of trade agreements yet to materialize; ultimate impact of higher tariffs on growth unknown",
+      "category": "macro"
+    },
+    {
+      "text": "Stress Capital Buffer (SCB) transparency remains opaque \u2014 management cannot fully explain or guarantee durability of the improvement to 3.4% SCB; regulatory capital regime remains fluid",
+      "category": "regulatory"
+    },
+    {
+      "text": "Geopolitical concerns have intensified in multiple regions, particularly the Middle East, creating potential for unexpected market disruptions",
+      "category": "geopolitical"
+    },
+    {
+      "text": "Debt underwriting revenues fell 5% YoY amid lower leveraged finance activity; commodities and mortgages were weak within FICC intermediation",
+      "category": "demand"
+    }
+  ],
+  "guidance": "none",
+  "guidance_items": [
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "Medium-term ROE/ROTE target of mid-to-high teens reaffirmed with increased confidence given regulatory tailwinds and business mix improvement"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "CET1 operating buffer of 50-100 bps above regulatory minimum (10.9% as of Oct 1) reaffirmed as ongoing philosophy"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "Full-year effective tax rate expected at approximately 22%; YTD at 20.2%"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "Alternatives fundraising expected to be in line with recent years; incentive fees of $1B annual target expected to ramp more materially in 2026-2027"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "H2 2025 equity/debt investment revenues expected to be more muted relative to medium-term run rate due to challenging harvesting environment"
+    }
+  ],
+  "themes": [
+    "m_and_a",
+    "ai",
+    "buybacks",
+    "dividends",
+    "regulatory",
+    "margin_expansion",
+    "enterprise_demand",
+    "geopolitical"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Durability and transparency of the SCB improvement \u2014 management did not proactively address whether the stress capital buffer gains are sustainable or model-driven",
+    "Tokenization and digital assets / stablecoin regulatory framework as a business opportunity \u2014 not mentioned in prepared remarks",
+    "Whether trading/markets revenue can remain robust if investment banking activity accelerates \u2014 potential cannibalization or moderation not addressed proactively"
+  ],
+  "_ticker": "GS",
+  "_quarter": "Q2-2025",
+  "_call_date": "2025-07-16",
+  "overall_sentiment": 0.664,
+  "sentiment_bucket": "bullish"
+}

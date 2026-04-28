@@ -1,0 +1,28 @@
+{
+  "line_items": [
+    {
+      "line_item": "revenue",
+      "result": "beat",
+      "reasoning": "Q3 revenue came in at $726M, exceeding the guided range of $697M\u2013$701M by roughly $25M\u2013$29M (~450 bps above the high end), with 30% YoY growth well above the ~23% full-year implied growth rate."
+    },
+    {
+      "line_item": "segment",
+      "result": "beat",
+      "reasoning": "U.S. commercial revenue grew 54% YoY in Q3 (vs. the guided 'at least 47%' for full year 2024), and the Q3 result of $179M puts the full-year run-rate well on track to exceed the $672M floor, with customer count surging 77% YoY to 321."
+    },
+    {
+      "line_item": "margins",
+      "result": "beat",
+      "reasoning": "Adjusted operating margin reached 38% in Q3, implying adjusted income from operations of ~$276M, which significantly exceeds the guided range of $233M\u2013$237M for the quarter."
+    },
+    {
+      "line_item": "other",
+      "result": "beat",
+      "reasoning": "Q3 adjusted FCF alone came in at $435M (60% margin), and trailing 12-month adjusted FCF surpassed $1B for the first time, already at the top end of the full-year guidance range of $800M\u2013$1B with one quarter still remaining; GAAP profitability was also maintained as guided."
+    }
+  ],
+  "overall_surprise": "beat",
+  "_ticker": "PLTR",
+  "_quarter": "Q3-2024",
+  "_prior_quarter": "Q2-2024"
+}

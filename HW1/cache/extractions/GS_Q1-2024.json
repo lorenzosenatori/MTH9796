@@ -1,0 +1,98 @@
+{
+  "prepared_sentiment": 0.65,
+  "qa_sentiment": 0.5,
+  "management_confidence": 0.75,
+  "qa_defensiveness": 0.25,
+  "wins": [
+    {
+      "text": "Net revenues of $14.2B and net earnings of $4.1B, resulting in EPS of $11.58, ROE of 14.8% and ROTE of 15.9%",
+      "category": "revenue"
+    },
+    {
+      "text": "Global Banking & Markets produced $9.7B in revenues with an 18% ROE on a fully allocated basis; FICC financing revenues hit a record $852M, up sequentially",
+      "category": "revenue"
+    },
+    {
+      "text": "Assets under supervision rose to a record $2.8T, representing the 25th consecutive quarter of long-term fee-based net inflows; record management and other fees of $2.5B, up 7% YoY",
+      "category": "growth"
+    },
+    {
+      "text": "Returned $2.4B to shareholders in Q1, including $1.5B in common stock repurchases and $929M in dividends",
+      "category": "buybacks"
+    },
+    {
+      "text": "Non-compensation expenses declined year-on-year even inclusive of a $78M FDIC special assessment charge, and fell sharply versus Q4; efficiency ratio of 60.9%",
+      "category": "cost_savings"
+    }
+  ],
+  "risks": [
+    {
+      "text": "Advisory backlog fell quarter-on-quarter as transactions were brought to market; sponsor-related M&A and leveraged finance activity remains at historically very low levels with no clear near-term catalyst",
+      "category": "demand"
+    },
+    {
+      "text": "CRE exposure of $26B in loans plus $4B AWM alternative equity/debt securities and $2B in equity at risk related to CIEs flagged as an ongoing concern",
+      "category": "other"
+    },
+    {
+      "text": "Platform Solutions segment still posted a pretax net loss of $117M; GreenSky and GM card cleanup charges continue to weigh on results",
+      "category": "execution"
+    },
+    {
+      "text": "Macro uncertainty persists: inflation concerns, potential for fewer-than-expected Fed rate cuts in 2024, and escalating geopolitical tensions could slow growth",
+      "category": "macro"
+    },
+    {
+      "text": "SLR declined to 5.4%, creating a potential leverage constraint that could limit balance sheet growth and pace of capital return",
+      "category": "regulatory"
+    }
+  ],
+  "guidance": "reaffirmed",
+  "guidance_items": [
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "Global Banking & Markets targeted as a mid-teens ROE business through the cycle; Q1 18% ROE characterized as above-average, not a new run rate"
+    },
+    {
+      "line_item": "segment",
+      "direction": "reaffirmed",
+      "detail": "Platform Solutions expected to reach pretax breakeven in 2025; on track per management"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "Alternatives fundraising target of $40B-$50B for full year 2024 reaffirmed; $14B raised in Q1 keeps pace"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "Historical principal investment portfolio reduction pace of ~$1.5B/quarter expected for remainder of 2024; target to sell down vast majority by end of 2026"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "Full-year effective tax rate expected at approximately 22%; equity and debt investments guided to ~$2B annually (~$500M/quarter)"
+    }
+  ],
+  "themes": [
+    "m_and_a",
+    "ai",
+    "margin_expansion",
+    "buybacks",
+    "enterprise_demand",
+    "regulatory",
+    "macro_headwinds",
+    "capex"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Sustainability and run-rate of 18% ROE in Global Banking & Markets \u2014 management proactively called Q1 strong but above average, not a new normal",
+    "SLR leverage ratio declining to 5.4% as a potential binding constraint on balance sheet growth and buyback pace",
+    "Transaction banking strategic pullback \u2014 closing Japan operations and narrowing global ambitions not mentioned in prepared remarks"
+  ],
+  "_ticker": "GS",
+  "_quarter": "Q1-2024",
+  "_call_date": "2024-04-15",
+  "overall_sentiment": 0.59,
+  "sentiment_bucket": "bullish"
+}

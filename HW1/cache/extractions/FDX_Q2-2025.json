@@ -1,0 +1,98 @@
+{
+  "prepared_sentiment": 0.15,
+  "qa_sentiment": 0.05,
+  "management_confidence": 0.62,
+  "qa_defensiveness": 0.25,
+  "wins": [
+    {
+      "text": "Federal Express adjusted operating income grew $146M YoY on essentially flat revenue, with adjusted operating profit up 13% YoY, demonstrating strong cost transformation progress",
+      "category": "margins"
+    },
+    {
+      "text": "DRIVE savings of $540M in Q2, on track to deliver $2.2B in incremental savings for FY'25 and $4B total by end of FY'25 vs. FY'23 baseline",
+      "category": "cost_savings"
+    },
+    {
+      "text": "International export package volumes increased 9% YoY; International Priority freight average daily pounds up 10% and international economy freight up 5%, signaling early Tricolor strategy progress",
+      "category": "growth"
+    },
+    {
+      "text": "Completed $1B in share repurchases in Q2, bringing YTD total to $2B with an additional $500M planned for H2 FY'25",
+      "category": "buybacks"
+    },
+    {
+      "text": "Nonstandard surcharges generating over $180M annualized YoY benefit from new AI image capture process; dimensional pricing at Charles de Gaulle hub expected to deliver $50M+ operating income benefit in FY'25",
+      "category": "revenue"
+    }
+  ],
+  "risks": [
+    {
+      "text": "FY'25 adjusted diluted EPS guidance cut to $19\u2013$20 from prior $20\u2013$21, driven by weaker-than-expected industrial economy and revenue shortfall; revenue net-of-cost headwind widened to $700M from prior $100M estimate",
+      "category": "demand"
+    },
+    {
+      "text": "FedEx Freight operating profit down $179M YoY in Q2; average daily shipments down 8% and weight per shipment down 3% due to soft industrial economy; revenue expected to decline slightly in H2 FY'25",
+      "category": "margins"
+    },
+    {
+      "text": "U.S. Postal Service contract expiration creating ~$500M full-year operating profit headwind, with Q3 impact expected to be the largest before easing in Q4",
+      "category": "execution"
+    },
+    {
+      "text": "U.S. manufacturing PMI in contraction for 24 of the past 25 months \u2014 the second longest downturn in U.S. history \u2014 suppressing B2B volumes which represent ~60% of FEC revenue and ~90% of LTL revenue",
+      "category": "macro"
+    },
+    {
+      "text": "Competitive pricing environment pressuring base rates and yields in both parcel and LTL; international export yield pressure estimated at $300M headwind for FY'25",
+      "category": "margins"
+    }
+  ],
+  "guidance": "lowered",
+  "guidance_items": [
+    {
+      "line_item": "eps",
+      "direction": "lowered",
+      "detail": "FY'25 adjusted diluted EPS revised to $19\u2013$20 from prior $20\u2013$21; midpoint implies ~9.6% YoY adjusted EPS growth on approximately flat revenue"
+    },
+    {
+      "line_item": "revenue",
+      "direction": "lowered",
+      "detail": "Top end assumes low single-digit revenue growth; low end assumes low single-digit revenue decline; midpoint assumes roughly flat revenue YoY vs. prior assumption of modest growth"
+    },
+    {
+      "line_item": "margins",
+      "direction": "reaffirmed",
+      "detail": "Continue to expect YoY adjusted operating margin expansion at Federal Express and margin contraction at FedEx Freight for full year FY'25"
+    },
+    {
+      "line_item": "capex",
+      "direction": "reaffirmed",
+      "detail": "FY'25 CapEx remains $5.2B, flat YoY"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "Full-year DRIVE savings target of $2.2B incremental savings reaffirmed, with sequential build expected in Q3 and Q4"
+    }
+  ],
+  "themes": [
+    "restructuring",
+    "cost_cutting",
+    "margin_pressure",
+    "macro_headwinds",
+    "supply_chain",
+    "buybacks",
+    "product_launch",
+    "tariffs"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Potential USPS privatization and its impact on the competitive landscape",
+    "Tariff pull-forward demand and network agility under a new trade policy regime",
+    "Customer attrition risk and bundle strategy implications from the FedEx Freight separation"
+  ],
+  "_ticker": "FDX",
+  "_quarter": "Q2-2025",
+  "_call_date": "2024-12-19",
+  "overall_sentiment": 0.11,
+  "sentiment_bucket": "slightly_bullish"
+}

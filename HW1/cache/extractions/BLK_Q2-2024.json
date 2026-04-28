@@ -1,0 +1,93 @@
+{
+  "prepared_sentiment": 0.75,
+  "qa_sentiment": 0.65,
+  "management_confidence": 0.85,
+  "qa_defensiveness": 0.1,
+  "wins": [
+    {
+      "text": "Record AUM of $10.6 trillion at end of Q2 2024, with total net inflows of $82 billion ($150 billion excluding episodic client activity), representing 3% annualized organic base fee growth \u2014 highest second quarter in 3 years",
+      "category": "growth"
+    },
+    {
+      "text": "Revenue of $4.8 billion up 8% YoY; operating income of $1.9 billion and EPS of $10.36 each up 12% YoY; operating margin of 44.1% expanded 160 bps YoY",
+      "category": "margins"
+    },
+    {
+      "text": "ETF net inflows of $83 billion in Q2 and $150 billion in H1 2024 \u2014 best start to the year in iShares history, more than double H1 2023; BlackRock led the ETF industry in flows for H1 2024",
+      "category": "revenue"
+    },
+    {
+      "text": "Technology services ACV grew 10% YoY; tech services revenue up 10% YoY and 5% sequentially; 80% of new logo sales included multiple products; Preqin acquisition expected to increase current ACV dollars by ~15%",
+      "category": "product"
+    },
+    {
+      "text": "Aperio crossed $100 billion AUM milestone with 20%+ organic growth since acquisition ~3 years ago; bitcoin ETF gathered $18 billion in net inflows in its first 6 months, reaching nearly $20 billion",
+      "category": "customer"
+    }
+  ],
+  "risks": [
+    {
+      "text": "Total net inflows impacted by an approximately $20 billion active fixed income redemption from a single large insurance client linked to M&A activity, masking underlying flow strength",
+      "category": "customer_concentration"
+    },
+    {
+      "text": "Institutional index net outflows of $35 billion concentrated in low-fee index equities, as several large clients outside the U.S. rebalanced amid record equity market levels",
+      "category": "demand"
+    },
+    {
+      "text": "Technology services ACV growth of 10% is at the low end of the long-term low-to-mid-teens target range, with timing of large contract conversions uncertain",
+      "category": "execution"
+    },
+    {
+      "text": "GIP acquisition still pending regulatory approval with expected Q3 2024 close; Preqin expected to close before year-end \u2014 integration execution risk across two simultaneous large acquisitions",
+      "category": "execution"
+    },
+    {
+      "text": "Nearly $9 trillion sitting in money market funds at 5% yields, keeping many investors overweight cash and delaying re-risking flows into long-term asset classes that would benefit BlackRock",
+      "category": "macro"
+    }
+  ],
+  "guidance": "reaffirmed",
+  "guidance_items": [
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "5% organic base fee growth target reaffirmed over the long term; management expressed strong conviction of reaching it in H2 2024 and beyond"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "ACV growth target of low-to-mid-teens reaffirmed over the long term; Preqin expected to accelerate ACV within that target range after close"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "Head count expected to be broadly flat in 2024 (excluding GIP/Preqin impact); core G&A expense expected to increase low-to-mid-single-digit percentage in 2024"
+    },
+    {
+      "line_item": "capex",
+      "direction": "reaffirmed",
+      "detail": "Share repurchases of at least $375 million per quarter for the balance of 2024, consistent with January guidance; Q2 repurchases of $500 million exceeded planned run rate"
+    }
+  ],
+  "themes": [
+    "ai",
+    "data_center",
+    "m_and_a",
+    "private_markets",
+    "product_launch",
+    "customer_wins",
+    "margin_expansion",
+    "buybacks"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Trajectory and timing of technology services ACV recovery toward mid-teens target given current 10% growth rate",
+    "Specific fundraising strategies and product pipeline for GIP infrastructure platform post-close, including private wealth channel expansion",
+    "Whether re-risking is actually occurring out of cash or is merely rotation within other asset classes"
+  ],
+  "_ticker": "BLK",
+  "_quarter": "Q2-2024",
+  "_call_date": "2024-07-15",
+  "overall_sentiment": 0.71,
+  "sentiment_bucket": "very_bullish"
+}

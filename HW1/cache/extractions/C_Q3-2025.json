@@ -1,0 +1,98 @@
+{
+  "prepared_sentiment": 0.62,
+  "qa_sentiment": 0.45,
+  "management_confidence": 0.72,
+  "qa_defensiveness": 0.25,
+  "wins": [
+    {
+      "text": "Record Q3 revenues of $22.1B, up 9% YoY, with every business posting record third-quarter revenue and positive operating leverage",
+      "category": "revenue"
+    },
+    {
+      "text": "Markets had a record Q3 with revenues up 15%; equities up 24% and fixed income up 12%, with prime balances up ~44%",
+      "category": "revenue"
+    },
+    {
+      "text": "Investment banking fees up 17% across all products: M&A +8%, ECM +35%, DCM +19%",
+      "category": "revenue"
+    },
+    {
+      "text": "Returned over $6B in capital to common shareholders in Q3, including $5B in share repurchases \u2014 $1B above guidance; $8.75B repurchased YTD under $20B program",
+      "category": "buybacks"
+    },
+    {
+      "text": "USPB delivered record quarterly revenue of $5.3B with 12 consecutive quarters of positive operating leverage and ROTCE of 14.5%; Wealth posted record net new investment assets of $18.6B",
+      "category": "growth"
+    }
+  ],
+  "risks": [
+    {
+      "text": "Goodwill impairment of $726M related to Banamex transaction reduced reported EPS to $1.86 vs. adjusted $2.24 and ROTCE to 8% vs. adjusted 9.7%",
+      "category": "execution"
+    },
+    {
+      "text": "Full-year expenses guided higher than previously expected due to FX translation and revenue-linked compensation; efficiency ratio target of slightly below 64% (ex-impairment) implies Q4 expense step-up",
+      "category": "margins"
+    },
+    {
+      "text": "Markets revenues expected to decline more than the historical 15%-20% sequential drop from Q3 to Q4, creating meaningful revenue headwind",
+      "category": "demand"
+    },
+    {
+      "text": "Banamex deconsolidation will trigger ~$9B CTA flowing through P&L as a loss; regulatory approval for 25% stake sale expected to take 9-12 months, extending timeline uncertainty",
+      "category": "execution"
+    },
+    {
+      "text": "Corporate nonaccrual loans increased materially quarter-over-quarter driven by 2 idiosyncratic downgrades; firm-wide ACL build of $2.5B cost of credit with unemployment scenario incorporating 7% downside rate",
+      "category": "other"
+    }
+  ],
+  "guidance": "mixed",
+  "guidance_items": [
+    {
+      "line_item": "revenue",
+      "direction": "raised",
+      "detail": "Confident in exceeding $84B for full year 2025, up from prior $84B floor; NII ex-markets now expected up ~5.5% for full year vs. prior expectations"
+    },
+    {
+      "line_item": "margins",
+      "direction": "reaffirmed",
+      "detail": "Full-year efficiency ratio expected slightly below 64% excluding goodwill impairment, consistent with prior guidance"
+    },
+    {
+      "line_item": "eps",
+      "direction": "lowered",
+      "detail": "Full-year expenses guided higher than previously expected due to FX and revenue-linked comp, pressuring near-term EPS"
+    },
+    {
+      "line_item": "segment",
+      "direction": "lowered",
+      "detail": "Markets Q4 sequential revenue decline expected to exceed historical 15%-20% range given exceptionally strong Q3"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "Credit cost expectations for the year unchanged; share repurchases to continue in Q4 under $20B program; CET1 target of ~12.8%"
+    }
+  ],
+  "themes": [
+    "buybacks",
+    "margin_expansion",
+    "ai",
+    "product_launch",
+    "m_and_a",
+    "restructuring",
+    "customer_wins",
+    "macro_headwinds"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "NBFI/non-depository financial institution loan exposure (~$104B) and credit quality within private credit and securitization portfolios",
+    "Stablecoin adoption strategy and competitive positioning vs. tokenized deposits for institutional payments",
+    "Sustainability of transformation expense base (~$3.5B) and ultimate end-state beyond 2026"
+  ],
+  "_ticker": "C",
+  "_quarter": "Q3-2025",
+  "_call_date": "2025-10-14",
+  "overall_sentiment": 0.552,
+  "sentiment_bucket": "bullish"
+}

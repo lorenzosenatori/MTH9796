@@ -1,0 +1,33 @@
+{
+  "line_items": [
+    {
+      "line_item": "revenue",
+      "result": "beat",
+      "reasoning": "Q4 revenue of $13.7B came in at the high end of the guided range of $12.8B\u2013$13.8B, exceeding the $13.3B midpoint and marking the fifth consecutive quarter of beating guidance."
+    },
+    {
+      "line_item": "margins",
+      "result": "beat",
+      "reasoning": "Non-GAAP EPS beat was explicitly attributed in part to 'stronger gross margins,' implying actual gross margin came in above the guided ~36.5%."
+    },
+    {
+      "line_item": "eps",
+      "result": "beat",
+      "reasoning": "Non-GAAP EPS of $0.15 nearly doubled the guided $0.08, driven by higher revenue, better margins, and spending discipline."
+    },
+    {
+      "line_item": "capex",
+      "result": "inline",
+      "reasoning": "No specific Q4 CapEx deviation was reported; the company did not flag any departure from the guided ~$18B gross CapEx for 2025."
+    },
+    {
+      "line_item": "segment",
+      "result": "beat",
+      "reasoning": "DCAI grew 15% sequentially (the fastest sequential growth this decade), clearly exceeding the 'up strongly' guidance, while CCG directional performance was not flagged as a miss."
+    }
+  ],
+  "overall_surprise": "beat",
+  "_ticker": "INTC",
+  "_quarter": "Q4-2025",
+  "_prior_quarter": "Q3-2025"
+}

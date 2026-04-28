@@ -1,0 +1,33 @@
+{
+  "line_items": [
+    {
+      "line_item": "revenue",
+      "result": "beat",
+      "reasoning": "Q4 revenue came in at $39.3B, clearly exceeding the guided $37.5B +/- 2% (implied range of ~$36.75B\u2013$38.25B) by roughly $1.8B above the top end."
+    },
+    {
+      "line_item": "margins",
+      "result": "inline",
+      "reasoning": "Non-GAAP gross margin of 73.5% landed exactly at the midpoint of the guided 73.5% +/- 50bps range, a perfect match to guidance."
+    },
+    {
+      "line_item": "eps",
+      "result": "beat",
+      "reasoning": "While no explicit EPS guidance was given, the revenue beat and inline margins on a higher revenue base would have driven EPS above any implied baseline, and the reaffirmed tax rate guidance was met."
+    },
+    {
+      "line_item": "capex",
+      "result": "inline",
+      "reasoning": "No explicit deviation from guided GAAP opex of ~$4.8B or non-GAAP opex of ~$3.4B was reported in the results, suggesting spending tracked in line with guidance."
+    },
+    {
+      "line_item": "segment",
+      "result": "mixed",
+      "reasoning": "Gaming declined 22% sequentially (consistent with the guided sequential decline due to supply constraints), but Networking also declined 3% sequentially rather than returning to the guided sequential growth, missing that specific call."
+    }
+  ],
+  "overall_surprise": "beat",
+  "_ticker": "NVDA",
+  "_quarter": "Q4-2025",
+  "_prior_quarter": "Q3-2025"
+}

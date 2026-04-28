@@ -1,0 +1,33 @@
+{
+  "line_items": [
+    {
+      "line_item": "Medium-term ROE/ROTE target (mid-to-high teens)",
+      "result": "beat",
+      "reasoning": "Q3 ROTE of 15.2% and YTD ROTE of 15.6% firmly land in the mid-to-high teens range, with management expressing increased confidence \u2014 results are tracking at or above the guided target."
+    },
+    {
+      "line_item": "CET1 operating buffer of 50-100 bps above regulatory minimum",
+      "result": "beat",
+      "reasoning": "CET1 ratio of 14.4% vs. a 10.9% regulatory requirement represents a ~350 bps buffer, well above the guided 50-100 bps operating philosophy, reflecting a stronger-than-guided capital position."
+    },
+    {
+      "line_item": "Full-year effective tax rate ~22% (YTD at 20.2%)",
+      "result": "inline",
+      "reasoning": "No updated tax rate figure was reported in Q3 results, and there is insufficient information to determine whether the full-year rate deviated materially from the ~22% guidance."
+    },
+    {
+      "line_item": "Alternatives fundraising in line with recent years; incentive fees $1B annual target ramping in 2026-2027",
+      "result": "beat",
+      "reasoning": "Record Q3 alternatives fundraising of $33B brought YTD to $70B, prompting a full-year guidance raise to ~$100B \u2014 a clear beat on fundraising; however, incentive fees remain tracking well below the $1B medium-term target, making this a split outcome that leans beat overall on the fundraising component."
+    },
+    {
+      "line_item": "H2 2025 equity/debt investment revenues expected to be more muted",
+      "result": "inline",
+      "reasoning": "Equities intermediation revenues fell 9% YoY and management flagged a challenging harvesting environment with unrealized AWM incentive fees of $4.6B still pending monetization, consistent with the guided expectation of a more muted H2 investment revenue environment."
+    }
+  ],
+  "overall_surprise": "beat",
+  "_ticker": "GS",
+  "_quarter": "Q3-2025",
+  "_prior_quarter": "Q2-2025"
+}

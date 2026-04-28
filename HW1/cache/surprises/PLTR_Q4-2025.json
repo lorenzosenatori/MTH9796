@@ -1,0 +1,28 @@
+{
+  "line_items": [
+    {
+      "line_item": "revenue",
+      "result": "beat",
+      "reasoning": "Q4 revenue came in at $1.407B, exceeding the high end of guidance ($1.331B) by over 900 basis points and delivering 70% YoY growth vs. the guided ~61% YoY; full-year revenue also surpassed the raised $4.396B\u2013$4.400B range."
+    },
+    {
+      "line_item": "segment",
+      "result": "beat",
+      "reasoning": "Full-year U.S. commercial revenue reached $1.465B (109% YoY growth), exceeding the 'in excess of $1.433B' (at least 104% YoY) guidance raised last quarter."
+    },
+    {
+      "line_item": "margins",
+      "result": "beat",
+      "reasoning": "Q4 adjusted operating income of $798M at a 57% margin exceeded the guided $695M\u2013$699M range by approximately $100M and 500 basis points, a clear and significant beat."
+    },
+    {
+      "line_item": "other",
+      "result": "beat",
+      "reasoning": "Full-year adjusted free cash flow of $2.27B exceeded the raised guidance range of $1.9B\u2013$2.1B, and the full-year Rule of 40 score of 106% surpassed the guided 102%."
+    }
+  ],
+  "overall_surprise": "beat",
+  "_ticker": "PLTR",
+  "_quarter": "Q4-2025",
+  "_prior_quarter": "Q3-2025"
+}

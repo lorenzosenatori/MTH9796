@@ -1,0 +1,98 @@
+{
+  "prepared_sentiment": 0.45,
+  "qa_sentiment": 0.3,
+  "management_confidence": 0.72,
+  "qa_defensiveness": 0.25,
+  "wins": [
+    {
+      "text": "Firm reported Q4 net income of $14B, EPS of $4.81 on revenue of $43.7B, ROTCE of 21%; full-year net income of $54B, EPS of $18.22, revenue of $173B, ROTCE of 20%",
+      "category": "revenue"
+    },
+    {
+      "text": "CIB IB fees up 49% YoY with #1 wallet share of 9.3% for 2024; advisory up 41%, debt underwriting up 56%, equity underwriting up 54%",
+      "category": "revenue"
+    },
+    {
+      "text": "Markets total revenue of $7B, up 21% YoY; Fixed Income up 20%, Equities up 22% on elevated client activity",
+      "category": "revenue"
+    },
+    {
+      "text": "AWM AUM reached $4 trillion and client assets $5.9 trillion, both up 18% YoY; record long-term net inflows of $234B for full year 2024",
+      "category": "growth"
+    },
+    {
+      "text": "CET1 ratio of 15.7%, up 40 bps QoQ; $4B of net common share repurchases in Q4; management signaled intent to arrest excess capital growth via increased buybacks",
+      "category": "buybacks"
+    }
+  ],
+  "risks": [
+    {
+      "text": "2025 NII ex Markets guided to ~$90B, implying a YoY decline from 2024 levels, with NII trough expected mid-year driven by rate cuts and deposit margin compression",
+      "category": "margins"
+    },
+    {
+      "text": "CCB Banking & Wealth Management revenue down 7% YoY on deposit margin compression and lower deposits; NII ex Markets down $548M or 2% YoY in Q4",
+      "category": "margins"
+    },
+    {
+      "text": "Card net charge-offs up $428M YoY to $2.1B; net reserve build of $557M driven by higher revolving balances; 2025 Card NCO rate guided at ~3.6%",
+      "category": "demand"
+    },
+    {
+      "text": "Loan growth not materializing despite improved business sentiment post-election; wholesale and commercial loans down 1-2% QoQ; management cited wide-open capital markets and residual policy uncertainty as headwinds",
+      "category": "demand"
+    },
+    {
+      "text": "2025 expenses guided to ~$95B, up meaningfully YoY, driven by volume/revenue-related costs, tech investment, marketing, and inflation; management flagged tension between investment spend and efficiency",
+      "category": "margins"
+    }
+  ],
+  "guidance": "mixed",
+  "guidance_items": [
+    {
+      "line_item": "revenue",
+      "direction": "reaffirmed",
+      "detail": "2025 NII ex Markets expected ~$90B; firm-wide NII ~$94B including ~$4B Markets NII; NII trough expected mid-year with sequential growth in H2 2025"
+    },
+    {
+      "line_item": "other",
+      "direction": "lowered",
+      "detail": "Card loan growth expected healthy but below 2024's 12% pace as revolver normalization tailwinds are largely behind"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "2025 Card net charge-off rate guided at ~3.6%, in line with previous guidance"
+    },
+    {
+      "line_item": "other",
+      "direction": "raised",
+      "detail": "2025 expenses guided to ~$95B, up from 2024 levels, driven by volume/revenue-related costs, tech, marketing, and inflation"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "Deposit growth expected to stabilize with more visible growth trend in H2 2025; modest deposit margin compression expected due to lower rates"
+    }
+  ],
+  "themes": [
+    "margin_pressure",
+    "buybacks",
+    "enterprise_demand",
+    "macro_headwinds",
+    "regulatory",
+    "consumer_weakness",
+    "capital_expenditure",
+    "guidance_beat"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "CEO succession timeline and identity of successor",
+    "G-SIB surcharge bucket risk and stress capital buffer trajectory under evolving regulatory framework",
+    "Potential for special dividend as a capital return mechanism"
+  ],
+  "_ticker": "JPM",
+  "_quarter": "Q4-2024",
+  "_call_date": "2025-01-15",
+  "overall_sentiment": 0.39,
+  "sentiment_bucket": "bullish"
+}

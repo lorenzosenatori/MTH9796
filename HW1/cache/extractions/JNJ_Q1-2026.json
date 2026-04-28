@@ -1,0 +1,93 @@
+{
+  "prepared_sentiment": 0.75,
+  "qa_sentiment": 0.65,
+  "management_confidence": 0.82,
+  "qa_defensiveness": 0.15,
+  "wins": [
+    {
+      "text": "Worldwide Q1 sales of $24.1B, operational growth of 6.4% despite ~540 bps STELARA headwind; excluding STELARA, company grew double digits",
+      "category": "revenue"
+    },
+    {
+      "text": "DARZALEX sales reached $4B with 17.8% operational growth, driven by 5.9 points of share gains across all lines of therapy and nearly 12 points in frontline",
+      "category": "revenue"
+    },
+    {
+      "text": "TREMFYA delivered 63.8% growth, now the share leader in new patient starts in IBD and fastest-growing IL-23 therapy in the U.S.",
+      "category": "growth"
+    },
+    {
+      "text": "CARVYKTI achieved ~$600M in sales with 57.4% growth; TALVEY grew 72.8%; SPRAVATO grew 44.5% \u2014 multiple oncology/neuroscience brands delivering high double-digit growth",
+      "category": "revenue"
+    },
+    {
+      "text": "Full year 2026 operational sales guidance raised to 5.9%\u20136.9% with midpoint of $100.2B; adjusted EPS guidance raised by $0.02 to $11.30\u2013$11.50 range; 64th consecutive year of dividend growth announced at 3.1% increase to $5.36/share",
+      "category": "other"
+    }
+  ],
+  "risks": [
+    {
+      "text": "STELARA declined 61.7% due to biosimilar competition, creating an ~920 bps headwind to Innovative Medicine and ~540 bps headwind to total company growth",
+      "category": "competition"
+    },
+    {
+      "text": "Adjusted pretax operating margin compressed from 36.6% to 32.5%; Innovative Medicine margin fell from 42.5% to 39.7% and MedTech margin fell from 25.9% to 22.3%, driven by tariff impacts, heavier launch investment and unfavorable mix",
+      "category": "margins"
+    },
+    {
+      "text": "Tariff impact on MedTech cost of goods sold cited as a driver of margin deleverage; broader tariff environment flagged as an ongoing headwind",
+      "category": "macro"
+    },
+    {
+      "text": "Volume-based procurement (VBP) in China expected to create second-half headwind for electrophysiology products, already factored into full-year guidance",
+      "category": "macro"
+    },
+    {
+      "text": "U.S. Surgical Vision declined in Q1 due to new competitive entrants; Surgery segment grew only 1.2% with competitive pressures in energy and endocutters and VBP in China across the portfolio",
+      "category": "competition"
+    }
+  ],
+  "guidance": "raised",
+  "guidance_items": [
+    {
+      "line_item": "revenue",
+      "direction": "raised",
+      "detail": "Operational sales guidance raised to 5.9%\u20136.9% growth with midpoint of $100.2B (6.4%); reported sales growth guided to 6.5%\u20137.5% with midpoint of $100.8B (7%), reflecting flat euro spot rate vs. prior quarter"
+    },
+    {
+      "line_item": "eps",
+      "direction": "raised",
+      "detail": "Adjusted operational EPS raised by $0.02 to $11.30\u2013$11.50 range (5.7% growth at midpoint); reported adjusted EPS midpoint of $11.55 (7.1% growth)"
+    },
+    {
+      "line_item": "margins",
+      "direction": "reaffirmed",
+      "detail": "Adjusted pretax operating margin guidance maintained at improvement of at least 50 bps for full year 2026, with heavier investment front-loaded in H1"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "Full-year free cash flow outlook maintained at approximately $21B; net interest expense, net other income, and effective tax rate guidance all unchanged"
+    }
+  ],
+  "themes": [
+    "product_launch",
+    "customer_wins",
+    "margin_pressure",
+    "tariffs",
+    "china_exposure",
+    "dividends",
+    "enterprise_demand",
+    "guidance_beat"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Abiomed/Impella competitive and clinical risk \u2014 post-ACC data suggesting potential 30% reduction in high-risk population use, and increasing IVL competitive dynamics for Shockwave",
+    "U.S. Surgical Vision decline in Q1 due to new competitive entrants \u2014 management did not proactively address the U.S.-specific softness",
+    "ICONIC-ASCEND head-to-head trial readout vs. TYK2 inhibitor and its importance to ICOTYDE payer/commercial negotiations \u2014 not mentioned in prepared remarks"
+  ],
+  "_ticker": "JNJ",
+  "_quarter": "Q1-2026",
+  "_call_date": "2026-04-14",
+  "overall_sentiment": 0.71,
+  "sentiment_bucket": "very_bullish"
+}

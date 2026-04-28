@@ -1,0 +1,28 @@
+{
+  "line_items": [
+    {
+      "line_item": "revenue",
+      "result": "inline",
+      "reasoning": "Full-year revenue guidance of $80B\u2013$81B was reaffirmed this quarter; Q2 revenues were up 4% YoY across all five businesses with strong IB and Equities performance, but NII ex-Markets was down ~3% sequentially as guided (modestly down), keeping the full-year trajectory consistent with prior guidance."
+    },
+    {
+      "line_item": "expenses",
+      "result": "beat",
+      "reasoning": "Q2 expenses came in at $13.4B, down 6% sequentially and 2% YoY, tracking below Q1 levels exactly as guided and running at an annualized pace that is comfortably within the $53.5B\u2013$53.8B full-year guidance range, with additional medium-term savings of $2B\u2013$2.5B announced."
+    },
+    {
+      "line_item": "segment (credit/NCL rates)",
+      "result": "inline",
+      "reasoning": "Retail Services NCL rate was guided to the high end of the 5.75%\u20136.25% range, and Q2 results confirmed it is tracking to exactly that high end, matching the updated guidance rather than surprising in either direction."
+    },
+    {
+      "line_item": "medium-term ROTCE / expense targets",
+      "result": "inline",
+      "reasoning": "The medium-term ROTCE target of 11%\u201312% and expense range of $51B\u2013$53B were reaffirmed again this quarter; Q2 ROTCE of 7.2% is below the medium-term target but consistent with the multi-year glide path, and no guidance was changed."
+    }
+  ],
+  "overall_surprise": "inline",
+  "_ticker": "C",
+  "_quarter": "Q2-2024",
+  "_prior_quarter": "Q1-2024"
+}

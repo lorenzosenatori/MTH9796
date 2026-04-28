@@ -1,0 +1,23 @@
+{
+  "line_items": [
+    {
+      "line_item": "capex",
+      "result": "inline",
+      "reasoning": "No specific capex figures were reported for Q2 that contradict the full-year $225M\u2013$245M guidance; strong operating cash flow of $258M and continued hub automation/FMI/IT investments suggest spending remains on track."
+    },
+    {
+      "line_item": "margins (Q2 incremental headwind)",
+      "result": "miss",
+      "reasoning": "Guidance called for ~30 bps of incremental Q2 operating margin headwind from expo/customer service investments, but actual operating margin declined 80 bps YoY and gross margin fell 40 bps \u2014 meaningfully worse than the guided incremental pressure, driven by mix, pricing slippage, and demand weakness beyond what was anticipated."
+    },
+    {
+      "line_item": "margins (full-year gross margin cadence)",
+      "result": "miss",
+      "reasoning": "Full-year gross margin was guided to be down 'modestly' and consistent with Q1's 20 bps decline, but Q2 gross margin fell 40 bps YoY to 45.1% \u2014 double the Q1 rate of decline \u2014 due to product/customer mix deterioration and negative pricing in non-fastener/safety categories, indicating the cadence is tracking worse than guided."
+    }
+  ],
+  "overall_surprise": "miss",
+  "_ticker": "FAST",
+  "_quarter": "Q2-2024",
+  "_prior_quarter": "Q1-2024"
+}

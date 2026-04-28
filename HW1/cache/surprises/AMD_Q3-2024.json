@@ -1,0 +1,28 @@
+{
+  "line_items": [
+    {
+      "line_item": "revenue",
+      "result": "beat",
+      "reasoning": "Q3 revenue came in at $6.8B, above the guided ~$6.7B midpoint and above the top end of the \u00b1$300M range ($7.0B ceiling), and full-year Data Center GPU outlook was raised to >$5B vs. the prior >$4.5B guide."
+    },
+    {
+      "line_item": "margins",
+      "result": "beat",
+      "reasoning": "Non-GAAP gross margin of 54.0% exceeded the guided ~53.5%, driven by a favorable Data Center revenue mix now exceeding 50% of total revenue."
+    },
+    {
+      "line_item": "other",
+      "result": "inline",
+      "reasoning": "No explicit contradictions were reported for the guided ~$1.9B non-GAAP opex, ~13% tax rate, or ~1.64B diluted share count, suggesting these came in roughly as expected."
+    },
+    {
+      "line_item": "segment",
+      "result": "mixed",
+      "reasoning": "Data Center grew strongly (+25% QoQ) and Client grew (+26% QoQ), both beating expectations, but Embedded declined 25% YoY with little recovery (vs. guided 'up sequentially'), and Gaming fell 29% QoQ \u2014 worse than the guided 'down double-digit percentage' range."
+    }
+  ],
+  "overall_surprise": "beat",
+  "_ticker": "AMD",
+  "_quarter": "Q3-2024",
+  "_prior_quarter": "Q2-2024"
+}

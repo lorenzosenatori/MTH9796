@@ -1,0 +1,28 @@
+{
+  "line_items": [
+    {
+      "line_item": "capex",
+      "result": "inline",
+      "reasoning": "No specific capex actuals were reported in Q3 results to compare against the raised $235M\u2013$255M full-year guidance range, so there is insufficient information to determine a beat or miss."
+    },
+    {
+      "line_item": "margins",
+      "result": "miss",
+      "reasoning": "Q3 gross margin declined 100 bps YoY to 44.9%, falling short of guidance that margins would be roughly in line with Q2 seasonality or slightly better, pressured by mix, import duties, a non-recurring prior-year rebate, and lower supplier rebates."
+    },
+    {
+      "line_item": "other (digital footprint)",
+      "result": "miss",
+      "reasoning": "Digital footprint came in at 61.1% of sales in Q3 2024, below even the already-lowered full-year target of ~63%, indicating the downward revision was still not conservative enough given continued weakness in customer spending volumes."
+    },
+    {
+      "line_item": "revenue",
+      "result": "inline",
+      "reasoning": "No quantitative revenue target was provided in prior guidance, so with daily sales rate growth of 1.9% in a persistently weak macro environment, results are treated as inline against the vague expectation of H2 benefit from H1 signings activity."
+    }
+  ],
+  "overall_surprise": "miss",
+  "_ticker": "FAST",
+  "_quarter": "Q3-2024",
+  "_prior_quarter": "Q2-2024"
+}

@@ -1,0 +1,23 @@
+{
+  "line_items": [
+    {
+      "line_item": "revenue",
+      "result": "beat",
+      "reasoning": "Management guided for double-digit net sales growth in 2026, and Q1 delivered 12.4% daily sales growth YoY \u2014 the third consecutive quarter of double-digit growth \u2014 clearly meeting and slightly exceeding the directional target."
+    },
+    {
+      "line_item": "margins",
+      "result": "miss",
+      "reasoning": "While operating margin improved 20 bps YoY (a positive), gross margin came in ~40 bps below FAST's own internal Q1 target and 50 bps below prior year, driven by tariff-related cost increases outpacing pricing actions \u2014 a clear miss on the gross margin line relative to their own expectations."
+    },
+    {
+      "line_item": "capex",
+      "result": "inline",
+      "reasoning": "No specific Q1 CapEx figure was reported in the current results to compare against the ~3.5% of net sales 2026 guide, and guidance was reaffirmed, suggesting CapEx spending is tracking in line with plan."
+    }
+  ],
+  "overall_surprise": "mixed",
+  "_ticker": "FAST",
+  "_quarter": "Q1-2026",
+  "_prior_quarter": "Q4-2025"
+}

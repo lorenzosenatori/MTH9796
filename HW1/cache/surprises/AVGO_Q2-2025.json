@@ -1,0 +1,33 @@
+{
+  "line_items": [
+    {
+      "line_item": "revenue",
+      "result": "beat",
+      "reasoning": "Q2 revenue came in at $15.0B vs. guidance of ~$14.9B, a record quarter and slightly above the guided figure with 20% YoY growth vs. guided 19%."
+    },
+    {
+      "line_item": "segment \u2013 AI revenue",
+      "result": "inline",
+      "reasoning": "AI semiconductor revenue hit exactly $4.4B as guided, up 46% YoY (vs. guided 44%), matching the dollar target precisely even if the growth rate was marginally higher."
+    },
+    {
+      "line_item": "segment \u2013 infrastructure software revenue",
+      "result": "beat",
+      "reasoning": "Infrastructure software revenue of $6.6B came in above the guided ~$6.5B, driven by stronger-than-expected VCF/VMware adoption (87%+ of top 10K customers on VCF)."
+    },
+    {
+      "line_item": "margins",
+      "result": "beat",
+      "reasoning": "Adjusted EBITDA margin of 67% exceeded the guided ~66%, with infrastructure software operating margin also expanding strongly to ~76%, outperforming the guided step-down scenario."
+    },
+    {
+      "line_item": "other \u2013 non-GAAP tax rate",
+      "result": "inline",
+      "reasoning": "No indication that the non-GAAP tax rate deviated from the guided ~14% for Q2 or FY2025; results are consistent with prior guidance."
+    }
+  ],
+  "overall_surprise": "beat",
+  "_ticker": "AVGO",
+  "_quarter": "Q2-2025",
+  "_prior_quarter": "Q1-2025"
+}

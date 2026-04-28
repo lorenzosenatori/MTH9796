@@ -1,0 +1,28 @@
+{
+  "line_items": [
+    {
+      "line_item": "revenue",
+      "result": "beat",
+      "reasoning": "Q4 revenue came in at a record $7.7B, above the guided ~$7.5B \u00b1$300M midpoint and above the top end of the range ($7.8B), representing a clear beat at the midpoint."
+    },
+    {
+      "line_item": "segment",
+      "result": "inline",
+      "reasoning": "Full-year 2024 Data Center AI GPU revenue 'exceeded $5B,' which exactly matches the raised guidance threshold of exceeding $5B set in Q3 \u2014 a meet, not a clear beat above the new bar."
+    },
+    {
+      "line_item": "margins",
+      "result": "inline",
+      "reasoning": "Q4 non-GAAP gross margin was not explicitly stated in the reported results, but no mention of a deviation from the guided ~54% was flagged, suggesting results were roughly in line."
+    },
+    {
+      "line_item": "other",
+      "result": "inline",
+      "reasoning": "No reported results explicitly called out deviations in non-GAAP opex (~$2.05B), tax rate (~13%), or diluted share count (~1.64B), suggesting these came in roughly as guided."
+    }
+  ],
+  "overall_surprise": "mixed",
+  "_ticker": "AMD",
+  "_quarter": "Q4-2024",
+  "_prior_quarter": "Q3-2024"
+}

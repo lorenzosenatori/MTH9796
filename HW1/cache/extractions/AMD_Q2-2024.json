@@ -1,0 +1,93 @@
+{
+  "prepared_sentiment": 0.78,
+  "qa_sentiment": 0.62,
+  "management_confidence": 0.82,
+  "qa_defensiveness": 0.18,
+  "wins": [
+    {
+      "text": "Data Center segment revenue hit a record $2.8B, up 115% YoY, with MI300 GPU quarterly revenue exceeding $1B for the first time",
+      "category": "revenue"
+    },
+    {
+      "text": "Non-GAAP gross margin expanded 340 bps YoY to 53%, driven by higher Data Center revenue mix approaching 50% of total sales",
+      "category": "margins"
+    },
+    {
+      "text": "Client segment revenue grew 49% YoY to $1.5B; segment swung from a $69M operating loss a year ago to $89M operating income",
+      "category": "revenue"
+    },
+    {
+      "text": "Data Center GPU full-year 2024 revenue outlook raised to >$4.5B from prior $4.0B guide given accelerating MI300 customer deployments",
+      "category": "growth"
+    },
+    {
+      "text": "EPYC enterprise sell-through increased strong double-digit percentage sequentially with new customer wins at Adobe, Boeing, Industrial Light & Magic, Optiver, and Siemens; cloud instances up 34% YoY to 900+",
+      "category": "customer"
+    }
+  ],
+  "risks": [
+    {
+      "text": "Gaming segment revenue collapsed 59% YoY and 30% QoQ to $648M; semi-custom SoC demand expected to be lower in H2 vs H1 as console cycle enters year five",
+      "category": "demand"
+    },
+    {
+      "text": "Embedded segment revenue down 41% YoY to $861M; recovery described as 'gradual' with only single-digit sequential growth expected in Q3",
+      "category": "demand"
+    },
+    {
+      "text": "Overall AI accelerator supply chain described as 'tight and will remain tight through 2025,' including HBM and CoWoS packaging constraints",
+      "category": "supply_chain"
+    },
+    {
+      "text": "Operating expenses rose 15% YoY to $1.8B and guided to ~$1.9B in Q3, compressing operating leverage even as revenue grows",
+      "category": "margins"
+    },
+    {
+      "text": "MI300 gross margin still below corporate average; accretion to corporate average is a longer-term target, not yet achieved",
+      "category": "margins"
+    }
+  ],
+  "guidance": "raised",
+  "guidance_items": [
+    {
+      "line_item": "revenue",
+      "direction": "raised",
+      "detail": "Q3 2024 revenue guided to ~$6.7B \u00b1$300M, implying ~15% sequential and ~16% YoY growth; full-year Data Center GPU revenue raised to >$4.5B from prior $4.0B"
+    },
+    {
+      "line_item": "margins",
+      "direction": "raised",
+      "detail": "Q3 non-GAAP gross margin guided to ~53.5%, up from 53.0% in Q2"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "Q3 non-GAAP operating expenses ~$1.9B; non-GAAP effective tax rate ~13%; diluted share count ~1.64B"
+    },
+    {
+      "line_item": "segment",
+      "direction": "raised",
+      "detail": "Q3 Data Center and Client segments expected to grow; Embedded up sequentially; Gaming down double-digit percentage QoQ"
+    }
+  ],
+  "themes": [
+    "ai",
+    "data_center",
+    "product_launch",
+    "customer_wins",
+    "supply_chain",
+    "margin_expansion",
+    "m_and_a",
+    "enterprise_demand"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Training vs. inference revenue split for MI300 and AMD's traction on the training side",
+    "Rack-level system integration gap versus primary competitor and timeline to close it",
+    "Whether the >$4.5B Data Center GPU forecast is supply-constrained vs. demand-constrained"
+  ],
+  "_ticker": "AMD",
+  "_quarter": "Q2-2024",
+  "_call_date": "2024-07-30",
+  "overall_sentiment": 0.716,
+  "sentiment_bucket": "very_bullish"
+}

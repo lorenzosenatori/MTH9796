@@ -1,0 +1,28 @@
+{
+  "line_items": [
+    {
+      "line_item": "revenue",
+      "result": "miss",
+      "reasoning": "Q4 revenue was guided to grow 'up slightly,' but NIKE Digital declined 10%, lifestyle business declined, and FY25 revenue was cut dramatically to down mid-single digits vs. prior guidance of down low single digits in H1 only \u2014 signaling Q4 revenue momentum fell well short of expectations."
+    },
+    {
+      "line_item": "margins",
+      "result": "miss",
+      "reasoning": "Q4 gross margin expanded only 110 bps to 44.7%, falling short of the guided 160\u2013180 bps expansion range."
+    },
+    {
+      "line_item": "eps",
+      "result": "beat",
+      "reasoning": "Q4 diluted EPS of $0.99 was up 50% versus prior year and full-year EPS grew 15%, suggesting earnings came in well ahead of the reaffirmed full-year outlook, aided by cost savings and restructuring benefits."
+    },
+    {
+      "line_item": "segment",
+      "result": "miss",
+      "reasoning": "FY25 revenue is now expected to be down mid-single digits with Q1 alone down ~10%, a significant deterioration versus the prior guidance of H1 FY25 down only low single digits, driven by worse-than-expected franchise lifecycle headwinds and digital softness."
+    }
+  ],
+  "overall_surprise": "mixed",
+  "_ticker": "NKE",
+  "_quarter": "Q4-2024",
+  "_prior_quarter": "Q3-2024"
+}

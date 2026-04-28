@@ -1,0 +1,33 @@
+{
+  "line_items": [
+    {
+      "line_item": "revenue (Total NII ~$90B; NII ex Markets ~$89B)",
+      "result": "beat",
+      "reasoning": "JPM reported record revenue of $51B in Q2 alone, and with strong Markets revenue of $7.8B (up 10% YoY) and IB fees surging 50% YoY, the firm is tracking well ahead of the ~$90B full-year NII guidance, with no indication of a shortfall."
+    },
+    {
+      "line_item": "other (Markets NII ~$1B, revenue-neutral shift)",
+      "result": "inline",
+      "reasoning": "The balance sheet mix shift in financing businesses was flagged as revenue-neutral and there is no specific Q2 Markets NII figure reported that contradicts the ~$1B guidance; total Markets revenue of $7.8B was strong, consistent with the revenue-neutral framing."
+    },
+    {
+      "line_item": "other (Adjusted expense outlook ~$91B)",
+      "result": "inline",
+      "reasoning": "No specific Q2 expense figure was called out as deviating from the ~$91B full-year adjusted expense guidance, and the guidance was reaffirmed this quarter with no upward or downward revision flagged."
+    },
+    {
+      "line_item": "other (Card net charge-off rate below 3.5%)",
+      "result": "miss",
+      "reasoning": "Card net charge-offs rose $813M YoY to $2.1B in Q2 and the full-year Card allowance build is now expected slightly above the prior $2B estimate, signaling deterioration beyond prior guidance and raising risk that the <3.5% NCO rate target may be breached."
+    },
+    {
+      "line_item": "other (Effective tax rate ~23%)",
+      "result": "inline",
+      "reasoning": "No deviation from the ~23% effective tax rate guidance was reported in Q2 results, and the guidance was reaffirmed this quarter without any noted discrete items impacting the annual rate."
+    }
+  ],
+  "overall_surprise": "mixed",
+  "_ticker": "JPM",
+  "_quarter": "Q2-2024",
+  "_prior_quarter": "Q1-2024"
+}

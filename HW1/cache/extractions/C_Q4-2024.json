@@ -1,0 +1,98 @@
+{
+  "prepared_sentiment": 0.35,
+  "qa_sentiment": 0.05,
+  "management_confidence": 0.65,
+  "qa_defensiveness": 0.45,
+  "wins": [
+    {
+      "text": "Full year net income up nearly 40% to $12.7 billion; RoTCE improved over 200 bps to 7% for the year",
+      "category": "revenue"
+    },
+    {
+      "text": "Markets had its highest Q4 revenue in a decade, up 36% YoY; Equities up 26% for the year, a record; Banking fees up 42% for the full year with ~50 bps of share gained",
+      "category": "revenue"
+    },
+    {
+      "text": "Board authorized a $20 billion share repurchase program; returned nearly $7 billion in capital to common shareholders in 2024",
+      "category": "buybacks"
+    },
+    {
+      "text": "Services delivered record full year revenues of $19.6 billion, up 9%, with RoTCE of 26%; gained share in both TTS and Security Services",
+      "category": "growth"
+    },
+    {
+      "text": "Wealth Q4 revenue up 20%, pretax margin of 21%, net new investment asset inflows of $42 billion, up 40% YoY; Citigold Asia particularly strong",
+      "category": "customer"
+    }
+  ],
+  "risks": [
+    {
+      "text": "2026 RoTCE target cut to 10%-11% from prior 11%-12%, driven by elevated transformation and technology investment needs, particularly in data and regulatory reporting",
+      "category": "execution"
+    },
+    {
+      "text": "Card net credit losses expected to creep toward the high end of guidance ranges: branded cards ~4%, retail services ~6.28%; provision builds expected to continue on volume growth",
+      "category": "margins"
+    },
+    {
+      "text": "Expenses remain elevated; 2025 expenses guided to only slightly below $53.8 billion, with $600 million repositioning charge still embedded; path to sub-60% efficiency ratio pushed beyond 2026",
+      "category": "margins"
+    },
+    {
+      "text": "Banamex IPO timeline uncertain, dependent on regulatory approvals and market conditions; could slip into 2026, delaying RWA release and capital benefit",
+      "category": "regulatory"
+    },
+    {
+      "text": "Macro uncertainty around tariffs, tax policy, non-U.S. rate cuts, FX translation, and potential card late fee regulation create headwinds to NII and revenue growth",
+      "category": "macro"
+    }
+  ],
+  "guidance": "mixed",
+  "guidance_items": [
+    {
+      "line_item": "revenue",
+      "direction": "raised",
+      "detail": "2025 revenues guided to $83.5B-$84.5B, ~3%-4% growth YoY, above prior medium-term 4%-5% growth framework baseline"
+    },
+    {
+      "line_item": "other",
+      "direction": "lowered",
+      "detail": "2026 RoTCE target lowered to 10%-11% from prior 11%-12%"
+    },
+    {
+      "line_item": "margins",
+      "direction": "reaffirmed",
+      "detail": "Targeting sub-60% efficiency ratio as firm exits 2026; positive operating leverage expected every year"
+    },
+    {
+      "line_item": "eps",
+      "direction": "reaffirmed",
+      "detail": "NII ex-Markets expected up modestly (~2%-3%) in 2025; tailwinds from loan/deposit volume growth and portfolio repricing partially offset by rate cuts and FX"
+    },
+    {
+      "line_item": "capex",
+      "direction": "reaffirmed",
+      "detail": "2025 expenses expected slightly below $53.8B; 2026 expenses targeted below $53B, driven by stranded cost reduction, lower severance (~$300M normalized vs. $600M guided for 2025), and productivity savings"
+    }
+  ],
+  "themes": [
+    "margin_expansion",
+    "restructuring",
+    "buybacks",
+    "regulatory",
+    "ai",
+    "product_launch",
+    "customer_wins",
+    "macro_headwinds"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Pace and specific timing of the $20 billion buyback program beyond Q1 2025 \u2014 management did not proactively address quarterly cadence or milestones for accelerating repurchases",
+    "Structural low RoTCE of U.S. Personal Banking (below cost of capital) and its loan-heavy, deposit-light balance sheet relative to peers \u2014 not addressed in prepared remarks",
+    "Specific magnitude of technology and transformation spend increases embedded in 2025 and 2026 expense guidance \u2014 management disclosed directional increase but no dollar figures in prepared remarks"
+  ],
+  "_ticker": "C",
+  "_quarter": "Q4-2024",
+  "_call_date": "2025-01-15",
+  "overall_sentiment": 0.23,
+  "sentiment_bucket": "slightly_bullish"
+}

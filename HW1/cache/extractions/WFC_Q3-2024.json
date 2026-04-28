@@ -1,0 +1,83 @@
+{
+  "prepared_sentiment": 0.3,
+  "qa_sentiment": 0.15,
+  "management_confidence": 0.62,
+  "qa_defensiveness": 0.35,
+  "wins": [
+    {
+      "text": "Net income of $5.1B, diluted EPS of $1.42, ROE of 11.7% and ROTCE of 13.9%, all up from Q2",
+      "category": "revenue"
+    },
+    {
+      "text": "Noninterest income grew 12% YoY with double-digit increases in investment advisory, trading gains, deposit-related fees, and investment banking",
+      "category": "revenue"
+    },
+    {
+      "text": "Repurchased $3.5B of common stock in Q3 and $15.6B YTD, up over 60% from a year ago; dividend increased 14% in Q3",
+      "category": "buybacks"
+    },
+    {
+      "text": "Net loan charge-offs declined 8 bps QoQ to 49 bps of average loans, driven by lower commercial and credit card losses; CRE office nonaccruals declined $164M",
+      "category": "other"
+    },
+    {
+      "text": "CET1 ratio improved to 11.3% from 11.0% last quarter, 150 bps above new regulatory minimum plus buffers of 9.8%; fee-based revenue up 16% in first 9 months of 2024",
+      "category": "margins"
+    }
+  ],
+  "risks": [
+    {
+      "text": "Net interest income declined $233M or 2% from Q2; full-year 2024 NII expected to be ~9% below 2023, with trough timing uncertain and dependent on Fed rate path, deposit mix, and pricing",
+      "category": "margins"
+    },
+    {
+      "text": "Average loans declined QoQ and YoY; commercial loan demand remains weak due to economic uncertainty and high borrowing costs, with no near-term recovery expected",
+      "category": "demand"
+    },
+    {
+      "text": "New formal agreement with the OCC on AML/KYC controls adds to existing regulatory burden; asset cap from 2018 Fed consent order remains in place with no specific timeline for removal",
+      "category": "regulatory"
+    },
+    {
+      "text": "Commercial real estate office portfolio continues to deteriorate \u2014 market fundamentals remain weak, losses expected to be lumpy, and more properties are being impacted over time",
+      "category": "margins"
+    },
+    {
+      "text": "Consumer stress more pronounced in lower-income segments where inflation has partially offset wage and employment gains; credit card payment rates modestly lower YoY",
+      "category": "demand"
+    }
+  ],
+  "guidance": "reaffirmed",
+  "guidance_items": [
+    {
+      "line_item": "revenue",
+      "direction": "reaffirmed",
+      "detail": "Q4 2024 NII expected to be roughly in line with Q3 2024, implying ~9% full-year 2024 NII decline vs. 2023; management believes NII is near trough"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "Full-year 2024 noninterest expense still expected to be approximately $54B, unchanged from prior guidance"
+    }
+  ],
+  "themes": [
+    "margin_pressure",
+    "buybacks",
+    "regulatory",
+    "cost_cutting",
+    "enterprise_demand",
+    "macro_headwinds",
+    "customer_wins",
+    "inventory"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Mechanics and timeline of asset cap removal relative to full consent order resolution",
+    "AML/KYC OCC formal agreement \u2014 cost implications and whether industry-wide or Wells-specific",
+    "Quarter-to-quarter buyback pace and capital return cadence through next DFAST/SCB cycle"
+  ],
+  "_ticker": "WFC",
+  "_quarter": "Q3-2024",
+  "_call_date": "2024-10-11",
+  "overall_sentiment": 0.24,
+  "sentiment_bucket": "slightly_bullish"
+}

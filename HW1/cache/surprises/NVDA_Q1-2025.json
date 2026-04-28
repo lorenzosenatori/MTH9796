@@ -1,0 +1,23 @@
+{
+  "line_items": [
+    {
+      "line_item": "revenue",
+      "result": "beat",
+      "reasoning": "Q1 actual revenue of $26B significantly exceeded the prior guidance of $24B (+/- 2%), representing an ~8% beat at the midpoint."
+    },
+    {
+      "line_item": "margins",
+      "result": "beat",
+      "reasoning": "Non-GAAP gross margins came in at 78.9%, well above the guided 77% (+/- 50bps), driven by lower inventory costs."
+    },
+    {
+      "line_item": "other",
+      "result": "inline",
+      "reasoning": "No specific operating expense figures were reported in the current results to confirm or deny the mid-30% growth guidance, so this is treated as inline by default."
+    }
+  ],
+  "overall_surprise": "beat",
+  "_ticker": "NVDA",
+  "_quarter": "Q1-2025",
+  "_prior_quarter": "Q4-2024"
+}

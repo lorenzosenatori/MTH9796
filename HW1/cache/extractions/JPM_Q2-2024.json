@@ -1,0 +1,88 @@
+{
+  "prepared_sentiment": 0.35,
+  "qa_sentiment": 0.05,
+  "management_confidence": 0.62,
+  "qa_defensiveness": 0.25,
+  "wins": [
+    {
+      "text": "Firm reported record revenue of $51B and net income of $18.1B; excluding significant items, net income was $13.1B with ROTCE of 20%",
+      "category": "revenue"
+    },
+    {
+      "text": "IB fees up 50% year-on-year and 17% quarter-on-quarter; ranked #1 with year-to-date wallet share of 9.5%",
+      "category": "revenue"
+    },
+    {
+      "text": "Equity Markets revenue up 21% YoY with record revenue in prime on growth in client balances; total Markets revenue up 10% YoY to $7.8B",
+      "category": "revenue"
+    },
+    {
+      "text": "AUM reached $3.7T, up 15% YoY; long-term net inflows of $52B in the quarter led by equities and fixed income",
+      "category": "growth"
+    },
+    {
+      "text": "Board announced intention to increase quarterly dividend from $1.15 to $1.25 per share in Q3 2024, a 19% increase year-over-year; $4.9B in net common stock repurchases in Q2",
+      "category": "buybacks"
+    }
+  ],
+  "risks": [
+    {
+      "text": "NII over-earning narrative persists; deposit margin compression expected to continue as noninterest-bearing balances migrate to interest-bearing, pressuring NII normalization toward 17% through-cycle ROTCE",
+      "category": "margins"
+    },
+    {
+      "text": "Card net charge-offs up $813M YoY to $2.1B as newer vintages season; Card reserve build of $579M; full-year Card allowance build now expected slightly above prior $2B estimate",
+      "category": "demand"
+    },
+    {
+      "text": "DCM pull-forward refinancing activity flagged as a meaningful contributor to H1 strength, creating headwinds for H2 IB fee outlook; M&A remains relatively muted",
+      "category": "demand"
+    },
+    {
+      "text": "Preliminary stress capital buffer of 3.3% (up from 2.9%), with final SCB potentially higher due to OCI calculation concerns; CET1 requirement rising to 12.3% in Q4 2024",
+      "category": "regulatory"
+    },
+    {
+      "text": "Loan demand remains muted across wholesale segments; middle market and large corporate clients cautious, revolver utilization below pre-pandemic levels; CRE loan origination suppressed by higher rates",
+      "category": "demand"
+    }
+  ],
+  "guidance": "reaffirmed",
+  "guidance_items": [
+    {
+      "line_item": "revenue",
+      "direction": "reaffirmed",
+      "detail": "NII and NII ex Markets guidance of approximately $91B unchanged from Investor Day"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "Adjusted expense guidance of approximately $92B unchanged from Investor Day"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "Card net charge-off rate of approximately 3.4% for full year 2024, unchanged"
+    }
+  ],
+  "themes": [
+    "margin_pressure",
+    "buybacks",
+    "dividends",
+    "regulatory",
+    "macro_headwinds",
+    "enterprise_demand",
+    "inventory",
+    "guidance_beat"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Potential upward revision to stress capital buffer (SCB) due to OCI calculation discrepancy in CCAR results",
+    "Asset-backed finance trends in private credit market",
+    "C&I portfolio nonaccrual loan increase and early signs of credit deterioration"
+  ],
+  "_ticker": "JPM",
+  "_quarter": "Q2-2024",
+  "_call_date": "2024-07-12",
+  "overall_sentiment": 0.23,
+  "sentiment_bucket": "slightly_bullish"
+}

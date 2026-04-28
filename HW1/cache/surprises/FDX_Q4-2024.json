@@ -1,0 +1,33 @@
+{
+  "line_items": [
+    {
+      "line_item": "eps",
+      "result": "beat",
+      "reasoning": "FDX delivered full-year adjusted EPS towards the higher end of the original $17.00\u2013$18.50 range (up 19% YoY), exceeding the narrowed guidance midpoint and fulfilling the 'above midpoint' commitment despite revenue headwinds."
+    },
+    {
+      "line_item": "revenue",
+      "result": "inline",
+      "reasoning": "Full-year revenue came in down ~3% (~$2.5B), consistent with the guided 'low single-digit percentage decline' assumption for the full year."
+    },
+    {
+      "line_item": "capex",
+      "result": "beat",
+      "reasoning": "FDX hit its CapEx-to-revenue target of <6.5% one year ahead of schedule, and with revenue down ~3%, actual CapEx likely came in at or below the already-lowered $5.4B guidance."
+    },
+    {
+      "line_item": "segment",
+      "result": "mixed",
+      "reasoning": "Ground delivered record adjusted operating income with margin expansion (a beat vs. guided improvement), and Freight margins expanded 220 bps despite soft demand (a beat); however, Express adjusted operating income fell $92M with margins down 90 bps in Q4, worse than the guided 'modest YoY adjusted margin contraction.'"
+    },
+    {
+      "line_item": "other",
+      "result": "beat",
+      "reasoning": "FDX returned $2.5B in share repurchases as guided, but also delivered $500M above the original repurchase plan when including the full FY24 program, exceeding the $500M Q4 repurchase commitment."
+    }
+  ],
+  "overall_surprise": "beat",
+  "_ticker": "FDX",
+  "_quarter": "Q4-2024",
+  "_prior_quarter": "Q3-2024"
+}

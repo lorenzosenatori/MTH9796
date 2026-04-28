@@ -1,0 +1,23 @@
+{
+  "line_items": [
+    {
+      "line_item": "revenue",
+      "result": "beat",
+      "reasoning": "Q3 revenue came in at $57B, meaningfully above the $54B \u00b12% guidance (implying a range of ~$52.9B\u2013$55.1B), representing a ~$3B beat at the midpoint driven by record Blackwell demand and broad-based strength across segments."
+    },
+    {
+      "line_item": "margins",
+      "result": "beat",
+      "reasoning": "Non-GAAP gross margin of 73.6% came in above the guided 73.5% \u00b150bps midpoint, and Q4 guidance of 75% confirms the company is on track to exit the year in the mid-70s as promised \u2014 both the quarter and the trajectory beat expectations."
+    },
+    {
+      "line_item": "other",
+      "result": "inline",
+      "reasoning": "No specific full-year opex figure was called out in the current quarter results to confirm or deny the high-30s% YoY growth guidance; absent contradicting data, this is treated as tracking inline with prior guidance."
+    }
+  ],
+  "overall_surprise": "beat",
+  "_ticker": "NVDA",
+  "_quarter": "Q3-2026",
+  "_prior_quarter": "Q2-2026"
+}

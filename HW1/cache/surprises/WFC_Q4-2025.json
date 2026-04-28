@@ -1,0 +1,28 @@
+{
+  "line_items": [
+    {
+      "line_item": "revenue (NII)",
+      "result": "miss",
+      "reasoning": "Q4 NII was guided to $12.4B\u2013$12.5B; full-year 2025 NII came in at $47.5B vs. the ~$47.7B full-year target, and Q4 NII implied by the full-year figure appears to have fallen short of the $12.4B\u2013$12.5B guided range."
+    },
+    {
+      "line_item": "noninterest expense",
+      "result": "miss",
+      "reasoning": "Full-year 2025 noninterest expense came in at $54.8B vs. the raised guidance of ~$54.6B, and Q4 expense likely exceeded the ~$13.5B guide, suggesting a modest overshoot on costs."
+    },
+    {
+      "line_item": "ROTCE / medium-term target",
+      "result": "miss",
+      "reasoning": "Full-year 2025 ROTCE reached 15%, which is at the low end of (and technically below) the newly raised medium-term target of 17%\u201318%, though this is a multi-year goal rather than a Q4-specific target."
+    },
+    {
+      "line_item": "share repurchases",
+      "result": "miss",
+      "reasoning": "Q4 buybacks came in at $5.0B, below the guidance of roughly in line with Q3's $6.1B, representing an ~18% shortfall vs. the guided level."
+    }
+  ],
+  "overall_surprise": "miss",
+  "_ticker": "WFC",
+  "_quarter": "Q4-2025",
+  "_prior_quarter": "Q3-2025"
+}

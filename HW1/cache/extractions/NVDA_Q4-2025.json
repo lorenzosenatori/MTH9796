@@ -1,0 +1,98 @@
+{
+  "prepared_sentiment": 0.85,
+  "qa_sentiment": 0.72,
+  "management_confidence": 0.9,
+  "qa_defensiveness": 0.15,
+  "wins": [
+    {
+      "text": "Q4 revenue of $39.3B, up 78% YoY and 12% sequentially, beating the $37.5B outlook; FY2025 revenue of $130.5B, up 114% YoY",
+      "category": "revenue"
+    },
+    {
+      "text": "Data Center revenue of $35.6B in Q4, up 93% YoY and 16% sequentially \u2014 a record; FY2025 Data Center revenue of $115.2B, more than doubling YoY",
+      "category": "revenue"
+    },
+    {
+      "text": "Blackwell delivered $11B in revenue in Q4, described as the fastest product ramp in company history, exceeding internal expectations",
+      "category": "product"
+    },
+    {
+      "text": "Automotive revenue hit a record $570M in Q4, up 103% YoY and 27% sequentially; FY2025 automotive revenue of $1.7B up 55% YoY, with $5B guided for FY2026",
+      "category": "growth"
+    },
+    {
+      "text": "Returned $8.1B to shareholders via share repurchases and cash dividends in Q4",
+      "category": "buybacks"
+    }
+  ],
+  "risks": [
+    {
+      "text": "Non-GAAP gross margins of 73.5% declined sequentially and are guided to remain in the low 70s during Blackwell ramp, with Q1 guided at 71% non-GAAP \u2014 a meaningful step down from prior mid-70s levels",
+      "category": "margins"
+    },
+    {
+      "text": "Gaming revenue of $2.5B declined 22% sequentially and 11% YoY due to supply constraints, though management expects recovery in Q1",
+      "category": "supply_chain"
+    },
+    {
+      "text": "China data center revenue remains well below pre-export-control levels at roughly half of prior share, with management flagging a 'very competitive' market and no expected recovery absent regulatory change",
+      "category": "regulatory"
+    },
+    {
+      "text": "Tariff impact on semiconductors acknowledged as 'unknown' by CFO, with timing, scope, and magnitude still unclear \u2014 a potential headwind to gross margin trajectory",
+      "category": "macro"
+    },
+    {
+      "text": "Networking revenue declined 3% sequentially as the company transitions from NVLink 8/InfiniBand to NVLink 72/Spectrum-X architecture, creating a near-term revenue gap",
+      "category": "execution"
+    }
+  ],
+  "guidance": "raised",
+  "guidance_items": [
+    {
+      "line_item": "revenue",
+      "direction": "raised",
+      "detail": "Q1 FY2026 revenue guided to $43B +/- 2%, well above Q4 actual of $39.3B and prior $37.5B Q4 guide"
+    },
+    {
+      "line_item": "margins",
+      "direction": "lowered",
+      "detail": "Q1 non-GAAP gross margin guided to 71% +/- 50bps, down from Q4 actual of 73.5%; expected to remain in low 70s during Blackwell ramp before recovering to mid-70s later in FY2026"
+    },
+    {
+      "line_item": "segment",
+      "direction": "raised",
+      "detail": "Sequential growth expected in both Data Center (compute and networking) and Gaming in Q1"
+    },
+    {
+      "line_item": "other",
+      "direction": "raised",
+      "detail": "FY2026 operating expenses expected to grow to mid-30s as a percentage; Automotive revenue expected to grow to ~$5B in FY2026"
+    },
+    {
+      "line_item": "capex",
+      "direction": "reaffirmed",
+      "detail": "Q1 GAAP operating expenses ~$5.2B, non-GAAP ~$3.6B; full-year opex growth guided to mid-30s range"
+    }
+  ],
+  "themes": [
+    "ai",
+    "data_center",
+    "product_launch",
+    "margin_pressure",
+    "supply_chain",
+    "china_exposure",
+    "tariffs",
+    "guidance_beat"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Custom ASIC competition and heterogeneous supercluster architectures as an alternative to merchant GPUs",
+    "Hopper-era infrastructure replacement/refresh cycle timing and whether installed base creates upgrade headwinds",
+    "Geographic concentration risk \u2014 whether U.S. demand alone can sustain growth if other regions face export restrictions"
+  ],
+  "_ticker": "NVDA",
+  "_quarter": "Q4-2025",
+  "_call_date": "2025-02-26",
+  "overall_sentiment": 0.798,
+  "sentiment_bucket": "very_bullish"
+}

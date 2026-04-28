@@ -1,0 +1,28 @@
+{
+  "line_items": [
+    {
+      "line_item": "capex",
+      "result": "inline",
+      "reasoning": "No specific Q1 CapEx figures were reported to compare against the 2025 full-year guidance of $265M\u2013$285M; results neither explicitly confirmed nor contradicted the guided range."
+    },
+    {
+      "line_item": "margins",
+      "result": "miss",
+      "reasoning": "Gross margin fell 40 bps YoY to 45.1% in Q1 2025, driven by product/customer mix, higher third-party freight costs, and elevated hub vehicle lease costs \u2014 contrary to guidance that Q4 product margin pressures would not recur and gross margin would be roughly flat YoY."
+    },
+    {
+      "line_item": "other (incremental operating margin)",
+      "result": "miss",
+      "reasoning": "Operating margin declined 50 bps YoY to 20.1% despite 5% DSR growth, falling short of the guided high-end incremental operating leverage of 20%\u201325% that was expected to materialize with mid-to-high single-digit revenue growth."
+    },
+    {
+      "line_item": "other (FMI MAU signings & digital footprint)",
+      "result": "miss",
+      "reasoning": "Digital footprint reached only 61% of sales in Q1 2025, well below the 66%\u201368% full-year target, and while FMI device count grew 12.5% YoY, no specific MAU signing progress toward the 28,000\u201330,000 goal was confirmed, suggesting the digital footprint target is tracking behind pace."
+    }
+  ],
+  "overall_surprise": "miss",
+  "_ticker": "FAST",
+  "_quarter": "Q1-2025",
+  "_prior_quarter": "Q4-2024"
+}

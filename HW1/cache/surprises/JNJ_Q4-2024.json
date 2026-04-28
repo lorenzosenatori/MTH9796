@@ -1,0 +1,33 @@
+{
+  "line_items": [
+    {
+      "line_item": "revenue",
+      "result": "beat",
+      "reasoning": "JNJ raised its full-year operational sales growth guidance midpoint to ~$89.6B (6.6%), and Q4 results showed strong outperformance across key brands (DARZALEX >$3B quarterly, ERLEADA >$3B annual, CARVYKTI >$963M), with guidance reaffirmed/exceeded on the top line despite FX headwinds."
+    },
+    {
+      "line_item": "eps",
+      "result": "inline",
+      "reasoning": "Guidance was reaffirmed this quarter with no explicit EPS beat called out; strong product performance was offset by M&A dilution (Intra-Cellular) and FX headwinds (~$0.25), keeping results roughly in line with the prior adjusted EPS midpoint of $9.93."
+    },
+    {
+      "line_item": "segment",
+      "result": "miss",
+      "reasoning": "MedTech was already guided down to ~5% operational growth due to China/Asia Pacific headwinds, and Q4 results confirmed those headwinds persisted (China VBP, VARIPULSE pause), suggesting MedTech likely came in at or below the already-lowered ~5% target."
+    },
+    {
+      "line_item": "margins",
+      "result": "inline",
+      "reasoning": "The adjusted pretax operating margin was guided to decline ~200 bps for 2024, and with no explicit margin beat reported and new M&A dilution (Intra-Cellular) flagged as a 2025 headwind, full-year margins appear to have landed roughly in line with the lowered guidance."
+    },
+    {
+      "line_item": "other",
+      "result": "beat",
+      "reasoning": "Full-year 2024 free cash flow came in at ~$20 billion, $1.6 billion above 2023 levels despite higher litigation payments and TCJA toll tax headwinds, suggesting other income and cash generation exceeded the raised guidance range of $1.9B\u2013$2.1B in other income."
+    }
+  ],
+  "overall_surprise": "mixed",
+  "_ticker": "JNJ",
+  "_quarter": "Q4-2024",
+  "_prior_quarter": "Q3-2024"
+}

@@ -1,0 +1,33 @@
+{
+  "line_items": [
+    {
+      "line_item": "expenses (full-year 2024 $53.5B\u2013$53.8B range)",
+      "result": "miss",
+      "reasoning": "Management guided to the higher end of $53.5B\u2013$53.8B last quarter, but the Q3 year-to-date run rate implies ~$54B, which is above the top of the guided range, suggesting expenses are tracking above guidance."
+    },
+    {
+      "line_item": "revenue (NII full-year modestly down YoY; back half slightly higher than first half)",
+      "result": "inline",
+      "reasoning": "Q4 NII ex-markets is guided roughly flat sequentially and slightly down for the full year, which is consistent with the prior guidance of NII being modestly down YoY, keeping the outlook broadly on track."
+    },
+    {
+      "line_item": "segment (Branded Cards NCL 3.5%\u20134.0%; Retail Services at high end of 5.75%\u20136.25%)",
+      "result": "inline",
+      "reasoning": "Retail Services NCL is confirmed at the high end of the 5.75%\u20136.25% range (and likely higher in Q4), which matches the prior guidance of expecting the high end; Branded Cards NCL was not explicitly called out as deviating from the 3.5%\u20134.0% range."
+    },
+    {
+      "line_item": "medium-term RoTCE target (11%\u201312%) and 2026 expense target ($51B\u2013$53B)",
+      "result": "miss",
+      "reasoning": "The year-to-date expense run rate implying ~$54B creates a widening gap to the 2026 target of $51B\u2013$53B, casting doubt on the medium-term expense path, though the RoTCE target itself was not explicitly walked back."
+    },
+    {
+      "line_item": "capex / capital return ($1B buyback in Q3-2024; $0.56 dividend)",
+      "result": "inline",
+      "reasoning": "There is no indication in the reported results that the $1B Q3 buyback or the $0.56/share dividend were not executed as planned, so this is treated as on track."
+    }
+  ],
+  "overall_surprise": "miss",
+  "_ticker": "C",
+  "_quarter": "Q3-2024",
+  "_prior_quarter": "Q2-2024"
+}

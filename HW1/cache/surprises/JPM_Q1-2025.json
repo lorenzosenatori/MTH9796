@@ -1,0 +1,33 @@
+{
+  "line_items": [
+    {
+      "line_item": "revenue (NII ex Markets ~$90B / firm-wide NII ~$94B)",
+      "result": "inline",
+      "reasoning": "Q1-2025 NII performance appears on track with the annual guide, but the rate curve has shifted to pricing ~3 cuts vs. 1 cut previously, creating a headwind that management acknowledged yet still reaffirmed the full-year NII targets \u2014 suggesting inline for now with downside risk flagged."
+    },
+    {
+      "line_item": "Card loan growth (healthy but below 2024's 12% pace)",
+      "result": "inline",
+      "reasoning": "No explicit Q1 card loan growth figure was cited in the reported results or risks to contradict the guided moderation, so results are treated as roughly in line with the expectation of a slower but still healthy growth pace."
+    },
+    {
+      "line_item": "Card net charge-off rate (~3.6%)",
+      "result": "inline",
+      "reasoning": "No Q1 card NCO rate was explicitly reported as deviating from the ~3.6% guide, and management reaffirmed the full-year target this quarter, indicating results are tracking in line."
+    },
+    {
+      "line_item": "Expenses (~$95B for 2025)",
+      "result": "inline",
+      "reasoning": "No Q1 expense figure was flagged as a surprise versus the $95B full-year guide, and the guidance was reaffirmed this quarter, suggesting expenses are tracking as expected."
+    },
+    {
+      "line_item": "Deposit growth (stabilizing, more visible growth in H2 2025)",
+      "result": "inline",
+      "reasoning": "Deposit trends were not called out as a specific win or miss in Q1 results, and the prior guidance already anticipated a slow H1 with growth more visible in H2, leaving the outlook consistent with the original guide."
+    }
+  ],
+  "overall_surprise": "inline",
+  "_ticker": "JPM",
+  "_quarter": "Q1-2025",
+  "_prior_quarter": "Q4-2024"
+}

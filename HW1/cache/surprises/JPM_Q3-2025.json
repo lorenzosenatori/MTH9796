@@ -1,0 +1,23 @@
+{
+  "line_items": [
+    {
+      "line_item": "revenue",
+      "result": "beat",
+      "reasoning": "JPM raised full-year NII ex-Markets guidance to ~$92B and total NII to ~$95.5B last quarter; Q3 revenue of $47.1B (up 9% YoY) with CIB up 17%, Equities up 33%, and Fixed Income up 21% reflects outperformance across the board, tracking well ahead of the raised annual NII targets."
+    },
+    {
+      "line_item": "eps",
+      "result": "beat",
+      "reasoning": "The proxy for EPS quality \u2014 card net charge-off rate \u2014 was guided at ~3.6% but came in better, with guidance now improved to ~3.3% on favorable delinquency trends, directly beating the prior charge-off guidance and supporting stronger-than-guided credit performance."
+    },
+    {
+      "line_item": "other",
+      "result": "inline",
+      "reasoning": "Adjusted expense guidance was raised to ~$95.5B last quarter due to weaker dollar impacts; no explicit Q3 expense beat or miss was called out in the reported results, and the current results do not indicate expenses came in materially above or below that raised guidance level."
+    }
+  ],
+  "overall_surprise": "beat",
+  "_ticker": "JPM",
+  "_quarter": "Q3-2025",
+  "_prior_quarter": "Q2-2025"
+}

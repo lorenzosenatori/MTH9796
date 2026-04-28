@@ -1,0 +1,28 @@
+{
+  "line_items": [
+    {
+      "line_item": "revenue",
+      "result": "beat",
+      "reasoning": "Q1 ex-COVID vaccine operational growth of 7.6% worldwide already exceeds the full-year 2024 guidance range of 5%-6% operational growth, putting JNJ well ahead of its own annual sales trajectory."
+    },
+    {
+      "line_item": "eps",
+      "result": "beat",
+      "reasoning": "Adjusted diluted EPS of $2.71 in Q1 (+12.4% YoY) annualizes to ~$10.84, which exceeds the high end of the guided $10.55-$10.75 range, and the company subsequently raised full-year guidance."
+    },
+    {
+      "line_item": "margins",
+      "result": "beat",
+      "reasoning": "The strong EPS outperformance relative to revenue growth implies margin expansion beyond the guided ~50 bps improvement, and the company's decision to raise guidance this quarter further confirms margins are tracking ahead of plan."
+    },
+    {
+      "line_item": "other",
+      "result": "inline",
+      "reasoning": "No specific Q1 disclosures on tax rate, net interest income, or other income deviated materially from the guided ranges of 16%-17% ETR, $450M-$550M net interest income, and $1.2B-$1.4B other income, so results appear on track."
+    }
+  ],
+  "overall_surprise": "beat",
+  "_ticker": "JNJ",
+  "_quarter": "Q1-2024",
+  "_prior_quarter": "Q4-2023"
+}

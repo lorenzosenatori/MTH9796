@@ -1,0 +1,88 @@
+{
+  "prepared_sentiment": 0.55,
+  "qa_sentiment": 0.2,
+  "management_confidence": 0.65,
+  "qa_defensiveness": 0.3,
+  "wins": [
+    {
+      "text": "Daily sales grew 12.4% YoY to $34.9M per day in Q1, marking the third consecutive quarter of double-digit growth",
+      "category": "revenue"
+    },
+    {
+      "text": "Operating margin improved 20 bps YoY to 20.3%, driven by SG&A leverage declining from 25% to 24.3% of sales despite incentive comp reload",
+      "category": "margins"
+    },
+    {
+      "text": "Customer sites spending $50K+/month grew 16.3% YoY to ~2,900 sites, now accounting for over half of total sales at 21% revenue growth; average monthly sales per site increased $5,700",
+      "category": "customer"
+    },
+    {
+      "text": "Operating cash flow of ~$378M represented 111% of net income, with ROIC improving 180 bps on a trailing 12-month basis to 31%",
+      "category": "other"
+    },
+    {
+      "text": "FMI device agreements signed at ~7,000 in Q1 (~110/day, +8% YoY), expanding active device base ~6% and driving ~45% of Q1 sales through FMI, up 150 bps YoY; international sales grew ~24% in March",
+      "category": "growth"
+    }
+  ],
+  "risks": [
+    {
+      "text": "Gross margin came in ~40 bps below internal Q1 target and 50 bps below prior year as tariff-related cost increases moved through the P&L faster than pricing actions; realized pricing of ~3.5% YoY was insufficient to offset inflation",
+      "category": "margins"
+    },
+    {
+      "text": "Tariff and trade policy uncertainty (IEEPA, Section 122, Supreme Court rulings) created a 'slog' in customer pricing conversations, delaying price increases and creating execution risk into Q2",
+      "category": "regulatory"
+    },
+    {
+      "text": "Branded product categories (safety, cutting tools) face margin pressure from aggressive supplier cost increases of 6-8%+ that are difficult to pass through quickly due to contractual pricing terms of 30-60 days",
+      "category": "supply_chain"
+    },
+    {
+      "text": "Customer mix remains a structural gross margin headwind as growth skews toward larger accounts with lower gross margins, though positive at the operating margin level",
+      "category": "margins"
+    },
+    {
+      "text": "Commodity-driven cost spikes (e.g., nitrile gloves up sharply due to Middle East petroleum dynamics) adding unpredictable inflation pressure; CFO noted unusual difficulty forecasting supplier cost increases vs. a typical year",
+      "category": "macro"
+    }
+  ],
+  "guidance": "reaffirmed",
+  "guidance_items": [
+    {
+      "line_item": "capex",
+      "direction": "reaffirmed",
+      "detail": "Full-year 2026 net CapEx expected at ~$320M, approximating ~3.5% of consensus net sales, focused on hub capacity, FMI devices, automation and IT"
+    },
+    {
+      "line_item": "margins",
+      "direction": "reaffirmed",
+      "detail": "Management confirmed high-20s incremental margin expectation for full year remains intact despite Q1 gross margin shortfall; SG&A leverage expected to continue"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "Pricing expected to reach 5-8% cumulative peak around mid-year; price/cost neutrality targeted but timing of recovery from Q1 shortfall not specified; Q2 acknowledged as challenging"
+    }
+  ],
+  "themes": [
+    "tariffs",
+    "supply_chain",
+    "margin_pressure",
+    "pricing_power",
+    "customer_wins",
+    "enterprise_demand",
+    "capex",
+    "macro_headwinds"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Whether new contract signings are linked to slower pricing execution (i.e., new business being priced in at lower margins)",
+    "Competitive behavior \u2014 whether rivals are holding prices artificially low to win business",
+    "Section 232 tariff changes and their specific impact on Fastenal's fastener business"
+  ],
+  "_ticker": "FAST",
+  "_quarter": "Q1-2026",
+  "_call_date": "2026-04-13",
+  "overall_sentiment": 0.41,
+  "sentiment_bucket": "bullish"
+}

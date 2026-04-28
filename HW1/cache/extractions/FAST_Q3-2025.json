@@ -1,0 +1,93 @@
+{
+  "prepared_sentiment": 0.62,
+  "qa_sentiment": 0.35,
+  "management_confidence": 0.72,
+  "qa_defensiveness": 0.2,
+  "wins": [
+    {
+      "text": "Net sales of $2.13B in Q3 2025, up 11.7% YoY \u2014 second consecutive quarter above $2B; strongest quarterly daily sales rate since Q1 2023",
+      "category": "revenue"
+    },
+    {
+      "text": "EPS of $0.29/share, up 12.3% YoY (post 2:1 stock split); net income up 12.6% YoY",
+      "category": "revenue"
+    },
+    {
+      "text": "Operating margin expanded 40 bps YoY to 20.7%; gross margin up 40 bps to 45.3%, driven by fastener expansion project and supplier initiatives",
+      "category": "margins"
+    },
+    {
+      "text": "FMI digital sales grew ~18% YoY, representing 45.3% of total sales (up from 43% a year ago); total installed FMI device base grew 8.7% YoY to ~134,000 devices",
+      "category": "product"
+    },
+    {
+      "text": "Fastener sales grew over 15% in September, outpacing overall company growth; sites spending over $50K/month grew 15.4% YoY; national account sales up double digits",
+      "category": "customer"
+    }
+  ],
+  "risks": [
+    {
+      "text": "Pricing contribution came in at only 240\u2013270 bps in Q3, below the previously stated goal of 3%\u20135% by end of Q3; Q4 pricing goal revised down to 3.5%\u20135.5% from prior 5%\u20138%",
+      "category": "margins"
+    },
+    {
+      "text": "Potential gross margin squeeze in Q4 2025 as tariff-driven costs continue to rise and pricing actions lag; management explicitly warned of this risk",
+      "category": "margins"
+    },
+    {
+      "text": "Industrial economy remains sluggish with PMI averaging ~48.6 in Q3 (contraction territory); macro demand improvement not expected until 2026",
+      "category": "macro"
+    },
+    {
+      "text": "Trade policy and tariff uncertainty creating customer caution and demand pause; limited visibility into Q4 demand; Christmas holiday falling mid-week may cause longer-than-normal shutdowns",
+      "category": "macro"
+    },
+    {
+      "text": "Americas business outside the U.S. (particularly Mexico) having a tough year due to heavy OEM/manufacturing skew and sub-50 ISM; SG&A employee costs growing faster than sales due to bonus/commission resets",
+      "category": "execution"
+    }
+  ],
+  "guidance": "mixed",
+  "guidance_items": [
+    {
+      "line_item": "margins",
+      "direction": "reaffirmed",
+      "detail": "Full-year 2025 gross profit percentage expected to be relatively flat with 2024, supported by fastener expansion project"
+    },
+    {
+      "line_item": "margins",
+      "direction": "lowered",
+      "detail": "Q4 like-for-like pricing impact revised down to 3.5%\u20135.5% from prior goal of 5%\u20138%"
+    },
+    {
+      "line_item": "capex",
+      "direction": "reaffirmed",
+      "detail": "Full-year 2025 capex expected in range of $235M\u2013$255M, up from $214M in 2024, driven by FMI devices, DC outlays, IT and vehicles"
+    },
+    {
+      "line_item": "other",
+      "direction": "lowered",
+      "detail": "Q4 gross margin expected to decline sequentially (consistent with historical seasonality); potential price/cost squeeze flagged"
+    }
+  ],
+  "themes": [
+    "tariffs",
+    "supply_chain",
+    "inventory",
+    "pricing_power",
+    "margin_expansion",
+    "customer_wins",
+    "product_launch",
+    "macro_headwinds"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Magnitude and mechanics of Q3 bonus/commission reset driving SG&A above expectations",
+    "Whether customer inventory pre-buying in H1 pulled forward demand ahead of tariff price increases",
+    "Competitive dynamics \u2014 whether peers are pushing through less price, signaling increased competition"
+  ],
+  "_ticker": "FAST",
+  "_quarter": "Q3-2025",
+  "_call_date": "2025-10-13",
+  "overall_sentiment": 0.512,
+  "sentiment_bucket": "bullish"
+}

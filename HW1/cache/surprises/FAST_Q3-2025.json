@@ -1,0 +1,33 @@
+{
+  "line_items": [
+    {
+      "line_item": "revenue",
+      "result": "beat",
+      "reasoning": "FAST delivered 11.7% YoY sales growth in Q3 2025, clearly achieving the double-digit growth management expressed confidence in for H2 2025, with the strongest daily sales rate since Q1 2023."
+    },
+    {
+      "line_item": "margins",
+      "result": "beat",
+      "reasoning": "Gross margin expanded 40 bps YoY to 45.3%, beating the guidance of full-year gross margin remaining essentially flat with 2024, despite the acknowledged price/cost headwind in H2."
+    },
+    {
+      "line_item": "capex",
+      "result": "inline",
+      "reasoning": "No Q3-specific capex figures were reported in the current results, and the full-year $250M\u2013$270M guidance was not revised or contradicted, so it is treated as on track."
+    },
+    {
+      "line_item": "other (pricing impact)",
+      "result": "miss",
+      "reasoning": "Pricing contribution came in at only 240\u2013270 bps in Q3, falling short of the guided 3%\u20135% target for Q3, and the Q4 goal was also revised down to 3.5%\u20135.5% from the prior 5%\u20138%."
+    },
+    {
+      "line_item": "other (FMI MEU signings)",
+      "result": "inline",
+      "reasoning": "The installed FMI device base grew 8.7% YoY to ~134,000 devices with strong digital sales growth, but no explicit Q3 MEU signing count was reported to confirm or deny progress toward the 25,000\u201326,000 full-year target."
+    }
+  ],
+  "overall_surprise": "mixed",
+  "_ticker": "FAST",
+  "_quarter": "Q3-2025",
+  "_prior_quarter": "Q2-2025"
+}

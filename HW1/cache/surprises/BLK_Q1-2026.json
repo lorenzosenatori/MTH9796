@@ -1,0 +1,33 @@
+{
+  "line_items": [
+    {
+      "line_item": "revenue",
+      "result": "beat",
+      "reasoning": "Q1 revenue of $6.7B grew 27% YoY with 8% organic base fee growth (highest Q1 in 5 years), exceeding the guided ~13% YoY base fee run-rate growth trajectory implied by the ~$21B annualized run rate entering 2026."
+    },
+    {
+      "line_item": "margins",
+      "result": "inline",
+      "reasoning": "As-adjusted operating margin of 44.5% (45.6% ex-performance fees) is right at or just above the guided 45%+ target on an ex-performance fee basis, broadly consistent with the reaffirmed Investor Day margin framework."
+    },
+    {
+      "line_item": "capex",
+      "result": "inline",
+      "reasoning": "No specific G&A or headcount figures were called out as deviating from guidance; mid-single-digit G&A growth and broadly flat headcount targets were reaffirmed with no reported surprises."
+    },
+    {
+      "line_item": "other",
+      "result": "inline",
+      "reasoning": "Share repurchase and dividend guidance was reaffirmed this quarter with no reported deviation from the $1.8B buyback plan or the 10% dividend increase already enacted for Q1 2026."
+    },
+    {
+      "line_item": "segment",
+      "result": "beat",
+      "reasoning": "Organic base fee growth of 8% in Q1 (10% over the last 12 months) already exceeds the guided 6-7%+ sustained target, and record ETF/active inflows and Aperio performance signal strong private markets and wealth momentum ahead of 2030 targets."
+    }
+  ],
+  "overall_surprise": "beat",
+  "_ticker": "BLK",
+  "_quarter": "Q1-2026",
+  "_prior_quarter": "Q4-2025"
+}

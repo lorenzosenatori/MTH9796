@@ -1,0 +1,102 @@
+{
+  "prepared_sentiment": 0.65,
+  "qa_sentiment": 0.55,
+  "management_confidence": 0.8,
+  "qa_defensiveness": 0.15,
+  "wins": [
+    {
+      "text": "Record AUM of $11.6 trillion; 6% organic base fee growth above the 5% through-the-cycle target, best start of year since 2021",
+      "category": "growth"
+    },
+    {
+      "text": "Q1 revenue of $5.3B up 12% YoY; operating income up 14%; EPS of $11.30 up 15% YoY",
+      "category": "revenue"
+    },
+    {
+      "text": "ETF net inflows of $107B in Q1, annualizing ~10% above the record $390B full-year 2024; European ETF platform crossed $1T AUM with ~40% market share",
+      "category": "growth"
+    },
+    {
+      "text": "Technology ACV grew 30% YoY (14% organically); Preqin added ~$20M to Q1 revenue and triples desktop reach to 300,000+ users",
+      "category": "product"
+    },
+    {
+      "text": "As-adjusted operating margin of 43.2%, up 100 bps YoY; $375M in share repurchases in Q1 with commitment to at least $375M/quarter for remainder of 2025",
+      "category": "margins"
+    }
+  ],
+  "risks": [
+    {
+      "text": "Institutional index net outflows of $46B concentrated in low-fee index equities drove headline net inflows down to $84B vs. $140B ex-episodic redemptions",
+      "category": "demand"
+    },
+    {
+      "text": "Entering Q2 with base fees approximately 1% lower than Q1 due to market and FX headwinds in the second half of Q1",
+      "category": "margins"
+    },
+    {
+      "text": "Sweeping U.S. tariff announcements and geopolitical uncertainty creating near-term macro headwinds; Larry Fink described tariff scope as beyond anything seen in 49 years of finance",
+      "category": "macro"
+    },
+    {
+      "text": "Performance fees of $60M decreased YoY, primarily reflecting lower performance revenue from private markets and liquid alternatives",
+      "category": "margins"
+    },
+    {
+      "text": "HPS acquisition still pending regulatory approval; targeted mid-2025 close carries execution risk and related transaction costs excluded from current guidance",
+      "category": "execution"
+    }
+  ],
+  "guidance": "reaffirmed",
+  "guidance_items": [
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "Mid- to high single-digit percentage increase in 2025 core G&A expense, consistent with January guidance and excluding HPS impact"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "At least $375M in share repurchases per quarter for the balance of 2025, consistent with January guidance"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "25% projected tax run rate for remainder of 2025"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "Low to mid-teens ACV organic growth target maintained over the long term"
+    },
+    {
+      "line_item": "segment",
+      "direction": "reaffirmed",
+      "detail": "Private credit AUM expected to scale to ~$220B following HPS close, targeted mid-2025 subject to regulatory approval"
+    }
+  ],
+  "themes": [
+    "private_markets",
+    "etf",
+    "m_and_a",
+    "ai",
+    "infrastructure",
+    "macro_headwinds",
+    "tariffs",
+    "geopolitical",
+    "product_launch",
+    "margin_expansion",
+    "buybacks",
+    "enterprise_demand"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Risk of client assets or capital flows moving away from U.S.-domiciled managers due to geopolitical backlash against U.S. firms",
+    "Competitive ETF pricing response to Vanguard fee cuts and outlook for iShares fee rate",
+    "Pace and demand dynamics for private markets entering the 401(k)/DC retirement channel and whether DOL safe harbor is a prerequisite"
+  ],
+  "_ticker": "BLK",
+  "_quarter": "Q1-2025",
+  "_call_date": "2025-04-11",
+  "overall_sentiment": 0.61,
+  "sentiment_bucket": "bullish"
+}

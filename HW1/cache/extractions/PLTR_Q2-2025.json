@@ -1,0 +1,93 @@
+{
+  "prepared_sentiment": 0.92,
+  "qa_sentiment": 0.75,
+  "management_confidence": 0.95,
+  "qa_defensiveness": 0.05,
+  "wins": [
+    {
+      "text": "Q2 revenue surpassed $1B for the first time, growing 48% YoY and 14% sequentially to $1.004B, exceeding the high end of prior guidance by nearly 1,000 basis points",
+      "category": "revenue"
+    },
+    {
+      "text": "U.S. commercial revenue grew 93% YoY and 20% sequentially to $306M; U.S. commercial TCV booked hit a record $843M, up 222% YoY",
+      "category": "growth"
+    },
+    {
+      "text": "Adjusted operating margin expanded to 46%, exceeding the high end of prior guidance by ~300 bps; Rule of 40 score reached 94%, up 11 points QoQ and the highest ever recorded",
+      "category": "margins"
+    },
+    {
+      "text": "Record TCV of $2.3B and ACV of $684M in Q2; 157 deals worth $1M+, including 42 deals worth $10M+; top 20 customers averaging $75M in trailing 12-month revenue, up 30% YoY",
+      "category": "customer"
+    },
+    {
+      "text": "Adjusted free cash flow of $569M in Q2 (57% margin); full-year adjusted FCF guidance raised to $1.8B\u2013$2.0B; ended quarter with $6B in cash and equivalents",
+      "category": "other"
+    }
+  ],
+  "risks": [
+    {
+      "text": "International commercial revenue declined 3% YoY to $144M, with management explicitly deprioritizing international commercial in favor of U.S. acceleration",
+      "category": "demand"
+    },
+    {
+      "text": "Revenue from strategic commercial contracts declining sharply \u2014 expected to be $2M\u2013$4M in Q3 2025 vs. $10M in Q3 2024, and less than 0.5% of full-year revenue",
+      "category": "other"
+    },
+    {
+      "text": "Significant ramp in expenses expected in Q3 due to seasonality of new hire starts, which could pressure near-term margins despite full-year expansion commitment",
+      "category": "margins"
+    },
+    {
+      "text": "Heavy customer concentration risk: top 20 customers represent a disproportionate share of revenue at $75M average trailing 12-month revenue each, and net dollar retention of 128% does not yet capture the full acceleration from new customers added in the past 12 months",
+      "category": "customer_concentration"
+    },
+    {
+      "text": "U.S. government growth (53% YoY), while strong, is described as 'downstream from general trends in AI,' implying dependency on continued government AI spending priorities and policy continuity",
+      "category": "macro"
+    }
+  ],
+  "guidance": "raised",
+  "guidance_items": [
+    {
+      "line_item": "revenue",
+      "direction": "raised",
+      "detail": "Q3 2025 revenue guided to $1.083B\u2013$1.087B (50% YoY growth, 8%+ QoQ); full-year 2025 raised to $4.142B\u2013$4.150B (45% YoY), a 9-point increase over prior guidance and largest-ever full-year raise"
+    },
+    {
+      "line_item": "segment",
+      "direction": "raised",
+      "detail": "Full-year U.S. commercial revenue raised to excess of $1.302B (at least 85% growth), up 17 points from prior guidance"
+    },
+    {
+      "line_item": "margins",
+      "direction": "raised",
+      "detail": "Full-year adjusted income from operations raised to $1.912B\u2013$1.920B; Q3 adjusted income from operations guided to $493M\u2013$497M"
+    },
+    {
+      "line_item": "other",
+      "direction": "raised",
+      "detail": "Full-year adjusted free cash flow raised to $1.8B\u2013$2.0B; full-year Rule of 40 score guided to 91%; GAAP operating and net income expected in every quarter of 2025"
+    }
+  ],
+  "themes": [
+    "ai",
+    "enterprise_demand",
+    "product_launch",
+    "customer_wins",
+    "margin_expansion",
+    "guidance_beat",
+    "data_center",
+    "capex"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Whether Palantir plans to scale a direct sales force given hypergrowth without one",
+    "Management's view on the White House AI Action Plan and its implications for the business",
+    "Talent acquisition and retention strategy amid intensifying competition for AI engineers"
+  ],
+  "_ticker": "PLTR",
+  "_quarter": "Q2-2025",
+  "_call_date": "2025-08-04",
+  "overall_sentiment": 0.852,
+  "sentiment_bucket": "very_bullish"
+}

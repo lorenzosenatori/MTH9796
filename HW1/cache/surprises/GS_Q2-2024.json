@@ -1,0 +1,33 @@
+{
+  "line_items": [
+    {
+      "line_item": "Global Banking & Markets ROE (mid-teens through the cycle)",
+      "result": "miss",
+      "reasoning": "Q2 ROE came in at 10.9% and H1 at 12.8%, both well below the mid-teens target, with drag from enterprise platforms and below-average IB activity still weighing on returns."
+    },
+    {
+      "line_item": "Platform Solutions pretax breakeven in 2025",
+      "result": "inline",
+      "reasoning": "No specific update contradicts the 2025 breakeven trajectory; management has not signaled a deviation from this target, so it remains on track per prior guidance."
+    },
+    {
+      "line_item": "Alternatives fundraising target of $40B\u2013$50B for full year 2024",
+      "result": "beat",
+      "reasoning": "YTD fundraising reached $36B through Q2 (vs. $14B through Q1), and management raised the full-year target to exceed $50B, surpassing the prior $40B\u2013$50B range."
+    },
+    {
+      "line_item": "Historical principal investment portfolio reduction (~$1.5B/quarter)",
+      "result": "inline",
+      "reasoning": "No specific data point in the reported results explicitly contradicts or confirms the ~$1.5B/quarter reduction pace, suggesting the sell-down is proceeding broadly in line with guidance."
+    },
+    {
+      "line_item": "Full-year effective tax rate (~22%) and equity/debt investments (~$500M/quarter)",
+      "result": "inline",
+      "reasoning": "No reported results explicitly deviate from the ~22% tax rate or ~$500M/quarter investment guidance, leaving these items effectively in line with prior guidance."
+    }
+  ],
+  "overall_surprise": "mixed",
+  "_ticker": "GS",
+  "_quarter": "Q2-2024",
+  "_prior_quarter": "Q1-2024"
+}

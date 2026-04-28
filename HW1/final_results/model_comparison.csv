@@ -1,0 +1,9 @@
+Model,Train Acc,Test Acc,IC,IC p-val
+Baseline (sentiment > 0),—,42.6%,—,—
+Logistic Regression (80 feat),83.3%,46.8%,0.018,0.903
+XGBoost (80 feat),100.0%,68.1%,0.170,0.252
+LR Feature-Selected (15 feat),69.0%,46.8%,-0.111,0.459
+Random Forest (80 feat),83.3%,46.8%,0.096,0.523
+ElasticNet LR (54 feat active),98.8%,42.6%,0.018,0.906
+PCA(20) + LR,70.2%,46.8%,-0.004,0.978
+RF Feature-Selected (15 feat),76.2%,42.6%,-0.110,0.462

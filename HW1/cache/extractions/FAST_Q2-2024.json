@@ -1,0 +1,93 @@
+{
+  "prepared_sentiment": 0.1,
+  "qa_sentiment": -0.05,
+  "management_confidence": 0.58,
+  "qa_defensiveness": 0.3,
+  "wins": [
+    {
+      "text": "Onsite signings of 107 in Q2 with active sites reaching 1,934, up 12% YoY, approaching 2,000 active Onsites",
+      "category": "customer"
+    },
+    {
+      "text": "FMI Technology installed base grew to 119,000 weighted devices, up 11% YoY; 7,188 devices signed in Q2 (112/day vs. prior target of 100/day); ~42% of sales now flowing through FMI",
+      "category": "growth"
+    },
+    {
+      "text": "eBusiness rose ~25% YoY driven by eProcurement; digital footprint reached 59.4% of sales, hitting 60% in June",
+      "category": "growth"
+    },
+    {
+      "text": "Operating cash flow of $258M in Q2 2024 at 88% of net income, above historical Q2 conversion rates; debt reduced to 6.3% of total capital from 9.4% a year ago",
+      "category": "other"
+    },
+    {
+      "text": "National account contracts growing at low double digits with improved mix; core accounts per day up ~7% YoY in H1 2024 vs. down ~4% in H1 2023",
+      "category": "customer"
+    }
+  ],
+  "risks": [
+    {
+      "text": "Net sales grew only ~2% YoY and EPS fell 2% to $0.51 from $0.52; sub-50 ISM for 19 of the last 20 months creating persistent industrial headwind on 75% of revenue",
+      "category": "macro"
+    },
+    {
+      "text": "Operating margin declined 80 bps YoY to 20.2%; gross margin down 40 bps to 45.1% due to product/customer mix and negative pricing of 30-60 bps including slippage in non-fastener/safety categories",
+      "category": "margins"
+    },
+    {
+      "text": "Regional leadership reporting uptick in customer layoffs, shift reductions, and extended holiday shutdowns; customers 'throwing in the towel' on near-term and cutting costs, suggesting demand weakness may persist",
+      "category": "demand"
+    },
+    {
+      "text": "Pricing discipline flagged as insufficient in safety and other non-fastener product categories; price/cost turned nearly neutral vs. modestly positive in Q1 2024",
+      "category": "margins"
+    },
+    {
+      "text": "Mature Onsites experiencing low-single-digit revenue declines as heavily manufacturing-weighted customer base contracts; uncertainty around July impact from Texas hurricane and extended holiday shutdowns",
+      "category": "execution"
+    }
+  ],
+  "guidance": "mixed",
+  "guidance_items": [
+    {
+      "line_item": "capex",
+      "direction": "raised",
+      "detail": "Full-year net capex raised to $235M-$255M range, up $10M from prior range, driven by hub automation, Utah DC upgrade, FMI spend, and IT purchases"
+    },
+    {
+      "line_item": "margins",
+      "direction": "raised",
+      "detail": "Q3 gross margin expected to be roughly in line with Q2 seasonality or slightly better as warehousing ramp costs largely contained to Q2; pricing discipline actions being taken in Q3"
+    },
+    {
+      "line_item": "other",
+      "direction": "lowered",
+      "detail": "Digital footprint target for full year 2024 revised down to ~63% from prior ~66% expectation due to lower customer spending volumes"
+    },
+    {
+      "line_item": "revenue",
+      "direction": "reaffirmed",
+      "detail": "No specific revenue guidance given; management expects H2 2024 to benefit from strong H1 signings activity barring further macro erosion, but no quantitative target provided"
+    }
+  ],
+  "themes": [
+    "macro_headwinds",
+    "ai",
+    "product_launch",
+    "customer_wins",
+    "margin_pressure",
+    "pricing_power",
+    "supply_chain",
+    "inventory"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Pricing deflation spreading beyond fasteners into safety and other non-fastener product categories \u2014 management did not proactively disclose the safety/other pricing slippage",
+    "Competitive dynamics driving price concessions \u2014 whether margin pressure was offensive (share grab) or defensive (competitor pressure) was not addressed in prepared remarks",
+    "Election-related demand uncertainty causing customers to hold capital spending \u2014 regional feedback on election-driven hesitancy was not mentioned proactively"
+  ],
+  "_ticker": "FAST",
+  "_quarter": "Q2-2024",
+  "_call_date": "2024-07-12",
+  "overall_sentiment": 0.04,
+  "sentiment_bucket": "slightly_bullish"
+}

@@ -1,0 +1,33 @@
+{
+  "line_items": [
+    {
+      "line_item": "revenue",
+      "result": "beat",
+      "reasoning": "Q1 actual revenue came in at $19.3B (up 29% YoY), exceeding the guided $19.1B (up 28% YoY) by ~$200M."
+    },
+    {
+      "line_item": "segment \u2013 AI semiconductor revenue",
+      "result": "beat",
+      "reasoning": "AI semiconductor revenue reached $8.4B (up 106% YoY), surpassing the guided $8.2B (~100% YoY growth) by ~$200M."
+    },
+    {
+      "line_item": "segment \u2013 infrastructure software revenue",
+      "result": "miss",
+      "reasoning": "Infrastructure software revenue grew only ~1% YoY in Q1, well below the guided ~$6.8B run-rate and the expected low double-digit full-year FY26 growth trajectory."
+    },
+    {
+      "line_item": "margins",
+      "result": "beat",
+      "reasoning": "Adjusted EBITDA came in at 68% of revenue, above the guided ~67%, despite the guided ~100 bps sequential gross margin headwind from higher AI mix."
+    },
+    {
+      "line_item": "other \u2013 non-GAAP tax rate",
+      "result": "inline",
+      "reasoning": "The non-GAAP tax rate for Q1/FY26 came in at the guided ~16.5%, exactly in line with prior guidance."
+    }
+  ],
+  "overall_surprise": "beat",
+  "_ticker": "AVGO",
+  "_quarter": "Q1-2026",
+  "_prior_quarter": "Q4-2025"
+}

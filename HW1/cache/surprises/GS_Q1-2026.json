@@ -1,0 +1,33 @@
+{
+  "line_items": [
+    {
+      "line_item": "margins",
+      "result": "miss",
+      "reasoning": "AWM pretax margin was guided to 30%; NIM compression in private banking and lending is explicitly flagged as a persistent headwind for much of 2026, suggesting AWM margins are under pressure and unlikely to be tracking toward the 30% target."
+    },
+    {
+      "line_item": "other (Alternatives AUS / fundraising / incentive fee targets)",
+      "result": "beat",
+      "reasoning": "AWM delivered $62 billion in long-term fee-based net inflows in a single quarter with record AUS of $3.7 trillion and management fees up 14% YoY, indicating strong momentum well ahead of the $75\u2013$100 billion annual fundraising pace and consistent with progress toward the $750B alternatives AUS target."
+    },
+    {
+      "line_item": "other (wealth management 5% fee-based net inflow target)",
+      "result": "beat",
+      "reasoning": "$62 billion in long-term fee-based net inflows in Q1 alone (33rd consecutive quarter) implies an annualized run-rate that comfortably exceeds the newly introduced 5% annual net inflow target."
+    },
+    {
+      "line_item": "other (tax rate ~20% for 2026)",
+      "result": "inline",
+      "reasoning": "No specific Q1 effective tax rate was reported in the provided results, and there is no indication the tax rate deviated materially from the ~20% guidance, so this is treated as inline."
+    },
+    {
+      "line_item": "segment (Platform Solutions small pretax loss for 2026)",
+      "result": "inline",
+      "reasoning": "No specific Platform Solutions pretax result was called out in the wins or risks, and the guided expectation of a small pretax loss due to Apple Card transition accounting was a known, pre-flagged item with no evidence of a material deviation."
+    }
+  ],
+  "overall_surprise": "mixed",
+  "_ticker": "GS",
+  "_quarter": "Q1-2026",
+  "_prior_quarter": "Q4-2025"
+}

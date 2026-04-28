@@ -1,0 +1,33 @@
+{
+  "line_items": [
+    {
+      "line_item": "revenue",
+      "result": "inline",
+      "reasoning": "Guidance called for flat to +2% YoY revenue including ~$570M of idiosyncratic headwinds; actual results absorbed $280M of those headwinds (USPS + international export) with no explicit statement that consolidated revenue came in above or below the flat-to-+2% range, suggesting results were roughly in line."
+    },
+    {
+      "line_item": "eps",
+      "result": "beat",
+      "reasoning": "Reported adjusted EPS of $3.83 came in above the $3.70 midpoint of the guided $3.40\u2013$4.00 range, and management explicitly noted it was above the midpoint of the Q1 outlook range despite incremental headwinds."
+    },
+    {
+      "line_item": "margins",
+      "result": "mixed",
+      "reasoning": "Federal Express adjusted operating margin expanded 70 bps YoY (beating the 'up modestly' guide), but FedEx Freight adjusted operating margin contracted 250 bps YoY, clearly missing the 'down modestly' guidance."
+    },
+    {
+      "line_item": "capex",
+      "result": "inline",
+      "reasoning": "No Q1-specific CapEx deviation was reported; the FY'26 ~$4.5B CapEx plan appears to remain intact with no revision mentioned."
+    },
+    {
+      "line_item": "other",
+      "result": "inline",
+      "reasoning": "The $200M Q1 transformation savings target (DRIVE + Network 2.0) was not explicitly called out as exceeded or missed in the reported results, and the full-year ~$1B savings program appears on track, suggesting an inline outcome."
+    }
+  ],
+  "overall_surprise": "mixed",
+  "_ticker": "FDX",
+  "_quarter": "Q1-2026",
+  "_prior_quarter": "Q4-2025"
+}

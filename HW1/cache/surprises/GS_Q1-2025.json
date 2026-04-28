@@ -1,0 +1,33 @@
+{
+  "line_items": [
+    {
+      "line_item": "2025 Effective Tax Rate (~20%)",
+      "result": "inline",
+      "reasoning": "No Q1-2025 tax rate update was explicitly reported as deviating from the ~20% guidance, so results are treated as tracking inline with the prior guide."
+    },
+    {
+      "line_item": "AWM Management & Other Fees (High Single-Digit Annual Growth)",
+      "result": "beat",
+      "reasoning": "Total wealth management revenue grew 11% YoY to $2.2 billion and AUS hit a record $3.2 trillion with 29 consecutive quarters of long-term fee-based net inflows, suggesting fee growth is tracking above the high-single-digit annual target."
+    },
+    {
+      "line_item": "Alternatives Fundraising (~$70\u201372B Range for 2025)",
+      "result": "inline",
+      "reasoning": "No specific Q1 fundraising total was cited to confirm or deny the full-year pace, and management did not flag a deviation from the ~$70\u201372B annual target, so this remains inline for now."
+    },
+    {
+      "line_item": "Platform Solutions Pretax Breakeven in 2025",
+      "result": "inline",
+      "reasoning": "No explicit update on Platform Solutions profitability was reported in Q1 results, and no miss was flagged, so progress toward breakeven is treated as tracking inline with guidance."
+    },
+    {
+      "line_item": "Incentive Fees Progressing Toward $1B Annual Target",
+      "result": "miss",
+      "reasoning": "The alternatives fee rate contracted meaningfully to ~61 bps driven by lower-fee OCIO mandates, and a difficult monetization environment was explicitly cited as pressuring incentive fees, suggesting Q1 progress fell short of the trajectory needed to reach the $1B target."
+    }
+  ],
+  "overall_surprise": "mixed",
+  "_ticker": "GS",
+  "_quarter": "Q1-2025",
+  "_prior_quarter": "Q4-2024"
+}

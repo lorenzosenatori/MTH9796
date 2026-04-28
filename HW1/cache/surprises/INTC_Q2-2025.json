@@ -1,0 +1,33 @@
+{
+  "line_items": [
+    {
+      "line_item": "revenue",
+      "result": "beat",
+      "reasoning": "Q2 revenue of $12.9B came in above the high end of the guided range of $11.2B\u2013$12.4B, exceeding even the most optimistic scenario Intel laid out."
+    },
+    {
+      "line_item": "margins",
+      "result": "beat",
+      "reasoning": "Excluding ~$1B in one-time impairment and period costs, underlying non-GAAP gross margin was ~37.5%, above the guided ~36.5%; reported 29.7% was depressed by non-recurring charges not contemplated in guidance."
+    },
+    {
+      "line_item": "eps",
+      "result": "beat",
+      "reasoning": "Adjusted non-GAAP EPS of ~$0.10 (ex. one-time items) beat the guided breakeven figure, though reported non-GAAP EPS was dragged below zero by the impairment and period costs."
+    },
+    {
+      "line_item": "capex",
+      "result": "inline",
+      "reasoning": "No explicit Q2 CapEx update was flagged as deviating from the lowered 2025 gross CapEx target of ~$18B or net CapEx range of ~$8B\u2013$11B, suggesting execution remains on track with prior guidance."
+    },
+    {
+      "line_item": "other",
+      "result": "inline",
+      "reasoning": "OpEx trajectory was not called out as deviating from the $17B 2025 target; the Altera/Mobileye capital actions are incremental positives but do not directly contradict the prior OpEx guidance."
+    }
+  ],
+  "overall_surprise": "beat",
+  "_ticker": "INTC",
+  "_quarter": "Q2-2025",
+  "_prior_quarter": "Q1-2025"
+}

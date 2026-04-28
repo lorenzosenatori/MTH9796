@@ -1,0 +1,93 @@
+{
+  "prepared_sentiment": 0.72,
+  "qa_sentiment": 0.42,
+  "management_confidence": 0.78,
+  "qa_defensiveness": 0.28,
+  "wins": [
+    {
+      "text": "Worldwide Q1 sales of $21.9B, up 4.2% operationally despite ~810 bps STELARA biosimilar headwind in Innovative Medicine; ex-STELARA, remaining ~90% of IM business grew over 12% with 11 key brands growing double digits",
+      "category": "revenue"
+    },
+    {
+      "text": "DARZALEX delivered 22.5% growth with ~3 pts share gains across all lines and ~5 pts in frontline; CARVYKTI grew over 100% YoY to $369M with 10.5% sequential growth; RYBREVANT+LAZCLUZE grew over 100% to $141M",
+      "category": "growth"
+    },
+    {
+      "text": "TREMFYA grew 20.1% operationally, achieving nearly $1B in sales; already captured ~50% share of IL-23 new patient starts in UC; Crohn's disease launch patient initiation volumes outpacing prior IL-23 launches",
+      "category": "customer"
+    },
+    {
+      "text": "Full-year operational sales guidance raised by $700M to midpoint of $92B (3.8% growth) following Intra-Cellular/CAPLYTA acquisition close; adjusted EPS guidance maintained at $10.50\u2013$10.70 midpoint despite $0.25 Intra-Cellular dilution and tariff headwinds",
+      "category": "other"
+    },
+    {
+      "text": "63rd consecutive annual dividend increase announced at 4.8%; free cash flow of ~$3.4B in Q1; $7B talc reserve reversal boosted reported net earnings to $11B and EPS to $4.54",
+      "category": "other"
+    }
+  ],
+  "risks": [
+    {
+      "text": "Tariff exposure estimated at ~$400M in 2025, primarily MedTech-driven (China retaliatory tariffs on U.S.-origin products most penalizing); full-year annualized impact deliberately not quantified due to fluidity; limited pricing power to pass through costs given contractual agreements and pharma pricing constraints",
+      "category": "macro"
+    },
+    {
+      "text": "Gross margins compressed ~320 bps YoY driven by STELARA mix headwind, Part D redesign, and unfavorable transactional currency; management acknowledged consensus was too optimistic on gross profit",
+      "category": "margins"
+    },
+    {
+      "text": "Orthopedics declined 3.1% with underlying competitive pressure in Spine and Sports; hips and knees performance described as 'slightly below market' in Q1; Surgery restructuring program expected to cause ~$250M revenue disruption over next 2 years at ~$900M cost",
+      "category": "execution"
+    },
+    {
+      "text": "STELARA biosimilar erosion expected to accelerate throughout 2025 following HUMIRA erosion curve, compounded by Part D redesign; STELARA declined 32.3% in Q1 with further acceleration anticipated",
+      "category": "demand"
+    },
+    {
+      "text": "Section 232 pharmaceutical tariff investigation ongoing; potential for broader pharma tariffs creates supply chain and cost uncertainty; management declined to discuss transfer pricing structures for competitive reasons",
+      "category": "regulatory"
+    }
+  ],
+  "guidance": "raised",
+  "guidance_items": [
+    {
+      "line_item": "revenue",
+      "direction": "raised",
+      "detail": "Full-year operational sales growth raised to 3.3%\u20134.3% (midpoint $92B) from prior range, adding $700M for CAPLYTA/Intra-Cellular; reported sales growth 2.6%\u20133.6% (midpoint $91.4B) reflecting improved FX of +$1.1B vs prior guide"
+    },
+    {
+      "line_item": "eps",
+      "direction": "reaffirmed",
+      "detail": "Adjusted diluted EPS maintained at $10.50\u2013$10.70 (6.2% growth at midpoint) despite $0.25 Intra-Cellular dilution and ~$400M tariff headwind, aided by reduced FX drag"
+    },
+    {
+      "line_item": "margins",
+      "direction": "reaffirmed",
+      "detail": "Operating margin improvement of 300 bps vs 2024 maintained, inclusive of Intra-Cellular dilution and known tariff impacts"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "Net interest expense guided to $100M\u2013$200M (vs prior guide), reflecting Intra-Cellular financing costs; Other income guided to $1.0B\u2013$1.2B, slight increase vs prior"
+    }
+  ],
+  "themes": [
+    "product_launch",
+    "customer_wins",
+    "margin_pressure",
+    "tariffs",
+    "supply_chain",
+    "m_and_a",
+    "buybacks",
+    "restructuring"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Full annualized tariff impact and transfer pricing structure exposure under Section 232 pharma tariff investigation",
+    "Orthopedics competitive share loss in hips/knees being below market, independent of one-time items",
+    "Recession risk and potential demand softness for elective procedures"
+  ],
+  "_ticker": "JNJ",
+  "_quarter": "Q1-2025",
+  "_call_date": "2025-04-15",
+  "overall_sentiment": 0.6,
+  "sentiment_bucket": "bullish"
+}

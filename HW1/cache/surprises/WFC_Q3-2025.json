@@ -1,0 +1,28 @@
+{
+  "line_items": [
+    {
+      "line_item": "Full-Year NII (roughly in line with 2024's $47.7B)",
+      "result": "inline",
+      "reasoning": "Q3 NII grew sequentially as guided, and management has not indicated a deviation from the full-year ~$47.7B target; the trajectory remains consistent with prior guidance."
+    },
+    {
+      "line_item": "Sequential NII Growth in Q3 and Q4 2025",
+      "result": "beat",
+      "reasoning": "Q3 NII grew sequentially as guided, and management confirmed Q4 NII is also expected to grow sequentially, with the NIM decline driven by trading assets (a mix shift, not a structural miss); the sequential growth commitment appears on track or slightly ahead given strong loan growth."
+    },
+    {
+      "line_item": "2025 Noninterest Expense (~$54.2B)",
+      "result": "miss",
+      "reasoning": "Full-year 2025 noninterest expense guidance was raised to ~$54.6B from the prior $54.2B, driven by ~$200M more severance and ~$200M higher revenue-related compensation, with potential additional severance in Q4 not yet included."
+    },
+    {
+      "line_item": "Q3 Common Stock Dividend ($0.45/share, +12.5%) & $40B Buyback Authorization",
+      "result": "beat",
+      "reasoning": "The $0.45/share dividend was confirmed, and WFC repurchased $6.1B of common stock in Q3 \u2014 doubling Q2 buybacks \u2014 demonstrating aggressive execution well ahead of the pace implied by the new $40B authorization."
+    }
+  ],
+  "overall_surprise": "mixed",
+  "_ticker": "WFC",
+  "_quarter": "Q3-2025",
+  "_prior_quarter": "Q2-2025"
+}

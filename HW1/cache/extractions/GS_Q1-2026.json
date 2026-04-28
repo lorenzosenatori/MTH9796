@@ -1,0 +1,98 @@
+{
+  "prepared_sentiment": 0.72,
+  "qa_sentiment": 0.52,
+  "management_confidence": 0.82,
+  "qa_defensiveness": 0.18,
+  "wins": [
+    {
+      "text": "Record Global Banking & Markets revenues of $12.7 billion in Q1, generating ROE of over 22%",
+      "category": "revenue"
+    },
+    {
+      "text": "Record Equities net revenues of $5.3 billion, with Equities financing revenues up 59% YoY to $2.6 billion on record average prime balances",
+      "category": "revenue"
+    },
+    {
+      "text": "Advisory revenues of $1.5 billion rose 89% YoY; firm remains #1 M&A adviser globally with a $150 billion lead in announced volumes over closest peer",
+      "category": "revenue"
+    },
+    {
+      "text": "Asset & Wealth Management generated $62 billion in long-term fee-based net inflows (33rd consecutive quarter), with management fees up 14% YoY to $3.1 billion and record AUS of $3.7 trillion",
+      "category": "growth"
+    },
+    {
+      "text": "Record common stock repurchases of $5 billion in Q1; total capital returned to shareholders of $6.4 billion",
+      "category": "buybacks"
+    }
+  ],
+  "risks": [
+    {
+      "text": "FICC intermediation revenues in rates and mortgages were significantly lower YoY due to a tougher market-making backdrop, partially offset by currencies and commodities strength",
+      "category": "demand"
+    },
+    {
+      "text": "Provision for credit losses of $315 million driven by loan growth, single-name impairments, and macro environment adjustments, reflecting a more cautious credit outlook",
+      "category": "macro"
+    },
+    {
+      "text": "NIM compression in private banking and lending as deposit costs rose in a more competitive rate environment, expected to persist as a headwind for much of 2026",
+      "category": "margins"
+    },
+    {
+      "text": "CET1 ratio declined 180 bps linked-quarter to 12.5% (only 110 bps above requirement) due to record buybacks, growth in prime financing, acquisition financing, and elevated market risk RWAs amid higher volatility",
+      "category": "other"
+    },
+    {
+      "text": "Geopolitical uncertainty (Middle East conflict) and elevated energy prices creating macro headwinds that tempered IPO and sponsor monetization activity, with risk of translating into consumer demand weakness in Q2/Q3",
+      "category": "macro"
+    }
+  ],
+  "guidance": "mixed",
+  "guidance_items": [
+    {
+      "line_item": "other",
+      "direction": "lowered",
+      "detail": "Platform Solutions revenues expected to run lower for the rest of the year, in line with seasonal trends, reflecting the move of the Apple portfolio to held for sale"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "Full-year tax rate expected at approximately 20%; Q1 benefited from stock-based comp at 13.2%"
+    },
+    {
+      "line_item": "margins",
+      "direction": "reaffirmed",
+      "detail": "Firm remains laser-focused on driving towards 60% efficiency ratio; Q1 efficiency ratio was 60.5%"
+    },
+    {
+      "line_item": "segment",
+      "direction": "reaffirmed",
+      "detail": "AWM private banking and lending NIM headwind expected to persist through most of 2026, with improvement expected heading into 2027; AWM durable revenues expected to grow high double digits by 2027"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "Annual alts fundraising target of $75B-$100B reaffirmed; AUS target of $750B by 2030 maintained; private wealth lending balances at record $46B with further penetration expected"
+    }
+  ],
+  "themes": [
+    "ai",
+    "m_and_a",
+    "margin_expansion",
+    "buybacks",
+    "enterprise_demand",
+    "geopolitical",
+    "macro_headwinds",
+    "customer_wins"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Sponsor/private equity monetization activity remaining depressed and the structural reasons why 10,000+ large companies remain private",
+    "Durability of record equities financing revenues and what environment would cause a reversal",
+    "Specific composition and concentration of FICC financing exposure tied to direct lending counterparties"
+  ],
+  "_ticker": "GS",
+  "_quarter": "Q1-2026",
+  "_call_date": "2026-04-13",
+  "overall_sentiment": 0.64,
+  "sentiment_bucket": "bullish"
+}

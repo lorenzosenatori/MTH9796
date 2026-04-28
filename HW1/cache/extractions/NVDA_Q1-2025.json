@@ -1,0 +1,98 @@
+{
+  "prepared_sentiment": 0.92,
+  "qa_sentiment": 0.78,
+  "management_confidence": 0.95,
+  "qa_defensiveness": 0.08,
+  "wins": [
+    {
+      "text": "Q1 revenue of $26B, up 262% YoY and up 18% sequentially, well above the $24B outlook",
+      "category": "revenue"
+    },
+    {
+      "text": "Data Center revenue of $22.6B, a record, up 427% YoY and up 23% sequentially, driven by Hopper GPU demand",
+      "category": "revenue"
+    },
+    {
+      "text": "Non-GAAP gross margins expanded to 78.9% on lower inventory costs, with GAAP gross margins at 78.4%",
+      "category": "margins"
+    },
+    {
+      "text": "Returned $7.8B to shareholders via share repurchases and dividends in Q1; announced 10-for-1 stock split and 150% dividend increase",
+      "category": "buybacks"
+    },
+    {
+      "text": "Spectrum-X Ethernet networking solution ramping with multiple customers including a 100,000 GPU cluster; expected to become a multibillion-dollar product line within a year",
+      "category": "product"
+    }
+  ],
+  "risks": [
+    {
+      "text": "Data Center revenue in China is down significantly from pre-October export control levels; market expected to remain very competitive going forward",
+      "category": "regulatory"
+    },
+    {
+      "text": "Gross margins guided to step down to 74.8% GAAP / 75.5% non-GAAP in Q2, with full-year expected in the mid-70s, a meaningful sequential compression from Q1's 78.9%",
+      "category": "margins"
+    },
+    {
+      "text": "H200 and Blackwell supply constrained; demand expected to exceed supply well into next year, risking customer delivery delays",
+      "category": "supply_chain"
+    },
+    {
+      "text": "InfiniBand networking experienced a modest sequential decline in Q1 due to supply timing, though demand remained ahead of shipments",
+      "category": "supply_chain"
+    },
+    {
+      "text": "Cloud hyperscalers and large customers developing custom ASICs internally, representing potential long-term competitive pressure on GPU demand",
+      "category": "competition"
+    }
+  ],
+  "guidance": "raised",
+  "guidance_items": [
+    {
+      "line_item": "revenue",
+      "direction": "raised",
+      "detail": "Q2 revenue guided to $28B +/- 2%, above Q1 actual of $26B and well above prior Q1 outlook of $24B; sequential growth expected across all market platforms"
+    },
+    {
+      "line_item": "margins",
+      "direction": "lowered",
+      "detail": "Q2 GAAP gross margin guided to 74.8% and non-GAAP to 75.5% (+/- 50 bps), down from Q1's 78.4%/78.9%; full-year expected in mid-70s%"
+    },
+    {
+      "line_item": "other",
+      "direction": "raised",
+      "detail": "Full-year OpEx expected to grow in the low 40% range; Q2 GAAP OpEx ~$4B, non-GAAP ~$2.8B"
+    },
+    {
+      "line_item": "segment",
+      "direction": "raised",
+      "detail": "Sovereign AI revenue expected to approach high single-digit billions this year, up from near zero the prior year"
+    },
+    {
+      "line_item": "other",
+      "direction": "raised",
+      "detail": "Blackwell production shipments starting Q2, ramping Q3, with customer data centers stood up in Q4; significant Blackwell revenue expected this year"
+    }
+  ],
+  "themes": [
+    "ai",
+    "data_center",
+    "cloud",
+    "product_launch",
+    "supply_chain",
+    "china_exposure",
+    "margin_pressure",
+    "customer_wins"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Potential pause or digestion in Hopper/H100 demand as customers await Blackwell and H200 upgrades",
+    "Competitive threat from hyperscaler-developed custom ASICs and internal GPU programs",
+    "Supply allocation strategy between China-specific products (H20) and rest-of-world Hopper products"
+  ],
+  "_ticker": "NVDA",
+  "_quarter": "Q1-2025",
+  "_call_date": "2024-05-22",
+  "overall_sentiment": 0.864,
+  "sentiment_bucket": "very_bullish"
+}

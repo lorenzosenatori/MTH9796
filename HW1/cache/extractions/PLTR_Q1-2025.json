@@ -1,0 +1,98 @@
+{
+  "prepared_sentiment": 0.85,
+  "qa_sentiment": 0.7,
+  "management_confidence": 0.92,
+  "qa_defensiveness": 0.1,
+  "wins": [
+    {
+      "text": "Total revenue grew 39% YoY to $884M, exceeding the high end of prior guidance by ~350 bps and representing an 1,800 bps acceleration vs. Q1 2024 growth rate",
+      "category": "revenue"
+    },
+    {
+      "text": "U.S. commercial revenue grew 71% YoY and 19% sequentially to $255M, surpassing $1B annual run rate for the first time; U.S. commercial TCV booked hit $810M, up 183% YoY",
+      "category": "growth"
+    },
+    {
+      "text": "Adjusted operating margin expanded 800 bps YoY to 44%, driving Rule of 40 score of 83 \u2014 7th consecutive quarter of expansion; adjusted free cash flow of $370M at a 42% margin",
+      "category": "margins"
+    },
+    {
+      "text": "U.S. government revenue grew 45% YoY and 9% sequentially to $373M; international government grew 45% YoY including new NATO Maven Smart System partnership across 32 member states",
+      "category": "customer"
+    },
+    {
+      "text": "Total TCV booked of $1.5B, up 66% YoY; total remaining deal value of $5.97B, up 45% YoY; net dollar retention increased 400 bps sequentially to 124%",
+      "category": "revenue"
+    }
+  ],
+  "risks": [
+    {
+      "text": "International commercial revenue declined 5% YoY and 11% sequentially to $141M, driven by continued headwinds in Europe and a one-time Q4 2024 revenue catch-up; Alex noted 'Europe doesn't get AI yet'",
+      "category": "demand"
+    },
+    {
+      "text": "U.S. DoD budget cuts and DOGE-driven federal spending reductions create potential lumpiness in government contract awards and renewals, even if management views it as net positive",
+      "category": "macro"
+    },
+    {
+      "text": "Adjusted operating expenses grew 21% YoY and 8% sequentially to $493M as the company continues to invest heavily in technical hiring and AIP, with management flagging 'more significant increase in expense in 2025'",
+      "category": "margins"
+    },
+    {
+      "text": "Stock-based compensation of $155M plus $59M in employee-related equity tax expense remain elevated, creating a significant gap between GAAP ($0.08 EPS) and adjusted ($0.13 EPS) earnings",
+      "category": "other"
+    },
+    {
+      "text": "Customer concentration risk: trailing 12-month revenue from top 20 customers grew only 26% YoY to $70M per customer, lagging overall growth rates and suggesting heavy reliance on a small cohort",
+      "category": "customer_concentration"
+    }
+  ],
+  "guidance": "raised",
+  "guidance_items": [
+    {
+      "line_item": "revenue",
+      "direction": "raised",
+      "detail": "FY 2025 revenue raised to $3.89B\u2013$3.902B (midpoint ~$3.896B), representing ~36% YoY growth; Q2 2025 guided to $934M\u2013$938M"
+    },
+    {
+      "line_item": "segment",
+      "direction": "raised",
+      "detail": "U.S. commercial revenue guidance raised to excess of $1.178B, representing at least 68% YoY growth"
+    },
+    {
+      "line_item": "margins",
+      "direction": "raised",
+      "detail": "Adjusted income from operations raised to $1.711B\u2013$1.723B for FY 2025; Q2 guided to $401M\u2013$405M"
+    },
+    {
+      "line_item": "other",
+      "direction": "raised",
+      "detail": "Adjusted free cash flow guidance raised to $1.6B\u2013$1.8B for FY 2025; Rule of 40 score guided to 80 for full year"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "Company continues to expect GAAP operating income and net income in each quarter of 2025"
+    }
+  ],
+  "themes": [
+    "ai",
+    "enterprise_demand",
+    "product_launch",
+    "customer_wins",
+    "margin_expansion",
+    "data_center",
+    "geopolitical",
+    "guidance_beat"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Impact of U.S. DoD budget cuts and DOGE federal spending reductions on existing and future government contracts",
+    "European defense rearmament buildup as a potential growth opportunity for Warp Speed/manufacturing OS",
+    "Expansion of software-first hardware programs beyond TITAN (e.g., Golden Dome, space communications)"
+  ],
+  "_ticker": "PLTR",
+  "_quarter": "Q1-2025",
+  "_call_date": "2025-05-05",
+  "overall_sentiment": 0.79,
+  "sentiment_bucket": "very_bullish"
+}

@@ -1,0 +1,98 @@
+{
+  "prepared_sentiment": 0.65,
+  "qa_sentiment": 0.45,
+  "management_confidence": 0.75,
+  "qa_defensiveness": 0.25,
+  "wins": [
+    {
+      "text": "Full-year adjusted net income surpassed $16 billion, up 27% YoY; adjusted RoTCE improved to 8.8%, a 180 bps improvement; adjusted revenues up 7%, strongest growth in over a decade",
+      "category": "revenue"
+    },
+    {
+      "text": "Banking had record revenues with M&A up 84% in Q4 and 30 bps YoY increase in IB wallet share; Banking RoTCE of 11.3% for the full year with positive operating leverage for 8th consecutive quarter",
+      "category": "revenue"
+    },
+    {
+      "text": "Markets delivered record full-year revenues surpassing 2020 performance; Equities revenues of $5.7B a record with prime balances up over 50%; full-year RoTCE of 11.6%",
+      "category": "growth"
+    },
+    {
+      "text": "Repurchased over $13 billion in common shares during the year including $4.5B in Q4; total capital return of over $17.5 billion, most since the pandemic; CET1 at 13.2%",
+      "category": "buybacks"
+    },
+    {
+      "text": "USPB returns more than doubled for the year reaching mid-teens; Branded Cards NCL at 3.6% and retail services at 5.73%, both at or below the low end of guided ranges; USPB positive operating leverage for 13th consecutive quarter",
+      "category": "margins"
+    }
+  ],
+  "risks": [
+    {
+      "text": "Russia held-for-sale accounting treatment created a notable item that reduced reported EPS to $1.19 and RoTCE to 5.1% vs. adjusted $1.81 and 7.7%; ongoing Russia exit and Poland consumer business sale still pending final approvals",
+      "category": "execution"
+    },
+    {
+      "text": "Efficiency ratio guidance shifted from 'below 60%' to 'around 60%' for 2026, acknowledged by management as a slight softening of prior commitment to allow for continued franchise investment",
+      "category": "margins"
+    },
+    {
+      "text": "Regulatory consent orders remain outstanding with timing of full resolution explicitly described as 'up to the regulators'; data remediation work still ongoing",
+      "category": "regulatory"
+    },
+    {
+      "text": "Potential credit card interest rate cap legislation raised during Q&A; management flagged risk of severe reduction in consumer credit access and $4 trillion in untapped card capacity at risk if enacted",
+      "category": "regulatory"
+    },
+    {
+      "text": "Markets Q4 revenues down 1% YoY against tough comp; Markets expenses up 14% in Q4 driven by legal, compensation and technology; full-year RoTCE of 11.6% still below firm targets",
+      "category": "margins"
+    }
+  ],
+  "guidance": "raised",
+  "guidance_items": [
+    {
+      "line_item": "revenue",
+      "direction": "raised",
+      "detail": "NII ex-Markets guided to grow 5%-6% in 2026, up from prior expectation of a slowdown from 2025's ~5.5% growth; driven by mid-single-digit loan and deposit volume growth"
+    },
+    {
+      "line_item": "margins",
+      "direction": "reaffirmed",
+      "detail": "Targeting efficiency ratio of ~60% for full year 2026, with positive operating leverage expected for the firm and all 5 businesses"
+    },
+    {
+      "line_item": "eps",
+      "direction": "raised",
+      "detail": "Targeting 10%-11% RoTCE for full year 2026, up from 8.8% adjusted in 2025"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "Card NCL ranges reaffirmed at same levels as 2025 guidance (Branded Cards ~3.6%, Retail Services ~5.73%); total firm deposits expected mid-single-digit growth"
+    },
+    {
+      "line_item": "buybacks",
+      "direction": "raised",
+      "detail": "Expects to do more than $13B in buybacks in 2026 as it works CET1 down from 13.2% toward ~12.6% target (100 bps management buffer)"
+    }
+  ],
+  "themes": [
+    "buybacks",
+    "regulatory",
+    "ai",
+    "margin_expansion",
+    "customer_wins",
+    "enterprise_demand",
+    "product_launch",
+    "guidance_beat"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Potential credit card interest rate cap legislation and its impact on Citi's card business",
+    "Specific timeline for full consent order resolution and whether Citi or regulators are the bottleneck",
+    "Competitive gap versus best-in-class peers in investment banking and capital markets and how long to close it"
+  ],
+  "_ticker": "C",
+  "_quarter": "Q4-2025",
+  "_call_date": "2026-01-13",
+  "overall_sentiment": 0.57,
+  "sentiment_bucket": "bullish"
+}

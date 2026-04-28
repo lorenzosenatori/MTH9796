@@ -1,0 +1,98 @@
+{
+  "prepared_sentiment": 0.15,
+  "qa_sentiment": 0.05,
+  "management_confidence": 0.55,
+  "qa_defensiveness": 0.35,
+  "wins": [
+    {
+      "text": "Q2 revenue of $12.9B came in above the high end of guidance, driven by strength in both client and data center segments",
+      "category": "revenue"
+    },
+    {
+      "text": "Excluding ~$1B in one-time impairment and period costs, non-GAAP gross margin would have been 37.5% and EPS $0.10, both ahead of Q2 guidance",
+      "category": "margins"
+    },
+    {
+      "text": "Intel Products revenue of $11.8B with operating profit of $2.7B (23% margin); CCG up 3% QoQ and DCAI above expectations despite 5% sequential decline",
+      "category": "revenue"
+    },
+    {
+      "text": "18A reached key milestone with start of production wafers in Arizona ahead of Panther Lake Q4 launch; Xeon 6 selected as host node for NVIDIA DGX B300 AI accelerated systems",
+      "category": "product"
+    },
+    {
+      "text": "Raised ~$900M through Mobileye offering and on track to close Altera stake sale to Silver Lake in Q3, shoring up balance sheet",
+      "category": "other"
+    }
+  ],
+  "risks": [
+    {
+      "text": "Non-GAAP gross margin fell to 29.7% due to ~$800M noncash impairment/accelerated depreciation on excess prior-gen tools and ~$200M one-time period costs; GAAP charges of $1.9B mostly from severance",
+      "category": "margins"
+    },
+    {
+      "text": "Q3 gross margin guided to ~36%, pressured by Lunar Lake memory-in-package mix headwind, early Panther Lake ramp costs, and increased tariff-related costs",
+      "category": "margins"
+    },
+    {
+      "text": "Intel 7 capacity remains tight through H2 2025, constraining foundry revenue; Intel Foundry operating loss of $3.2B in Q2",
+      "category": "supply_chain"
+    },
+    {
+      "text": "Below-seasonal H2 2025 revenue expected as management believes prior quarters benefited from customer tariff-hedging pull-forward; Q3 revenue guided to $12.6B\u2013$13.6B vs. typical high-single-digit sequential growth",
+      "category": "demand"
+    },
+    {
+      "text": "Server CPU market share under pressure with ASPs down 8% YoY per 10-Q; ARM competition cited as a growing threat; management acknowledges multi-threading capability mistakes and need for new data center leadership",
+      "category": "competition"
+    }
+  ],
+  "guidance": "mixed",
+  "guidance_items": [
+    {
+      "line_item": "revenue",
+      "direction": "reaffirmed",
+      "detail": "Q3 guided to $12.6B\u2013$13.6B (midpoint $13.1B), down 2% to up 6% sequentially; below-seasonal H2 flagged due to potential tariff pull-forward in prior quarters"
+    },
+    {
+      "line_item": "margins",
+      "direction": "lowered",
+      "detail": "Q3 non-GAAP gross margin guided to ~36%, down from Q2's underlying 37.5% (ex-charges), due to Lunar Lake mix, Panther Lake ramp costs, and tariffs"
+    },
+    {
+      "line_item": "eps",
+      "direction": "reaffirmed",
+      "detail": "Q3 non-GAAP EPS guided to breakeven, same as original Q2 guidance"
+    },
+    {
+      "line_item": "capex",
+      "direction": "lowered",
+      "detail": "2025 gross CapEx now ~$18B; net CapEx $8B\u2013$11B; 2026 gross and net CapEx expected lower than 2025, down ~$5B YTD from start of year"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "2025 OpEx target of $17B and 2026 OpEx target of $16B reaffirmed; on track to reach 75,000 employee headcount by year-end"
+    }
+  ],
+  "themes": [
+    "restructuring",
+    "layoffs",
+    "supply_chain",
+    "margin_pressure",
+    "product_launch",
+    "ai",
+    "tariffs",
+    "capex"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Server CPU ASP decline of 8% YoY due to competitive pricing pressure (raised from 10-Q, not discussed in prepared remarks)",
+    "ARM server competition and potential for ARM to capture over half the server market",
+    "Sustainability of foundry strategy if Intel 14A is abandoned \u2014 whether the foundry business can survive on 18A internal volumes alone"
+  ],
+  "_ticker": "INTC",
+  "_quarter": "Q2-2025",
+  "_call_date": "2025-07-24",
+  "overall_sentiment": 0.11,
+  "sentiment_bucket": "slightly_bullish"
+}

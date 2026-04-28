@@ -1,0 +1,98 @@
+{
+  "prepared_sentiment": 0.92,
+  "qa_sentiment": 0.78,
+  "management_confidence": 0.95,
+  "qa_defensiveness": 0.05,
+  "wins": [
+    {
+      "text": "Q4 revenue grew 70% YoY to $1.407B \u2014 highest growth rate as a public company \u2014 exceeding the high end of prior guidance by over 900 basis points",
+      "category": "revenue"
+    },
+    {
+      "text": "U.S. commercial revenue grew 137% YoY and 28% sequentially to $507M in Q4; full year U.S. commercial revenue grew 109% YoY to $1.465B",
+      "category": "growth"
+    },
+    {
+      "text": "Highest-ever TCV quarter at $4.3B, up 138% YoY, eclipsing the prior record set just last quarter by over $1.5B",
+      "category": "other"
+    },
+    {
+      "text": "Adjusted operating income of $798M in Q4 at a 57% margin, exceeding prior guidance by 500 bps; full year adjusted free cash flow of $2.27B at a 51% margin, up 82% YoY",
+      "category": "margins"
+    },
+    {
+      "text": "Rule of 40 score reached 127% in Q4, up 46 points YoY and 13 points QoQ \u2014 10th consecutive quarter of expansion; full year Rule of 40 at 106%",
+      "category": "other"
+    }
+  ],
+  "risks": [
+    {
+      "text": "International commercial revenue grew only 8% YoY and 2% for the full year, reflecting persistent weakness and slow AI adoption outside the U.S., particularly in Europe and Canada",
+      "category": "demand"
+    },
+    {
+      "text": "Management acknowledged bandwidth constraints \u2014 U.S. demand is so intense that it limits Palantir's ability to pursue international opportunities, creating potential long-term geographic concentration risk",
+      "category": "execution"
+    },
+    {
+      "text": "Expenses expected to increase in 2026 as Palantir continues investing in AIP and elite technical hiring, with full year adjusted expenses up 28% YoY in 2025",
+      "category": "margins"
+    },
+    {
+      "text": "Government contracts often have termination-for-convenience clauses and short initial terms, limiting RPO visibility for the government segment",
+      "category": "other"
+    },
+    {
+      "text": "Heavy customer concentration risk: trailing 12-month revenue from top 20 customers at $94M per customer, with growth driven by deepening density rather than broad customer count expansion",
+      "category": "customer_concentration"
+    }
+  ],
+  "guidance": "raised",
+  "guidance_items": [
+    {
+      "line_item": "revenue",
+      "direction": "raised",
+      "detail": "Q1 2026 revenue guided to $1.532B\u2013$1.536B; full year 2026 revenue guided to $7.182B\u2013$7.198B (midpoint $7.190B), representing 61% YoY growth \u2014 well above the ~30% growth guided at the start of 2025"
+    },
+    {
+      "line_item": "segment",
+      "direction": "raised",
+      "detail": "U.S. commercial revenue guided to in excess of $3.144B for full year 2026, representing at least 115% growth"
+    },
+    {
+      "line_item": "margins",
+      "direction": "raised",
+      "detail": "Q1 2026 adjusted income from operations guided to $870M\u2013$874M; full year 2026 adjusted income from operations guided to $4.126B\u2013$4.142B"
+    },
+    {
+      "line_item": "other",
+      "direction": "raised",
+      "detail": "Full year 2026 adjusted free cash flow guided to $3.925B\u2013$4.125B; GAAP operating income and net income expected in each quarter of 2026; full year Rule of 40 guided to 118%"
+    },
+    {
+      "line_item": "other",
+      "direction": "lowered",
+      "detail": "Strategic commercial contract revenue anticipated to be less than $7M in 2026 (less than 0.1% of revenue), down from $5.1M in Q1 2025 alone"
+    }
+  ],
+  "themes": [
+    "ai",
+    "enterprise_demand",
+    "data_center",
+    "product_launch",
+    "customer_wins",
+    "margin_expansion",
+    "guidance_beat",
+    "supply_chain"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Whether Palantir is capturing an increasing share of customer budgets beyond the original scope of engagement (budget expansion / wallet share)",
+    "Potential for ShipOS / Warp Speed to expand into other defense reindustrialization verticals such as munitions, fighters, and drones",
+    "Whether the broader market's 'show-me' skepticism on enterprise AI ROI is affecting Palantir's commercial pipeline or customer hesitancy"
+  ],
+  "_ticker": "PLTR",
+  "_quarter": "Q4-2025",
+  "_call_date": "2026-02-02",
+  "overall_sentiment": 0.864,
+  "sentiment_bucket": "very_bullish"
+}

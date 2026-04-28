@@ -1,0 +1,92 @@
+{
+  "prepared_sentiment": 0.92,
+  "qa_sentiment": 0.82,
+  "management_confidence": 0.93,
+  "qa_defensiveness": 0.1,
+  "wins": [
+    {
+      "text": "Total revenue of $46.7B exceeded outlook; Data Center revenue grew 56% YoY despite a $4B decline in H20 revenue",
+      "category": "revenue"
+    },
+    {
+      "text": "Networking delivered record revenue of $7.3B, up 46% sequentially and 98% YoY; Spectrum-X Ethernet annualized revenue exceeding $10B",
+      "category": "revenue"
+    },
+    {
+      "text": "Gaming revenue hit a record $4.3B, up 14% sequentially and 49% YoY driven by Blackwell GeForce GPU ramp",
+      "category": "revenue"
+    },
+    {
+      "text": "Blackwell Ultra platform generated tens of billions in revenue in Q2; GB300 production ramping at ~1,000 racks/week with acceleration expected in Q3",
+      "category": "product"
+    },
+    {
+      "text": "Returned $10B to shareholders via buybacks and dividends in Q2; Board approved new $60B share repurchase authorization on top of $14.7B remaining",
+      "category": "buybacks"
+    }
+  ],
+  "risks": [
+    {
+      "text": "H20 China revenue declined to low single-digit % of data center revenue; Q3 outlook excludes H20 China shipments entirely due to unresolved geopolitical/licensing issues",
+      "category": "regulatory"
+    },
+    {
+      "text": "H20 revenue declined ~$4B sequentially in Q2; $2B\u2013$5B potential Q3 upside is contingent on uncertain geopolitical resolution and license approvals",
+      "category": "regulatory"
+    },
+    {
+      "text": "Operating expenses expected to grow high-30s% YoY for full year, up from prior mid-30s% guidance, reflecting accelerating investment spend",
+      "category": "margins"
+    },
+    {
+      "text": "Inventory increased from $11B to $15B sequentially to support Blackwell/Blackwell Ultra ramp, creating execution risk if demand softens",
+      "category": "supply_chain"
+    },
+    {
+      "text": "USG has expressed expectation of receiving 15% of revenue from licensed H20 sales, though no regulation has been codified \u2014 creating policy uncertainty",
+      "category": "regulatory"
+    }
+  ],
+  "guidance": "raised",
+  "guidance_items": [
+    {
+      "line_item": "revenue",
+      "direction": "raised",
+      "detail": "Q3 revenue guided to $54B \u00b12%, implying >$7B sequential growth from $46.7B in Q2; excludes any H20 China shipments"
+    },
+    {
+      "line_item": "margins",
+      "direction": "raised",
+      "detail": "Q3 non-GAAP gross margin guided to 73.5% \u00b150bps, up from 72.7% in Q2; expects to exit year with non-GAAP GMs in mid-70s"
+    },
+    {
+      "line_item": "other",
+      "direction": "lowered",
+      "detail": "Full-year opex growth now expected in high-30s% YoY range, up from prior mid-30s% guidance \u2014 a deliberate investment acceleration"
+    }
+  ],
+  "themes": [
+    "ai",
+    "data_center",
+    "china_exposure",
+    "geopolitical",
+    "tariffs",
+    "margin_expansion",
+    "buybacks",
+    "product_launch",
+    "customer_wins",
+    "supply_chain",
+    "capex",
+    "autonomous"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Competitive threat from customer ASICs (e.g., Broadcom) and potential market share shift away from NVIDIA GPUs",
+    "Specific breakdown/apportionment of Q3 $7B sequential revenue growth across Blackwell vs. Hopper vs. Networking",
+    "Quantitative visibility into FY2026 data center revenue growth rate (e.g., ~50% CAGR bogey)"
+  ],
+  "_ticker": "NVDA",
+  "_quarter": "Q2-2026",
+  "_call_date": "2025-08-27",
+  "overall_sentiment": 0.88,
+  "sentiment_bucket": "very_bullish"
+}

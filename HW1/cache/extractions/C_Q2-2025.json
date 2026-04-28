@@ -1,0 +1,98 @@
+{
+  "prepared_sentiment": 0.72,
+  "qa_sentiment": 0.55,
+  "management_confidence": 0.78,
+  "qa_defensiveness": 0.2,
+  "wins": [
+    {
+      "text": "Net income of $4 billion, EPS of $1.96, ROTCE of 8.7% on $21.7B revenue; total revenues up 8% YoY with positive operating leverage at each of the 5 businesses",
+      "category": "revenue"
+    },
+    {
+      "text": "Markets revenues up 16% \u2014 best Q2 since 2020; Equities had best Q2 ever with prime balances hitting a record, up ~27% YoY",
+      "category": "revenue"
+    },
+    {
+      "text": "Banking revenues up 18%; Investment banking fees up 13% with M&A up 52%; involved in 7 of top 10 IB fee events YTD",
+      "category": "revenue"
+    },
+    {
+      "text": "Wealth revenues up 20% with pretax margin of 29%; client investment assets grew 17% YoY; generated positive operating leverage for 5th consecutive quarter",
+      "category": "margins"
+    },
+    {
+      "text": "Returned over $3B in capital to common shareholders in Q2 including $2B in buybacks; increased quarterly dividend to $0.60/share; announced at least $4B in Q3 buybacks under $20B repurchase program",
+      "category": "buybacks"
+    }
+  ],
+  "risks": [
+    {
+      "text": "ACL build of ~$600M in the quarter driven by transfer risk in Russia (unremittable client dividends) and corporate portfolio growth in Markets and Banking; corporate nonaccrual loans increased due to idiosyncratic downgrades",
+      "category": "other"
+    },
+    {
+      "text": "Wealth net new investment asset inflows slowed in Q2 as clients were cautious amid macro uncertainty; management acknowledged clients remain in 'wait and see' mode",
+      "category": "demand"
+    },
+    {
+      "text": "Retail Services revenues declined 5% due to lower partner sales activity and higher partner payments from lower net credit losses; macro uncertainty weighing on commercial card spend (flat YoY)",
+      "category": "demand"
+    },
+    {
+      "text": "Goods prices expected to start rising over summer as tariffs take effect; management noted pauses in CapEx and hiring among client base; tariff and trade policy uncertainty remains a key macro risk",
+      "category": "macro"
+    },
+    {
+      "text": "Transformation expenses increasing meaningfully in 2025 vs. $3B in 2024; OCC consent order remediation ongoing with data plan still in early remediation phase; elevated severance (~$600M forecast for full year 2025)",
+      "category": "execution"
+    }
+  ],
+  "guidance": "raised",
+  "guidance_items": [
+    {
+      "line_item": "revenue",
+      "direction": "raised",
+      "detail": "Now expect to be at the higher end of full-year revenue range, around $84B, up from prior midpoint guidance"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "NII ex-Markets expected up closer to 4% for full year 2025"
+    },
+    {
+      "line_item": "margins",
+      "direction": "reaffirmed",
+      "detail": "Full-year expenses expected around $53.4B; higher if revenues exceed $84B"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "Branded Cards NCL rate guided to 3.5%-4%; Retail Services NCL rate guided to 5.75%-6.25%"
+    },
+    {
+      "line_item": "capex",
+      "direction": "raised",
+      "detail": "At least $4B in share buybacks in Q3 2025 under $20B repurchase program; dividend increased to $0.60/share beginning Q3"
+    }
+  ],
+  "themes": [
+    "buybacks",
+    "dividends",
+    "margin_expansion",
+    "ai",
+    "product_launch",
+    "customer_wins",
+    "macro_headwinds",
+    "regulatory"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Stablecoin disruption risk to Services/cross-border revenues and competitive dynamics with non-bank entrants like Circle",
+    "Specific dollar quantum of transformation expenses in Q2 and run-rate going forward",
+    "Whether 13.1% year-end CET1 target remains appropriate given SCB relief and regulatory reform trajectory"
+  ],
+  "_ticker": "C",
+  "_quarter": "Q2-2025",
+  "_call_date": "2025-07-15",
+  "overall_sentiment": 0.652,
+  "sentiment_bucket": "bullish"
+}

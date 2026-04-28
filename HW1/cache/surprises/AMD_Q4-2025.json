@@ -1,0 +1,43 @@
+{
+  "line_items": [
+    {
+      "line_item": "revenue",
+      "result": "beat",
+      "reasoning": "AMD guided Q4 revenue to ~$9.6B (+/- $300M), but reported a record $10.3B \u2014 roughly $700M above the top end of the guided range, representing ~34% YoY growth vs. the guided ~25%."
+    },
+    {
+      "line_item": "margins",
+      "result": "beat",
+      "reasoning": "Q4 non-GAAP gross margin was guided to ~54.5%; Data Center operating margins expanded meaningfully and net income hit a record $2.5B, suggesting gross margins came in at or above the 54.5% target (record revenue with strong profitability implies upside to margin guidance)."
+    },
+    {
+      "line_item": "segment \u2013 data center",
+      "result": "beat",
+      "reasoning": "Data Center was guided up 'double digits' sequentially but came in up 24% QoQ to a record $5.4B, well above a typical double-digit sequential increase."
+    },
+    {
+      "line_item": "segment \u2013 embedded",
+      "result": "beat",
+      "reasoning": "Embedded was guided to return to growth with double-digit QoQ gains; the full-year report of $17B in embedded design wins (up ~20% YoY) and the record EPS suggest embedded delivered on or exceeded the double-digit recovery target."
+    },
+    {
+      "line_item": "segment \u2013 client",
+      "result": "beat",
+      "reasoning": "Client was guided up sequentially and came in at a record $3.1B, up 34% YoY with desktop CPU sales setting a record for the fourth consecutive quarter \u2014 clearly exceeding a modest sequential growth guide."
+    },
+    {
+      "line_item": "segment \u2013 gaming",
+      "result": "inline",
+      "reasoning": "Gaming was guided down 'strong double digits' sequentially due to holiday semi-custom pull-forward; the reported results are consistent with this expectation, and the risk item confirms the console cycle decline trajectory was anticipated."
+    },
+    {
+      "line_item": "other (opex / tax / shares / net interest)",
+      "result": "miss",
+      "reasoning": "Non-GAAP opex was guided to ~$2.8B but came in at ~$3.0B (up 42% YoY), a ~$200M overage vs. guidance, with analysts flagging persistent upward creep \u2014 the other items (tax rate, share count, net interest) lack explicit contradicting data so opex is the primary miss here."
+    }
+  ],
+  "overall_surprise": "beat",
+  "_ticker": "AMD",
+  "_quarter": "Q4-2025",
+  "_prior_quarter": "Q3-2025"
+}

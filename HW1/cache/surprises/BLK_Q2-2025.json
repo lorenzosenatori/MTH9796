@@ -1,0 +1,33 @@
+{
+  "line_items": [
+    {
+      "line_item": "2025 Core G&A Expense Growth",
+      "result": "miss",
+      "reasoning": "Prior guidance called for mid- to high single-digit percentage increase in core G&A, but current results indicate a low-teens percentage increase is now expected due to GIP, Preqin, and HPS onboarding \u2014 clearly above the prior guided range."
+    },
+    {
+      "line_item": "Share Repurchases (\u2265$375M/quarter)",
+      "result": "beat",
+      "reasoning": "BLK reported $433M in net investment gains and the company executed $433M in Q2, and separately the repurchase commitment of at least $375M per quarter was reaffirmed and met/exceeded based on continued capital return activity consistent with or above the floor."
+    },
+    {
+      "line_item": "Tax Run Rate (~25% for remainder of 2025)",
+      "result": "inline",
+      "reasoning": "No explicit deviation from the 25% projected tax run rate was flagged in the current quarter results, suggesting it remained on track."
+    },
+    {
+      "line_item": "ACV Organic Growth (Low to Mid-Teens Long-Term Target)",
+      "result": "beat",
+      "reasoning": "ACV grew 32% YoY overall with 16% organic growth in Q2, which exceeds the low to mid-teens long-term organic growth target guided previously."
+    },
+    {
+      "line_item": "Private Credit AUM ~$220B post-HPS Close (Mid-2025)",
+      "result": "beat",
+      "reasoning": "HPS closed on July 1 (slightly past mid-2025 but within the targeted window), adding $165B in client AUM, and with GIP V closing above its $25B target at $25.2B, the private markets AUM scaling is tracking at or above the ~$220B expectation."
+    }
+  ],
+  "overall_surprise": "mixed",
+  "_ticker": "BLK",
+  "_quarter": "Q2-2025",
+  "_prior_quarter": "Q1-2025"
+}

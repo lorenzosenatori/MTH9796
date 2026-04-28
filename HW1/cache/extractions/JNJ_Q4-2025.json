@@ -1,0 +1,93 @@
+{
+  "prepared_sentiment": 0.75,
+  "qa_sentiment": 0.6,
+  "management_confidence": 0.82,
+  "qa_defensiveness": 0.25,
+  "wins": [
+    {
+      "text": "Full year 2025 worldwide sales of $94.2 billion, up 5.3% operationally despite ~620 bps STELARA headwind; double-digit growth ex-STELARA",
+      "category": "revenue"
+    },
+    {
+      "text": "DARZALEX full year sales exceeded $14 billion, growing 22% YoY; Q4 growth of 24.1% with 6.5 points of share gain across all lines of therapy",
+      "category": "growth"
+    },
+    {
+      "text": "TREMFYA Q4 operational sales growth of 75% in the U.S. and 65% worldwide; full year sales exceeded $5 billion for the first time, with management confident in $10 billion peak year sales potential",
+      "category": "revenue"
+    },
+    {
+      "text": "Adjusted diluted EPS of $2.46 in Q4, up 20.6% YoY; full year adjusted EPS of $10.79, up 8.1% YoY, exceeding beginning-of-year expectations on both top and bottom line",
+      "category": "margins"
+    },
+    {
+      "text": "Free cash flow of $19.7 billion in 2025; 2026 FCF guided to approximately $21 billion; enterprise adjusted pretax operating margin expanded from 24.1% to 28.7% in Q4",
+      "category": "other"
+    }
+  ],
+  "risks": [
+    {
+      "text": "Full year MedTech tariff impact of approximately $500 million in 2026, significantly above 2025 levels, pressuring cost of goods sold and margins",
+      "category": "macro"
+    },
+    {
+      "text": "STELARA biosimilar erosion continues to accelerate following HUMIRA curve; additional generic headwinds from SIMPONI and OPSUMIT beginning in 2026",
+      "category": "competition"
+    },
+    {
+      "text": "Talc MDL Daubert ruling: special master partially failed to apply Rule 702 gatekeeping; litigation remains unresolved with ongoing trial and appeal risk; Q4 litigation costs of $0.9 billion related to Auris shareholder resolution",
+      "category": "regulatory"
+    },
+    {
+      "text": "Volume-based procurement (VBP) in China creating headwinds across Surgery and Orthopaedics portfolios, with additional VBP rounds anticipated in 2026",
+      "category": "macro"
+    },
+    {
+      "text": "Competitive pressures in electrophysiology PFA market and in energy/endocutters within Surgery; EP business growing below market in 2025",
+      "category": "competition"
+    }
+  ],
+  "guidance": "raised",
+  "guidance_items": [
+    {
+      "line_item": "revenue",
+      "direction": "raised",
+      "detail": "2026 operational sales growth guided 5.7%-6.7%, midpoint $100 billion (6.2%); reported sales midpoint $100.5 billion (6.7%), above prior trajectory"
+    },
+    {
+      "line_item": "eps",
+      "direction": "raised",
+      "detail": "2026 adjusted operational EPS range $11.28-$11.48 (5.5% growth at midpoint); reported adjusted EPS midpoint $11.53 including $0.15 FX tailwind"
+    },
+    {
+      "line_item": "margins",
+      "direction": "raised",
+      "detail": "2026 adjusted pretax operating margin guided to improve by at least 50 basis points despite $500M tariff headwind and heavier front-loaded investment"
+    },
+    {
+      "line_item": "other",
+      "direction": "raised",
+      "detail": "Free cash flow guided to approximately $21 billion in 2026, up from $19.7 billion in 2025"
+    }
+  ],
+  "themes": [
+    "product_launch",
+    "customer_wins",
+    "margin_expansion",
+    "tariffs",
+    "regulatory",
+    "m_and_a",
+    "guidance_beat",
+    "supply_chain"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Talc MDL Daubert ruling implications, reserve adequacy, and litigation resolution strategy",
+    "ACA subsidy expiration and potential policy changes impact on MedTech procedure volumes",
+    "Milvexian competitive positioning vs. Bayer Factor XI inhibitor and path to commercialization"
+  ],
+  "_ticker": "JNJ",
+  "_quarter": "Q4-2025",
+  "_call_date": "2026-01-21",
+  "overall_sentiment": 0.69,
+  "sentiment_bucket": "bullish"
+}

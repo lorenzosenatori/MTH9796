@@ -1,0 +1,28 @@
+{
+  "line_items": [
+    {
+      "line_item": "segment \u2013 alternatives fundraising",
+      "result": "beat",
+      "reasoning": "GS raised full-year alternatives fundraising guidance to ~$100B last quarter, but actual full-year fundraising came in at a record $115B, clearly exceeding the raised target."
+    },
+    {
+      "line_item": "revenue \u2013 AWM durable revenues (mgmt fees + private banking/lending)",
+      "result": "beat",
+      "reasoning": "Management and other fees hit a record $3.1B in Q4 (up 10% YoY) and alternatives management fees grew to a record $2.4B for the year, suggesting high-single-digit annual growth was at minimum matched and likely exceeded; however, NIM compression in private banking/lending is a forward headwind, not a current-period miss."
+    },
+    {
+      "line_item": "other \u2013 full-year effective tax rate (~22%)",
+      "result": "inline",
+      "reasoning": "No explicit tax rate figure was reported in the current quarter results to indicate a deviation from the guided ~22% effective tax rate, so it is treated as inline."
+    },
+    {
+      "line_item": "other \u2013 full-year comp ratio (~32.5%)",
+      "result": "inline",
+      "reasoning": "The current quarter results do not explicitly report a full-year comp ratio figure that contradicts the 32.5% guidance, so no deviation can be confirmed."
+    }
+  ],
+  "overall_surprise": "beat",
+  "_ticker": "GS",
+  "_quarter": "Q4-2025",
+  "_prior_quarter": "Q3-2025"
+}

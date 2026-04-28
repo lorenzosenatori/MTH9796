@@ -1,0 +1,93 @@
+{
+  "prepared_sentiment": 0.2,
+  "qa_sentiment": 0.1,
+  "management_confidence": 0.55,
+  "qa_defensiveness": 0.35,
+  "wins": [
+    {
+      "text": "North America Q2 revenue grew 9%, with wholesale up 24% and Running delivering high double-digit growth across all channels; NIKE.com posted its best Black Friday ever",
+      "category": "revenue"
+    },
+    {
+      "text": "Running grew over 20% for the second consecutive quarter, up double digits in every channel including NIKE Direct, with market share gains",
+      "category": "growth"
+    },
+    {
+      "text": "Wholesale grew 8% globally; order book for spring and summer is growing in both seasons, with Football booking units nearly 40% higher than World Cup '22",
+      "category": "customer"
+    },
+    {
+      "text": "North America gross margins declined only 330 bps despite 520 bps of tariff headwind, demonstrating underlying margin recovery from Win Now actions",
+      "category": "margins"
+    },
+    {
+      "text": "Classics footwear franchises on track to decline more than $4 billion from peak levels by fiscal year-end, with inventory down 3% YoY and units down high single digits",
+      "category": "cost_savings"
+    }
+  ],
+  "risks": [
+    {
+      "text": "Greater China Q2 revenue declined 16%, EBIT declined 49% on a reported basis, with NIKE Digital down 36%; unplanned inventory obsolescence charges taken in the quarter",
+      "category": "demand"
+    },
+    {
+      "text": "Tariffs represent $1.5B annualized incremental product costs, a gross headwind of ~320 bps to gross margin in FY26; net impact reduced to ~120 bps but still significant",
+      "category": "margins"
+    },
+    {
+      "text": "Q3 revenue guided down low single digits; gross margins guided down 175-225 bps including 315 bps tariff impact, with Greater China and Converse expected to remain at Q2 trend levels",
+      "category": "macro"
+    },
+    {
+      "text": "NIKE Direct declined 9% globally (Digital -14%, Stores -3%), reflecting intentional repositioning but still a meaningful top-line drag",
+      "category": "demand"
+    },
+    {
+      "text": "APLA revenue down 4% with mixed country results; EMEA revenue down 1% with heavier-than-expected promotional activity and double-digit inventory growth",
+      "category": "execution"
+    }
+  ],
+  "guidance": "mixed",
+  "guidance_items": [
+    {
+      "line_item": "revenue",
+      "direction": "lowered",
+      "detail": "Q3 revenues expected to be down low single digits, with modest growth in North America offset by continued declines in Greater China and Converse similar to Q2; includes ~3-point FX benefit"
+    },
+    {
+      "line_item": "margins",
+      "direction": "lowered",
+      "detail": "Q3 gross margins expected down ~175-225 bps; excluding 315 bps tariff impact, underlying gross margin would be positive expansion"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "Q3 SG&A dollars expected up low single digits due to higher demand creation and sport offense investments"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "Q3 other expense net of interest income expected to be income of $0-$10M"
+    }
+  ],
+  "themes": [
+    "macro_headwinds",
+    "tariffs",
+    "china_exposure",
+    "margin_pressure",
+    "product_launch",
+    "customer_wins",
+    "supply_chain",
+    "restructuring"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Timeline to return to double-digit EBIT margins and whether management would provide 2-3 year targets",
+    "Whether North America's recovery playbook is directly applicable to China and the expected timeline for China's bottom",
+    "Mix breakdown of North America wholesale growth between liquidation/value channels vs. full-price sell-through and sustainability of that growth rate"
+  ],
+  "_ticker": "NKE",
+  "_quarter": "Q2-2026",
+  "_call_date": "2025-12-18",
+  "overall_sentiment": 0.16,
+  "sentiment_bucket": "slightly_bullish"
+}

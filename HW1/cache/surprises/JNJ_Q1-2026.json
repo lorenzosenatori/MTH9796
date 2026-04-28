@@ -1,0 +1,28 @@
+{
+  "line_items": [
+    {
+      "line_item": "revenue",
+      "result": "beat",
+      "reasoning": "Q1 operational sales growth of 6.4% came in above the guided full-year midpoint of 6.2%, and JNJ subsequently raised its full-year operational sales guidance range to 5.9%-6.9% (midpoint ~$100.2B), signaling Q1 results exceeded the prior trajectory."
+    },
+    {
+      "line_item": "eps",
+      "result": "beat",
+      "reasoning": "JNJ raised its full-year adjusted EPS guidance by $0.02 to $11.30-$11.50 after Q1, indicating Q1 earnings performance came in ahead of the prior guided range of $11.28-$11.48."
+    },
+    {
+      "line_item": "margins",
+      "result": "miss",
+      "reasoning": "Adjusted pretax operating margin compressed sharply from 36.6% to 32.5% year-over-year in Q1, driven by tariff impacts, heavier launch investment, and unfavorable mix \u2014 falling well short of the guidance for at least 50 bps of full-year margin improvement."
+    },
+    {
+      "line_item": "other",
+      "result": "inline",
+      "reasoning": "No Q1 free cash flow figure was explicitly reported against the ~$21B full-year target, and with guidance raised on the top and bottom line, FCF trajectory appears on track but cannot be confirmed as a beat or miss at this stage."
+    }
+  ],
+  "overall_surprise": "mixed",
+  "_ticker": "JNJ",
+  "_quarter": "Q1-2026",
+  "_prior_quarter": "Q4-2025"
+}

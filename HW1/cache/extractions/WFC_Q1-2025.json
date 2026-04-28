@@ -1,0 +1,88 @@
+{
+  "prepared_sentiment": 0.25,
+  "qa_sentiment": 0.1,
+  "management_confidence": 0.62,
+  "qa_defensiveness": 0.3,
+  "wins": [
+    {
+      "text": "Diluted EPS up 16% YoY to $1.39, with net income of $4.9 billion",
+      "category": "revenue"
+    },
+    {
+      "text": "Returned $4.8 billion of capital to shareholders in Q1 via dividends and share repurchases, including $3.5B in buybacks; diluted average shares outstanding down 8% YoY",
+      "category": "buybacks"
+    },
+    {
+      "text": "5 consent orders terminated in Q1 (11 total since 2019), freeing management bandwidth and signaling regulatory progress",
+      "category": "other"
+    },
+    {
+      "text": "Net loan charge-off ratio improved to 45 bps, down 5 bps YoY and 8 bps QoQ, driven by lower commercial losses including CRE office portfolio",
+      "category": "margins"
+    },
+    {
+      "text": "Noninterest expense declined 3% YoY on efficiency initiatives; headcount reductions for 19 consecutive quarters",
+      "category": "cost_savings"
+    }
+  ],
+  "risks": [
+    {
+      "text": "NII guided to low end of the 1%-3% growth range vs. 2024, with significant uncertainty around rate path, loan growth, and deposit mix; CFO acknowledged forward curve has moved 40-50 bps lower on the short end in the second half",
+      "category": "macro"
+    },
+    {
+      "text": "Tariff-driven economic uncertainty creating client caution; management flagged 'continued volatility and uncertainty' and preparation for 'a slower economic environment in 2025'",
+      "category": "macro"
+    },
+    {
+      "text": "Nonperforming assets increased 4% QoQ driven by a rise in commercial and industrial nonaccrual loans",
+      "category": "demand"
+    },
+    {
+      "text": "Auto revenue declined 21% YoY on lower loan balances and spread compression; tariff risk to Volkswagen/Audi partnership flagged as an open question",
+      "category": "margins"
+    },
+    {
+      "text": "Asset cap remains in place, constraining balance sheet growth in trading (equity finance/prime), loan origination, and deposit-taking; no timeline provided for removal",
+      "category": "regulatory"
+    }
+  ],
+  "guidance": "mixed",
+  "guidance_items": [
+    {
+      "line_item": "revenue",
+      "direction": "lowered",
+      "detail": "Full-year 2025 NII now expected at the low end of the prior +1% to +3% vs. 2024 range, citing lower rates, uncertain loan growth, and deposit mix shifts"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "Full-year 2025 noninterest expense outlook unchanged at approximately $54.2 billion"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "NII trajectory still expected to be flattish in H1 with a ramp in H2 driven by loan growth, consistent with January guidance"
+    }
+  ],
+  "themes": [
+    "macro_headwinds",
+    "regulatory",
+    "buybacks",
+    "cost_cutting",
+    "margin_pressure",
+    "tariffs",
+    "enterprise_demand",
+    "inventory"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Impact of consent order closures on management bandwidth and expense savings (not proactively quantified)",
+    "Specific C&I sub-sector credit monitoring in a potential downturn",
+    "Equity markets business underperformance relative to large-cap peers and asset cap constraints on prime/equity finance growth"
+  ],
+  "_ticker": "WFC",
+  "_quarter": "Q1-2025",
+  "_call_date": "2025-04-11",
+  "overall_sentiment": 0.19,
+  "sentiment_bucket": "slightly_bullish"
+}

@@ -1,0 +1,98 @@
+{
+  "prepared_sentiment": 0.82,
+  "qa_sentiment": 0.65,
+  "management_confidence": 0.88,
+  "qa_defensiveness": 0.1,
+  "wins": [
+    {
+      "text": "Q1 net inflows of $130B drove 8% organic base fee growth \u2014 highest first quarter in 5 years \u2014 and 10% over the last 12 months on $744B of net new assets",
+      "category": "growth"
+    },
+    {
+      "text": "Revenue of $6.7B grew 27% YoY; operating income of $2.7B up 31%; EPS of $12.53 up 11% YoY",
+      "category": "revenue"
+    },
+    {
+      "text": "As-adjusted operating margin expanded 130 bps YoY to 44.5%; ex-performance fees margin was 45.6%, up 180 bps YoY",
+      "category": "margins"
+    },
+    {
+      "text": "Record Q1 ETF net inflows of $132B with double-digit organic base fee growth; active ETF platform grew 4x in 2 years to $110B+ AUM with $19B of Q1 inflows",
+      "category": "product"
+    },
+    {
+      "text": "Aperio generated a record $13B of net inflows in Q1 (record for 5th straight year); SpiderRock added over $1B; AUM more than tripled and doubled respectively since acquisition",
+      "category": "customer"
+    }
+  ],
+  "risks": [
+    {
+      "text": "Institutional index net outflows of $35B concentrated in low-fee index equities, partially offsetting strong active and private markets inflows",
+      "category": "demand"
+    },
+    {
+      "text": "March 2026 was the worst month for broad markets since September 2022 (stocks down 7-10%, bonds down 2-3%), creating AUM headwinds; base fee entry rate at end of March was ~2% lower than Q1 average",
+      "category": "macro"
+    },
+    {
+      "text": "Elevated geopolitical uncertainty from Middle East conflict could shift sovereign wealth fund behavior and capital priorities, though no behavioral change observed yet",
+      "category": "geopolitical"
+    },
+    {
+      "text": "New activity levels in private credit were somewhat lower in Q1 due to market uncertainty; potential for elevated redemptions and muted subscriptions in wealth channel BDC/evergreen vehicles",
+      "category": "demand"
+    },
+    {
+      "text": "EPS growth of 11% lagged revenue/operating income growth of 27-31% due to lower nonoperating income, higher effective tax rate, and higher share count from HPS transaction closing",
+      "category": "margins"
+    }
+  ],
+  "guidance": "reaffirmed",
+  "guidance_items": [
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "Long-term organic base fee growth target of 5%+ reaffirmed; management expressed confidence in consistently delivering 6%-8%"
+    },
+    {
+      "line_item": "margins",
+      "direction": "reaffirmed",
+      "detail": "45% or greater adjusted operating margin target reaffirmed; recurring FRE margin trajectory toward 50%+ over time"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "Technology ACV low-to-mid-teens growth target reaffirmed; ACV grew 14% YoY in Q1"
+    },
+    {
+      "line_item": "capex",
+      "direction": "reaffirmed",
+      "detail": "Share repurchases of at least $450M per quarter for the balance of 2026, consistent with January guidance"
+    },
+    {
+      "line_item": "other",
+      "direction": "reaffirmed",
+      "detail": "25% effective tax rate projected as reasonable run rate for remainder of 2026"
+    }
+  ],
+  "themes": [
+    "ai",
+    "data_center",
+    "margin_expansion",
+    "buybacks",
+    "product_launch",
+    "customer_wins",
+    "enterprise_demand",
+    "geopolitical"
+  ],
+  "analyst_concerns_not_in_prepared": [
+    "Potential fee holiday or competitive pricing strategy for the newly filed NASDAQ 100 ETF (IQQ) and cannibalization risk vs. S&P complex",
+    "Specific sovereign wealth fund behavioral changes in response to Middle East conflict and Asia energy price pressures",
+    "Elevated redemption risk in retail evergreen private credit BDC vehicles and near-term subscription trajectory"
+  ],
+  "_ticker": "BLK",
+  "_quarter": "Q1-2026",
+  "_call_date": "2026-04-14",
+  "overall_sentiment": 0.752,
+  "sentiment_bucket": "very_bullish"
+}
