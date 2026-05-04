@@ -1,0 +1,25 @@
+﻿# Secrets
+.env
+.env.*
+
+# Python build artifacts
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor configs
+.vscode/
+.idea/
+
+# HW2-specific large files
+HW2/models/finbert_deployed/
+HW2/models/finbert_finetuned/
+HW2/ECT/
